@@ -1,0 +1,205 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCEE012_SeasonFlag02.sortOrder removed in first object
+root.PJSB705_Kongou.B_Hull_1941.deathFoamEffect changed in second object (was sfx/NF_Kongou_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB705_Kongou.A_Hull_1913.deathFoamEffect changed in second object (was sfx/NF_Kongou_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB705_Kongou.C_Hull_1942.deathFoamEffect changed in second object (was sfx/NF_Kongou_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PCEF006_HY_SignalFlag.sortOrder removed in first object
+root.PJEP308_Ishizuchi_1921.sortOrder removed in first object
+root.PCEC006_Tile_Supertest.sortOrder removed in first object
+root.PGEP507_Scharnhorst.sortOrder removed in first object
+root.PJEP409_Mogami_1935.sortOrder removed in first object
+root.PCEE032_Arizona_memorial.sortOrder removed in first object
+root.PREP505_Pr_7_Gnevny.sortOrder removed in first object
+root.PCEE008_Rank20.sortOrder removed in first object
+root.PCEE999_SecretSanta.sortOrder removed in first object
+root.PCEE014_Flag_Supertest.sortOrder removed in first object
+root.PCEF010_JC_SignalFlag.sortOrder removed in first object
+root.PGUA913_B10_ART_TOP.costXP changed in second object (was 0, is 35000)
+root.PGUA913_B10_ART_TOP.costCR changed in second object (was 0, is 2500000)
+root.PCEC013_Camo_MGT.sortOrder removed in first object
+root.PCEF014_NF_SignalFlag.sortOrder removed in first object
+root.PREP509_Pr_48_Kiev.sortOrder removed in first object
+root.PJSB707_Haruna.B_Hull_1941.deathFoamEffect changed in second object (was sfx/NF_Haruna_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB707_Haruna.A_Hull_1913.deathFoamEffect changed in second object (was sfx/NF_Haruna_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB707_Haruna.C_Hull_1942.deathFoamEffect changed in second object (was sfx/NF_Haruna_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PCEC002_Camo_2.sortOrder removed in first object
+root.PAEP445_Marblehead_1924_Asus.sortOrder removed in first object
+root.PREP409_Dmitry_Donskoy.sortOrder removed in first object
+root.PCEF001_Zulu_SignalFlag.sortOrder removed in first object
+root.PAEP509_Black.sortOrder removed in first object
+root.PAEP112_Lexington_1944.sortOrder removed in first object
+root.PJEP311_Mikasa_1905.sortOrder removed in first object
+root.PJEP506_Hatsuharu_1945.sortOrder removed in first object
+root.PGEP402_Emden_1908.sortOrder removed in first object
+root.PAEP312_North_Carolina_1945.sortOrder removed in first object
+root.PCEE037_Veterans_flag.sortOrder removed in first object
+root.PCEF009_JY2_SignalFlag.sortOrder removed in first object
+root.PCEE035_Dunkerque.sortOrder removed in first object
+root.PCEP301_Permo_NY.sortOrder removed in first object
+root.PAEP309_New_York_Scull.sortOrder removed in first object
+root.PCEF007_ID_SignalFlag.sortOrder removed in first object
+root.PJEP507_Fubuki_1944.sortOrder removed in first object
+root.PCEE038_Olympics_flag.flag changed in second object (was olymp, is olimp)
+root.PCEE038_Olympics_flag.sortOrder removed in first object
+root.PCEE017_Flag_Volunteer.sortOrder removed in first object
+root.PJEP321_Izumo_1938.sortOrder removed in first object
+root.PAEP403_Albany_1898.sortOrder removed in first object
+root.PCEE010_Rank1.sortOrder removed in first object
+root.PCEE020_Flag_CBW.sortOrder removed in first object
+root.PREP501_Gremyashchy_1942.sortOrder removed in first object
+root.PCEP103_Permo_Prem_Low_lvl.sortOrder removed in first object
+root.PAEP508_Benson_1945.sortOrder removed in first object
+root.PCEF020_Blue_Dragon_Flag.sortOrder removed in first object
+root.PWEP501_Blyskawica.sortOrder removed in first object
+root.PAEP318_Iowa_1944.sortOrder removed in first object
+root.PZEP506_Anshan.sortOrder removed in first object
+root.PREP410_Diana_1905_Asus.sortOrder removed in first object
+root.PBEP302_Warspite_1941.sortOrder removed in first object
+root.PCEE030_Battle_of_Jutland.sortOrder removed in first object
+root.PAEP306_Arizona.sortOrder removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.sortOrder removed in first object
+root.PAEP444_Marblehead_1924.sortOrder removed in first object
+root.PREP508_Pr_20i_Tashkent.sortOrder removed in first object
+root.PCEE018_Flag_Val_Player.sortOrder removed in first object
+root.PGEP406_Nurnberg.sortOrder removed in first object
+root.PFEP306_Dunkerque_1940.sortOrder removed in first object
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[0] changed in second object (was 9, is 10)
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[1] changed in second object (was 8, is 9)
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[2] removed in first object
+root.PJSA012_Zuikaku_1944.battleLevel.pve[0] changed in second object (was 9, is 10)
+root.PJSA012_Zuikaku_1944.battleLevel.pve[1] changed in second object (was 8, is 9)
+root.PJSA012_Zuikaku_1944.battleLevel.pve[2] removed in first object
+root.PREP407_Schors.sortOrder removed in first object
+root.PCEE013_SeasonFlag03.sortOrder removed in first object
+root.PASA010_Ranger_1944.battleLevel.pvp[0] changed in second object (was 8, is 9)
+root.PASA010_Ranger_1944.battleLevel.pvp[1] changed in second object (was 7, is 8)
+root.PASA010_Ranger_1944.battleLevel.pvp[2] removed in first object
+root.PASA010_Ranger_1944.battleLevel.pve[0] changed in second object (was 8, is 9)
+root.PASA010_Ranger_1944.battleLevel.pve[1] changed in second object (was 7, is 8)
+root.PASA010_Ranger_1944.battleLevel.pve[2] removed in first object
+root.PCEF008_IY_SignalFlag.sortOrder removed in first object
+root.PCEE027_Sea_Lion.sortOrder removed in first object
+root.PJEP418_Tone.sortOrder removed in first object
+root.PCEP115_Permo_Upgr_5_lvl.sortOrder removed in first object
+root.PCEC001_Camo_1.sortOrder removed in first object
+root.PAEP409_Cleveland_1945.sortOrder removed in first object
+root.PCEC004_Camo_XP_Boost.sortOrder removed in first object
+root.PCEE036_Taiwan_Navy.sortOrder removed in first object
+root.PREP405_KrasniKrym.sortOrder removed in first object
+root.PCEF017_VL_SignalFlag.sortOrder removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.sortOrder removed in first object
+root.PCEE025_Military_Month_Contributor_Flag.sortOrder removed in first object
+root.PJEP111_Hiryu_1942.sortOrder removed in first object
+root.PAEP107_Indianapolis.sortOrder removed in first object
+root.PCEF016_NE7_SignalFlag.sortOrder removed in first object
+root.PAEP521_Fletcher_1943.sortOrder removed in first object
+root.PAEP502_Smith.sortOrder removed in first object
+root.PJEP514_Tachibana_1912_Asus.sortOrder removed in first object
+root.PAEP408_Flint.sortOrder removed in first object
+root.PAEP308_New_York_1934.sortOrder removed in first object
+root.PGSB503_Koenig_Albert.group changed in second object (was demoWithoutStats, is special)
+root.PGSB503_Koenig_Albert.ShipUpgradeInfo.costGold changed in second object (was 0, is 2200)
+root.PCEF015_ZH_SignalFlag.sortOrder removed in first object
+root.PCEE011_SeasonFlag01.sortOrder removed in first object
+root.PCEE024_MGT_20.sortOrder removed in first object
+root.PJSA011_Hiryu_1942.battleLevel.pvp[0] changed in second object (was 8, is 9)
+root.PJSA011_Hiryu_1942.battleLevel.pvp[1] changed in second object (was 7, is 8)
+root.PJSA011_Hiryu_1942.battleLevel.pvp[2] removed in first object
+root.PJSA011_Hiryu_1942.battleLevel.pve[0] changed in second object (was 8, is 9)
+root.PJSA011_Hiryu_1942.battleLevel.pve[1] changed in second object (was 7, is 8)
+root.PJSA011_Hiryu_1942.battleLevel.pve[2] removed in first object
+root.PJEP403_Katori.sortOrder removed in first object
+root.PREP406_Molotov.sortOrder removed in first object
+root.PJEP313_Amagi_1942.sortOrder removed in first object
+root.PJEP504_Minekadze_1920.sortOrder removed in first object
+root.PAEP108_Saipan.sortOrder removed in first object
+root.PCEC012_Camo_Basketball_Tile_4.sortOrder removed in first object
+root.PGSB507_Scharnhorst.group changed in second object (was demoWithoutStats, is special)
+root.PCEE029_Songkran.sortOrder removed in first object
+root.PCEE034_Scharnhorst.sortOrder removed in first object
+root.PREP402_Diana_1905.sortOrder removed in first object
+root.PCEE026_Sea_Dog.sortOrder removed in first object
+root.PJSB706_Kirishima.B_Hull_1941.deathFoamEffect changed in second object (was sfx/NF_Kirishima_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB706_Kirishima.A_Hull_1913.deathFoamEffect changed in second object (was sfx/NF_Kirishima_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PJSB706_Kirishima.C_Hull_1942.deathFoamEffect changed in second object (was sfx/NF_Kirishima_foam_post_death.xml, is sfx/NF_Kongo_foam_post_death.xml)
+root.PZEP508_LoYang.sortOrder removed in first object
+root.PJEP426_Iwaki_1944.sortOrder removed in first object
+root.PCEF011_IB3_SignalFlag.sortOrder removed in first object
+root.PGEP303_Koenig_Albert.sortOrder removed in first object
+root.PAEP529_Sims_1941.sortOrder removed in first object
+root.PAEP110_Ranger_1944.sortOrder removed in first object
+root.PCEC008_Camo_Eco_Tile.sortOrder removed in first object
+root.PGEP407_Yorck.sortOrder removed in first object
+root.PCEP119_Permo_Upgr_9_lvl.sortOrder removed in first object
+root.PCEE019_Flag_AT.sortOrder removed in first object
+root.PCEE028_SeasonFlag04.sortOrder removed in first object
+root.PJEP404_Yubari_1944.sortOrder removed in first object
+root.PCEC003_Camo_Halloween.sortOrder removed in first object
+root.PAEP414_New_Orlean_1944.sortOrder removed in first object
+root.PCEF005_SM_SignalFlag.sortOrder removed in first object
+root.PASA012_Lexington_1944.battleLevel.pvp[0] changed in second object (was 9, is 10)
+root.PASA012_Lexington_1944.battleLevel.pvp[1] changed in second object (was 8, is 9)
+root.PASA012_Lexington_1944.battleLevel.pvp[2] removed in first object
+root.PASA012_Lexington_1944.battleLevel.pve[0] changed in second object (was 9, is 10)
+root.PASA012_Lexington_1944.battleLevel.pve[1] changed in second object (was 8, is 9)
+root.PASA012_Lexington_1944.battleLevel.pve[2] removed in first object
+root.PAEP407_Cleveland_1945.sortOrder removed in first object
+root.PASA006_Independence_1945.battleLevel.pvp[0] changed in second object (was 7, is 8)
+root.PASA006_Independence_1945.battleLevel.pvp[1] changed in second object (was 6, is 7)
+root.PASA006_Independence_1945.battleLevel.pvp[2] removed in first object
+root.PASA006_Independence_1945.battleLevel.pve[0] changed in second object (was 7, is 8)
+root.PASA006_Independence_1945.battleLevel.pve[1] changed in second object (was 6, is 7)
+root.PASA006_Independence_1945.battleLevel.pve[2] removed in first object
+root.PJEP408_Myoko_1945.sortOrder removed in first object
+root.PJEP501_Tachibana_1912.sortOrder removed in first object
+root.PCEP107_Permo_Prem_High_lvl.sortOrder removed in first object
+root.PAEP313_Arkansas_1912.sortOrder removed in first object
+root.PCEP117_Permo_Upgr_7_lvl.sortOrder removed in first object
+root.PGEP409_Roon.sortOrder removed in first object
+root.PCEC005_Camo_NY_3.sortOrder removed in first object
+root.PJEP526_Camo_Kamikaze.sortOrder removed in first object
+root.PCEE009_Rank10.sortOrder removed in first object
+root.PJEP525_True_Kamikaze.sortOrder removed in first object
+root.PCEC014_Camo_GNB_May_2016.sortOrder removed in first object
+root.PCEF012_MY6_SignalFlag.sortOrder removed in first object
+root.PBEP503_Campbeltown.sortOrder removed in first object
+root.PGEP408_Hipper.sortOrder removed in first object
+root.PJEP438_Atago_1944.sortOrder removed in first object
+root.PCEC015_Camo_CN_Special.sortOrder removed in first object
+root.PCEC007_Camo_3_Tile_Double.sortOrder removed in first object
+root.PCEE033_Krasnyi_Krim_flag.sortOrder removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.sortOrder removed in first object
+root.PCEE016_Flag_Developer.sortOrder removed in first object
+root.PJSA009_Ryujo_1933.battleLevel.pvp[0] changed in second object (was 7, is 8)
+root.PJSA009_Ryujo_1933.battleLevel.pvp[1] changed in second object (was 6, is 7)
+root.PJSA009_Ryujo_1933.battleLevel.pvp[2] removed in first object
+root.PJSA009_Ryujo_1933.battleLevel.pve[0] changed in second object (was 7, is 8)
+root.PJSA009_Ryujo_1933.battleLevel.pve[1] changed in second object (was 6, is 7)
+root.PJSA009_Ryujo_1933.battleLevel.pve[2] removed in first object
+root.PCEE015_Jolly_Roger_2.sortOrder removed in first object
+root.PCEC010_Camo_Basketball_Tile_2.sortOrder removed in first object
+root.PCEF013_PP_SignalFlag.sortOrder removed in first object
+root.PREP301_Nikolay_I.sortOrder removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.sortOrder removed in first object
+root.PAEP406_Atlanta_1942.sortOrder removed in first object
+root.PCEF018_IX_SignalFlag.sortOrder removed in first object
+root.PCEE022_Flag_WG.sortOrder removed in first object
+root.PREP408_Kutuzov_1952.sortOrder removed in first object
+root.PCEE031_Blue_steel.sortOrder removed in first object
+root.PCEF019_JW1_SignalFlag.sortOrder removed in first object
+root.PCEE023_SeasonFlag00.sortOrder removed in first object
+root.PGUA914_B10_ART_STOCK.costXP changed in second object (was 35000, is 0)
+root.PGUA914_B10_ART_STOCK.costCR changed in second object (was 2500000, is 0)
+root.PREP403_Murmansk_1944.sortOrder removed in first object
+root.PJEP517_Kamikaze_1930.sortOrder removed in first object
+root.PJEP414_Kitakami_1945.sortOrder removed in first object
+root.PAEP305_Texas.sortOrder removed in first object
+root.PGEP302_Tirpiz_1942.sortOrder removed in first object
+root.PCEP118_Permo_Upgr_8_lvl.sortOrder removed in first object
+root.PJEP112_Zuikaku_1944.sortOrder removed in first object
+root.PCEE021_Flag_CBT.sortOrder removed in first object
+root.PAEP307_Texas.sortOrder removed in first object
+root.PREP401_Avrora_1917.sortOrder removed in first object
+>> finished comparing

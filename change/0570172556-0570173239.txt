@@ -1,0 +1,24 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSC503_Katori.groupCustom.CN removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.CN removed in first object
+root.PJSB003_Myogi_1912.C1_356_45.HP_JGM_3.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PZSD506_Anshan.groupCustom.CN removed in first object
+root.PRSB001_Nikolay_I.groupCustom.CN removed in first object
+root.PZSD508_LoYang.groupCustom.CN removed in first object
+root.PRSC002_Diana_1905.groupCustom.CN removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.CN removed in first object
+root.PASC507_Indianapolis_1945.A_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PBSB002_Warspite_1941.groupCustom.CN removed in first object
+root.PASC003_Albany_1898.groupCustom.CN removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.CN removed in first object
+root.PWSD501_Blyskawica.groupCustom.CN removed in first object
+root.PRSC506_Molotov_1943.A_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PASB506_Arizona_1941.A_Hull.rollEffect changed in second object (was 27.0, is 59.0)
+root.PASB506_Arizona_1941.A_Hull.rudderTime changed in second object (was 18.38, is 19.02)
+root.PASB506_Arizona_1941.A_Hull.sideDragCoef changed in second object (was 1600000.0, is 2200000.0)
+root.PASB506_Arizona_1941.A_Hull.rudderPower changed in second object (was 54500000.0, is 50000000.0)
+root.PASB506_Arizona_1941.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 3, is 2.8)
+root.PASB506_Arizona_1941.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 1.4, is 1.2)
+>> finished comparing

@@ -1,0 +1,131 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSB007_Kongo_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB705_Kongou.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRGM095_130MM55_B7CAS.armor.131116 removed in second object
+root.PRGM095_130MM55_B7CAS.armor.65569 removed in first object
+root.PRGM095_130MM55_B7CAS.armor.65635 removed in first object
+root.PJSC709_Haguro.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB034_New_Mexico_1941.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA015_Midway_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC106_Nurnberg.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB707_Haruna.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSB002_Tirpiz_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB008_Colorado_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB013_Amagi_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA015_Taiho_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB708_Hiei_Arpeggio.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC705_Myoko.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC018_Tone.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB018_Iowa_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot1.mods[2] changed in second object (was PCM031_SecondaryWeapon_Mod_I, is PCM032_PowderMagazine_Mod_I)
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot1.mods[3] removed in second object
+root.PJSB010_Nagato_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC707_Flint.ShipModernization.ModernizationSlot2.mods[0] changed in second object (was PCM008_FireControl_Mod_I, is PCM033_Guidance_Mod_I)
+root.PASC707_Flint.ShipModernization.ModernizationSlot2.mods[2] changed in second object (was PCM007_Torpedo_Mod_II, is PCM011_AirDefense_Mod_II)
+root.PASC707_Flint.ShipModernization.ModernizationSlot2.mods[3] removed in second object
+root.PASC707_Flint.ShipModernization.ModernizationSlot1.mods[0] changed in second object (was PCM001_MainGun_Mod_I, is PCM030_MainWeapon_Mod_I)
+root.PASC707_Flint.ShipModernization.ModernizationSlot1.mods[1] changed in second object (was PCM002_Torpedo_Mod_I, is PCM031_SecondaryWeapon_Mod_I)
+root.PASC707_Flint.ShipModernization.ModernizationSlot1.mods[2] changed in second object (was PCM004_AirDefense_Mod_I, is PCM032_PowderMagazine_Mod_I)
+root.PASC707_Flint.A1_Artillery.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PASC707_Flint.ShipUpgradeInfo.costXP changed in second object (was 0, is 1)
+root.PASC707_Flint.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PASC707_Flint.ShipAbilities.AbilitySlot1.abils[2][1] changed in second object (was Default, is C_7)
+root.PASC707_Flint.ShipAbilities.AbilitySlot1.abils[3][1] changed in second object (was Default, is C_7_Premium)
+root.PJSA012_Zuikaku_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA013_Essex_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot1.mods[2] removed in first object
+root.PRGM094_130MM_55_B7.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRGM094_130MM_55_B7.armor.1 removed in first object
+root.PJSC008_Myoko_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC507_Indianapolis_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC109_Roon.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSB503_Koenig_Albert.ShipUpgradeInfo.costXP changed in second object (was 0, is 1)
+root.PGSB503_Koenig_Albert.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PJSC707_Ashigara.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA011_Hiryu_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC107_Schors.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB705_Texas_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB706_Kirishima.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB006_New_York_1934.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC007_Aoba_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PCM019_SecondaryGun_Mod_III.GSShotDelay changed in second object (was 0.75, is 0.8)
+root.PCM019_SecondaryGun_Mod_III.GSMaxDist changed in second object (was 1.2, is 1.0)
+root.PCM019_SecondaryGun_Mod_III.GSIdealRadius changed in second object (was 0.85, is 1.0)
+root.PJSB021_Izumo_1938.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB006_Fuso_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC106_Pr_94_Budeny.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA012_Lexington_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA017_Hakuryu_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC007_Cleveland_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB013_Arkansas_1912.ShipModernization.ModernizationSlot2.mods[2] removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.armor.131116 removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.armor.65569 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.armor.65635 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.armor.1 removed in first object
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.armor.65635 changed in second object (was 25.0, is 0.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.armor.1 removed in first object
+root.PGSC107_Yorck.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC506_Molotov_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB017_Montana_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB506_Arizona_1941.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC012_Pensacola_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD709_Black.ShipModernization.ModernizationSlot2.mods[0] changed in second object (was PCM008_FireControl_Mod_I, is PCM033_Guidance_Mod_I)
+root.PASD709_Black.ShipModernization.ModernizationSlot2.mods[2] changed in second object (was PCM007_Torpedo_Mod_II, is PCM011_AirDefense_Mod_II)
+root.PASD709_Black.ShipModernization.ModernizationSlot2.mods[3] removed in second object
+root.PASD709_Black.ShipModernization.ModernizationSlot1.mods[0] changed in second object (was PCM001_MainGun_Mod_I, is PCM030_MainWeapon_Mod_I)
+root.PASD709_Black.ShipModernization.ModernizationSlot1.mods[1] changed in second object (was PCM002_Torpedo_Mod_I, is PCM031_SecondaryWeapon_Mod_I)
+root.PASD709_Black.ShipModernization.ModernizationSlot1.mods[2] changed in second object (was PCM004_AirDefense_Mod_I, is PCM032_PowderMagazine_Mod_I)
+root.PASD709_Black.A1_Artillery.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PASD709_Black.ShipUpgradeInfo.costXP changed in second object (was 0, is 1)
+root.PASD709_Black.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB018_Yamato_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+>> finished comparing

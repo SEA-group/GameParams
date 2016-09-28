@@ -1,0 +1,75 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCY020_RLSSearchPremium.USSR_7_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.USSR_9_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.USSR_6_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.Default.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY020_RLSSearchPremium.USSR_8_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.US_10_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.US_7_ATLANTA_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.US_8_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.USSR_10_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.US_9_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PCY020_RLSSearchPremium.US_7_INDIANAPOLIS_PREMIUM.reloadTime changed in second object (was 240.0, is 120.0)
+root.PAAF014_Curtiss_TS1_float.aaAmmoAmount changed in second object (was 59.1, is 79.3)
+root.PAAF014_Curtiss_TS1_float.patrolAttackDist removed in second object
+root.PAAF014_Curtiss_TS1_float.patrolChaseDist removed in second object
+root.PAAF004_Vought_VE7.aaAmmoAmount changed in second object (was 60.5, is 80.5)
+root.PAAF004_Vought_VE7.patrolAttackDist removed in second object
+root.PAAF004_Vought_VE7.patrolChaseDist removed in second object
+root.PAAF001_Grumman_F3F.aaAmmoAmount changed in second object (was 118.1, is 157.1)
+root.PAAF005_Loening_M8.aaAmmoAmount changed in second object (was 60.5, is 80.5)
+root.PAAF005_Loening_M8.patrolAttackDist removed in second object
+root.PAAF005_Loening_M8.patrolChaseDist removed in second object
+root.PAAF003_Boeing_XF7B.aaAmmoAmount changed in second object (was 60.5, is 80.5)
+root.PGSB002_Tirpiz_1942.HullDefault.armor.65600 changed in second object (was 50.0, is 80.0)
+root.PAAF002_Grumman_F6F.aaAmmoAmount changed in second object (was 54.0, is 71.9)
+root.PAAF006_Loening_M8_float.aaAmmoAmount changed in second object (was 60.5, is 80.5)
+root.PAAF006_Loening_M8_float.patrolAttackDist removed in second object
+root.PAAF006_Loening_M8_float.patrolChaseDist removed in second object
+root.PAAF028_Grumman_F6F_3.aaAmmoAmount changed in second object (was 65.3, is 86.9)
+root.PBSC104_Danae.A_Hull.HP_BD_3 removed in first object
+root.PBSC104_Danae.A_Hull.HP_BD_2 removed in first object
+root.PBSC104_Danae.B_Hull.HP_BGA_6 removed in first object
+root.PBSC104_Danae.B_Hull.HP_BGA_5 removed in first object
+root.PAAF512_Vought_F4U_S.aaAmmoAmount changed in second object (was 40.7, is 54.1)
+root.PAAF008_F2A.aaAmmoAmount changed in second object (was 114.4, is 152.2)
+root.PAAF013_Curtiss_F6C_1.aaAmmoAmount changed in second object (was 170.3, is 226.5)
+root.PAAF029_Vought_F4U_1A.aaAmmoAmount changed in second object (was 46.1, is 61.3)
+root.PAAF009_Grumman_F4F.aaAmmoAmount changed in second object (was 114.4, is 152.2)
+root.PAAF030_F4F_4.aaAmmoAmount changed in second object (was 83.2, is 110.6)
+root.PAAF018_Grumman_F4F_5.aaAmmoAmount changed in second object (was 180.0, is 71.9)
+root.PAAF031_FM_2.aaAmmoAmount changed in second object (was 85.3, is 113.5)
+root.PAAF015_Curtiss_F6C_float.aaAmmoAmount changed in second object (was 59.1, is 79.3)
+root.PAAF015_Curtiss_F6C_float.patrolAttackDist removed in second object
+root.PAAF015_Curtiss_F6C_float.patrolChaseDist removed in second object
+root.PAAF010_F8F_Bearcat.aaAmmoAmount changed in second object (was 36.3, is 48.3)
+root.PAAF017_Boeing_F4B.aaAmmoAmount changed in second object (was 170.3, is 226.5)
+root.PCY019_RLSSearch.Default.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.USSR_10.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.US_9.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.US_8.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.USSR_8.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.USSR_9.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.US_7_INDIANAPOLIS.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.US_10.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.US_7_ATLANTA.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.USSR_6.reloadTime changed in second object (was 360.0, is 180.0)
+root.PCY019_RLSSearch.USSR_7.reloadTime changed in second object (was 360.0, is 180.0)
+root.PBSC105_Emerald.AB_AirArmament.HP_BC_1.angle changed in second object (was 90.0, is 82.0)
+root.PAAF016_McDonnell_F2H.aaAmmoAmount changed in second object (was 36.3, is 48.4)
+root.PAAF007_Grumman_FF1.aaAmmoAmount changed in second object (was 60.5, is 80.5)
+root.PAAF007_Grumman_FF1.patrolAttackDist removed in second object
+root.PAAF007_Grumman_FF1.patrolChaseDist removed in second object
+root.PAAF011_Curtiss_TS1.aaAmmoAmount changed in second object (was 170.3, is 226.5)
+root.PAAF012_Vought_F4U.aaAmmoAmount changed in second object (was 40.7, is 54.1)
+root.PCEE042_Birthday_flag removed in first object
+root.PCEE041_Player_Gathering removed in first object
+root.PCEE046_Pirate_Day_flag removed in first object
+root.PCEE043_Restless_Fire removed in first object
+root.PCEE044_Prinz_Eugen removed in first object
+root.PCEE040_Burning_Man removed in first object
+root.PCEC018_Restless_Fire removed in first object
+root.PCEE045_Yokosuka_Marine_School removed in first object
+>> finished comparing

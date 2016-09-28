@@ -1,0 +1,289 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSC102_Weymouth.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PRSC505_KrasniKrym.groupCustom.EU changed in second object (was special, is premium)
+root.PASA002_Bogue_1942.A_Hull.maxRepairCost changed in second object (was 13000, is 12000)
+root.PASA002_Bogue_1942.B_Hull.maxRepairCost changed in second object (was 13000, is 12000)
+root.PBSC109_Neptune.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBGM021_6in50_MK_XXI.armor.196705 removed in first object
+root.PAAF001_Grumman_F3F.costCR changed in second object (was 320, is 220)
+root.PJSC503_Katori.groupCustom.CN changed in second object (was special, is premium)
+root.PASA015_Midway_1945.HullDefault.fuelFee changed in second object (was 100000, is 90000)
+root.PASA015_Midway_1945.HullDefault.maxRepairCost changed in second object (was 260000, is 140000)
+root.PJSB011_Mikasa_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PJSB011_Mikasa_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.EU changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.NA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.CN changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.RU changed in second object (was special, is premium)
+root.PAAF002_Grumman_F6F.costCR changed in second object (was 800, is 550)
+root.PJSA015_Taiho_1944.A_Hull_1944.fuelFee changed in second object (was 70000, is 60000)
+root.PJSA015_Taiho_1944.A_Hull_1944.maxRepairCost changed in second object (was 165000, is 82000)
+root.PJSA015_Taiho_1944.B_Hull_1945.fuelFee changed in second object (was 70000, is 60000)
+root.PJSA015_Taiho_1944.B_Hull_1945.maxRepairCost changed in second object (was 165000, is 82000)
+root.PJSC038_Atago_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.RU changed in second object (was special, is premium)
+root.PASD502_Smith.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD026_Camo_Kamikaze.TorpedoesDefault.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD026_Camo_Kamikaze.TorpedoesDefault.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD026_Camo_Kamikaze.TorpedoesDefault.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PAAD004_Douglas_SBD2.costCR changed in second object (was 800, is 220)
+root.PBSC104_Danae.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSA002_Hosho_1939.B_Hull_1939.fuelFee changed in second object (was 500, is 2000)
+root.PJSA002_Hosho_1939.C_Hull_1941.fuelFee changed in second object (was 500, is 2000)
+root.PJAB004_Yokosuka_B4Y.costCR changed in second object (was 320, is 220)
+root.PZSD506_Anshan.groupCustom.CN changed in second object (was special, is premium)
+root.PRSB001_Nikolay_I.groupCustom.CN changed in second object (was special, is premium)
+root.PBSC101_Black_Swan.group changed in second object (was demoWithoutStats, is start)
+root.PBSC507_Belfast_1959.group changed in second object (was demoWithoutStats, is special)
+root.PJSD017_Kamikaze_1930.TorpedoesDefault.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD017_Kamikaze_1930.TorpedoesDefault.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD017_Kamikaze_1930.TorpedoesDefault.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PZSD508_LoYang.groupCustom.CN changed in second object (was special, is premium)
+root.PASC707_Flint.A_Directors.HP_AD_3.miscFilter[1] removed in first object
+root.PASC707_Flint.A_Directors.HP_AD_8.miscFilter[1] removed in first object
+root.PRSD507_Leningrad_1944.group changed in second object (was demoWithoutStats, is special)
+root.PAAB002_Grumman_TBF.costCR changed in second object (was 800, is 550)
+root.PAAF009_Grumman_F4F.costCR changed in second object (was 550, is 220)
+root.PJSA012_Zuikaku_1944.A_Hull_1941.maxRepairCost changed in second object (was 100000, is 70000)
+root.PJSA012_Zuikaku_1944.B_Hull_1943.maxRepairCost changed in second object (was 100000, is 70000)
+root.PJSA012_Zuikaku_1944.C_Hull_1944.maxRepairCost changed in second object (was 100000, is 70000)
+root.PASD029_Sims_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PASD029_Sims_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSC110_Minotaur.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PRSC002_Diana_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.RU changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PASA013_Essex_1945.A_Hull_1943.fuelFee changed in second object (was 70000, is 60000)
+root.PASA013_Essex_1945.A_Hull_1943.maxRepairCost changed in second object (was 165000, is 82000)
+root.PASA013_Essex_1945.B_Hull_1945.fuelFee changed in second object (was 70000, is 60000)
+root.PASA013_Essex_1945.B_Hull_1945.maxRepairCost changed in second object (was 165000, is 82000)
+root.PASA010_Ranger_1944.A_Hull_1941.maxRepairCost changed in second object (was 53000, is 42000)
+root.PASA010_Ranger_1944.B_Hull_1943.maxRepairCost changed in second object (was 53000, is 42000)
+root.PBSD503_Campbeltown_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PASC507_Indianapolis_1945.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.RU changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSD025_True_Kamikaze.TorpedoesDefault.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD025_True_Kamikaze.TorpedoesDefault.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PJSD025_True_Kamikaze.TorpedoesDefault.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT025_533MM_KAMIKAZE)
+root.PRSC001_Avrora_1917.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.RU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.EU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.RU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.CN changed in second object (was special, is premium)
+root.PJAF006_Mitsubishi_A7M1.costCR changed in second object (was 800, is 1200)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_1.shotDelay changed in second object (was 7.0, is 5.71)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_2.shotDelay changed in second object (was 7.0, is 5.71)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_3.shotDelay changed in second object (was 7.0, is 5.71)
+root.PGSB503_Koenig_Albert.groupCustom.NA changed in second object (was special, is premium)
+root.PAAF010_F8F_Bearcat.costCR changed in second object (was 1200, is 1700)
+root.PBSB002_Warspite_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PJSA011_Hiryu_1942.B_Hull_1942.maxRepairCost changed in second object (was 53000, is 42000)
+root.PJSA011_Hiryu_1942.C_Hull_1945.maxRepairCost changed in second object (was 53000, is 42000)
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[0] changed in second object (was MP_GM026_Gun_Deck_1, is MP_GM025_Cooling_tube)
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[1] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[2] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[3] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[4] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_3.miscFilter[5] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[0] changed in second object (was MP_GM026_Gun_Deck_1, is MP_GM025_Cooling_tube)
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[1] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[2] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[3] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[4] removed in first object
+root.PGSB107_Gneisenau.AB1_Artillery.HP_GGM_2.miscFilter[5] removed in first object
+root.PGSB107_Gneisenau.A_ATBA.HP_GGS_1.miscFilter[0] removed in first object
+root.PGSB107_Gneisenau.A_ATBA.HP_GGS_2.miscFilter[0] removed in first object
+root.PGSB107_Gneisenau.A_ATBA.HP_GGS_14.miscFilter[0] removed in first object
+root.PGSB107_Gneisenau.A_ATBA.HP_GGS_13.miscFilter[0] removed in first object
+root.PGSB107_Gneisenau.A_AirDefense.AuraNear.guns[17] changed in second object (was HP_GGM_2_HP_GGA_1, is HP_GGS_1_HP_GGA_1)
+root.PGSB107_Gneisenau.A_AirDefense.AuraNear.guns[18] changed in second object (was HP_GGM_3_HP_GGA_1, is HP_GGS_2_HP_GGA_1)
+root.PGSB107_Gneisenau.A_AirDefense.AuraNear.guns[19] removed in first object
+root.PGSB107_Gneisenau.A_AirDefense.AuraNear.guns[20] removed in first object
+root.PGSB107_Gneisenau.A_AirDefense.HP_GGS_1_HP_GGA_1 removed in first object
+root.PGSB107_Gneisenau.A_AirDefense.HP_GGS_2_HP_GGA_1 removed in first object
+root.PBSC108_Edinburgh.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB507_Scharnhorst.A_Hull.HP_GGM_3_HP_GGA_1 removed in first object
+root.PGSB507_Scharnhorst.A_Hull.HP_GGM_2_HP_GGA_1 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.miscFilter[0] changed in second object (was MP_GM026_Gun_Deck_1, is MP_GM453_GGM058_Rangefinder)
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.miscFilter[1] removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.miscFilter[0] changed in second object (was MP_GM026_Gun_Deck_1, is MP_GM453_GGM058_Rangefinder)
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.miscFilter[1] removed in second object
+root.PGSB507_Scharnhorst.A_ATBA.HP_GGS_1.miscFilter[0] changed in second object (was MP_GM450_GGS001_Misc_1, is MP_GM037_Gun_Deck_2)
+root.PGSB507_Scharnhorst.A_ATBA.HP_GGS_2.miscFilter[0] changed in second object (was MP_GM450_GGS001_Misc_1, is MP_GM037_Gun_Deck_2)
+root.PGSB507_Scharnhorst.A_AirDefense.HP_GGM_3_HP_GGA_1 removed in second object
+root.PGSB507_Scharnhorst.A_AirDefense.HP_GGM_2_HP_GGA_1 removed in second object
+root.PGSB507_Scharnhorst.A_AirDefense.AuraNear.guns[13] changed in second object (was HP_GGM_2_HP_GGA_1, is HP_GGS_1_HP_GGA_1)
+root.PGSB507_Scharnhorst.A_AirDefense.AuraNear.guns[14] changed in second object (was HP_GGM_3_HP_GGA_1, is HP_GGS_2_HP_GGA_1)
+root.PGSB507_Scharnhorst.A_AirDefense.HP_GGS_1_HP_GGA_1 removed in first object
+root.PGSB507_Scharnhorst.A_AirDefense.HP_GGS_2_HP_GGA_1 removed in first object
+root.PAAF017_Boeing_F4B.costCR changed in second object (was 220, is 150)
+root.PASA004_Langley_1929.B_Hull_1944.fuelFee changed in second object (was 500, is 2000)
+root.PASA004_Langley_1929.A_Hull_1929.fuelFee changed in second object (was 500, is 2000)
+root.PASC003_Albany_1898.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_1.miscFilter[0] removed in first object
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_10.miscFilter[0] removed in first object
+root.PRSC103_Bogatyr.B1_Artillery.HP_RGM_1.miscFilter[0] removed in first object
+root.PRSC103_Bogatyr.B1_Artillery.HP_RGM_14.miscFilter[0] removed in first object
+root.PBSC103_Caledon.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASA012_Lexington_1944.B_Hull_1944.maxRepairCost changed in second object (was 100000, is 70000)
+root.PASA012_Lexington_1944.A_Hull_1942.maxRepairCost changed in second object (was 100000, is 70000)
+root.PASA006_Independence_1945.A_Hull_1944.maxRepairCost changed in second object (was 30000, is 29000)
+root.PASA006_Independence_1945.B_Hull_1945.maxRepairCost changed in second object (was 30000, is 29000)
+root.PJSA017_Hakuryu_1942.HullDefault.fuelFee changed in second object (was 100000, is 90000)
+root.PJSA017_Hakuryu_1942.HullDefault.maxRepairCost changed in second object (was 260000, is 140000)
+root.PASA507_Saipan_1946.groupCustom.EU changed in second object (was special, is premium)
+root.PASA507_Saipan_1946.groupCustom.NA changed in second object (was special, is premium)
+root.PBSC105_Emerald.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSC502_Emden_1908.groupCustom.EU changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.NA changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.RU changed in second object (was special, is premium)
+root.PBSC107_Fiji.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC107_Fiji.A_Radars.HP_BRS_2 removed in first object
+root.PASB705_Texas_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.EU changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.NA changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.CN changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.RU changed in second object (was special, is premium)
+root.PAAD001_Curtiss_SB2C.costCR changed in second object (was 1200, is 800)
+root.PJSA009_Ryujo_1933.A_Hull.maxRepairCost changed in second object (was 30000, is 29000)
+root.PJSA009_Ryujo_1933.C_Hull.maxRepairCost changed in second object (was 30000, is 29000)
+root.PJSA009_Ryujo_1933.B_Hull.maxRepairCost changed in second object (was 30000, is 29000)
+root.PJSB008_Ishizuchi_1921.groupCustom.EU changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.NA changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.RU changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.EU changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.RU changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.CN changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJAF001_A6M2.costCR changed in second object (was 550, is 320)
+root.PASC006_Atlanta_1942.groupCustom.EU changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.NA changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.CN changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.ASIA changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.RU changed in second object (was special, is premium)
+root.PJSA006_Zuiho_1944.A_Hull_1940.maxRepairCost changed in second object (was 13000, is 12000)
+root.PJSA006_Zuiho_1944.B_Hull_1942.maxRepairCost changed in second object (was 13000, is 12000)
+root.PJSA006_Zuiho_1944.C_Hull_1944.maxRepairCost changed in second object (was 13000, is 12000)
+root.PRSC506_Molotov_1943.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.RU changed in second object (was special, is premium)
+root.PAAD007_Martin_BM2.costCR changed in second object (was 220, is 150)
+root.PASB506_Arizona_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PAAF012_Vought_F4U.costCR changed in second object (was 800, is 1200)
+root.PJAF009_Kawanishi_N1K5_A.costCR changed in second object (was 1200, is 800)
+root.PBSC106_Leander.A1_Artillery.HP_BGM_2.armor.196705 removed in first object
+root.PBSC106_Leander.A1_Artillery.HP_BGM_3.armor.196705 removed in first object
+root.PBSC106_Leander.A1_Artillery.HP_BGM_1.armor.196705 removed in first object
+root.PBSC106_Leander.A1_Artillery.HP_BGM_4.armor.196705 removed in first object
+root.PBSC106_Leander.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC106_Leander.B1_Artillery.HP_BGM_2.armor.196705 removed in first object
+root.PBSC106_Leander.B1_Artillery.HP_BGM_3.armor.196705 removed in first object
+root.PBSC106_Leander.B1_Artillery.HP_BGM_1.armor.196705 removed in first object
+root.PBSC106_Leander.B1_Artillery.HP_BGM_4.armor.196705 removed in first object
+root.PGSB105_Koenig.A_Finders.HP_GF_2.miscFilter[1] removed in first object
+root.PJF055_Rangefinder_1_5m removed in first object
+root.PJUS804_D8_SUO_TOP_2 removed in first object
+root.PJUT811_D9_TORP_STOCK_2 removed in first object
+root.PJPT025_533MM_KAMIKAZE removed in first object
+root.PJUE842_D9_ENG_STOCK_2 removed in first object
+root.PJUH642_D7_HULL_TOP_2 removed in first object
+root.PJUA543_D6_ART_STOCK_2 removed in first object
+root.PJUS806_D8_SUO_TOP removed in first object
+root.PJUS404_D5_SUO_TOP_2 removed in first object
+root.PJUA642_D7_ART_STOCK_2 removed in first object
+root.PJUS403_D5_SUO_STOCK_2 removed in first object
+root.PJSD207_Shiratsuyu removed in first object
+root.PJSD507_Fubuki removed in first object
+root.PJUS803_D8_SUO_STOCK_2 removed in first object
+root.PJUT707_D8_TORP_TOP_2 removed in first object
+root.PJUT812_D9_TORP_TOP_2 removed in first object
+root.PJSD510_Kagero removed in first object
+root.PJGM151_127mm50_Type_C removed in first object
+root.PUW001_DefaultCrew removed in first object
+root.PUPA001_152MM_HE_PERTH removed in first object
+root.PJUE532_D6_ENG_STOCK_2 removed in first object
+root.PUUS501_SUO_PERTH removed in first object
+root.PJUE405_D5_ENG_STOCK_2 removed in first object
+root.PJUS632_D7_SUO_TOP_2 removed in first object
+root.PJUS633_D7_SUO_STOCK removed in first object
+root.PUUT501_PERTH removed in first object
+root.PJUT506_D6_TORP_TOP_2 removed in first object
+root.PJUH641_D7_HULL_STOCK_2 removed in first object
+root.PJD092_Director_Type_94 removed in first object
+root.PJSD503_Isokaze removed in first object
+root.PUUH501_PERTH removed in first object
+root.PJGM152_127mm50_Type_B removed in first object
+root.PJUS505_D6_SUO_STOCK removed in first object
+root.PJUS842_D9_SUO_TOP_2 removed in first object
+root.PJGM055_100mm65_Type98 removed in first object
+root.PUUE501_C6_ENG_PERTH removed in first object
+root.PJSD505_Mutsuki removed in first object
+root.PJUH841_D9_HULL_STOCK_2 removed in first object
+root.PUUA501_C6_ART_PERTH removed in first object
+root.PUPA002_152MM_AP_PERTH removed in first object
+root.PJUS503_D6_SUO_STOCK_2 removed in first object
+root.PJUS841_D9_SUO_STOCK_2 removed in first object
+root.PJUT621_D7_TORP_STOCK_2 removed in first object
+root.PJUH643_D7_HULL_STOCK removed in first object
+root.PJPA063_100MM_AP_C_TYPE_98_MG removed in first object
+root.PJUE704_D8_ENG_STOCK_2 removed in first object
+root.PJSD107_Akatsuki removed in first object
+root.PJUA404_D5_ART_STOCK_2 removed in first object
+root.PJF043_Rangefinder_66cm removed in first object
+root.PJSD506_Hatsuharu removed in first object
+root.PJUE652_D7_ENG_STOCK_2 removed in first object
+root.PJUS634_D7_SUO_TOP removed in first object
+root.PJSD504_Minekaze removed in first object
+root.PJSD108_Akizuki removed in first object
+root.PBD017_HACS_MK_II removed in first object
+root.PJUT405_D5_TORP_STOCK_2 removed in first object
+root.PJRS064_Radar_E27_fixed removed in first object
+root.PUPT001_533_MKIX_PERTH removed in first object
+root.PJGM148_127mm50_Type_B removed in first object
+root.PJUT706_D8_TORP_STOCK_2 removed in first object
+root.PJUT505_D6_TORP_STOCK_2 removed in first object
+root.PJUS631_D7_SUO_STOCK_2 removed in first object
+root.PJUS805_D8_SUO_STOCK removed in first object
+root.PJPA064_100MM_HE_C_TYPE_98_MG removed in first object
+root.PJUA405_D5_ART_TOP_2 removed in first object
+root.PJGT149_610mm3_Type_93 removed in first object
+root.PUSC506_Perth_1942 removed in first object
+root.PJUH704_D8_HULL_STOCK_2 removed in first object
+root.PJUH705_D8_HULL_TOP_2 removed in first object
+root.PJSD209_Yugumo removed in first object
+root.PJUT622_D7_TORP_TOP_2 removed in first object
+root.PJUH842_D9_HULL_TOP_2 removed in first object
+root.PJPA065_120MM_HE_KAM removed in first object
+root.PJUA703_D8_ART_STOCK_2 removed in first object
+root.PJUH644_D7_HULL_TOP removed in first object
+root.PJUA832_D9_ART_STOCK_2 removed in first object
+root.PJUS506_D6_SUO_TOP removed in first object
+root.PJUS504_D6_SUO_TOP_2 removed in first object
+>> finished comparing

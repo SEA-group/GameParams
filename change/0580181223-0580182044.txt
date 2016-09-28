@@ -1,0 +1,155 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRGM095_130MM55_B7CAS.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRGM095_130MM55_B7CAS.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot1.mods[2] removed in second object
+root.PRGM094_130MM_55_B7.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRGM094_130MM_55_B7.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PASC507_Indianapolis_1945.groupCustom.EU removed in first object
+root.PCBX001.airDefense.HP_CGA_4.antiAirAuraStrength changed in second object (was 0.7, is 0.77)
+root.PCBX001.airDefense.HP_CGA_3.antiAirAuraStrength changed in second object (was 0.7, is 0.77)
+root.PCBX001.airDefense.HP_CGA_1.antiAirAuraStrength changed in second object (was 0.7, is 0.77)
+root.PCBX001.airDefense.HP_CGA_2.antiAirAuraStrength changed in second object (was 0.7, is 0.77)
+root.PCBX001.hull.health changed in second object (was 210000.0, is 300000.0)
+root.PCBX001.hull.healthRestorationRate changed in second object (was 1400, is 2000)
+root.PCBX001.artillery.maxDist changed in second object (was 12000.0, is 13000.0)
+root.PCBX001.artillery.HP_CGM_3.idealRadius changed in second object (was 14, is 12.0)
+root.PCBX001.artillery.HP_CGM_3.minRadius changed in second object (was 4, is 2.0)
+root.PCBX001.artillery.HP_CGM_2.idealRadius changed in second object (was 14, is 12.0)
+root.PCBX001.artillery.HP_CGM_2.minRadius changed in second object (was 4, is 2.0)
+root.PCBX001.artillery.HP_CGM_1.idealRadius changed in second object (was 14, is 12.0)
+root.PCBX001.artillery.HP_CGM_1.minRadius changed in second object (was 4, is 2.0)
+root.PCBX003.artillery.HP_CGM_3.minRadius changed in second object (was 4, is 2.0)
+root.PCBX003.artillery.HP_CGM_2.minRadius changed in second object (was 4, is 2.0)
+root.PCBX003.artillery.HP_CGM_1.minRadius changed in second object (was 4, is 2.0)
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_3.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_7.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_6.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_5.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_4.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_2.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_1.armor.1 removed in first object
+root.PGSC104_Karlsruhe.A1_Artillery.HP_GGM_8.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_3.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_7.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_6.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_5.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_4.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_2.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_1.armor.1 removed in first object
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_8.armor.1 removed in first object
+root.PJSC707_Ashigara.ArtilleryDefault.HP_JGM_2.armor.1 removed in second object
+root.PJSC707_Ashigara.ArtilleryDefault.HP_JGM_4.armor.1 removed in second object
+root.PASB705_Texas_1944.groupCustom.EU removed in first object
+root.PGGM047_150mm_SK_L45.armor.1 removed in first object
+root.PRPA044_130_HE_KK.burnProb changed in second object (was 0.09, is 0.08)
+root.PRSC505_KrasniKrym.A1_Artillery.sigmaCount changed in second object (was 2.0, is 2.1)
+root.PRSC505_KrasniKrym.A1_Artillery.maxDist changed in second object (was 17510.0, is 13510.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.shotDelay changed in second object (was 10.0, is 9.2)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.rotationSpeed[0] changed in second object (was 7.0, is 8.0)
+root.PRSC505_KrasniKrym.group changed in second object (was demoWithoutStats, is special)
+root.PRSC505_KrasniKrym.A_Engine.HitLocationEngine.armorCoeff changed in second object (was 0.4, is 0.2)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.index changed in second object (was PRGA023, is PRGA030)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.name changed in second object (was PRGA023_21K_45mm, is PRGA030_70K_37mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.antiAirAuraDistance changed in second object (was 83.0, is 107.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.antiAirAuraStrength changed in second object (was 0.02, is 0.057)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.HitLocationAirDefense.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.barrelDiameter changed in second object (was 0.045, is 0.037)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.id changed in second object (was 4270843344, is 4263503312)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_7 removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.index changed in second object (was PRGA023, is PRGA030)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.name changed in second object (was PRGA023_21K_45mm, is PRGA030_70K_37mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.antiAirAuraDistance changed in second object (was 83.0, is 107.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.antiAirAuraStrength changed in second object (was 0.02, is 0.057)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.HitLocationAirDefense.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.barrelDiameter changed in second object (was 0.045, is 0.037)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.id changed in second object (was 4270843344, is 4263503312)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_8 removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.index changed in second object (was PRGA030, is PRGA081)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.name changed in second object (was PRGA030_70K_37mm, is PRGA081_12mm62_HI)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.antiAirAuraDistance changed in second object (was 107.0, is 40.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.antiAirAuraStrength changed in second object (was 0.057, is 0.021)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.numBarrels changed in second object (was 1, is 4)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.HitLocationAirDefense.armorCoeff changed in second object (was 0.8, is 1.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.barrelDiameter changed in second object (was 0.037, is 0.0127)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model, is content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.id changed in second object (was 4263503312, is 4210025936)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.index changed in second object (was PRGA030, is PRGA081)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.name changed in second object (was PRGA030_70K_37mm, is PRGA081_12mm62_HI)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.antiAirAuraDistance changed in second object (was 107.0, is 40.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.antiAirAuraStrength changed in second object (was 0.057, is 0.021)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.numBarrels changed in second object (was 1, is 4)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.HitLocationAirDefense.armorCoeff changed in second object (was 0.8, is 1.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.barrelDiameter changed in second object (was 0.037, is 0.0127)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model, is content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.id changed in second object (was 4263503312, is 4210025936)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_11 removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium1 removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_18 removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[4] changed in second object (was HP_RGA_11, is HP_RGA_12)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[5] changed in second object (was HP_RGA_12, is HP_RGA_13)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[6] changed in second object (was HP_RGA_13, is HP_RGA_19)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[7] changed in second object (was HP_RGA_16, is HP_RGA_20)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[8] changed in second object (was HP_RGA_17, is HP_RGA_5)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[9] changed in second object (was HP_RGA_18, is HP_RGA_6)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[10] removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[11] removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraNear.guns[4] removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraNear.guns[5] removed in first object
+root.PGSC107_Yorck.ABC1_Artillery.HP_GGM_3.armor.1 removed in first object
+root.PGSC107_Yorck.ABC1_Artillery.HP_GGM_2.armor.1 removed in first object
+root.PRSC506_Molotov_1943.groupCustom.EU removed in first object
+root.PASB506_Arizona_1941.A1_Artillery.sigmaCount changed in second object (was 2.0, is 1.8)
+root.PCEE032_Arizona_memorial removed in first object
+root.PJSC717_Yellow_Dragon removed in first object
+root.PJUA595_203_50_BLUE_DRAGON removed in first object
+root.PJUS795_SUO_BLUE_DRAGON removed in first object
+root.PJUE796_ENG_BLUE_DRAGON removed in first object
+root.PJPA708_Shell_203mm_AP_AP_Type_91 removed in first object
+root.PJUT698_610_BLUE_DRAGON removed in first object
+root.PJUH798_YELLOW_DRAGON removed in first object
+root.PJSC727_Blue_Dragon removed in first object
+root.PJUE795_ENG_YELLOW_DRAGON removed in first object
+root.PJUA594_203_50_YELLOW_DRAGON removed in first object
+root.PJPA709_Shell_203mm_HE_C_Type_0 removed in first object
+root.PJUS794_SUO_YELLOW_DRAGON removed in first object
+root.PJPT718_610mm_Type90_mod_1 removed in first object
+root.PJUH799_BLUE_DRAGON removed in first object
+root.PJUT697_610_YELLOW_DRAGON removed in first object
+root.PCEE033_Krasnyi_Krim_flag removed in first object
+>> finished comparing

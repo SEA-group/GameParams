@@ -1,0 +1,141 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGPA053_420MM_HE_HE_L_4_6.bulletAirDrag changed in second object (was 0.25, is 0.2994)
+root.PGPA053_420MM_HE_HE_L_4_6.bulletSpeed changed in second object (was 775.0, is 800.0)
+root.PGPA053_420MM_HE_HE_L_4_6.bulletMass changed in second object (was 1280.0, is 1220.0)
+root.PJSC503_Katori.groupCustom.CN changed in second object (was premium, is special)
+root.PJSB011_Mikasa_1905.groupCustom.EU changed in second object (was premium, is special)
+root.PJSB011_Mikasa_1905.groupCustom.CN changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.group changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.NA removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.CN removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.RU removed in second object
+root.PGSB110_Grossdeutschland.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB110_Grossdeutschland.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PGSB110_Grossdeutschland.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PGSB110_Grossdeutschland.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB110_Grossdeutschland.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PJSC038_Atago_1944.group changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.EU removed in second object
+root.PJSC038_Atago_1944.groupCustom.NA removed in second object
+root.PJSC038_Atago_1944.groupCustom.ASIA removed in second object
+root.PJSC038_Atago_1944.groupCustom.RU removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.RU changed in second object (was premium, is special)
+root.PZSD506_Anshan.groupCustom.CN changed in second object (was premium, is special)
+root.PRSB001_Nikolay_I.groupCustom.CN changed in second object (was premium, is special)
+root.PZSD508_LoYang.groupCustom.CN changed in second object (was premium, is special)
+root.PGSB106_Bayern.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB106_Bayern.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB106_Bayern.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PGSB109_Friedrich_der_Grosse.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB109_Friedrich_der_Grosse.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PGSB109_Friedrich_der_Grosse.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PGSB109_Friedrich_der_Grosse.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB109_Friedrich_der_Grosse.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PASD029_Sims_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.CN changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.RU changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.EU changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.NA changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.RU changed in second object (was premium, is special)
+root.PASC507_Indianapolis_1945.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC003_Murmansk_1944.group changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.group changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.EU changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.RU changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.CN changed in second object (was premium, is special)
+root.PCY010_RegenCrewPremium.B_Deutsche_gold removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.NA changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.ASIA changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.RU changed in second object (was premium, is special)
+root.PGSB107_Gneisenau.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB107_Gneisenau.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB107_Gneisenau.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PGSB103_Nassau.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB103_Nassau.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB103_Nassau.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PCY002_RegenCrew.B_Deutsche removed in first object
+root.PASC003_Albany_1898.groupCustom.CN changed in second object (was premium, is special)
+root.PGSB104_Kaiser.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB104_Kaiser.B_AirDefense.AuraNear.guns[13] removed in first object
+root.PGSB104_Kaiser.B_AirDefense.AuraNear.guns[14] removed in first object
+root.PGSB104_Kaiser.B_AirDefense.AuraNear.guns[15] removed in first object
+root.PGSB104_Kaiser.B_AirDefense.AuraNear.guns[16] removed in first object
+root.PGSB104_Kaiser.B_AirDefense.HP_GGM_4_HP_GGA_1 removed in first object
+root.PGSB104_Kaiser.B_AirDefense.HP_GGM_4_HP_GGA_2 removed in first object
+root.PGSB104_Kaiser.B_AirDefense.HP_GGM_1_HP_GGA_2 removed in first object
+root.PGSB104_Kaiser.B_AirDefense.HP_GGM_1_HP_GGA_1 removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[1] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[2] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[3] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[4] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[5] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_3.miscFilter[6] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[1] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[2] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[3] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[4] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[5] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[6] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[7] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_4.miscFilter[8] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[1] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[2] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[3] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[4] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[5] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.miscFilter[6] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[1] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[2] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[3] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[4] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[5] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[6] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[7] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_1.miscFilter[8] removed in first object
+root.PGSB104_Kaiser.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB104_Kaiser.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PGSB108_Bismarck.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB108_Bismarck.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PGSB108_Bismarck.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PGSB108_Bismarck.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB108_Bismarck.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+root.PASA507_Saipan_1946.groupCustom.EU changed in second object (was premium, is special)
+root.PGSC502_Emden_1908.groupCustom.EU changed in second object (was premium, is special)
+root.PGSC502_Emden_1908.groupCustom.NA changed in second object (was premium, is special)
+root.PGSC502_Emden_1908.groupCustom.RU changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.EU changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.NA changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.CN changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.RU changed in second object (was premium, is special)
+root.PASB705_Texas_1944.groupCustom.EU changed in second object (was premium, is special)
+root.PASB705_Texas_1944.groupCustom.NA changed in second object (was premium, is special)
+root.PASB705_Texas_1944.groupCustom.ASIA changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.group changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.NA changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.CN changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.ASIA changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.RU changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.RU changed in second object (was premium, is special)
+root.PGPA052_420MM_AP_APC_L_4_6.bulletAirDrag changed in second object (was 0.25, is 0.2994)
+root.PGPA052_420MM_AP_APC_L_4_6.bulletSpeed changed in second object (was 775.0, is 800.0)
+root.PGPA052_420MM_AP_APC_L_4_6.alphaDamage changed in second object (was 13600.0, is 13500.0)
+root.PGPA052_420MM_AP_APC_L_4_6.bulletKrupp changed in second object (was 2250.0, is 2415.0)
+root.PGPA052_420MM_AP_APC_L_4_6.bulletMass changed in second object (was 1280.0, is 1220.0)
+root.PGSB105_Koenig.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB105_Koenig.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B, is B_Deutsche)
+root.PGSB105_Koenig.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Gold, is B_Deutsche_gold)
+>> finished comparing

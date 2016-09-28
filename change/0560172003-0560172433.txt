@@ -1,0 +1,618 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCY020_RLSSearchPremium.US_7_INDIANAPOLIS_PREMIUM removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[0] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[1] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[2] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[3] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[4] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[5] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[6] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[7] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[8] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[9] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[10] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[11] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[12] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[13] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[14] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[15] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[16] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[17] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[18] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[19] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[20] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[21] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[22] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[23] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[24] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[25] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[26] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[27] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[28] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[29] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[30] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[31] removed in second object
+root.PJGM047_410mm45_Type3_RF_F.miscFilter[32] removed in second object
+root.PCEE008_Rank20.afterBattleRepair removed in second object
+root.PJSB011_Mikasa_1905.groupCustom.EU removed in second object
+root.PCT058_RANK_BATTLE_PACK_2_10 removed in second object
+root.PAUF721_SAIPAN.costXP changed in second object (was 0, is 1)
+root.PGSB002_Tirpiz_1942.TorpedoesDefault.HP_GGT_2.deadZone[0][1] changed in second object (was 34.0, is 35.0)
+root.PGSB002_Tirpiz_1942.TorpedoesDefault.HP_GGT_1.deadZone[0][0] changed in second object (was -34.0, is -35.0)
+root.PGSB002_Tirpiz_1942.groupCustom.NA removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.CN removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA removed in second object
+root.PGSB002_Tirpiz_1942.groupCustom.RU removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_1.armor.65568 changed in second object (was 229.0, is 280.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_1.armor.1 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_1.armor.131104 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_1.armor.196707 removed in first object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM047_410mm45_Type3_RF_F/JGM047_410mm45_Type3_RF_F_dead.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3_dead.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.id changed in second object (was 4245284560, is 4246333136)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.index changed in second object (was PJGM047, is PJGM046)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.armor.65568 changed in second object (was 229.0, is 280.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.armor.1 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.armor.131104 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.armor.196707 removed in first object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[0] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[1] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[2] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[3] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[4] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[5] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[6] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[7] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[8] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[9] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[10] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[11] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[12] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[13] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[14] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[15] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[16] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[17] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[18] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[19] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[20] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[21] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[22] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[23] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[24] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[25] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[26] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[27] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[28] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[29] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.miscFilter[30] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.name changed in second object (was PJGM047_410mm45_Type3_RF_F, is PJGM046_410mm45_Type3)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/main/JGM047_410mm45_Type3_RF_F/JGM047_410mm45_Type3_RF_F.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM048_410mm45_Type3_RF_R/JGM048_410mm45_Type3_RF_R_dead.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3_dead.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.id changed in second object (was 4244235984, is 4246333136)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.index changed in second object (was PJGM048, is PJGM046)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.65568 changed in second object (was 229.0, is 280.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.1 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.131169 changed in second object (was 51.0, is 279.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.196705 changed in second object (was 0.0, is 51.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.131104 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.armor.196707 removed in first object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[0] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[1] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[2] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[3] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[4] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[5] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[6] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[7] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[8] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[9] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[10] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[11] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[12] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[13] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[14] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[15] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[16] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[17] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[18] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[19] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[20] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[21] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[22] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[23] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[24] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[25] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[26] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[27] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.miscFilter[28] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.name changed in second object (was PJGM048_410mm45_Type3_RF_R, is PJGM046_410mm45_Type3)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/main/JGM048_410mm45_Type3_RF_R/JGM048_410mm45_Type3_RF_R.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM047_410mm45_Type3_RF_F/JGM047_410mm45_Type3_RF_F_dead.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3_dead.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.id changed in second object (was 4245284560, is 4246333136)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.index changed in second object (was PJGM047, is PJGM046)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilterMode changed in second object (was False, is True)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.armor.65568 changed in second object (was 229.0, is 280.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.armor.1 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.armor.131104 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.armor.196707 removed in first object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[0] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[1] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[2] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[3] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[4] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[5] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[6] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[7] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[8] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[9] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[10] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[11] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[12] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[13] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[14] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[15] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[16] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[17] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[18] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[19] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[20] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[21] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[22] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[23] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[24] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[25] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[26] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[27] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[28] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[29] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[30] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[31] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.miscFilter[32] removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.name changed in second object (was PJGM047_410mm45_Type3_RF_F, is PJGM046_410mm45_Type3)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_4.model changed in second object (was content/gameplay/japan/gun/main/JGM047_410mm45_Type3_RF_F/JGM047_410mm45_Type3_RF_F.model, is content/gameplay/japan/gun/main/JGM046_410mm45_Type3/JGM046_410mm45_Type3.model)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_5.armor.65568 changed in second object (was 229.0, is 280.0)
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_5.armor.1 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_5.armor.131104 removed in second object
+root.PJSB013_Amagi_1942.BC1_410_45.HP_JGM_5.armor.196707 removed in first object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_4_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_3_HP_JGA_2 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_3_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_2_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_2_HP_JGA_2 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.HP_JGM_4_HP_JGA_2 removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[6] removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[7] removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[8] removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[9] removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[10] removed in second object
+root.PJSB013_Amagi_1942.B_AirDefense.AuraNear.guns[11] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_4_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_18.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_19.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_14.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_15.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_16.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_17.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_10.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_11.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_12.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_13.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_36.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_37.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_34.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_35.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_32.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_33.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_30.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_31.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_3_HP_JGA_2 removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_3_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_38.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_9.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_2_HP_JGA_1 removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_2_HP_JGA_2 removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[48] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[49] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[50] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[51] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[52] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.AuraMedium.guns[53] removed in second object
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_21.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_20.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_22.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.index changed in second object (was PJGA019, is PJGA010)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA010_25mm_Type96)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.antiAirAuraStrength changed in second object (was 0.05, is 0.061)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.numBarrels changed in second object (was 2, is 3.0)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96_dead.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA010_25mm_Type96/JGA010_25mm_Type96.model)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGA_29.id changed in second object (was 4275037904, is 4284475088)
+root.PJSB013_Amagi_1942.C_AirDefense.HP_JGM_4_HP_JGA_2 removed in second object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500 removed in second object
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_1.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_2.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_3.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_4.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_5.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA015_Taiho_1944.AB_ATBA.HP_JGS_6.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PCT060_RANK_BATTLE_PACK_2_50 removed in second object
+root.PJSC038_Atago_1944.group changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.EU removed in second object
+root.PJSC038_Atago_1944.groupCustom.NA removed in second object
+root.PJSC038_Atago_1944.groupCustom.ASIA removed in second object
+root.PJSC038_Atago_1944.groupCustom.RU removed in second object
+root.PCT066_RANK_GOLD_1K removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.EU removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.NA removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.RU removed in second object
+root.PJSD026_Camo_Kamikaze.ShipUpgradeInfo.costGold changed in second object (was 4000, is 5000)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_3.horizSector[0] changed in second object (was -145.0, is -144.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_3.horizSector[1] changed in second object (was 145.0, is 144.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_4.horizSector[0] changed in second object (was -145.0, is -144.5)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_4.horizSector[1] changed in second object (was 145.0, is 144.5)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_2.horizSector[0] changed in second object (was -145.0, is -138.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_2.horizSector[1] changed in second object (was 145.0, is 138.0)
+root.PGSC110_Hindenburg.EngineDefault.HitLocationEngine.armorCoeff changed in second object (was 0.0, is 0.2)
+root.PAEP309_New_York_Scull.canBuy changed in second object (was False, is True)
+root.PAEP309_New_York_Scull.hidden changed in second object (was True, is False)
+root.PASB705_Texas_1944.groupCustom.NA removed in second object
+root.PASB705_Texas_1944.groupCustom.ASIA removed in second object
+root.PASC019_Burlington_1944.ShipUpgradeInfo.costGold changed in second object (was 13500, is 500)
+root.PJSC018_Tone.ShipUpgradeInfo.costGold changed in second object (was 6750, is 6500)
+root.PJSC012_Ibuki_1944.ATBADefault.HP_JGS_1.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC012_Ibuki_1944.ATBADefault.HP_JGS_2.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC012_Ibuki_1944.ATBADefault.HP_JGS_3.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC012_Ibuki_1944.ATBADefault.HP_JGS_4.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PCEE010_Rank1.afterBattleRepair removed in second object
+root.PCT064_RANK_CAMO_PACK_10 removed in second object
+root.PJGS038_100mm65_Type89.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PWSD501_Blyskawica.groupCustom.NA removed in second object
+root.PWSD501_Blyskawica.groupCustom.ASIA removed in second object
+root.PWSD501_Blyskawica.groupCustom.RU removed in second object
+root.PCEE030_Battle_of_Jutland removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50 removed in second object
+root.PCT063_RANK_BATTLE_PACK_1_50 removed in second object
+root.PCT059_RANK_BATTLE_PACK_2_25 removed in second object
+root.PASD029_Sims_1941.groupCustom.CN removed in second object
+root.PRSC002_Diana_1905.ShipUpgradeInfo.costGold changed in second object (was 1650, is 500)
+root.PRSC002_Diana_1905.groupCustom.EU removed in second object
+root.PRSC002_Diana_1905.groupCustom.NA removed in second object
+root.PRSC002_Diana_1905.groupCustom.RU removed in second object
+root.PCEE027_Sea_Lion removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.196656 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131119 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.196673 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131120 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131121 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131131 changed in second object (was 146.0, is 0.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131134 changed in second object (was 0.0, is 146.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.196657 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65638 changed in second object (was 146.0, is 57.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65573 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65574 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131174 removed in first object
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_3.horizSector[0] changed in second object (was -150.0, is -139.0)
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_3.horizSector[1] changed in second object (was 150.0, is 139.0)
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_3.pitchDeadZones[0] removed in first object
+root.PASC507_Indianapolis_1945.A_Directors.HP_AD_12.gunNode changed in second object (was , is HP_AGM_3)
+root.PASC507_Indianapolis_1945.A_Directors.HP_AD_1.gunNode changed in second object (was , is HP_AGM_1)
+root.PASC507_Indianapolis_1945.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PASC507_Indianapolis_1945.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PGSC108_Hipper.ABC_AirArmament.HP_GC_1.angle changed in second object (was 90.0, is -45.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -145.0, is -122.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 145.0, is 122.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was 0.5, is -2.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was 0.0, is -2.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.pitchDeadZones[0] removed in first object
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.pitchDeadZones[1] removed in first object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was 1.0, is -2.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.pitchDeadZones[0] removed in first object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.pitchDeadZones[1] removed in first object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.horizSector[0] changed in second object (was -145.0, is -120.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.horizSector[1] changed in second object (was 145.0, is 120.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was 0.5, is -2.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -145.0, is -131.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 145.0, is 131.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was 3.0, is -2.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.horizSector[0] changed in second object (was -145.0, is -135.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.horizSector[1] changed in second object (was 145.0, is 135.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.vertSector[0] changed in second object (was 2.0, is -2.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.horizSector[0] changed in second object (was -145.0, is -120.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.horizSector[1] changed in second object (was 145.0, is 120.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was 1.0, is -2.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.horizSector[0] changed in second object (was -145.0, is -126.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.horizSector[1] changed in second object (was 145.0, is 126.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.vertSector[0] changed in second object (was 1.5, is -2.0)
+root.PCT062_RANK_BATTLE_PACK_1_25 removed in second object
+root.PJSD025_True_Kamikaze.ShipUpgradeInfo.costGold changed in second object (was 2350, is 5000)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5 removed in second object
+root.PASC044_Marblehead_1924.ShipUpgradeInfo.costGold changed in second object (was 3100, is 500)
+root.PASC044_Marblehead_1924.groupCustom.EU removed in second object
+root.PASC044_Marblehead_1924.groupCustom.RU removed in second object
+root.PASC044_Marblehead_1924.groupCustom.CN removed in second object
+root.PCT065_RANK_CAMO_PACK_100 removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[0] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[1] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[2] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[3] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[4] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[5] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[6] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[7] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[8] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[9] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[10] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[11] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[12] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[13] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[14] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[15] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[16] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[17] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[18] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[19] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[20] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[21] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[22] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[23] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[24] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[25] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[26] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[27] removed in second object
+root.PJGM048_410mm45_Type3_RF_R.miscFilter[28] removed in second object
+root.PCT056_RANK_ECO_PACK_5_25 removed in second object
+root.PBSB002_Warspite_1941.groupCustom.EU removed in second object
+root.PBSB002_Warspite_1941.groupCustom.NA removed in second object
+root.PBSB002_Warspite_1941.groupCustom.ASIA removed in second object
+root.PBSB002_Warspite_1941.groupCustom.RU removed in second object
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_3.horizSector[0] changed in second object (was -132.0, is -130.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_3.horizSector[1] changed in second object (was 132.0, is 130.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_3.deadZone[0][0] changed in second object (was -45.0, is -50.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_3.deadZone[0][1] changed in second object (was 45.0, is 50.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_2.horizSector[1] changed in second object (was 132.0, is 145.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_2.deadZone[0][1] changed in second object (was 24.0, is 35.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_1.horizSector[0] changed in second object (was -132.0, is -145.0)
+root.PRSD107_Pr_35_Udaloy.A2_Torpedoes.HP_RGT_1.deadZone[0][0] changed in second object (was -24.0, is -35.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_3.horizSector[0] changed in second object (was -132.0, is -130.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_3.horizSector[1] changed in second object (was 132.0, is 130.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_3.deadZone[0][0] changed in second object (was -45.0, is -50.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_3.deadZone[0][1] changed in second object (was 45.0, is 50.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_2.horizSector[1] changed in second object (was 132.0, is 145.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_2.deadZone[0][1] changed in second object (was 24.0, is 35.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_1.horizSector[0] changed in second object (was -132.0, is -145.0)
+root.PRSD107_Pr_35_Udaloy.A1_Torpedoes.HP_RGT_1.deadZone[0][0] changed in second object (was -24.0, is -35.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_3.horizSector[0] changed in second object (was -132.0, is -130.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_3.horizSector[1] changed in second object (was 132.0, is 130.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_3.deadZone[0][0] changed in second object (was -45.0, is -50.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_3.deadZone[0][1] changed in second object (was 45.0, is 50.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_2.horizSector[1] changed in second object (was 132.0, is 145.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_2.deadZone[0][1] changed in second object (was 24.0, is 35.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_1.horizSector[0] changed in second object (was -132.0, is -145.0)
+root.PRSD107_Pr_35_Udaloy.B1_Torpedoes.HP_RGT_1.deadZone[0][0] changed in second object (was -24.0, is -35.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_3.horizSector[0] changed in second object (was -132.0, is -130.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_3.horizSector[1] changed in second object (was 132.0, is 130.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_3.deadZone[0][0] changed in second object (was -45.0, is -50.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_3.deadZone[0][1] changed in second object (was 45.0, is 50.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_2.horizSector[1] changed in second object (was 132.0, is 145.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_2.deadZone[0][1] changed in second object (was 24.0, is 35.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_1.horizSector[0] changed in second object (was -132.0, is -145.0)
+root.PRSD107_Pr_35_Udaloy.B2_Torpedoes.HP_RGT_1.deadZone[0][0] changed in second object (was -24.0, is -35.0)
+root.PJSC005_Furutaka_1926.C2_Artillery.minDistV changed in second object (was 472.0, is 250.0)
+root.PJSC005_Furutaka_1926.C2_Artillery.minDistH changed in second object (was 133.0, is 100.0)
+root.PJSC005_Furutaka_1926.C_Hull_1942.floodParams[0] changed in second object (was 0.32, is 0.333)
+root.PJSC005_Furutaka_1926.C1_Artillery.minDistV changed in second object (was 472.0, is 250.0)
+root.PJSC005_Furutaka_1926.C1_Artillery.minDistH changed in second object (was 133.0, is 100.0)
+root.PCEE029_Songkran removed in second object
+root.PCT061_RANK_BATTLE_PACK_1_10 removed in second object
+root.PJSC026_Iwaki_1944.ShipUpgradeInfo.costGold changed in second object (was 2650, is 500)
+root.PCEE026_Sea_Dog removed in second object
+root.PCY019_RLSSearch.US_7_INDIANAPOLIS removed in second object
+root.PCT057_RANK_ECO_PACK_5_50 removed in second object
+root.PASC003_Albany_1898.ShipUpgradeInfo.costGold changed in second object (was 1550, is 500)
+root.PCEE028_SeasonFlag04 removed in second object
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_12.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_10.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_11.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_1.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_2.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_3.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_4.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_5.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_6.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_7.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_8.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSA017_Hakuryu_1942.A_ATBA.HP_JGS_9.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10 removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.EU removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.RU removed in second object
+root.PASA507_Saipan_1946.groupCustom.EU removed in second object
+root.PASA507_Saipan_1946.A1_AirArmament.deckPlaceCount changed in second object (was 21, is 20)
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY removed in second object
+root.PCEE009_Rank10.afterBattleRepair removed in second object
+root.PJGS076_100mm65_Type_98.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PGSC502_Emden_1908.permoflages[0] changed in second object (was PGEP402_Emden_1908, is PGEP402_EMDEN_1908)
+root.PGSC502_Emden_1908.nativePermoflage changed in second object (was PGEP402_Emden_1908, is PGEP402_EMDEN_1908)
+root.PGSC502_Emden_1908.groupCustom.EU removed in second object
+root.PGSC502_Emden_1908.groupCustom.NA removed in second object
+root.PGSC502_Emden_1908.groupCustom.RU removed in second object
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_6.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_7.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_5.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_8.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_9.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_10.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_11.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_12.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_13.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_14.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PRSC104_Svetlana.B2_Artillery.HP_RGM_15.rotationSpeed[0] changed in second object (was 7.0, is 5.0)
+root.PCEC014_Camo_GNB_May_2016 removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.EU removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.RU removed in second object
+root.PJSD001_Tachibana_1912.ShipUpgradeInfo.costGold changed in second object (was 950, is 500)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_1.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_2.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_3.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_4.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_5.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_6.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PASC045_Marblehead_1924_Asus.ShipUpgradeInfo.costGold changed in second object (was 3100, is 500)
+root.PASB013_Arkansas_1912.ShipUpgradeInfo.costGold changed in second object (was 2850, is 500)
+root.PCEC015_Camo_CN_Special removed in second object
+root.PRSC010_Diana_1905_Asus.ShipUpgradeInfo.costGold changed in second object (was 1650, is 500)
+root.PCT055_RANK_ECO_PACK_5_10 removed in second object
+root.PRSC506_Molotov_1943.groupCustom.NA removed in second object
+root.PRSC506_Molotov_1943.groupCustom.RU removed in second object
+root.PJSD014_Tachibana_1912_Asus.ShipUpgradeInfo.costGold changed in second object (was 950, is 500)
+root.PJGS124_100mm65_Type98.antiAirAuraStrength changed in second object (was 0.208, is 0.133)
+root.PAEP307_Texas.canBuy changed in second object (was False, is True)
+root.PAEP307_Texas.hidden changed in second object (was True, is False)
+>> finished comparing

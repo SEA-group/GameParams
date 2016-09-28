@@ -1,0 +1,140 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGAF006_TA152C.prepareTime changed in second object (was 5, is 0.0)
+root.PJSC999_Yubari_Special.ATBADefault removed in second object
+root.PJSC999_Yubari_Special.AirDefenseDefault removed in second object
+root.PJSC999_Yubari_Special.Cameras.Death.InnerTrajectory.pitchInfluenceOnHeight changed in second object (was 0.0, is 2.0)
+root.PJSC999_Yubari_Special.Cameras.Death.InnerTrajectory.maxPitch changed in second object (was 89.0, is 90.0)
+root.PJSC999_Yubari_Special.Cameras.Death.InnerTrajectory.minPitch changed in second object (was -89.0, is -90.0)
+root.PJSC999_Yubari_Special.Cameras.Torp2.OuterTrajectory.posCenter[2] changed in second object (was -1.59, is -1.43)
+root.PJSC999_Yubari_Special.Cameras.Torp2.InnerTrajectory.semiAxisH changed in second object (was 0.5, is 0.7)
+root.PJSC999_Yubari_Special.Cameras.Torp2.InnerTrajectory.posCenter[1] changed in second object (was 0.7, is 0.6)
+root.PJSC999_Yubari_Special.Cameras.Torp2.InnerTrajectory.posCenter[2] changed in second object (was -1.59, is -1.43)
+root.PJSC999_Yubari_Special.Cameras.Torp2.InnerTrajectory.semiAxisV changed in second object (was 0.4, is 0.7)
+root.PJSC999_Yubari_Special.Cameras.Obstacle.InnerTrajectory.posCenter[1] changed in second object (was 1.3, is 0.8)
+root.PJSC999_Yubari_Special.Cameras.Obstacle.InnerTrajectory.posCenter[2] changed in second object (was 0.9, is 0.1)
+root.PJSC999_Yubari_Special.Cameras.Obstacle.InnerTrajectory.semiAxisV changed in second object (was 0.9, is 1.8)
+root.PJSC999_Yubari_Special.Cameras.Artillery.OuterTrajectory.semiAxisH changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Artillery.OuterTrajectory.posCenter[1] changed in second object (was 6, is 5)
+root.PJSC999_Yubari_Special.Cameras.Artillery.OuterTrajectory.semiAxisV changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Artillery.InnerTrajectory.semiAxisH changed in second object (was 5.6, is 4.0)
+root.PJSC999_Yubari_Special.Cameras.Artillery.InnerTrajectory.posCenter[1] changed in second object (was 2, is 1.6)
+root.PJSC999_Yubari_Special.Cameras.Artillery.InnerTrajectory.semiAxisV changed in second object (was 8.0, is 5.6)
+root.PJSC999_Yubari_Special.Cameras.Torpedoes.InnerTrajectory.posCenter[1] changed in second object (was 5, is 4)
+root.PJSC999_Yubari_Special.Cameras.Torpedoes.InnerTrajectory.posCenter[2] changed in second object (was -1.195, is 1.263)
+root.PJSC999_Yubari_Special.Cameras.Observe.OuterTrajectory.semiAxisH changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Observe.OuterTrajectory.posCenter[1] changed in second object (was 6, is 5)
+root.PJSC999_Yubari_Special.Cameras.Observe.OuterTrajectory.semiAxisV changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Observe.InnerTrajectory.semiAxisH changed in second object (was 1.8, is 1.1)
+root.PJSC999_Yubari_Special.Cameras.Observe.InnerTrajectory.posCenter[1] changed in second object (was 0.7, is 0.4)
+root.PJSC999_Yubari_Special.Cameras.Observe.InnerTrajectory.semiAxisV changed in second object (was 6.5, is 4.0)
+root.PJSC999_Yubari_Special.Cameras.Spectator.OuterTrajectory.semiAxisH changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Spectator.OuterTrajectory.posCenter[1] changed in second object (was 6, is 5)
+root.PJSC999_Yubari_Special.Cameras.Spectator.OuterTrajectory.semiAxisV changed in second object (was 12.0, is 10.0)
+root.PJSC999_Yubari_Special.Cameras.Spectator.InnerTrajectory.semiAxisH changed in second object (was 1.8, is 1.1)
+root.PJSC999_Yubari_Special.Cameras.Spectator.InnerTrajectory.posCenter[1] changed in second object (was 0.7, is 0.4)
+root.PJSC999_Yubari_Special.Cameras.Spectator.InnerTrajectory.semiAxisV changed in second object (was 6.5, is 4.0)
+root.PJSC999_Yubari_Special.Cameras.Spectator.InnerTrajectory.pitchInfluenceOnHeight changed in second object (was 1.0, is 0.0)
+root.PJSC999_Yubari_Special.Cameras.Guns2.weapons[0] changed in second object (was HP_JGM_2, is HP_JGM_4)
+root.PJSC999_Yubari_Special.Cameras.Guns2.weapons[1] removed in first object
+root.PJSC999_Yubari_Special.Cameras.Guns2.InnerTrajectory.semiAxisH changed in second object (was 0.8, is 0.375)
+root.PJSC999_Yubari_Special.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.803, is 0.379)
+root.PJSC999_Yubari_Special.Cameras.Guns2.InnerTrajectory.posCenter[2] changed in second object (was -2.75, is -2.055)
+root.PJSC999_Yubari_Special.Cameras.Guns2.InnerTrajectory.semiAxisV changed in second object (was 0.5, is 0.324)
+root.PJSC999_Yubari_Special.Cameras.Guns2.InnerTrajectory.inclineV changed in second object (was -3, is -4.0)
+root.PJSC999_Yubari_Special.Cameras.Torp1.OuterTrajectory.posCenter[2] changed in second object (was -0.8, is 1.263)
+root.PJSC999_Yubari_Special.Cameras.Torp1.InnerTrajectory.semiAxisH changed in second object (was 0.5, is 0.6)
+root.PJSC999_Yubari_Special.Cameras.Torp1.InnerTrajectory.posCenter[1] changed in second object (was 0.7, is 0.8)
+root.PJSC999_Yubari_Special.Cameras.Torp1.InnerTrajectory.posCenter[2] changed in second object (was -0.8, is 1.263)
+root.PJSC999_Yubari_Special.Cameras.Torp1.InnerTrajectory.semiAxisV changed in second object (was 0.4, is 0.6)
+root.PJSC999_Yubari_Special.Cameras.Guns1.weapons[1] removed in first object
+root.PJSC999_Yubari_Special.Cameras.Guns1.weapons[2] removed in first object
+root.PJSC999_Yubari_Special.Cameras.Guns1.InnerTrajectory.semiAxisH changed in second object (was 0.8, is 0.5)
+root.PJSC999_Yubari_Special.Cameras.Guns1.InnerTrajectory.posCenter[1] changed in second object (was 0.9, is 0.5)
+root.PJSC999_Yubari_Special.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.45, is 2.28)
+root.PJSC999_Yubari_Special.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.5, is 0.45)
+root.PJSC999_Yubari_Special.Cameras.Guns1.InnerTrajectory.inclineV changed in second object (was 5, is 4)
+root.PJSC999_Yubari_Special.RadarsDefault removed in second object
+root.PJSC999_Yubari_Special.AirArmamentDefault removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.minDistV changed in second object (was 378.0, is 267.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.minDistH changed in second object (was 124.0, is 115.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.maxDist changed in second object (was 12800.0, is 6720.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.antiAirAuraDistance changed in second object (was 0.0, is 100.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.horizSector[0] changed in second object (was -148.0, is 0.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.horizSector[1] changed in second object (was 148.0, is 0.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.HitLocationArtillery.maxHP changed in second object (was 25000.0, is 4000.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.HitLocationArtillery.armorCoeff changed in second object (was 0.75, is 1.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM035_140mm50_Type_3Year/JGM035_140mm50_Type_3Year_dead.model, is content/gameplay/japan/gun/secondary/JGS065_3in40_mk1/JGS065_3in40_mk1_dead.model)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.shotDelay changed in second object (was 1.0, is 5.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.id changed in second object (was 4257867472, is 4163495632)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.index changed in second object (was PJGM035, is PJGM125)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA998_Useless_HE_Special, is PJPA042_Shell_76mm_HE_O_Mk_2)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.ammoList[1] changed in second object (was PJPA999_Useless_AP_Special, is PJPA041_76mm_AP_Type_0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65568 removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65569 removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65571 removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65636 removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65635 removed in second object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.armor.65580 removed in first object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.antiAirAuraStrength changed in second object (was 0.0, is 0.016)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.minRadius changed in second object (was 1.1, is 0.5)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.barrelDiameter changed in second object (was 0.14, is 0.076)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.rotationSpeed[0] changed in second object (was 25.0, is 11.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.rotationSpeed[1] changed in second object (was 25.0, is 10.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.name changed in second object (was PJGM035_140mm50_Type_3Year, is PJGM125_3in40_mk1)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.vertSector[0] changed in second object (was -1.0, is -2.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.vertSector[1] changed in second object (was 35.0, is 75.0)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.deadZone[0] removed in first object
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/main/JGM035_140mm50_Type_3Year/JGM035_140mm50_Type_3Year.model, is content/gameplay/japan/gun/secondary/JGS065_3in40_mk1/JGS065_3in40_mk1.model)
+root.PJSC999_Yubari_Special.ArtilleryDefault.HP_JGM_2 removed in second object
+root.PJSC999_Yubari_Special.HullDefault removed in second object
+root.PJSC999_Yubari_Special.group changed in second object (was demoWithoutStats, is disabled)
+root.PJSC999_Yubari_Special.DirectorsDefault removed in second object
+root.PJSC999_Yubari_Special.TorpedoesDefault removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.airDefense[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.hull[0] changed in second object (was HullDefault, is A_Hull_1912)
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.torpedoes[0] changed in second object (was TorpedoesDefault, is A1_457)
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.atba[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.directors[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.airArmament[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.radars[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUH332_YUB_TEST.components.finders[0] removed in second object
+root.PJSC999_Yubari_Special.ShipUpgradeInfo.PJUT332_610_TEST.components.torpedoes[0] changed in second object (was TorpedoesDefault, is A1_457)
+root.PJSC999_Yubari_Special.EngineDefault.sound changed in second object (was GameLogic.Engines.Battleship.Turbine.Type_1, is GameLogic.Engines.Tachibana)
+root.PJSC999_Yubari_Special.EngineDefault.damagedEnginePowerMultiplier changed in second object (was -0.325, is -0.13)
+root.PJSC999_Yubari_Special.EngineDefault.HitLocationEngine.maxHP changed in second object (was 68500.0, is 8300.0)
+root.PJSC999_Yubari_Special.EngineDefault.HitLocationEngine.armorCoeff changed in second object (was 0.4, is 1.0)
+root.PJSC999_Yubari_Special.EngineDefault.HitLocationEngine.splashBoxes[1] removed in first object
+root.PJSC999_Yubari_Special.EngineDefault.histEnginePower changed in second object (was 57900.0, is 9500)
+root.PJSC999_Yubari_Special.EngineDefault.backwardSpeedOnFlood changed in second object (was -0.15, is -0.26)
+root.PJSC999_Yubari_Special.EngineDefault.forwardSpeedOnFlood changed in second object (was -0.2, is -0.15)
+root.PJSC999_Yubari_Special.EngineDefault.damagedEnginePowerTimeMultiplier changed in second object (was 7.0, is 6.5)
+root.PJSC999_Yubari_Special.EngineDefault.backwardEngineUpTime changed in second object (was 20.0, is 10.0)
+root.PJSC999_Yubari_Special.FireControlDefault removed in second object
+root.PJSC999_Yubari_Special.FindersDefault removed in second object
+root.PJSC999_Yubari_Special.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY004_Fighter, is PCY006_SmokeGenerator)
+root.PJSC999_Yubari_Special.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was PJY515_A4N2_N_Battleship_3, is Lvl_2)
+root.PJSC999_Yubari_Special.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY012_FighterPremium, is PCY014_SmokeGeneratorPremium)
+root.PJSC999_Yubari_Special.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was PJY615_A4N2_N_Battleship_3, is Lvl_2_Gold)
+root.PJSC999_Yubari_Special.AB1_FireControl removed in first object
+root.PJSC999_Yubari_Special.A1_457 removed in first object
+root.PJSC999_Yubari_Special.A_Hull_1912 removed in first object
+root.PGAF005_FW190A8.prepareTime changed in second object (was 5, is 0.0)
+root.PGAF001_HE51.prepareTime changed in second object (was 5, is 0.0)
+root.PGAF003_BF109E.prepareTime changed in second object (was 5, is 0.0)
+root.PGAF002_AR197.prepareTime changed in second object (was 5, is 0.0)
+root.PGAF004_BF109G.prepareTime changed in second object (was 5, is 0.0)
+root.PRUS990_SUO_TEST removed in first object
+root.PRGM501_130mm_B2LM removed in first object
+root.PRUE990_ENG_TEST removed in first object
+root.PRD503_1NM_Low_angle_night_dir removed in first object
+root.PRGA503_70K_37mm removed in first object
+root.PRF502_SVP_3m removed in first object
+root.PRSC999_Seal removed in first object
+root.PRUA990_TEST removed in first object
+root.PRGA502_76mm34K removed in first object
+root.PRUH990_TEST removed in first object
+root.PRUT990_TEST removed in first object
+root.PRD501_KDP2_4 removed in first object
+>> finished comparing

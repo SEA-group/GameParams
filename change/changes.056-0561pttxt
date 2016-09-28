@@ -1,0 +1,28 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -122.5, is -145.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 122.5, is 145.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was -2.0, is 0.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.pitchDeadZones[0] removed in second object
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.pitchDeadZones[1] removed in second object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was -2.0, is 1.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.pitchDeadZones[0] removed in second object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.pitchDeadZones[1] removed in second object
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.horizSector[0] changed in second object (was -120.0, is -145.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.horizSector[1] changed in second object (was 120.0, is 145.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was -2.0, is 0.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -131.0, is -145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 131.0, is 145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was -2.0, is 3.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.horizSector[0] changed in second object (was -135.0, is -145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.horizSector[1] changed in second object (was 135.0, is 145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.vertSector[0] changed in second object (was -2.0, is 2.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.horizSector[0] changed in second object (was -120.0, is -145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.horizSector[1] changed in second object (was 120.0, is 145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.vertSector[0] changed in second object (was -2.0, is 1.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.horizSector[0] changed in second object (was -126.5, is -145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.horizSector[1] changed in second object (was 126.5, is 145.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.vertSector[0] changed in second object (was -2.0, is 1.5)
+>> finished comparing

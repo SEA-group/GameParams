@@ -1,0 +1,9 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PAUD702_CV8_DB_TOP.costXP changed in second object (was 0, is 14000)
+root.PAUD702_CV8_DB_TOP.costCR changed in second object (was 0, is 1150000)
+root.PAUD703_CV8_DB_STOCK.costXP changed in second object (was 14000, is 0)
+root.PAUD703_CV8_DB_STOCK.costCR changed in second object (was 1150000, is 0)
+root.PASB506_Arizona_1941.ShipUpgradeInfo.costGold changed in second object (was 6500, is 6600)
+>> finished comparing

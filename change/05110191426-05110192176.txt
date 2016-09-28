@@ -1,0 +1,23 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.index changed in second object (was PGC001, is PGC007)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.name changed in second object (was PGC001_Catapult_1, is PGC007_Catapult_7)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.model changed in second object (was content/gameplay/germany/catapult/GC001_Catapult_1/GC001_Catapult_1.model, is content/gameplay/germany/catapult/GC007_Catapult_7/GC007_Catapult_7.model)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.id changed in second object (was 4293064496, is 4286773040)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.hidePlane changed in second object (was True, is False)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.index changed in second object (was PGC001, is PGC007)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.name changed in second object (was PGC001_Catapult_1, is PGC007_Catapult_7)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.model changed in second object (was content/gameplay/germany/catapult/GC001_Catapult_1/GC001_Catapult_1.model, is content/gameplay/germany/catapult/GC007_Catapult_7/GC007_Catapult_7.model)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.id changed in second object (was 4293064496, is 4286773040)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.hidePlane changed in second object (was True, is False)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PGY001_Ar196_Battleship_4_HIDE, is PGY001_Ar196_Battleship_4)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PGY101_Ar196_Battleship_4_HIDE, is PGY101_Ar196_Battleship_4)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[2][1] changed in second object (was PAY538_BF109G_Battleship_4_HIDE, is PAY538_BF109G_Battleship_4)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[3][1] changed in second object (was PAY638_BF109G_Battleship_4_HIDE, is PAY638_BF109G_Battleship_4)
+root.PBSC101_Black_Swan.A_Hull.visibilityFactorByPlane changed in second object (was 3.45, is 5.45)
+root.PJSC037_Hashidate_1940.A_Hull.visibilityFactorByPlane changed in second object (was 2.73, is 4.73)
+root.PJUH411_Kongo_1941.costXP changed in second object (was 4500, is 7200)
+root.PJUH411_Kongo_1941.costCR changed in second object (was 400000, is 480000)
+root.PGC007_Catapult_7 removed in first object
+>> finished comparing

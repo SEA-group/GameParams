@@ -1,0 +1,344 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PGPA053_420MM_HE_HE_L_4_6.alphaPiercingHE changed in second object (was 70.0, is 105.0)
+root.PJGS051_120mm45_Type_HaGun.armor.1 removed in first object
+root.PRSC505_KrasniKrym.groupCustom.EU changed in second object (was premium, is special)
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_1.armor.65635 changed in second object (was 100.0, is 150.0)
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_2.armor.65635 changed in second object (was 100.0, is 150.0)
+root.PFSB506_Dunkerque_1940.group changed in second object (was demoWithoutStats, is special)
+root.PGEP418_Prinz_Eugen.canBuy changed in second object (was True, is False)
+root.PGEP418_Prinz_Eugen.hidden changed in second object (was False, is True)
+root.PGEP418_Prinz_Eugen.crewExpFactor removed in first object
+root.PGEP418_Prinz_Eugen.creditsFactor removed in first object
+root.PJSC503_Katori.groupCustom.CN changed in second object (was premium, is special)
+root.PASB801_False_Michigan_1916.HullDefault.armor.131141 removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.armor.65589 changed in second object (was 0.0, is 305.0)
+root.PASB801_False_Michigan_1916.HullDefault.armor.65635 removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASB801_False_Michigan_1916.HullDefault.armor.131161 changed in second object (was 1.0, is 0.0)
+root.PASB801_False_Michigan_1916.HullDefault.armor.65633 removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.armor.131171 removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.armor.131175 removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.armor.65619 removed in first object
+root.PJSC015_Tatsuta_1919.TorpedoesDefault.HP_JGT_2.armor.65580 removed in first object
+root.PJSC015_Tatsuta_1919.TorpedoesDefault.HP_JGT_1.armor.65580 removed in first object
+root.PASA015_Midway_1945.Cameras.Spectator.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA015_Midway_1945.Cameras.Spectator.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA015_Midway_1945.Cameras.Spectator.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PASA015_Midway_1945.Cameras.CarrierObserve.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA015_Midway_1945.Cameras.CarrierObserve.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA015_Midway_1945.Cameras.CarrierObserve.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_26.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_25.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_22.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_21.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_20.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_31.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_32.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_33.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_34.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_13.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_10.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_16.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_14.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_15.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_19.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_9.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_1.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.ATBADefault.HP_JGS_2.armor.131116 removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.EU changed in second object (was premium, is special)
+root.PJSB011_Mikasa_1905.groupCustom.CN changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.HP_GGM_1.armor.131169 removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.EU changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.groupCustom.NA changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.groupCustom.CN changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA changed in second object (was premium, is special)
+root.PGSB002_Tirpiz_1942.groupCustom.RU changed in second object (was premium, is special)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_4.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_7.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_1.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_3.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_2.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_9.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_8.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_14.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_10.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB110_Grossdeutschland.A_ATBA.HP_GGS_13.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PRSD001_Gremyashchy_1942.ArtilleryDefault.HP_RGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD001_Gremyashchy_1942.ArtilleryDefault.HP_RGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD001_Gremyashchy_1942.ArtilleryDefault.HP_RGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD001_Gremyashchy_1942.ArtilleryDefault.HP_RGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_10.armor.1 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_10.armor.131116 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_3.armor.1 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_3.armor.131116 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_4.armor.1 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_4.armor.131116 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_9.armor.1 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_9.armor.131116 removed in first object
+root.PJGS037_127mm50_Type_D.armor.1 removed in first object
+root.PJSC038_Atago_1944.groupCustom.EU changed in second object (was premium, is special)
+root.PJSC038_Atago_1944.groupCustom.NA changed in second object (was premium, is special)
+root.PJSC038_Atago_1944.groupCustom.ASIA changed in second object (was premium, is special)
+root.PJSC038_Atago_1944.groupCustom.RU changed in second object (was premium, is special)
+root.PASD502_Smith.groupCustom.NA changed in second object (was premium, is special)
+root.PJSB018_Yamato_1944.ArtilleryDefault.HP_JGM_1.armor.1 removed in first object
+root.PJSB018_Yamato_1944.ArtilleryDefault.HP_JGM_2.armor.1 removed in first object
+root.PJSB018_Yamato_1944.ArtilleryDefault.HP_JGM_3.armor.1 removed in first object
+root.PAGS068_4_7in_Mk3.armor.1 removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA changed in second object (was premium, is special)
+root.PRSC508_Kutuzov_1952.groupCustom.RU changed in second object (was premium, is special)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_2.armor.196707 removed in second object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_2.armor.196705 removed in first object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_4.armor.196707 removed in second object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_4.armor.196705 removed in first object
+root.PJGS133_76mm40_with_shield_White.armor.131116 removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.65622 changed in second object (was 10.0, is 13.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131174 changed in second object (was 0.0, is 76.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131156 changed in second object (was 63.0, is 0.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131164 removed in first object
+root.PZSD506_Anshan.groupCustom.CN changed in second object (was premium, is special)
+root.PRSB001_Nikolay_I.groupCustom.CN changed in second object (was premium, is special)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_10.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_10.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_6.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_6.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_5.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_5.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_2.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_2.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_1.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_9.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.A1_Artillery.HP_GGM_9.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_12.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_12.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_11.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_11.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_7.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_7.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_6.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_6.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_5.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_5.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_2.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_2.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_1.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_8.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC002_Drezden_1908.B1_Artillery.HP_GGM_8.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PRGS082_75mm_50_Canet_CS.armor.65580 removed in first object
+root.PZSD508_LoYang.groupCustom.CN changed in second object (was premium, is special)
+root.PRGM009_130mm_B_13.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PJGT108_533mm_Type_6.armor.65580 removed in first object
+root.PGGM024_105mm_Schnelladegeschutz_L40.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGGM024_105mm_Schnelladegeschutz_L40.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.65622 changed in second object (was 10.0, is 13.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131174 changed in second object (was 0.0, is 76.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131156 changed in second object (was 63.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.armor.131164 removed in first object
+root.PRGM037_6in45_Cane.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PRGM037_6in45_Cane.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PASD029_Sims_1941.groupCustom.NA changed in second object (was premium, is special)
+root.PASD029_Sims_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.RU changed in second object (was premium, is special)
+root.PRSC002_Diana_1905.groupCustom.CN changed in second object (was premium, is special)
+root.PASA013_Essex_1945.Cameras.Spectator.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA013_Essex_1945.Cameras.Spectator.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA013_Essex_1945.Cameras.Spectator.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PASA013_Essex_1945.Cameras.CarrierObserve.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA013_Essex_1945.Cameras.CarrierObserve.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA013_Essex_1945.Cameras.CarrierObserve.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PBSD503_Campbeltown_1941.groupCustom.EU changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.NA changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA changed in second object (was premium, is special)
+root.PBSD503_Campbeltown_1941.groupCustom.RU changed in second object (was premium, is special)
+root.PASC507_Indianapolis_1945.groupCustom.EU changed in second object (was premium, is special)
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_1.armor.1 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_1.armor.131116 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_2.armor.1 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_2.armor.131116 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_3.armor.1 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_3.armor.131116 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_4.armor.1 removed in first object
+root.PJSC005_Furutaka_1926.C_ATBA.HP_JGS_4.armor.131116 removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC003_Murmansk_1944.groupCustom.RU changed in second object (was premium, is special)
+root.PRSC003_Murmansk_1944.groupCustom.CN changed in second object (was premium, is special)
+root.PRSC003_Murmansk_1944.groupCustom.ASIA changed in second object (was premium, is special)
+root.PGGM041_105mm_SK_L45_shield.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGGM041_105mm_SK_L45_shield.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PRSC001_Avrora_1917.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.groupCustom.CN changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.groupCustom.ASIA changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.groupCustom.RU changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.EU changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.RU changed in second object (was premium, is special)
+root.PASC044_Marblehead_1924.groupCustom.CN changed in second object (was premium, is special)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_12.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_12.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_11.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_11.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_7.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_7.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_6.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_6.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_5.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_5.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_2.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_2.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_1.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_1.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_8.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC103_Kolberg.ArtilleryDefault.HP_GGM_8.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSB503_Koenig_Albert.groupCustom.NA changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.EU changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.NA changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.CN changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.ASIA changed in second object (was premium, is special)
+root.PBSB002_Warspite_1941.groupCustom.RU changed in second object (was premium, is special)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_5.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_4.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_7.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_6.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_1.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_3.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_2.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_9.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_8.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_11.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSB107_Gneisenau.B_ATBA.HP_GGS_10.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PGSC508_Prinz_Eugen.permoflages[0] changed in second object (was PCEP107_Permo_Prem_High_lvl, is PGEP428_Prinz_Eugen)
+root.PGSC508_Prinz_Eugen.nativePermoflage changed in second object (was PCEP107_Permo_Prem_High_lvl, is PGEP428_Prinz_Eugen)
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_1.armor.1 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_1.armor.131116 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_2.armor.1 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_2.armor.131116 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_3.armor.1 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_3.armor.131116 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_4.armor.1 removed in first object
+root.PJSC007_Aoba_1943.AB_ATBA.HP_JGS_4.armor.131116 removed in first object
+root.PASC003_Albany_1898.ATBADefault.HP_AGS_4.armor.1 removed in first object
+root.PASC003_Albany_1898.ATBADefault.HP_AGS_3.armor.1 removed in first object
+root.PASC003_Albany_1898.ATBADefault.HP_AGS_2.armor.1 removed in first object
+root.PASC003_Albany_1898.ATBADefault.HP_AGS_1.armor.1 removed in first object
+root.PASC003_Albany_1898.groupCustom.CN changed in second object (was premium, is special)
+root.PJSC004_Yubari_1944.ATBADefault.HP_JGS_1.armor.1 removed in first object
+root.PJSC004_Yubari_1944.ATBADefault.HP_JGS_1.armor.131116 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_12.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_10.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_11.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_8.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_9.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_1.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_2.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_3.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_4.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_5.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_6.armor.65580 removed in first object
+root.PRSC103_Bogatyr.A_ATBA.HP_RGS_7.armor.65580 removed in first object
+root.PASA012_Lexington_1944.Cameras.Spectator.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA012_Lexington_1944.Cameras.Spectator.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA012_Lexington_1944.Cameras.Spectator.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PASA012_Lexington_1944.Cameras.CarrierObserve.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PASA012_Lexington_1944.Cameras.CarrierObserve.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PASA012_Lexington_1944.Cameras.CarrierObserve.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PJSA017_Hakuryu_1942.Cameras.Spectator.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PJSA017_Hakuryu_1942.Cameras.Spectator.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PJSA017_Hakuryu_1942.Cameras.Spectator.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PJSA017_Hakuryu_1942.Cameras.CarrierObserve.OuterTrajectory.semiAxisV changed in second object (was 15.0, is 16.0)
+root.PJSA017_Hakuryu_1942.Cameras.CarrierObserve.InnerTrajectory.semiAxisH changed in second object (was 3.0, is 3.4)
+root.PJSA017_Hakuryu_1942.Cameras.CarrierObserve.InnerTrajectory.semiAxisV changed in second object (was 9.0, is 10.4)
+root.PASA507_Saipan_1946.groupCustom.EU changed in second object (was premium, is special)
+root.PASA507_Saipan_1946.groupCustom.NA changed in second object (was premium, is special)
+root.PRGS080_130mm55_casemate.armor.131116 removed in second object
+root.PRGS080_130mm55_casemate.armor.65569 removed in first object
+root.PRGS080_130mm55_casemate.armor.65635 removed in first object
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_10.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_10.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_6.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_6.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_5.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_5.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_2.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_2.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_1.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_9.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.A1_Artillery.HP_GGM_9.armor.65635 changed in second object (was 1.0, is 0.0)
+root.PGSC502_Emden_1908.groupCustom.EU changed in second object (was premium, is special)
+root.PGSC502_Emden_1908.groupCustom.NA changed in second object (was premium, is special)
+root.PGSC502_Emden_1908.groupCustom.RU changed in second object (was premium, is special)
+root.PJGS138_76mm40_with_shield_Black.armor.131116 removed in first object
+root.PASB705_Texas_1944.groupCustom.EU changed in second object (was premium, is special)
+root.PASB705_Texas_1944.groupCustom.NA changed in second object (was premium, is special)
+root.PASB705_Texas_1944.groupCustom.ASIA changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.EU changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.NA changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.CN changed in second object (was premium, is special)
+root.PJSD001_Tachibana_1912.groupCustom.RU changed in second object (was premium, is special)
+root.PGGS081_127mm_KC_40.HitLocationATBA.armorCoeff changed in second object (was 1.0, is 0.6)
+root.PJGS015_120mm45_Type_HaGun_10.armor.1 removed in first object
+root.PJGS015_120mm45_Type_HaGun_10.armor.131116 removed in first object
+root.PRGS084_75mm_50_Canet_FS.armor.65580 removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.EU changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.NA changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.CN changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.ASIA changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.RU changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.EU changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.RU changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.CN changed in second object (was premium, is special)
+root.PWSD501_Blyskawica.groupCustom.ASIA changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.EU changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.NA changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.CN changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.ASIA changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.RU changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC506_Molotov_1943.groupCustom.RU changed in second object (was premium, is special)
+root.PJGS021_127mm50_Type_B.armor.1 removed in first object
+root.PASB506_Arizona_1941.groupCustom.EU changed in second object (was premium, is special)
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.131141 removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.65589 changed in second object (was 0.0, is 305.0)
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.65635 removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.131161 changed in second object (was 1.0, is 0.0)
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.65633 removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.131171 removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.131175 removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.armor.65619 removed in first object
+root.PJGS136_76mm40_with_shield_2.armor.131116 removed in first object
+root.PJSB001_Kawachi_1912.B2_305_50.HP_JGM_1.armor.1 removed in first object
+root.PJSB001_Kawachi_1912.B2_305_50.HP_JGM_6.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_10.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_10.armor.131116 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_16.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_16.armor.131116 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_15.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_15.armor.131116 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_3.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_3.armor.131116 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_4.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_4.armor.131116 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_9.armor.1 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_9.armor.131116 removed in first object
+root.PJGS148_120MM45_B2C.armor.1 removed in first object
+root.PJGS148_120MM45_B2C.armor.131116 removed in first object
+root.PGEP428_Prinz_Eugen removed in first object
+>> finished comparing

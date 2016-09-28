@@ -1,0 +1,39 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC505_KrasniKrym.groupCustom.EU removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.EU removed in first object
+root.PASD502_Smith.groupCustom.NA removed in first object
+root.PASD029_Sims_1941.groupCustom.NA removed in first object
+root.PRSC002_Diana_1905.groupCustom.NA removed in second object
+root.PRSC003_Murmansk_1944.group changed in second object (was premium, is special)
+root.PRSC003_Murmansk_1944.groupCustom.EU removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.RU removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.CN removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.ASIA removed in first object
+root.PRSC001_Avrora_1917.group changed in second object (was premium, is special)
+root.PRSC001_Avrora_1917.groupCustom.EU removed in first object
+root.PRSC001_Avrora_1917.groupCustom.NA removed in first object
+root.PRSC001_Avrora_1917.groupCustom.CN removed in first object
+root.PRSC001_Avrora_1917.groupCustom.ASIA removed in first object
+root.PRSC001_Avrora_1917.groupCustom.RU removed in first object
+root.PRSD108_Pr_20i_Tashkent.permoflages[1] removed in first object
+root.PGSB503_Koenig_Albert.groupCustom.NA removed in first object
+root.PASA507_Saipan_1946.groupCustom.NA removed in first object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.EU removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.NA removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.CN removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.ASIA removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.RU removed in first object
+root.PWSD501_Blyskawica.groupCustom.NA removed in second object
+root.PWSD501_Blyskawica.groupCustom.EU removed in first object
+root.PASC006_Atlanta_1942.group changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.EU removed in first object
+root.PASC006_Atlanta_1942.groupCustom.NA removed in first object
+root.PASC006_Atlanta_1942.groupCustom.CN removed in first object
+root.PASC006_Atlanta_1942.groupCustom.ASIA removed in first object
+root.PASC006_Atlanta_1942.groupCustom.RU removed in first object
+root.PASB506_Arizona_1941.groupCustom.EU removed in first object
+root.PCEP128_Permo_Upgr_8_lvl removed in first object
+>> finished comparing

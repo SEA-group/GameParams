@@ -1,0 +1,115 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSB011_Mikasa_1905.groupCustom.EU removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.NA removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.CN removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.RU removed in first object
+root.PJSC038_Atago_1944.groupCustom.EU removed in first object
+root.PJSC038_Atago_1944.groupCustom.NA removed in first object
+root.PJSC038_Atago_1944.groupCustom.ASIA removed in first object
+root.PJSC038_Atago_1944.groupCustom.RU removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.EU removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.NA removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.RU removed in first object
+root.PASB705_Texas_1944.groupCustom.NA removed in first object
+root.PASB705_Texas_1944.groupCustom.ASIA removed in first object
+root.PWSD501_Blyskawica.groupCustom.NA removed in first object
+root.PWSD501_Blyskawica.groupCustom.ASIA removed in first object
+root.PWSD501_Blyskawica.groupCustom.RU removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[0][0] changed in second object (was PCEF001_Zulu_SignalFlag, is PCEF007_ID_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[1][0] changed in second object (was PCEF013_PP_SignalFlag, is PCEF008_IY_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[2][0] changed in second object (was PCEF003_EqualSpeed_SignalFlag, is PCEF009_JY2_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[3][0] changed in second object (was PCEF011_IB3_SignalFlag, is PCEF010_JC_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[4][0] changed in second object (was PCEF015_ZH_SignalFlag, is PCEF014_NF_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[5][0] changed in second object (was PCEF007_ID_SignalFlag, is PCEF005_SM_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[6][0] changed in second object (was PCEF008_IY_SignalFlag, is PCEF016_NE7_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[7][0] changed in second object (was PCEF009_JY2_SignalFlag, is PCEF017_VL_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[8][0] changed in second object (was PCEF010_JC_SignalFlag, is PCEF018_IX_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[9][0] changed in second object (was PCEF014_NF_SignalFlag, is PCEF019_JW1_SignalFlag)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[10] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[11] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[12] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[13] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[14] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[15] removed in second object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.storageItems[16] removed in second object
+root.PASD029_Sims_1941.groupCustom.CN removed in first object
+root.PRSC002_Diana_1905.groupCustom.EU removed in first object
+root.PRSC002_Diana_1905.groupCustom.NA removed in first object
+root.PRSC002_Diana_1905.groupCustom.RU removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65573 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65574 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131131 changed in second object (was 0.0, is 146.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131134 changed in second object (was 146.0, is 0.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65638 changed in second object (was 57.0, is 146.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131174 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.196656 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131119 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.196673 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131120 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.131121 removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.armor.196657 removed in first object
+root.PRSC003_Murmansk_1944.group changed in second object (was special, is premium)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[0][0] changed in second object (was PCEF001_Zulu_SignalFlag, is PCEF007_ID_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[1][0] changed in second object (was PCEF013_PP_SignalFlag, is PCEF008_IY_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[2][0] changed in second object (was PCEF003_EqualSpeed_SignalFlag, is PCEF009_JY2_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[3][0] changed in second object (was PCEF011_IB3_SignalFlag, is PCEF010_JC_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[4][0] changed in second object (was PCEF015_ZH_SignalFlag, is PCEF014_NF_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[5][0] changed in second object (was PCEF007_ID_SignalFlag, is PCEF005_SM_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[6][0] changed in second object (was PCEF008_IY_SignalFlag, is PCEF016_NE7_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[7][0] changed in second object (was PCEF009_JY2_SignalFlag, is PCEF017_VL_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[8][0] changed in second object (was PCEF010_JC_SignalFlag, is PCEF018_IX_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[9][0] changed in second object (was PCEF014_NF_SignalFlag, is PCEF019_JW1_SignalFlag)
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[10] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[11] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[12] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[13] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[14] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[15] removed in second object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.storageItems[16] removed in second object
+root.PRSC001_Avrora_1917.group changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.EU removed in first object
+root.PASC044_Marblehead_1924.groupCustom.RU removed in first object
+root.PASC044_Marblehead_1924.groupCustom.CN removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU removed in first object
+root.PBSB002_Warspite_1941.groupCustom.NA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.ASIA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.RU removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[0][0] changed in second object (was PCEF001_Zulu_SignalFlag, is PCEF007_ID_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[1][0] changed in second object (was PCEF013_PP_SignalFlag, is PCEF008_IY_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[2][0] changed in second object (was PCEF003_EqualSpeed_SignalFlag, is PCEF009_JY2_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[3][0] changed in second object (was PCEF011_IB3_SignalFlag, is PCEF010_JC_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[4][0] changed in second object (was PCEF015_ZH_SignalFlag, is PCEF014_NF_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[5][0] changed in second object (was PCEF007_ID_SignalFlag, is PCEF005_SM_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[6][0] changed in second object (was PCEF008_IY_SignalFlag, is PCEF016_NE7_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[7][0] changed in second object (was PCEF009_JY2_SignalFlag, is PCEF017_VL_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[8][0] changed in second object (was PCEF010_JC_SignalFlag, is PCEF018_IX_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[9][0] changed in second object (was PCEF014_NF_SignalFlag, is PCEF019_JW1_SignalFlag)
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[10] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[11] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[12] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[13] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[14] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[15] removed in second object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.storageItems[16] removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.EU removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.RU removed in first object
+root.PASA507_Saipan_1946.groupCustom.EU removed in first object
+root.PGSC502_Emden_1908.groupCustom.EU removed in first object
+root.PGSC502_Emden_1908.groupCustom.NA removed in first object
+root.PGSC502_Emden_1908.groupCustom.RU removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.EU removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.RU removed in first object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.group changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.NA removed in first object
+root.PRSC506_Molotov_1943.groupCustom.RU removed in first object
+root.PCEE030_Battle_of_Jutland removed in first object
+root.PCEE029_Songkran removed in first object
+>> finished comparing

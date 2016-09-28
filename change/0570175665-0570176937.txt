@@ -1,0 +1,124 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSB007_Kongo_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB705_Kongou.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC709_Haguro.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC503_Katori.groupCustom.CN changed in second object (was special, is premium)
+root.PASB034_New_Mexico_1941.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA015_Midway_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC106_Nurnberg.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PJSB011_Mikasa_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB707_Haruna.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB008_Colorado_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB013_Amagi_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA015_Taiho_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC038_Atago_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.RU changed in second object (was special, is premium)
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.RU changed in second object (was special, is premium)
+root.PJSB708_Hiei_Arpeggio.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC705_Myoko.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC018_Tone.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PZSD506_Anshan.groupCustom.CN changed in second object (was special, is premium)
+root.PRSB001_Nikolay_I.groupCustom.CN changed in second object (was special, is premium)
+root.PASB018_Iowa_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot1.mods[2] changed in second object (was PCM031_SecondaryWeapon_Mod_I, is PCM032_PowderMagazine_Mod_I)
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot1.mods[3] removed in second object
+root.PZSD508_LoYang.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB010_Nagato_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA012_Zuikaku_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD029_Sims_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC002_Diana_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.RU changed in second object (was special, is premium)
+root.PASA013_Essex_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot1.mods[2] removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PJSC008_Myoko_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC507_Indianapolis_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC003_Murmansk_1944.group changed in second object (was special, is premium)
+root.PGSC109_Roon.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC001_Avrora_1917.group changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.EU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.RU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.CN changed in second object (was special, is premium)
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PJSA011_Hiryu_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC107_Schors.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB705_Texas_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB705_Texas_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSB706_Kirishima.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB006_New_York_1934.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC007_Aoba_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PCM019_SecondaryGun_Mod_III.GSShotDelay changed in second object (was 0.75, is 0.8)
+root.PCM019_SecondaryGun_Mod_III.GSMaxDist changed in second object (was 1.2, is 1.0)
+root.PCM019_SecondaryGun_Mod_III.GSIdealRadius changed in second object (was 0.85, is 1.0)
+root.PJSB021_Izumo_1938.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC003_Albany_1898.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB006_Fuso_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC106_Pr_94_Budeny.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA012_Lexington_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSA017_Hakuryu_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASA507_Saipan_1946.groupCustom.EU changed in second object (was special, is premium)
+root.PASC007_Cleveland_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC502_Emden_1908.groupCustom.EU changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.NA changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.EU changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.NA changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.CN changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.RU changed in second object (was special, is premium)
+root.PGSC107_Yorck.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSB002_Tirpiz_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.NA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.CN changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.RU changed in second object (was special, is premium)
+root.PASB013_Arkansas_1912.ShipModernization.ModernizationSlot2.mods[2] removed in first object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.NA changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.CN changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.ASIA changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.RU changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.group changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC506_Molotov_1943.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.RU changed in second object (was special, is premium)
+root.PASB017_Montana_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASB506_Arizona_1941.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC012_Pensacola_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSB018_Yamato_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+>> finished comparing

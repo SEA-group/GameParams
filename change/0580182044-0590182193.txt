@@ -1,0 +1,1326 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCT034_AccountLevel2.credits changed in second object (was 200000, is 500000)
+root.PRGM095_130MM55_B7CAS.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PJW012_Haguro.Skills.SixthSenseAbility removed in second object
+root.PZW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.196705 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.327777 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_2.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_4.armor.327777 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_4.armor.262241 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_4.armor.131169 changed in second object (was 0.0, is 114.0)
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.HP_AGM_4.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.196705 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.327777 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_2.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_4.armor.262241 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_4.armor.131169 changed in second object (was 0.0, is 114.0)
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.HP_AGM_4.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65548 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65624 changed in second object (was 1.0, is 0.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.196698 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65598 changed in second object (was 15.0, is 40.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131135 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65633 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65635 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65620 changed in second object (was 6.0, is 16.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131160 changed in second object (was 6.0, is 16.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131161 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65637 changed in second object (was 25.0, is 6.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131169 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131171 removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65602 removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.armor.65628 removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.Cit.volume changed in second object (was 5.54, is 6.98)
+root.PASB034_New_Mexico_1941.B_Hull_1936.SS.splashBoxes[4] removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.SS.volume changed in second object (was 0.63, is 0.69)
+root.PASB034_New_Mexico_1941.C_Hull_1941.Cit.volume changed in second object (was 5.54, is 6.97)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65548 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65624 changed in second object (was 1.0, is 0.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.196698 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65598 changed in second object (was 15.0, is 40.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131135 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65633 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65635 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65620 changed in second object (was 6.0, is 16.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131160 changed in second object (was 6.0, is 16.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131161 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65637 changed in second object (was 25.0, is 6.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131169 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131171 removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65602 removed in first object
+root.PASB034_New_Mexico_1941.C_Hull_1941.armor.65628 removed in first object
+root.PASB034_New_Mexico_1941.C_Hull_1941.SS.splashBoxes[4] removed in first object
+root.PASB034_New_Mexico_1941.C_Hull_1941.SS.volume changed in second object (was 0.63, is 0.69)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.196705 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.327777 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.262241 changed in second object (was 320.0, is 114.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 320.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 114.0, is 320.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_2.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_4.armor.262241 changed in second object (was 114.0, is 0.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_4.armor.131169 changed in second object (was 0.0, is 114.0)
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB034_New_Mexico_1941.C1_Artillery.HP_AGM_4.armor.393313 removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65548 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65624 changed in second object (was 1.0, is 0.0)
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65598 changed in second object (was 21.0, is 40.0)
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.131135 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65633 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65635 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.131161 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.131169 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.131171 removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65602 removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.196697 removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.armor.65628 removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.Cit.volume changed in second object (was 5.54, is 6.97)
+root.PASB034_New_Mexico_1941.A_Hull_1918.SS.volume changed in second object (was 0.27, is 0.24)
+root.PASB034_New_Mexico_1941.A_Hull_1918.SSC.maxHP changed in second object (was 5400.0, is 5500.0)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_1.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_1.model changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_2.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_2.model changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_3.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_3.model changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_4.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC717_Yellow_Dragon.ATBADefault.HP_JGS_4.model changed in second object (was content/gameplay/japan/gun/secondary/JGS544_127mm40_Type89_3/JGS544_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC717_Yellow_Dragon.A_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC717_Yellow_Dragon.A_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC717_Yellow_Dragon.peculiarity changed in second object (was default, is ch_dragons)
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_CC_death_explosion_of_art_cellar.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_CC_fire_death.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_AA_death_catapult_ships.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_CC_boiler_explosion_post_death.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/CC_RunSmoke.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/CC_RunSmokeDamaged.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/onGroundExplosionTorpedo.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/guns/Gk_OwnShot_100.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/onShipHitTorpedo_J.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_CC_death_bomb.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/airplane_air_destroy.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/onGroundExplosion200.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/airplane_shoot_down_smoke.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/NF_death_torpedo.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_02.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/BB_RunSmoke_Forcing.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/guns/Gk_DoubleShot_200.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_03.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/onShipHitTorpedo.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_01.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/Cruiser_death.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_04.xml removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityEffects.sfx/airplane_ground_destroy.xml removed in first object
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_1.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM751_203mm50_Type_C_RF_mod_Dragons/JGM751_203mm50_Type_C_RF_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_2.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_2.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/main/JGM751_203mm50_Type_C_RF_mod_Dragons/JGM751_203mm50_Type_C_RF_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_3.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_3.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_4.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM751_203mm50_Type_C_RF_mod_Dragons/JGM751_203mm50_Type_C_RF_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_4.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_4.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_4.model changed in second object (was content/gameplay/japan/gun/main/JGM751_203mm50_Type_C_RF_mod_Dragons/JGM751_203mm50_Type_C_RF_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_5.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_5.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_5.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.HP_JGM_5.model changed in second object (was content/gameplay/japan/gun/main/JGM752_203mm50_Type_C_mod/JGM752_203mm50_Type_C_mod.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC717_Yellow_Dragon.C_Directors.HP_JD_8.model changed in second object (was content/gameplay/japan/director/JD560_Director_Type_94_Mod2_Dragons/JD560_Director_Type_94_Mod2_Dragons.model, is content/gameplay/japan/director/JD023_Director_Type_94_Mod2/JD023_Director_Type_94_Mod2.model)
+root.PJSC717_Yellow_Dragon.C_Directors.HP_JD_1.model changed in second object (was content/gameplay/japan/director/JD563_Director_Type_94_1_Dragons/JD563_Director_Type_94_1_Dragons.model, is content/gameplay/japan/director/JD004_Director_Type_94_1/JD004_Director_Type_94_1.model)
+root.PJSC717_Yellow_Dragon.C_Directors.HP_JD_5.model changed in second object (was content/gameplay/japan/director/JD561_Director_Type_91_Dragons/JD561_Director_Type_91_Dragons.model, is content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model)
+root.PJSC717_Yellow_Dragon.C_Directors.HP_JD_4.model changed in second object (was content/gameplay/japan/director/JD561_Director_Type_91_Dragons/JD561_Director_Type_91_Dragons.model, is content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model)
+root.PJSC717_Yellow_Dragon.B_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC717_Yellow_Dragon.B_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC717_Yellow_Dragon.B_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC717_Yellow_Dragon.group changed in second object (was special, is peculiar)
+root.PJSC717_Yellow_Dragon.C_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.model changed in second object (was content/gameplay/japan/ship/cruiser/JSC504_Myoko_1945_Dragons/JSC504_Myoko_1945_Dragons.model, is content/gameplay/japan/ship/cruiser/JSC008_Myoko_1945/JSC008_Myoko_1945.model)
+root.PJSC717_Yellow_Dragon.C_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC717_Yellow_Dragon.C_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC717_Yellow_Dragon.C_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/aircraft/fighter/JAF017_Mitsubishi_A6M2_N/JAF017_Mitsubishi_A6M2_N.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/ship/cruiser/JSC008_Myoko_1945/JSC008_Myoko_1945.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/director/JD023_Director_Type_94_Mod2/JD023_Director_Type_94_Mod2.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/director/JD004_Director_Type_94_1/JD004_Director_Type_94_1.model removed in first object
+root.PJSC717_Yellow_Dragon.peculiarityModels.content/gameplay/japan/finder/JF021_Rangefinder_6m/JF021_Rangefinder_6m.model removed in first object
+root.PJSC717_Yellow_Dragon.FindersDefault.HP_JF_1.model changed in second object (was content/gameplay/japan/finder/JF566_RF_1_5m_Nav_Dragons/JF566_RF_1_5m_Nav_Dragons.model, is content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model)
+root.PJSC717_Yellow_Dragon.FindersDefault.HP_JF_3.model changed in second object (was content/gameplay/japan/finder/JF562_Rangefinder_6m_Dragons/JF562_Rangefinder_6m_Dragons.model, is content/gameplay/japan/finder/JF021_Rangefinder_6m/JF021_Rangefinder_6m.model)
+root.PJSC717_Yellow_Dragon.FindersDefault.HP_JF_2.model changed in second object (was content/gameplay/japan/finder/JF566_RF_1_5m_Nav_Dragons/JF566_RF_1_5m_Nav_Dragons.model, is content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model)
+root.PJSC717_Yellow_Dragon.unpeculiarShip changed in second object (was None, is PJSC008_Myoko_1945)
+root.PJSC717_Yellow_Dragon.defaultCrew changed in second object (was None, is PJW102_Southern_dragon_king)
+root.PJSC717_Yellow_Dragon.C2_Torpedoes.HP_JGT_3.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC717_Yellow_Dragon.C2_Torpedoes.HP_JGT_2.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC717_Yellow_Dragon.C2_Torpedoes.HP_JGT_1.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC717_Yellow_Dragon.C2_Torpedoes.HP_JGT_4.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.hidePlane changed in second object (was False, is True)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.hidePlane changed in second object (was False, is True)
+root.PGSB002_Tirpiz_1942.HullDefault.armor.131123 removed in first object
+root.PGSB002_Tirpiz_1942.HullDefault.armor.131168 removed in first object
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PGY001_Ar196_Battleship_4, is PGY001_Ar196_Battleship_4_HIDE)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PGY101_Ar196_Battleship_4, is PGY101_Ar196_Battleship_4_HIDE)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[2][1] changed in second object (was PAY538_BF109G_Battleship_4, is PAY538_BF109G_Battleship_4_HIDE)
+root.PGSB002_Tirpiz_1942.ShipAbilities.AbilitySlot2.abils[3][1] changed in second object (was PAY638_BF109G_Battleship_4, is PAY638_BF109G_Battleship_4_HIDE)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 320.0)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 0.0, is 114.0)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_1.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_3.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_2.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PASB008_Colorado_1945.A1_Artillery.HP_AGM_4.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131123 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65548 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.196698 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131171 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65587 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.196665 changed in second object (was 120.0, is 89.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65591 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65594 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65598 changed in second object (was 25.0, is 50.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131135 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65633 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65632 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65593 changed in second object (was 89.0, is 120.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65637 changed in second object (was 25.0, is 6.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131168 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131169 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65635 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB008_Colorado_1945.B_Hull_1942.armor.65640 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131165 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131176 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.131156 removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.327781 removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.262201 removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.262245 removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.armor.196709 removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.Cas.maxHP changed in second object (was 3200.0, is 3100.0)
+root.PASB008_Colorado_1945.B_Hull_1942.SS.maxHP changed in second object (was 1000.0, is 900.0)
+root.PASB008_Colorado_1945.B_Hull_1942.SS.splashBoxes[1] changed in second object (was CM_SB_ss_1_2, is CM_SB_ss_3_3)
+root.PASB008_Colorado_1945.B_Hull_1942.SS.splashBoxes[2] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_3_1)
+root.PASB008_Colorado_1945.B_Hull_1942.SS.splashBoxes[3] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_3_2)
+root.PASB008_Colorado_1945.B_Hull_1942.SS.splashBoxes[4] removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.SS.splashBoxes[5] removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.SS.volume changed in second object (was 0.58, is 0.53)
+root.PASB008_Colorado_1945.B_Hull_1942.SSC.maxHP changed in second object (was 7300.0, is 7500.0)
+root.PASB008_Colorado_1945.B_Hull_1942.SSC.splashBoxes[3] removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.SSC.volume changed in second object (was 4.27, is 4.46)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131123 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65548 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.196709 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131171 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65587 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65594 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65598 changed in second object (was 31.0, is 50.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131135 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65633 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65632 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131168 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131169 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.65635 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131173 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131165 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.131156 removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.327781 removed in first object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.262201 removed in first object
+root.PASB008_Colorado_1945.A_Hull_1921.armor.262245 removed in first object
+root.PASB008_Colorado_1945.A_Hull_1921.SS.maxHP changed in second object (was 800.0, is 600.0)
+root.PASB008_Colorado_1945.A_Hull_1921.SS.splashBoxes[3] removed in first object
+root.PASB008_Colorado_1945.A_Hull_1921.SSC.maxHP changed in second object (was 7200.0, is 7300.0)
+root.PASB008_Colorado_1945.A_Hull_1921.SSC.splashBoxes[3] removed in first object
+root.PASB008_Colorado_1945.B1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 320.0)
+root.PASB008_Colorado_1945.B1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 0.0, is 114.0)
+root.PASB008_Colorado_1945.C1_Artillery.HP_AGM_1.armor.327777 changed in second object (was 114.0, is 320.0)
+root.PASB008_Colorado_1945.C1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 0.0, is 114.0)
+root.PASB008_Colorado_1945.C_Hull_1945.Cas.maxHP changed in second object (was 3200.0, is 3100.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131123 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65548 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.196698 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131171 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65587 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.196665 changed in second object (was 120.0, is 89.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65591 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65594 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65595 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65598 changed in second object (was 25.0, is 40.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131135 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65601 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65633 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65632 changed in second object (was 343.0, is 0.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65593 changed in second object (was 89.0, is 120.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131168 changed in second object (was 0.0, is 343.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131169 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65635 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.65640 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131165 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131176 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131156 removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.327781 removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.262201 removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.262245 removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.armor.196709 removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.SSC.maxHP changed in second object (was 7300.0, is 7400.0)
+root.PASB008_Colorado_1945.C_Hull_1945.SSC.splashBoxes[3] removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.SSC.volume changed in second object (was 4.27, is 4.46)
+root.PASB008_Colorado_1945.C_Hull_1945.St.maxHP changed in second object (was 1500.0, is 1400.0)
+root.PASB008_Colorado_1945.C_Hull_1945.SS.splashBoxes[1] changed in second object (was CM_SB_ss_1_2, is CM_SB_ss_3_1)
+root.PASB008_Colorado_1945.C_Hull_1945.SS.splashBoxes[2] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_3_2)
+root.PASB008_Colorado_1945.C_Hull_1945.SS.splashBoxes[3] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_3_3)
+root.PASB008_Colorado_1945.C_Hull_1945.SS.splashBoxes[4] removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.SS.splashBoxes[5] removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.SS.volume changed in second object (was 0.58, is 0.63)
+root.PAW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65643 changed in second object (was 120.0, is 76.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.262201 changed in second object (was 132.0, is 0.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65548 removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131171 removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131123 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65591 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65595 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65598 changed in second object (was 0.0, is 30.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65601 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65587 changed in second object (was 279.0, is 0.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65632 changed in second object (was 229.0, is 0.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65593 changed in second object (was 113.0, is 25.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65623 changed in second object (was 25.0, is 19.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131161 changed in second object (was 13.0, is 0.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65637 changed in second object (was 25.0, is 23.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131168 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65633 removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65635 removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131173 changed in second object (was 0.0, is 23.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131175 changed in second object (was 65.0, is 21.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131156 changed in second object (was 13.0, is 19.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65639 changed in second object (was 139.0, is 51.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65645 changed in second object (was 60.0, is 38.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.65594 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.armor.131136 removed in first object
+root.PASB004_Arkansas_1912.B_Hull_1942.Cas.maxHP changed in second object (was 4900.0, is 4800.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.St.volume changed in second object (was 0.56, is 0.57)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[0] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_1_1)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[1] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_1_2)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[2] changed in second object (was CM_SB_ss_3_1, is CM_SB_ss_1_3)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[3] changed in second object (was CM_SB_ss_1_1, is CM_SB_ss_1_4)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[4] changed in second object (was CM_SB_ss_1_2, is CM_SB_ss_1_5)
+root.PASB004_Arkansas_1912.B_Hull_1942.SS.splashBoxes[5] removed in first object
+root.PASB004_Arkansas_1912.B_Hull_1942.SSC.splashBoxes[5] removed in first object
+root.PASB004_Arkansas_1912.B_Hull_1942.SSC.volume changed in second object (was 2.93, is 2.97)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65548 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.196698 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.196709 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131123 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65591 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65595 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65598 changed in second object (was 0.0, is 30.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65601 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65587 changed in second object (was 279.0, is 0.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65632 changed in second object (was 229.0, is 0.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131168 changed in second object (was 0.0, is 229.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65594 changed in second object (was 0.0, is 279.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.196697 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131136 removed in first object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.262201 removed in first object
+root.PASB004_Arkansas_1912.A_Hull_1919.St.volume changed in second object (was 0.56, is 0.57)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[0] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_1_1)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[1] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_1_2)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[2] changed in second object (was CM_SB_ss_2_3, is CM_SB_ss_1_3)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[3] changed in second object (was CM_SB_ss_2_4, is CM_SB_ss_1_4)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[4] changed in second object (was CM_SB_ss_2_5, is CM_SB_ss_1_5)
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.splashBoxes[5] removed in first object
+root.PASB004_Arkansas_1912.A_Hull_1919.SS.volume changed in second object (was 0.63, is 0.67)
+root.PASB004_Arkansas_1912.A_Hull_1919.SSC.maxHP changed in second object (was 4100.0, is 4200.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.SSC.volume changed in second object (was 2.27, is 2.3)
+root.PBW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PJW008_Myoko.Skills.SixthSenseAbility removed in second object
+root.PCT040_AccountLevel8.storageItems[0][0] changed in second object (was PCEF001_Zulu_SignalFlag, is PCEF005_SM_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[1][0] changed in second object (was PCEF003_EqualSpeed_SignalFlag, is PCEF016_NE7_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[2][0] changed in second object (was PCEF005_SM_SignalFlag, is PCEF017_VL_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[3][0] changed in second object (was PCEF006_HY_SignalFlag, is PCEF018_IX_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[4][0] changed in second object (was PCEF007_ID_SignalFlag, is PCEF019_JW1_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[5][0] changed in second object (was PCEF008_IY_SignalFlag, is PCEF007_ID_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[6][0] changed in second object (was PCEF009_JY2_SignalFlag, is PCEF008_IY_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[7][0] changed in second object (was PCEF010_JC_SignalFlag, is PCEF009_JY2_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[8][0] changed in second object (was PCEF011_IB3_SignalFlag, is PCEF010_JC_SignalFlag)
+root.PCT040_AccountLevel8.storageItems[9][0] changed in second object (was PCEF012_MY6_SignalFlag, is PCEF014_NF_SignalFlag)
+root.PJW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PASB001_Michigan_1916.A_Hull.armor.131141 changed in second object (was 6.0, is 19.0)
+root.PASB001_Michigan_1916.A_Hull.armor.65589 changed in second object (was 0.0, is 305.0)
+root.PASB001_Michigan_1916.A_Hull.armor.65635 removed in second object
+root.PASB001_Michigan_1916.A_Hull.armor.131161 changed in second object (was 1.0, is 0.0)
+root.PASB001_Michigan_1916.A_Hull.armor.65633 removed in second object
+root.PASB001_Michigan_1916.A_Hull.armor.131171 removed in second object
+root.PASB001_Michigan_1916.A_Hull.armor.131175 removed in second object
+root.PASB001_Michigan_1916.A_Hull.armor.65619 removed in first object
+root.PASB001_Michigan_1916.A_Hull.Cas.maxHP changed in second object (was 2700.0, is 2600.0)
+root.PASB001_Michigan_1916.A_Hull.Cas.volume changed in second object (was 1.33, is 1.36)
+root.PASB001_Michigan_1916.A_Hull.Cit.volume changed in second object (was 4.05, is 4.22)
+root.PASB001_Michigan_1916.A_Hull.SS.splashBoxes[2] removed in first object
+root.PASB001_Michigan_1916.A_Hull.SS.volume changed in second object (was 0.46, is 0.47)
+root.PASB001_Michigan_1916.A_Hull.SSC.maxHP changed in second object (was 2900.0, is 3200.0)
+root.PASB001_Michigan_1916.A_Hull.SSC.splashBoxes[2] removed in first object
+root.PASB001_Michigan_1916.A_Hull.SSC.volume changed in second object (was 1.46, is 1.65)
+root.PASB001_Michigan_1916.A1_Artillery.HP_AGM_1.armor.65571 removed in second object
+root.PASB001_Michigan_1916.A1_Artillery.HP_AGM_3.armor.65571 removed in second object
+root.PASB001_Michigan_1916.A1_Artillery.HP_AGM_2.armor.65571 removed in second object
+root.PASB001_Michigan_1916.A1_Artillery.HP_AGM_4.armor.65571 removed in second object
+root.PASB001_Michigan_1916.B_Hull.armor.131141 changed in second object (was 6.0, is 19.0)
+root.PASB001_Michigan_1916.B_Hull.armor.65589 changed in second object (was 0.0, is 305.0)
+root.PASB001_Michigan_1916.B_Hull.armor.65635 removed in second object
+root.PASB001_Michigan_1916.B_Hull.armor.131161 changed in second object (was 1.0, is 0.0)
+root.PASB001_Michigan_1916.B_Hull.armor.65633 removed in second object
+root.PASB001_Michigan_1916.B_Hull.armor.131171 removed in second object
+root.PASB001_Michigan_1916.B_Hull.armor.131175 removed in second object
+root.PASB001_Michigan_1916.B_Hull.armor.65619 removed in first object
+root.PASB001_Michigan_1916.B_Hull.Cas.maxHP changed in second object (was 2900.0, is 2800.0)
+root.PASB001_Michigan_1916.B_Hull.Cas.volume changed in second object (was 1.33, is 1.36)
+root.PASB001_Michigan_1916.B_Hull.Cit.volume changed in second object (was 4.05, is 4.22)
+root.PASB001_Michigan_1916.B_Hull.St.maxHP changed in second object (was 800.0, is 700.0)
+root.PASB001_Michigan_1916.B_Hull.SS.maxHP changed in second object (was 1200.0, is 1100.0)
+root.PASB001_Michigan_1916.B_Hull.SS.splashBoxes[4] removed in first object
+root.PASB001_Michigan_1916.B_Hull.SSC.maxHP changed in second object (was 3200.0, is 3400.0)
+root.PASB001_Michigan_1916.B_Hull.SSC.splashBoxes[2] removed in first object
+root.PASB001_Michigan_1916.B_Hull.SSC.volume changed in second object (was 1.46, is 1.65)
+root.PASB001_Michigan_1916.B1_Artillery.HP_AGM_1.armor.65571 removed in second object
+root.PASB001_Michigan_1916.B1_Artillery.HP_AGM_3.armor.65571 removed in second object
+root.PASB001_Michigan_1916.B1_Artillery.HP_AGM_2.armor.65571 removed in second object
+root.PASB001_Michigan_1916.B1_Artillery.HP_AGM_4.armor.65571 removed in second object
+root.PJW006_Kirishima.Skills.SixthSenseAbility removed in second object
+root.PCY013_SpotterPremium.PGY101_Ar196_Battleship_4_HIDE removed in first object
+root.PCY013_SpotterPremium.PFY101_Loire130_Battleship_3 removed in first object
+root.PCY013_SpotterPremium.PGY107_Ar196C_Battleship_5_HIDE removed in first object
+root.PCY013_SpotterPremium.PGY107_Ar196C_Battleship_7_HIDE removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.65548 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.65627 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.196699 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131123 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131166 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.65598 changed in second object (was 25.0, is 50.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65600 changed in second object (was 0.0, is 152.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65633 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131155 changed in second object (was 0.0, is 6.0)
+root.PASB018_Iowa_1944.B_Hull.armor.131163 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131168 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131169 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.65635 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB018_Iowa_1944.B_Hull.armor.131165 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131171 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131141 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.65605 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.196677 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.196665 removed in first object
+root.PASB018_Iowa_1944.B_Hull.Cas.volume changed in second object (was 3.73, is 3.86)
+root.PASB018_Iowa_1944.B_Hull.Cit.volume changed in second object (was 9.17, is 9.63)
+root.PASB018_Iowa_1944.B_Hull.St.maxHP changed in second object (was 5500.0, is 6000.0)
+root.PASB018_Iowa_1944.B_Hull.St.volume changed in second object (was 3.12, is 3.57)
+root.PASB018_Iowa_1944.B_Hull.SS.maxHP changed in second object (was 6600.0, is 6400.0)
+root.PASB018_Iowa_1944.B_Hull.SS.volume changed in second object (was 3.74, is 3.81)
+root.PASB018_Iowa_1944.B_Hull.Bow.maxHP changed in second object (was 5100.0, is 4900.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65548 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65627 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.196699 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131123 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65588 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65589 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131166 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65598 changed in second object (was 25.0, is 50.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65600 changed in second object (was 0.0, is 152.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65633 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131155 changed in second object (was 0.0, is 6.0)
+root.PASB018_Iowa_1944.A_Hull.armor.131163 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131168 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131169 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65635 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65645 changed in second object (was 0.0, is 127.0)
+root.PASB018_Iowa_1944.A_Hull.armor.131165 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131171 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131141 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.65605 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.196677 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.196665 removed in first object
+root.PASB018_Iowa_1944.A_Hull.Cas.volume changed in second object (was 3.73, is 3.85)
+root.PASB018_Iowa_1944.A_Hull.Cit.volume changed in second object (was 9.17, is 9.63)
+root.PASB018_Iowa_1944.A_Hull.St.maxHP changed in second object (was 4700.0, is 5200.0)
+root.PASB018_Iowa_1944.A_Hull.St.volume changed in second object (was 3.12, is 3.57)
+root.PASB018_Iowa_1944.A_Hull.SS.maxHP changed in second object (was 5700.0, is 5500.0)
+root.PASB018_Iowa_1944.A_Hull.SS.volume changed in second object (was 3.74, is 3.81)
+root.PASB018_Iowa_1944.A_Hull.Bow.maxHP changed in second object (was 4400.0, is 4200.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65548 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.65627 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.196699 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131123 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131166 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.65598 changed in second object (was 25.0, is 50.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65600 changed in second object (was 0.0, is 152.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65633 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131155 changed in second object (was 0.0, is 6.0)
+root.PASB018_Iowa_1944.C_Hull.armor.131163 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131168 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131169 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.65635 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB018_Iowa_1944.C_Hull.armor.131165 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131171 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131141 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.65605 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.196677 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.196665 removed in first object
+root.PASB018_Iowa_1944.C_Hull.Cas.volume changed in second object (was 3.73, is 3.86)
+root.PASB018_Iowa_1944.C_Hull.Cit.volume changed in second object (was 9.17, is 9.63)
+root.PASB018_Iowa_1944.C_Hull.St.maxHP changed in second object (was 5500.0, is 6000.0)
+root.PASB018_Iowa_1944.C_Hull.St.volume changed in second object (was 3.12, is 3.57)
+root.PASB018_Iowa_1944.C_Hull.SS.maxHP changed in second object (was 6600.0, is 6400.0)
+root.PASB018_Iowa_1944.C_Hull.SS.volume changed in second object (was 3.74, is 3.81)
+root.PASB018_Iowa_1944.C_Hull.Bow.maxHP changed in second object (was 5100.0, is 4900.0)
+root.PGAF006_TA152C.prepareTime changed in second object (was 0.0, is 5)
+root.PASC024_Phoenix_1917.C_Hull_1938.armor.196694 changed in second object (was 10.0, is 13.0)
+root.PASC024_Phoenix_1917.C_Hull_1938.armor.65622 changed in second object (was 10.0, is 13.0)
+root.PASC024_Phoenix_1917.B_Hull_1924.armor.65622 changed in second object (was 10.0, is 13.0)
+root.PASC024_Phoenix_1917.A_Hull_1917.armor.65622 changed in second object (was 10.0, is 13.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 100.0, is 0.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_1.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_1.armor.327777 removed in first object
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_3.armor.262241 changed in second object (was 100.0, is 0.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_3.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_3.armor.327777 removed in first object
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_2.armor.262241 changed in second object (was 406.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_2.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 100.0, is 406.0)
+root.PASB012_North_Carolina_1945.AB1_Artillery.HP_AGM_2.armor.327777 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65643 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65548 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131171 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131123 changed in second object (was 25.0, is 282.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65591 changed in second object (was 0.0, is 25.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65594 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65595 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65598 changed in second object (was 29.0, is 50.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65601 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65587 changed in second object (was 282.0, is 0.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65633 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65632 changed in second object (was 282.0, is 0.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131168 changed in second object (was 25.0, is 282.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131169 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65635 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65644 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.196697 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.107 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131127 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131130 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.131164 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.108 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.Cas.maxHP changed in second object (was 8400.0, is 8300.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.Cas.volume changed in second object (was 6.88, is 6.47)
+root.PASB012_North_Carolina_1945.B_Hull_1942.Cit.volume changed in second object (was 6.53, is 6.76)
+root.PASB012_North_Carolina_1945.B_Hull_1942.St.maxHP changed in second object (was 2100.0, is 2200.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.St.volume changed in second object (was 1.74, is 1.72)
+root.PASB012_North_Carolina_1945.B_Hull_1942.SS.maxHP changed in second object (was 2700.0, is 2600.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.SS.volume changed in second object (was 2.2, is 2.04)
+root.PASB012_North_Carolina_1945.B_Hull_1942.Bow.maxHP changed in second object (was 2800.0, is 3000.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65548 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131171 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131123 changed in second object (was 25.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65591 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65594 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65595 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65598 changed in second object (was 29.0, is 50.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65601 changed in second object (was 0.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65587 changed in second object (was 282.0, is 0.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65633 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65632 changed in second object (was 282.0, is 0.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131168 changed in second object (was 25.0, is 282.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131169 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65635 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.196697 removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131130 removed in first object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131127 removed in first object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.131165 removed in first object
+root.PASB012_North_Carolina_1945.C_Hull_1945.SS.volume changed in second object (was 2.2, is 2.19)
+root.PASB012_North_Carolina_1945.C_Hull_1945.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PASB012_North_Carolina_1945.C_Hull_1945.SG.splashBoxes[1] changed in second object (was CM_SB_ruder_2, is CM_SB_ruder1_2)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_1.armor.262241 changed in second object (was 406.0, is 100.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_1.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 406.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_1.armor.327777 removed in first object
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_3.armor.262241 changed in second object (was 406.0, is 100.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_3.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 406.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_3.armor.327777 removed in first object
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_2.armor.65635 changed in second object (was 90.0, is 100.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 100.0, is 406.0)
+root.PASB012_North_Carolina_1945.C1_Artillery.HP_AGM_2.armor.327777 removed in first object
+root.PJW005_Kongou.Skills.SixthSenseAbility removed in second object
+root.PGAF005_FW190A8.prepareTime changed in second object (was 0.0, is 5)
+root.PRGM094_130MM_55_B7.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PCY006_SmokeGenerator.Lvl_6.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_6.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_7.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_7.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_4.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_4.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_5.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_5.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_2.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_2.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_3.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_3.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_8.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_8.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_9.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_9.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Test.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Test.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_10.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_10.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_8.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_8.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Lvl_8_Kutuzov.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Lvl_8_Kutuzov.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Default.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Default.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_10.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_10.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.Cruiser.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.Cruiser.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_9.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_9.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_6.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_6.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_7.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_7.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_4.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_4.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_5.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_5.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_2.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_2.startDelayTime removed in first object
+root.PCY006_SmokeGenerator.US_Lvl_3.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY006_SmokeGenerator.US_Lvl_3.startDelayTime removed in first object
+root.PCBX001.airDefense.HP_CGA_4.antiAirAuraStrength changed in second object (was 0.77, is 0.7)
+root.PCBX001.airDefense.HP_CGA_3.antiAirAuraStrength changed in second object (was 0.77, is 0.7)
+root.PCBX001.airDefense.HP_CGA_1.antiAirAuraStrength changed in second object (was 0.77, is 0.7)
+root.PCBX001.airDefense.HP_CGA_2.antiAirAuraStrength changed in second object (was 0.77, is 0.7)
+root.PCBX001.hull.health changed in second object (was 300000.0, is 210000.0)
+root.PCBX001.hull.healthRestorationRate changed in second object (was 2000, is 1400)
+root.PCBX001.artillery.maxDist changed in second object (was 13000.0, is 12000.0)
+root.PCBX001.artillery.HP_CGM_3.idealRadius changed in second object (was 12.0, is 14)
+root.PCBX001.artillery.HP_CGM_3.minRadius changed in second object (was 2.0, is 4)
+root.PCBX001.artillery.HP_CGM_2.idealRadius changed in second object (was 12.0, is 14)
+root.PCBX001.artillery.HP_CGM_2.minRadius changed in second object (was 2.0, is 4)
+root.PCBX001.artillery.HP_CGM_1.idealRadius changed in second object (was 12.0, is 14)
+root.PCBX001.artillery.HP_CGM_1.minRadius changed in second object (was 2.0, is 4)
+root.PCBX001.artillery.targetTypeIgnore[0] removed in first object
+root.PCBX001.artillery.targetTypeIgnore[1] removed in first object
+root.PCBX001.artillery.targetTypeIgnore[2] removed in first object
+root.PCBX001.artillery.targetTypeIgnore[3] removed in first object
+root.PCBX003.artillery.HP_CGM_3.minRadius changed in second object (was 2.0, is 4)
+root.PCBX003.artillery.HP_CGM_2.minRadius changed in second object (was 2.0, is 4)
+root.PCBX003.artillery.HP_CGM_1.minRadius changed in second object (was 2.0, is 4)
+root.PCBX003.artillery.targetTypeIgnore[0] removed in first object
+root.PCBX003.artillery.targetTypeIgnore[1] removed in first object
+root.PCBX003.artillery.targetTypeIgnore[2] removed in first object
+root.PCBX003.artillery.targetTypeIgnore[3] removed in first object
+root.PJPA708_Shell_203mm_AP_AP_Type_91 removed in second object
+root.PASC044_Marblehead_1924.HullDefault.armor.65624 changed in second object (was 6.0, is 10.0)
+root.PGSC103_Kolberg.ShipUpgradeInfo.PGUE201_C3_ENG_STOCK.nextShips[0] removed in first object
+root.PCY005_Spotter.PGY007_Ar196C_Battleship_5_HIDE removed in first object
+root.PCY005_Spotter.PGY007_Ar196C_Battleship_7_HIDE removed in first object
+root.PCY005_Spotter.PGY001_Ar196_Battleship_4_HIDE removed in first object
+root.PCY005_Spotter.PFY001_Loire130_Battleship_3 removed in first object
+root.PJW016_Gunzou.Skills.SixthSenseAbility removed in second object
+root.PASC017_Baltimore_1944.AB2_203_55.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 160.0)
+root.PASC017_Baltimore_1944.AB2_203_55.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 160.0)
+root.PASC017_Baltimore_1944.AB2_203_55.HP_AGM_2.armor.196705 changed in second object (was 0.0, is 160.0)
+root.PASC017_Baltimore_1944.AB1_203_55.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 160.0)
+root.PASC017_Baltimore_1944.AB1_203_55.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 160.0)
+root.PASC017_Baltimore_1944.AB1_203_55.HP_AGM_2.armor.196705 changed in second object (was 0.0, is 160.0)
+root.PGSB503_Koenig_Albert.A_Hull.speedEffect changed in second object (was sfx/vehicles/WaterEffectsKonigAlbert.xml, is sfx/vehicles/WaterEffectsKoenigAlbert.xml)
+root.PGSB503_Koenig_Albert.A_Hull.armor.131123 removed in first object
+root.PGSB503_Koenig_Albert.A_Hull.armor.131168 removed in first object
+root.PGSB503_Koenig_Albert.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Konig_Albert_fire_01.xml, is sfx/vehicles/Koenig_Albert_fire_01.xml)
+root.PGSB503_Koenig_Albert.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Konig_Albert_fire_02.xml, is sfx/vehicles/Koenig_Albert_fire_02.xml)
+root.PGSB503_Koenig_Albert.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Konig_Albert_fire_03.xml, is sfx/vehicles/Koenig_Albert_fire_03.xml)
+root.PGSB503_Koenig_Albert.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Konig_Albert_fire_04.xml, is sfx/vehicles/Koenig_Albert_fire_04.xml)
+root.PGSB503_Koenig_Albert.A_Hull.deathFoamEffect changed in second object (was sfx/NF_Konig_Albert_foam_post_death.xml, is sfx/NF_Koenig_Albert_foam_post_death.xml)
+root.PGSB503_Koenig_Albert.A1_Artillery.HP_GGM_2.deadZone[0] removed in second object
+root.PGSB503_Koenig_Albert.A1_Artillery.HP_GGM_2.pitchDeadZones[0] removed in first object
+root.PGSB507_Scharnhorst.A_Hull.armor.131123 removed in first object
+root.PGSB507_Scharnhorst.A_Hull.armor.131168 removed in first object
+root.PASB705_Texas_1944.A_Hull.armor.65548 removed in second object
+root.PASB705_Texas_1944.A_Hull.armor.131123 changed in second object (was 0.0, is 280.0)
+root.PASB705_Texas_1944.A_Hull.armor.65595 changed in second object (was 0.0, is 254.0)
+root.PASB705_Texas_1944.A_Hull.armor.65598 changed in second object (was 0.0, is 30.0)
+root.PASB705_Texas_1944.A_Hull.armor.65600 changed in second object (was 0.0, is 25.0)
+root.PASB705_Texas_1944.A_Hull.armor.65601 changed in second object (was 0.0, is 280.0)
+root.PASB705_Texas_1944.A_Hull.armor.65587 changed in second object (was 280.0, is 0.0)
+root.PASB705_Texas_1944.A_Hull.armor.65632 changed in second object (was 254.0, is 0.0)
+root.PASB705_Texas_1944.A_Hull.armor.131168 changed in second object (was 0.0, is 254.0)
+root.PASB705_Texas_1944.A_Hull.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB705_Texas_1944.A_Hull.armor.131165 removed in second object
+root.PASB705_Texas_1944.A_Hull.armor.131136 removed in first object
+root.PASB705_Texas_1944.A_Hull.armor.262201 removed in first object
+root.PASB705_Texas_1944.A_Hull.armor.196702 removed in first object
+root.PASB705_Texas_1944.A_Hull.Cas.splashBoxes[3] removed in first object
+root.PASB705_Texas_1944.A_Hull.Cas.volume changed in second object (was 2.97, is 2.98)
+root.PASB705_Texas_1944.A_Hull.Cit.volume changed in second object (was 5.62, is 5.67)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_1.armor.458849 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.327777 changed in second object (was 127.0, is 0.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_3.armor.458849 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_2.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_2.armor.327777 removed in second object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_2.armor.262241 changed in second object (was 305.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 127.0, is 305.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_4.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_4.armor.327777 removed in second object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_4.armor.262241 changed in second object (was 305.0, is 0.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.327777 changed in second object (was 127.0, is 0.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.131169 changed in second object (was 0.0, is 127.0)
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.131104 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.393313 removed in first object
+root.PASB705_Texas_1944.A1_Artillery.HP_AGM_5.armor.458849 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_1.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_1.armor.458849 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_3.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_3.armor.458849 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_2.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 127.0, is 305.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_2.armor.393313 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_2.armor.458849 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.262241 changed in second object (was 127.0, is 305.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.393313 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_4.armor.458849 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_5.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_5.armor.131169 changed in second object (was 0.0, is 127.0)
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_5.armor.131104 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_5.armor.393313 removed in first object
+root.PASB006_New_York_1934.B1_Artillery.HP_AGM_5.armor.458849 removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.armor.65548 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.196698 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.65635 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131123 changed in second object (was 0.0, is 280.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65595 changed in second object (was 0.0, is 254.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65598 changed in second object (was 5.0, is 30.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65600 changed in second object (was 0.0, is 25.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65601 changed in second object (was 0.0, is 280.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65587 changed in second object (was 280.0, is 0.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65633 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131165 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.65632 changed in second object (was 254.0, is 0.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65618 changed in second object (was 152.0, is 68.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65620 changed in second object (was 19.0, is 25.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.262231 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131168 changed in second object (was 0.0, is 254.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.131169 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131171 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.65640 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.65645 changed in second object (was 69.0, is 75.0)
+root.PASB006_New_York_1934.C_Hull_1942.armor.131135 removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.armor.131136 removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.armor.262201 removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.armor.196709 removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.armor.196702 removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.Cas.splashBoxes[3] removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.Cas.volume changed in second object (was 2.97, is 2.98)
+root.PASB006_New_York_1934.C_Hull_1942.Cit.volume changed in second object (was 5.62, is 5.67)
+root.PASB006_New_York_1934.C_Hull_1942.SS.maxHP changed in second object (was 900.0, is 800.0)
+root.PASB006_New_York_1934.C_Hull_1942.SS.splashBoxes[5] removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.SS.volume changed in second object (was 0.49, is 0.45)
+root.PASB006_New_York_1934.C_Hull_1942.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PASB006_New_York_1934.C_Hull_1942.SG.splashBoxes[1] changed in second object (was CM_SB_ruder_2, is CM_SB_ruder1_2)
+root.PASB006_New_York_1934.C_Hull_1942.SSC.maxHP changed in second object (was 5000.0, is 5100.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65548 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.196698 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.65635 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131123 changed in second object (was 0.0, is 280.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65595 changed in second object (was 0.0, is 254.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65598 changed in second object (was 5.0, is 30.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65600 changed in second object (was 0.0, is 25.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65601 changed in second object (was 0.0, is 280.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65587 changed in second object (was 280.0, is 0.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65633 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131165 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.65632 changed in second object (was 254.0, is 0.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.262231 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131168 changed in second object (was 0.0, is 254.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.131169 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131171 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131173 changed in second object (was 0.0, is 25.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.65640 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.65645 changed in second object (was 69.0, is 75.0)
+root.PASB006_New_York_1934.B_Hull_1934.armor.131135 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.armor.131136 removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.armor.262201 removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.armor.196709 removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.armor.196702 removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.Cas.splashBoxes[3] removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.Cas.volume changed in second object (was 2.97, is 2.98)
+root.PASB006_New_York_1934.B_Hull_1934.Cit.volume changed in second object (was 5.62, is 5.67)
+root.PASB006_New_York_1934.B_Hull_1934.SS.maxHP changed in second object (was 500.0, is 600.0)
+root.PASB006_New_York_1934.B_Hull_1934.SS.splashBoxes[5] removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.SS.volume changed in second object (was 0.33, is 0.36)
+root.PASB006_New_York_1934.B_Hull_1934.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PASB006_New_York_1934.B_Hull_1934.SG.splashBoxes[1] changed in second object (was CM_SB_ruder_2, is CM_SB_ruder1_2)
+root.PASB006_New_York_1934.B_Hull_1934.SSC.maxHP changed in second object (was 4500.0, is 4400.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_1.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_1.armor.131104 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_1.armor.393313 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_1.armor.458849 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.327777 changed in second object (was 127.0, is 0.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.131169 changed in second object (was 0.0, is 305.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.131104 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.393313 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_3.armor.458849 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_2.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_2.armor.131169 changed in second object (was 127.0, is 305.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_2.armor.131104 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_2.armor.393313 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_2.armor.458849 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.327777 changed in second object (was 305.0, is 127.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.131169 changed in second object (was 127.0, is 305.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.131104 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.393313 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_4.armor.458849 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.65568 changed in second object (was 229.0, is 203.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.196705 changed in second object (was 305.0, is 127.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.327777 changed in second object (was 127.0, is 0.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.131169 changed in second object (was 0.0, is 127.0)
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.131104 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.393313 removed in first object
+root.PASB006_New_York_1934.C1_Artillery.HP_AGM_5.armor.458849 removed in first object
+root.PCW001_CrewCommon.Skills.SixthSenseAbility removed in second object
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_1.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_1.model changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_2.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_2.model changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_3.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_3.model changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_4.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3_dead.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model)
+root.PJSC727_Blue_Dragon.ATBADefault.HP_JGS_4.model changed in second object (was content/gameplay/japan/gun/secondary/JGS545_127mm40_Type89_3/JGS545_127mm40_Type89_3.model, is content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model)
+root.PJSC727_Blue_Dragon.A_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC727_Blue_Dragon.A_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC727_Blue_Dragon.A_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC727_Blue_Dragon.A_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC727_Blue_Dragon.A_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC727_Blue_Dragon.A_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC727_Blue_Dragon.A_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC727_Blue_Dragon.A_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC727_Blue_Dragon.A_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC727_Blue_Dragon.peculiarity changed in second object (was default, is ch_dragons)
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_CC_death_explosion_of_art_cellar.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_CC_fire_death.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_AA_death_catapult_ships.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_CC_boiler_explosion_post_death.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/CC_RunSmoke.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/CC_RunSmokeDamaged.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/onGroundExplosionTorpedo.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/guns/Gk_OwnShot_100.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/onShipHitTorpedo_J.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_CC_death_bomb.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/airplane_air_destroy.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/onGroundExplosion200.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/airplane_shoot_down_smoke.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/NF_death_torpedo.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_02.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/BB_RunSmoke_Forcing.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/guns/Gk_DoubleShot_200.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_03.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/onShipHitTorpedo.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_01.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/Cruiser_death.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/vehicles/Myoko_fire_04.xml removed in first object
+root.PJSC727_Blue_Dragon.peculiarityEffects.sfx/airplane_ground_destroy.xml removed in first object
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_1.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM753_203mm50_Type_C_RF_mod_Dragons/JGM753_203mm50_Type_C_RF_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_2.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_2.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/main/JGM753_203mm50_Type_C_RF_mod_Dragons/JGM753_203mm50_Type_C_RF_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_3.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_3.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_4.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM753_203mm50_Type_C_RF_mod_Dragons/JGM753_203mm50_Type_C_RF_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_4.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_4.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_4.model changed in second object (was content/gameplay/japan/gun/main/JGM753_203mm50_Type_C_RF_mod_Dragons/JGM753_203mm50_Type_C_RF_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_5.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons_dead.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_5.ammoList[0] changed in second object (was PJPA709_Shell_203mm_HE_C_Type_0, is PJPA009_Shell_203mm_HE_C_Type_0)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_5.ammoList[1] changed in second object (was PJPA708_Shell_203mm_AP_AP_Type_91, is PJPA008_Shell_203mm_AP_AP_Type_91)
+root.PJSC727_Blue_Dragon.ArtilleryDefault.HP_JGM_5.model changed in second object (was content/gameplay/japan/gun/main/JGM754_203mm50_Type_C_mod_Dragons/JGM754_203mm50_Type_C_mod_Dragons.model, is content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model)
+root.PJSC727_Blue_Dragon.C_Directors.HP_JD_8.model changed in second object (was content/gameplay/japan/director/JD560_Director_Type_94_Mod2_Dragons/JD560_Director_Type_94_Mod2_Dragons.model, is content/gameplay/japan/director/JD023_Director_Type_94_Mod2/JD023_Director_Type_94_Mod2.model)
+root.PJSC727_Blue_Dragon.C_Directors.HP_JD_1.model changed in second object (was content/gameplay/japan/director/JD557_Director_Type_94_1_Dragons/JD557_Director_Type_94_1_Dragons.model, is content/gameplay/japan/director/JD004_Director_Type_94_1/JD004_Director_Type_94_1.model)
+root.PJSC727_Blue_Dragon.C_Directors.HP_JD_5.model changed in second object (was content/gameplay/japan/director/JD558_Director_Type_91_Dragons/JD558_Director_Type_91_Dragons.model, is content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model)
+root.PJSC727_Blue_Dragon.C_Directors.HP_JD_4.model changed in second object (was content/gameplay/japan/director/JD558_Director_Type_91_Dragons/JD558_Director_Type_91_Dragons.model, is content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model)
+root.PJSC727_Blue_Dragon.B_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC727_Blue_Dragon.B_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC727_Blue_Dragon.B_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC727_Blue_Dragon.B_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC727_Blue_Dragon.B_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC727_Blue_Dragon.B_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC727_Blue_Dragon.B_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC727_Blue_Dragon.B_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC727_Blue_Dragon.B_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC727_Blue_Dragon.group changed in second object (was special, is peculiar)
+root.PJSC727_Blue_Dragon.C_Hull.deathDetonateEffect changed in second object (was sfx/NF_CC_death_explosion_of_art_cellar_Arpeggio.xml, is sfx/NF_CC_death_explosion_of_art_cellar.xml)
+root.PJSC727_Blue_Dragon.C_Hull.model changed in second object (was content/gameplay/japan/ship/cruiser/JSC505_Myoko_1945_Dragons/JSC505_Myoko_1945_Dragons.model, is content/gameplay/japan/ship/cruiser/JSC008_Myoko_1945/JSC008_Myoko_1945.model)
+root.PJSC727_Blue_Dragon.C_Hull.deathPlaneEffect changed in second object (was sfx/NF_AA_death_catapult_ships_Arpeggio.xml, is sfx/NF_AA_death_catapult_ships.xml)
+root.PJSC727_Blue_Dragon.C_Hull.effectOnDeath changed in second object (was sfx/vehicles/Cruiser_death_Arpeggio.xml, is sfx/vehicles/Cruiser_death.xml)
+root.PJSC727_Blue_Dragon.C_Hull.deathTorpedoEffect changed in second object (was sfx/NF_death_torpedo_Arpeggio.xml, is sfx/NF_death_torpedo.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_fire_01.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_fire_02.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_fire_03.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_fire_04.xml)
+root.PJSC727_Blue_Dragon.C_Hull.boilerExplosionPostDeath changed in second object (was sfx/NF_CC_boiler_explosion_post_death_Arpeggio.xml, is sfx/NF_CC_boiler_explosion_post_death.xml)
+root.PJSC727_Blue_Dragon.C_Hull.engineEffect changed in second object (was sfx/vehicles/CC_RunSmoke_Arpeggio.xml, is sfx/vehicles/CC_RunSmoke.xml)
+root.PJSC727_Blue_Dragon.C_Hull.deathShellEffect changed in second object (was sfx/NF_CC_death_bomb_Arpeggio.xml, is sfx/NF_CC_death_bomb.xml)
+root.PJSC727_Blue_Dragon.C_Hull.sinkingEffects changed in second object (was PCXS006_Cruiser, is )
+root.PJSC727_Blue_Dragon.C_Hull.deathFireEffect changed in second object (was sfx/NF_CC_fire_death_Arpeggio.xml, is sfx/NF_CC_fire_death.xml)
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/aircraft/fighter/JAF017_Mitsubishi_A6M2_N/JAF017_Mitsubishi_A6M2_N.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/secondary/JGS042_127mm40_Type89_3/JGS042_127mm40_Type89_3_dead.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/director/JD008_Director_Type_91/JD008_Director_Type_91.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/ship/cruiser/JSC008_Myoko_1945/JSC008_Myoko_1945.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod_dead.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM063_203mm50_Type_C_RF_mod/JGM063_203mm50_Type_C_RF_mod_dead.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/director/JD023_Director_Type_94_Mod2/JD023_Director_Type_94_Mod2.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/gun/main/JGM064_203mm50_Type_C_mod/JGM064_203mm50_Type_C_mod.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/director/JD004_Director_Type_94_1/JD004_Director_Type_94_1.model removed in first object
+root.PJSC727_Blue_Dragon.peculiarityModels.content/gameplay/japan/finder/JF021_Rangefinder_6m/JF021_Rangefinder_6m.model removed in first object
+root.PJSC727_Blue_Dragon.FindersDefault.HP_JF_1.model changed in second object (was content/gameplay/japan/finder/JF559_RF_1_5m_Nav_Dragons/JF559_RF_1_5m_Nav_Dragons.model, is content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model)
+root.PJSC727_Blue_Dragon.FindersDefault.HP_JF_3.model changed in second object (was content/gameplay/japan/finder/JF556_Rangefinder_6m_Dragons/JF556_Rangefinder_6m_Dragons.model, is content/gameplay/japan/finder/JF021_Rangefinder_6m/JF021_Rangefinder_6m.model)
+root.PJSC727_Blue_Dragon.FindersDefault.HP_JF_2.model changed in second object (was content/gameplay/japan/finder/JF559_RF_1_5m_Nav_Dragons/JF559_RF_1_5m_Nav_Dragons.model, is content/gameplay/japan/finder/JF063_RF_1_5m_Nav/JF063_RF_1_5m_Nav.model)
+root.PJSC727_Blue_Dragon.unpeculiarShip changed in second object (was None, is PJSC008_Myoko_1945)
+root.PJSC727_Blue_Dragon.defaultCrew changed in second object (was None, is PJW101_Eastern_dragon_king)
+root.PJSC727_Blue_Dragon.C2_Torpedoes.HP_JGT_3.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC727_Blue_Dragon.C2_Torpedoes.HP_JGT_2.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC727_Blue_Dragon.C2_Torpedoes.HP_JGT_1.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PJSC727_Blue_Dragon.C2_Torpedoes.HP_JGT_4.ammoList[0] changed in second object (was PJPT718_610mm_Type90_mod_1, is PJPT018_610mm_Type90_mod_1)
+root.PRW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PJW007_Haruna.Skills.SixthSenseAbility removed in second object
+root.PGAF001_HE51.prepareTime changed in second object (was 0.0, is 5)
+root.PCT041_AccountLevel9.credits changed in second object (was 2000000, is 0)
+root.PCT041_AccountLevel9.storageItems[0] removed in first object
+root.PJW014_Ashigara.Skills.SixthSenseAbility removed in second object
+root.PCY014_SmokeGeneratorPremium.Lvl_8_Gold_Kutuzov.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_8_Gold_Kutuzov.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_8_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_8_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_7_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_7_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_7_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_7_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Test.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Test.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_10_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_10_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_6_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_6_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_5_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_5_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_4_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_4_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_8_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_8_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_10_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_10_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Cruiser_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Cruiser_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_3_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_3_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_9_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_9_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Default.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Default.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_3_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_3_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_9_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_9_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_2_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_2_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_5_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_5_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_4_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_4_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.US_Lvl_2_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.US_Lvl_2_Gold.startDelayTime removed in first object
+root.PCY014_SmokeGeneratorPremium.Lvl_6_Gold.activationDelay changed in second object (was 2.0, is 0.0)
+root.PCY014_SmokeGeneratorPremium.Lvl_6_Gold.startDelayTime removed in first object
+root.PGSB104_Kaiser.A_Hull.armor.131123 removed in first object
+root.PGSB104_Kaiser.A_Hull.armor.131168 removed in first object
+root.PGSB104_Kaiser.A1_Artillery.HP_GGM_2.deadZone[0] removed in second object
+root.PGSB104_Kaiser.A1_Artillery.HP_GGM_2.pitchDeadZones[0] removed in first object
+root.PGSB104_Kaiser.B_Hull.armor.131123 removed in first object
+root.PGSB104_Kaiser.B_Hull.armor.131168 removed in first object
+root.PGSB104_Kaiser.ShipUpgradeInfo.PGUH312_KAISER_B.nextShips[0] removed in first object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.deadZone[0] removed in second object
+root.PGSB104_Kaiser.B1_Artillery.HP_GGM_2.pitchDeadZones[0] removed in first object
+root.PWW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PCT038_AccountLevel6.credits changed in second object (was 1000000, is 2000000)
+root.PJPA709_Shell_203mm_HE_C_Type_0 removed in second object
+root.PJW015_Takao.Skills.SixthSenseAbility removed in second object
+root.PFW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PJPT718_610mm_Type90_mod_1 removed in second object
+root.PCY012_FighterPremium.PAY639_FW190A8_Battleship_5_HIDE removed in first object
+root.PCY012_FighterPremium.PAY638_BF109G_Battleship_4_HIDE removed in first object
+root.PCY012_FighterPremium.PAY835_HD780_Battleship_3 removed in first object
+root.PCY012_FighterPremium.PAY630_TA152C_Battleship_7_HIDE removed in first object
+root.PJW010_Hiei.Skills.SixthSenseAbility removed in second object
+root.PCT035_AccountLevel3.credits changed in second object (was 300000, is 500000)
+root.PCT043_AccountLevel11.credits changed in second object (was 3000000, is 5000000)
+root.PCT036_AccountLevel4.credits changed in second object (was 500000, is 1000000)
+root.PJW013_Kirishima_Bear.Skills.SixthSenseAbility removed in second object
+root.PJSD001_Tachibana_1912.A_Hull_1912.Bow.volume changed in second object (was 13.0, is 0.13)
+root.PJW009_Unknown.Skills.SixthSenseAbility removed in second object
+root.PASC045_Marblehead_1924_Asus.HullDefault.armor.65624 changed in second object (was 6.0, is 10.0)
+root.PCY004_Fighter.PAY539_FW190A8_Battleship_5_HIDE removed in first object
+root.PCY004_Fighter.PAY530_TA152C_Battleship_7_HIDE removed in first object
+root.PCY004_Fighter.PAY735_HD780_Battleship_3 removed in first object
+root.PCY004_Fighter.PAY538_BF109G_Battleship_4_HIDE removed in first object
+root.PASC005_Omaha_1923.A_Hull_1923.armor.65624 changed in second object (was 6.0, is 10.0)
+root.PASC005_Omaha_1923.B_Hull_1938.armor.65624 changed in second object (was 6.0, is 10.0)
+root.PASC005_Omaha_1923.C_Hull_1944.armor.65624 changed in second object (was 6.0, is 10.0)
+root.PRPA044_130_HE_KK.burnProb changed in second object (was 0.08, is 0.09)
+root.PASB013_Arkansas_1912.HullDefault.armor.65548 removed in second object
+root.PASB013_Arkansas_1912.HullDefault.armor.196698 removed in second object
+root.PASB013_Arkansas_1912.HullDefault.armor.196709 removed in second object
+root.PASB013_Arkansas_1912.HullDefault.armor.131162 changed in second object (was 1.0, is 0.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.131123 changed in second object (was 0.0, is 279.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65591 changed in second object (was 0.0, is 229.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65595 changed in second object (was 0.0, is 229.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65598 changed in second object (was 0.0, is 30.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65600 changed in second object (was 0.0, is 38.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65601 changed in second object (was 0.0, is 279.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65587 changed in second object (was 279.0, is 0.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65632 changed in second object (was 229.0, is 0.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.131161 removed in second object
+root.PASB013_Arkansas_1912.HullDefault.armor.131168 changed in second object (was 0.0, is 229.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.65594 changed in second object (was 0.0, is 279.0)
+root.PASB013_Arkansas_1912.HullDefault.armor.131136 removed in first object
+root.PASB013_Arkansas_1912.HullDefault.armor.262201 removed in first object
+root.PASB013_Arkansas_1912.HullDefault.St.volume changed in second object (was 0.56, is 0.57)
+root.PASB013_Arkansas_1912.HullDefault.SS.splashBoxes[0] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_1_1)
+root.PASB013_Arkansas_1912.HullDefault.SS.splashBoxes[1] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_1_2)
+root.PASB013_Arkansas_1912.HullDefault.SS.splashBoxes[2] changed in second object (was CM_SB_ss_2_3, is CM_SB_ss_1_3)
+root.PASB013_Arkansas_1912.HullDefault.SS.splashBoxes[3] removed in first object
+root.PASB013_Arkansas_1912.HullDefault.SS.splashBoxes[4] removed in first object
+root.PASB013_Arkansas_1912.HullDefault.SS.volume changed in second object (was 0.63, is 0.61)
+root.PASB013_Arkansas_1912.HullDefault.SSC.volume changed in second object (was 2.27, is 2.31)
+root.PGAF003_BF109E.prepareTime changed in second object (was 0.0, is 5)
+root.PGAF002_AR197.prepareTime changed in second object (was 0.0, is 5)
+root.PCT039_AccountLevel7.credits changed in second object (was 1500000, is 3000000)
+root.PRSC505_KrasniKrym.A1_Artillery.sigmaCount changed in second object (was 2.1, is 2.0)
+root.PRSC505_KrasniKrym.A1_Artillery.maxDist changed in second object (was 13510.0, is 17510.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.rotationSpeed[0] changed in second object (was 8.0, is 7.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.index changed in second object (was PRGA081, is PRGA030)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.name changed in second object (was PRGA081_12mm62_HI, is PRGA030_70K_37mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.antiAirAuraDistance changed in second object (was 40.0, is 107.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.antiAirAuraStrength changed in second object (was 0.021, is 0.057)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.numBarrels changed in second object (was 4, is 1)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.HitLocationAirDefense.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.barrelDiameter changed in second object (was 0.0127, is 0.037)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI_dead.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_16.id changed in second object (was 4210025936, is 4263503312)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.index changed in second object (was PRGA081, is PRGA030)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.name changed in second object (was PRGA081_12mm62_HI, is PRGA030_70K_37mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.antiAirAuraDistance changed in second object (was 40.0, is 107.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.antiAirAuraStrength changed in second object (was 0.021, is 0.057)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.numBarrels changed in second object (was 4, is 1)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.HitLocationAirDefense.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.barrelDiameter changed in second object (was 0.0127, is 0.037)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI_dead.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA081_12mm62_HI/RGA081_12mm62_HI.model, is content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_17.id changed in second object (was 4210025936, is 4263503312)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.index changed in second object (was PRGA030, is PRGA023)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.name changed in second object (was PRGA030_70K_37mm, is PRGA023_21K_45mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.antiAirAuraDistance changed in second object (was 107.0, is 83.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.antiAirAuraStrength changed in second object (was 0.057, is 0.02)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.HitLocationAirDefense.armorCoeff changed in second object (was 0.8, is 1.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.barrelDiameter changed in second object (was 0.037, is 0.045)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model, is content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_6.id changed in second object (was 4263503312, is 4270843344)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.index changed in second object (was PRGA030, is PRGA023)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.name changed in second object (was PRGA030_70K_37mm, is PRGA023_21K_45mm)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.antiAirAuraDistance changed in second object (was 107.0, is 83.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.antiAirAuraStrength changed in second object (was 0.057, is 0.02)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.HitLocationAirDefense.armorCoeff changed in second object (was 0.8, is 1.0)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.barrelDiameter changed in second object (was 0.037, is 0.045)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm_dead.model, is content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm_dead.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA030_70K_37mm/RGA030_70K_37mm.model, is content/gameplay/russia/gun/aaircraft/RGA023_21K_45mm/RGA023_21K_45mm.model)
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_5.id changed in second object (was 4263503312, is 4270843344)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[4] changed in second object (was HP_RGA_12, is HP_RGA_11)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[5] changed in second object (was HP_RGA_13, is HP_RGA_12)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[6] changed in second object (was HP_RGA_19, is HP_RGA_13)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[7] changed in second object (was HP_RGA_20, is HP_RGA_16)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[8] changed in second object (was HP_RGA_5, is HP_RGA_17)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[9] changed in second object (was HP_RGA_6, is HP_RGA_18)
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[10] removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium.guns[11] removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraNear.guns[4] removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraNear.guns[5] removed in second object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_7 removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_8 removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_11 removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.AuraMedium1 removed in first object
+root.PRSC505_KrasniKrym.A_AirDefense.HP_RGA_18 removed in first object
+root.PGW001_DefaultCrew.Skills.SixthSenseAbility removed in second object
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_1.armor.65568 changed in second object (was 241.0, is 254.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_1.armor.65569 changed in second object (was 184.0, is 229.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_1.armor.65635 changed in second object (was 38.0, is 102.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_1.armor.65636 changed in second object (was 432.0, is 457.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_3.armor.65568 changed in second object (was 241.0, is 254.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_3.armor.65569 changed in second object (was 184.0, is 229.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_3.armor.65635 changed in second object (was 38.0, is 102.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_3.armor.65636 changed in second object (was 432.0, is 457.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_2.armor.65568 changed in second object (was 241.0, is 254.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_2.armor.65569 changed in second object (was 184.0, is 229.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_2.armor.65635 changed in second object (was 38.0, is 102.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_2.armor.65636 changed in second object (was 432.0, is 457.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_4.armor.65568 changed in second object (was 241.0, is 254.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_4.armor.65569 changed in second object (was 184.0, is 229.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_4.armor.65635 changed in second object (was 38.0, is 102.0)
+root.PASB017_Montana_1945.ArtilleryDefault.HP_AGM_4.armor.65636 changed in second object (was 432.0, is 457.0)
+root.PASB017_Montana_1945.HullDefault.armor.65548 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.131171 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.131168 changed in second object (was 387.0, is 324.0)
+root.PASB017_Montana_1945.HullDefault.armor.131123 changed in second object (was 457.0, is 432.0)
+root.PASB017_Montana_1945.HullDefault.armor.65595 changed in second object (was 0.0, is 387.0)
+root.PASB017_Montana_1945.HullDefault.armor.65598 changed in second object (was 25.0, is 50.0)
+root.PASB017_Montana_1945.HullDefault.armor.65599 changed in second object (was 110.0, is 45.0)
+root.PASB017_Montana_1945.HullDefault.armor.65601 changed in second object (was 0.0, is 457.0)
+root.PASB017_Montana_1945.HullDefault.armor.65633 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.65616 changed in second object (was 424.0, is 387.0)
+root.PASB017_Montana_1945.HullDefault.armor.196704 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.131169 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.65635 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.65645 changed in second object (was 105.0, is 0.0)
+root.PASB017_Montana_1945.HullDefault.armor.196659 removed in second object
+root.PASB017_Montana_1945.HullDefault.armor.131137 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131181 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131179 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.65589 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131131 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131135 removed in first object
+root.PASB017_Montana_1945.HullDefault.Cas.maxHP changed in second object (was 8100.0, is 8200.0)
+root.PASB017_Montana_1945.HullDefault.Cas.volume changed in second object (was 4.08, is 4.14)
+root.PASB017_Montana_1945.HullDefault.Cit.volume changed in second object (was 15.47, is 15.39)
+root.PASB017_Montana_1945.HullDefault.St.volume changed in second object (was 4.43, is 4.45)
+root.PASB017_Montana_1945.HullDefault.SS.maxHP changed in second object (was 5200.0, is 5300.0)
+root.PASB017_Montana_1945.HullDefault.SS.volume changed in second object (was 2.59, is 2.66)
+root.PASB017_Montana_1945.HullDefault.Bow.maxHP changed in second object (was 6700.0, is 6600.0)
+root.PASB017_Montana_1945.HullDefault.Bow.volume changed in second object (was 3.38, is 3.36)
+root.PJW011_Iona.Skills.SixthSenseAbility removed in second object
+root.PGAF004_BF109G.prepareTime changed in second object (was 0.0, is 5)
+root.PASB506_Arizona_1941.A_Hull.armor.65602 changed in second object (was 0.0, is 51.0)
+root.PASB506_Arizona_1941.A_Hull.armor.65603 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.131123 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.65599 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.131168 removed in first object
+root.PASC012_Pensacola_1944.AB1_203_50.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 19.0)
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_1.armor.131169 changed in second object (was 0.0, is 19.0)
+root.PFAF001_HD780 removed in first object
+root.PFGA006_13_2_76_Hotchkiss_CAQ_Mle_1929_quad removed in first object
+root.PFUH501_DUNK removed in first object
+root.PGAF905_FW190A8_HIDE removed in first object
+root.PFD005_SOM_5_metre_S removed in first object
+root.PCGM354_350mm_BASIC_4_barrel removed in first object
+root.PFD003_OPL_6_metre_SRF_130mm removed in first object
+root.PGUH512_BAYERN_B removed in first object
+root.PFSB506_Dunkerque_1940 removed in first object
+root.PGSB110_Grossdeutschland removed in first object
+root.PJW101_Eastern_dragon_king removed in first object
+root.PGUH702_BISMARCK_B removed in first object
+root.PFC001_Catatpult removed in first object
+root.PFD004_OPL_5_metre_SRF_130mm removed in first object
+root.PFPA002_330MM_HE_D removed in first object
+root.PCGS144_140mm_BASIC_4_barrel removed in first object
+root.PGSB106_Bayern removed in first object
+root.PFAS001_LOIRE130 removed in first object
+root.PFPA003_130MM_HE_MLE1935 removed in first object
+root.PFEP306_Dunkerque_1940 removed in first object
+root.PGSB109_Friedrich_der_Grosse removed in first object
+root.PGUH812_H39_B removed in first object
+root.PGUH411_KONIG_A removed in first object
+root.PFUE501_B6_ENG_DUNK removed in first object
+root.PFGM001_330_52_Mle_1931 removed in first object
+root.PGUH212_NASSAU_B removed in first object
+root.PGUH413_KONIG_C removed in first object
+root.PFGS008_130_45_Mle_1932_quad_prem removed in first object
+root.PGUH211_NASSAU_A removed in first object
+root.PGUH611_GNEISENAU_A removed in first object
+root.PFGA004_37_50_CAD_Mle_1933 removed in first object
+root.PGSB107_Gneisenau removed in first object
+root.PGSB103_Nassau removed in first object
+root.PFUS501_SUO_DUNK removed in first object
+root.PFUA501_B6_ART_DUNK removed in first object
+root.PGSB108_Bismarck removed in first object
+root.PGUH412_KONIG_B removed in first object
+root.PJW102_Southern_dragon_king removed in first object
+root.PFGM007_330_52_Mle_1931_prem removed in first object
+root.PGUH511_BAYERN_A removed in first object
+root.PGUH701_BISMARCK_A removed in first object
+root.PGUH612_GNEISENAU_B removed in first object
+root.PGUH811_H39_A removed in first object
+root.PFD006_SOM_3_metre_S removed in first object
+root.PCT068_AccountLevel12 removed in first object
+root.PGAF906_TA152C_HIDE removed in first object
+root.PFGS002_130_45_Mle_1932_quad removed in first object
+root.PFPA001_330MM_AP_D removed in first object
+root.PGUH911_GROSSDEUTSCHLAND_A removed in first object
+root.PGAS901_AR196_HIDE removed in first object
+root.PGAF904_BF109G_HIDE removed in first object
+root.PFGS003_130_45_Mle_1932_twin removed in first object
+root.PFD002_OPL_8_metre_SRF_330mm removed in first object
+root.PFD001_OPL_12_metre_SRF_330mm removed in first object
+root.PGSB105_Koenig removed in first object
+root.PGAS907_AR196C_HIDE removed in first object
+>> finished comparing

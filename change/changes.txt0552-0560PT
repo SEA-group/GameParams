@@ -1,0 +1,13 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_3.horizSector[0] changed in second object (was -144.0, is -145.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_3.horizSector[1] changed in second object (was 144.0, is 145.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_4.horizSector[0] changed in second object (was -144.5, is -145.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_4.horizSector[1] changed in second object (was 144.5, is 145.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_2.horizSector[0] changed in second object (was -138.0, is -145.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_2.horizSector[1] changed in second object (was 138.0, is 145.0)
+root.PGSC110_Hindenburg.EngineDefault.HitLocationEngine.armorCoeff changed in second object (was 0.2, is 0.0)
+root.PAEP309_New_York_Scull.canBuy changed in second object (was True, is False)
+root.PAEP309_New_York_Scull.hidden changed in second object (was False, is True)
+>> finished comparing

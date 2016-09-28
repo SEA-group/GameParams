@@ -1,0 +1,120 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSC015_Tatsuta_1919.battleLevel.pvp[0] changed in second object (was 5, is 4)
+root.PJSC015_Tatsuta_1919.battleLevel.pvp[1] changed in second object (was 4, is 3)
+root.PJSC015_Tatsuta_1919.battleLevel.pvp[2] removed in second object
+root.PJSC015_Tatsuta_1919.battleLevel.pve[0] changed in second object (was 5, is 4)
+root.PJSC015_Tatsuta_1919.battleLevel.pve[1] changed in second object (was 4, is 3)
+root.PJSC015_Tatsuta_1919.battleLevel.pve[2] removed in second object
+root.PASD019_Clemson_1920.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PASD019_Clemson_1920.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PASD019_Clemson_1920.battleLevel.pvp[2] removed in second object
+root.PASD019_Clemson_1920.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PASD019_Clemson_1920.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PASD019_Clemson_1920.battleLevel.pve[2] removed in second object
+root.PASC024_Phoenix_1917.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PASC024_Phoenix_1917.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PASC024_Phoenix_1917.battleLevel.pvp[2] removed in second object
+root.PASC024_Phoenix_1917.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PASC024_Phoenix_1917.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PASC024_Phoenix_1917.battleLevel.pve[2] removed in second object
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[0] changed in second object (was 10, is 9)
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[1] changed in second object (was 9, is 8)
+root.PJSA012_Zuikaku_1944.battleLevel.pvp[2] removed in second object
+root.PJSA012_Zuikaku_1944.battleLevel.pve[0] changed in second object (was 10, is 9)
+root.PJSA012_Zuikaku_1944.battleLevel.pve[1] changed in second object (was 9, is 8)
+root.PJSA012_Zuikaku_1944.battleLevel.pve[2] removed in second object
+root.PJSC013_Kuma_1938.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PJSC013_Kuma_1938.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PJSC013_Kuma_1938.battleLevel.pvp[2] removed in second object
+root.PJSC013_Kuma_1938.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PJSC013_Kuma_1938.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PJSC013_Kuma_1938.battleLevel.pve[2] removed in second object
+root.PASA010_Ranger_1944.battleLevel.pvp[0] changed in second object (was 9, is 8)
+root.PASA010_Ranger_1944.battleLevel.pvp[1] changed in second object (was 8, is 7)
+root.PASA010_Ranger_1944.battleLevel.pvp[2] removed in second object
+root.PASA010_Ranger_1944.battleLevel.pve[0] changed in second object (was 9, is 8)
+root.PASA010_Ranger_1944.battleLevel.pve[1] changed in second object (was 8, is 7)
+root.PASA010_Ranger_1944.battleLevel.pve[2] removed in second object
+root.PJSD803_False_Isokaze_1917.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PJSD803_False_Isokaze_1917.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PJSD803_False_Isokaze_1917.battleLevel.pvp[2] removed in second object
+root.PJSD803_False_Isokaze_1917.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PJSD803_False_Isokaze_1917.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PJSD803_False_Isokaze_1917.battleLevel.pve[2] removed in second object
+root.PRSD104_Izyaslav.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PRSD104_Izyaslav.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PRSD104_Izyaslav.battleLevel.pvp[2] removed in second object
+root.PRSD104_Izyaslav.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PRSD104_Izyaslav.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PRSD104_Izyaslav.battleLevel.pve[2] removed in second object
+root.PGSC103_Kolberg.battleLevel.pvp[0] changed in second object (was 5, is 4)
+root.PGSC103_Kolberg.battleLevel.pvp[1] changed in second object (was 4, is 3)
+root.PGSC103_Kolberg.battleLevel.pvp[2] removed in second object
+root.PGSC103_Kolberg.battleLevel.pve[0] changed in second object (was 5, is 4)
+root.PGSC103_Kolberg.battleLevel.pve[1] changed in second object (was 4, is 3)
+root.PGSC103_Kolberg.battleLevel.pve[2] removed in second object
+root.PGSC103_Kolberg.ShipUpgradeInfo.PGUE201_C3_ENG_STOCK.nextShips[0] removed in second object
+root.PGSC103_Kolberg.ShipUpgradeInfo.PGUA201_C3_ART_STOCK.nextShips[0] removed in first object
+root.PGSC104_Karlsruhe.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PGSC104_Karlsruhe.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PGSC104_Karlsruhe.battleLevel.pvp[2] removed in second object
+root.PGSC104_Karlsruhe.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PGSC104_Karlsruhe.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PGSC104_Karlsruhe.battleLevel.pve[2] removed in second object
+root.PJSA011_Hiryu_1942.battleLevel.pvp[0] changed in second object (was 9, is 8)
+root.PJSA011_Hiryu_1942.battleLevel.pvp[1] changed in second object (was 8, is 7)
+root.PJSA011_Hiryu_1942.battleLevel.pvp[2] removed in second object
+root.PJSA011_Hiryu_1942.battleLevel.pve[0] changed in second object (was 9, is 8)
+root.PJSA011_Hiryu_1942.battleLevel.pve[1] changed in second object (was 8, is 7)
+root.PJSA011_Hiryu_1942.battleLevel.pve[2] removed in second object
+root.PRSC103_Bogatyr.battleLevel.pvp[0] changed in second object (was 5, is 4)
+root.PRSC103_Bogatyr.battleLevel.pvp[1] changed in second object (was 4, is 3)
+root.PRSC103_Bogatyr.battleLevel.pvp[2] removed in second object
+root.PRSC103_Bogatyr.battleLevel.pve[0] changed in second object (was 5, is 4)
+root.PRSC103_Bogatyr.battleLevel.pve[1] changed in second object (was 4, is 3)
+root.PRSC103_Bogatyr.battleLevel.pve[2] removed in second object
+root.PASA012_Lexington_1944.battleLevel.pvp[0] changed in second object (was 10, is 9)
+root.PASA012_Lexington_1944.battleLevel.pvp[1] changed in second object (was 9, is 8)
+root.PASA012_Lexington_1944.battleLevel.pvp[2] removed in second object
+root.PASA012_Lexington_1944.battleLevel.pve[0] changed in second object (was 10, is 9)
+root.PASA012_Lexington_1944.battleLevel.pve[1] changed in second object (was 9, is 8)
+root.PASA012_Lexington_1944.battleLevel.pve[2] removed in second object
+root.PASA006_Independence_1945.battleLevel.pvp[0] changed in second object (was 8, is 7)
+root.PASA006_Independence_1945.battleLevel.pvp[1] changed in second object (was 7, is 6)
+root.PASA006_Independence_1945.battleLevel.pvp[2] removed in second object
+root.PASA006_Independence_1945.battleLevel.pve[0] changed in second object (was 8, is 7)
+root.PASA006_Independence_1945.battleLevel.pve[1] changed in second object (was 7, is 6)
+root.PASA006_Independence_1945.battleLevel.pve[2] removed in second object
+root.PASA507_Saipan_1946.battleLevel.pvp[0] changed in second object (was 9, is 8)
+root.PASA507_Saipan_1946.battleLevel.pvp[1] changed in second object (was 8, is 7)
+root.PASA507_Saipan_1946.battleLevel.pvp[2] removed in second object
+root.PASA507_Saipan_1946.battleLevel.pve[0] changed in second object (was 9, is 8)
+root.PASA507_Saipan_1946.battleLevel.pve[1] changed in second object (was 8, is 7)
+root.PASA507_Saipan_1946.battleLevel.pve[2] removed in second object
+root.PRSC104_Svetlana.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PRSC104_Svetlana.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PRSC104_Svetlana.battleLevel.pvp[2] removed in second object
+root.PRSC104_Svetlana.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PRSC104_Svetlana.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PRSC104_Svetlana.battleLevel.pve[2] removed in second object
+root.PASC004_St_Louis_1906.battleLevel.pvp[0] changed in second object (was 5, is 4)
+root.PASC004_St_Louis_1906.battleLevel.pvp[1] changed in second object (was 4, is 3)
+root.PASC004_St_Louis_1906.battleLevel.pvp[2] removed in second object
+root.PASC004_St_Louis_1906.battleLevel.pve[0] changed in second object (was 5, is 4)
+root.PASC004_St_Louis_1906.battleLevel.pve[1] changed in second object (was 4, is 3)
+root.PASC004_St_Louis_1906.battleLevel.pve[2] removed in second object
+root.PJSA009_Ryujo_1933.battleLevel.pvp[0] changed in second object (was 8, is 7)
+root.PJSA009_Ryujo_1933.battleLevel.pvp[1] changed in second object (was 7, is 6)
+root.PJSA009_Ryujo_1933.battleLevel.pvp[2] removed in second object
+root.PJSA009_Ryujo_1933.battleLevel.pve[0] changed in second object (was 8, is 7)
+root.PJSA009_Ryujo_1933.battleLevel.pve[1] changed in second object (was 7, is 6)
+root.PJSA009_Ryujo_1933.battleLevel.pve[2] removed in second object
+root.PJSD003_Isokaze_1917.battleLevel.pvp[0] changed in second object (was 6, is 5)
+root.PJSD003_Isokaze_1917.battleLevel.pvp[1] changed in second object (was 5, is 4)
+root.PJSD003_Isokaze_1917.battleLevel.pvp[2] removed in second object
+root.PJSD003_Isokaze_1917.battleLevel.pve[0] changed in second object (was 6, is 5)
+root.PJSD003_Isokaze_1917.battleLevel.pve[1] changed in second object (was 5, is 4)
+root.PJSD003_Isokaze_1917.battleLevel.pve[2] removed in second object
+>> finished comparing

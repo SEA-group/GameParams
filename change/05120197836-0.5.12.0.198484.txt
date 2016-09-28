@@ -1,0 +1,57 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSC102_Weymouth.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PBSC109_Neptune.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PJSC038_Atago_1944.HullDefault.armor.65639 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65643 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65644 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65645 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.196672 removed in first object
+root.PBSC104_Danae.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PBSC101_Black_Swan.A_Hull.Ammo_1.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PBSC101_Black_Swan.A_Hull.Ammo_1.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PBSC101_Black_Swan.A_Hull.Ammo_2.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PBSC101_Black_Swan.A_Hull.Ammo_2.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PBSC101_Black_Swan.group changed in second object (was start, is demoWithoutStats)
+root.PBSC507_Belfast_1959.group changed in second object (was special, is demoWithoutStats)
+root.PJSC037_Hashidate_1940.A_Hull.Ammo_1.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PJSC037_Hashidate_1940.A_Hull.Ammo_1.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PJSC037_Hashidate_1940.A_Hull.Ammo_2.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PJSC037_Hashidate_1940.A_Hull.Ammo_2.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PJSC708_ARP_Takao.HullDefault.armor.65639 removed in second object
+root.PJSC708_ARP_Takao.HullDefault.armor.65643 removed in second object
+root.PJSC708_ARP_Takao.HullDefault.armor.65644 removed in second object
+root.PJSC708_ARP_Takao.HullDefault.armor.65645 removed in second object
+root.PJSC708_ARP_Takao.HullDefault.armor.196672 removed in first object
+root.PGSC001_Hermelin_1940.A_Hull.Ammo_1.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PGSC001_Hermelin_1940.A_Hull.Ammo_1.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PGSC001_Hermelin_1940.A_Hull.Ammo_2.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PGSC001_Hermelin_1940.A_Hull.Ammo_2.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PBSC110_Minotaur.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PASC001_Erie_1936.A_Hull.Ammo_1.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PASC001_Erie_1936.A_Hull.Ammo_1.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PASC001_Erie_1936.A_Hull.Ammo_2.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PASC001_Erie_1936.A_Hull.Ammo_2.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PBSC108_Edinburgh.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PRSC101_Orlan.A_Hull.Ammo_1.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PRSC101_Orlan.A_Hull.Ammo_1.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PRSC101_Orlan.A_Hull.Ammo_2.critProb[0] changed in second object (was 0.1, is 0.0)
+root.PRSC101_Orlan.A_Hull.Ammo_2.critProb[1] changed in second object (was 0.1, is 0.0)
+root.PBSC103_Caledon.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PGSB108_Bismarck.A1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -140.0, is -145.0)
+root.PGSB108_Bismarck.A1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 140.0, is 145.0)
+root.PGSB108_Bismarck.A1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was -1.0, is 1.0)
+root.PGSB108_Bismarck.B1_Artillery.HP_GGM_3.horizSector[0] changed in second object (was -140.0, is -145.0)
+root.PGSB108_Bismarck.B1_Artillery.HP_GGM_3.horizSector[1] changed in second object (was 140.0, is 145.0)
+root.PGSB108_Bismarck.B1_Artillery.HP_GGM_3.vertSector[0] changed in second object (was -1.0, is 1.0)
+root.PBSC105_Emerald.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PBSC107_Fiji.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PASB506_Arizona_1941.A_Hull.armor.65588 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65589 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65590 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65643 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.65644 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.65645 removed in first object
+root.PBSC106_Leander.group changed in second object (was upgradeable, is demoWithoutStats)
+>> finished comparing

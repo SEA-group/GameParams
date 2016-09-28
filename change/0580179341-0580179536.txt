@@ -1,0 +1,61 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSC503_Katori.groupCustom.CN removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.EU removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.CN removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.NA removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.CN removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.RU removed in first object
+root.PJSC038_Atago_1944.groupCustom.EU removed in first object
+root.PJSC038_Atago_1944.groupCustom.NA removed in first object
+root.PJSC038_Atago_1944.groupCustom.ASIA removed in first object
+root.PJSC038_Atago_1944.groupCustom.RU removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.EU removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.NA removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.RU removed in first object
+root.PZSD506_Anshan.groupCustom.CN removed in first object
+root.PRSB001_Nikolay_I.groupCustom.CN removed in first object
+root.PZSD508_LoYang.groupCustom.CN removed in first object
+root.PASD029_Sims_1941.groupCustom.CN removed in first object
+root.PRSC002_Diana_1905.groupCustom.EU removed in first object
+root.PRSC002_Diana_1905.groupCustom.NA removed in first object
+root.PRSC002_Diana_1905.groupCustom.CN removed in first object
+root.PRSC002_Diana_1905.groupCustom.RU removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.EU removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.CN removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.RU removed in first object
+root.PRSC003_Murmansk_1944.group changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.group changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.EU removed in first object
+root.PASC044_Marblehead_1924.groupCustom.RU removed in first object
+root.PASC044_Marblehead_1924.groupCustom.CN removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU removed in first object
+root.PBSB002_Warspite_1941.groupCustom.NA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.CN removed in first object
+root.PBSB002_Warspite_1941.groupCustom.ASIA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.RU removed in first object
+root.PASB705_Texas_1944.groupCustom.NA removed in first object
+root.PASB705_Texas_1944.groupCustom.ASIA removed in first object
+root.PASC003_Albany_1898.groupCustom.CN removed in first object
+root.PASA507_Saipan_1946.groupCustom.EU removed in first object
+root.PGSC502_Emden_1908.groupCustom.EU removed in first object
+root.PGSC502_Emden_1908.groupCustom.NA removed in first object
+root.PGSC502_Emden_1908.groupCustom.RU removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.EU removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.CN removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.RU removed in first object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.NA removed in first object
+root.PWSD501_Blyskawica.groupCustom.CN removed in first object
+root.PWSD501_Blyskawica.groupCustom.ASIA removed in first object
+root.PWSD501_Blyskawica.groupCustom.RU removed in first object
+root.PASC006_Atlanta_1942.group changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.NA removed in first object
+root.PRSC506_Molotov_1943.groupCustom.RU removed in first object
+>> finished comparing

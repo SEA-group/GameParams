@@ -1,0 +1,22 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGGM039_406mm_C34.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_1.armor.65635 changed in second object (was 100.0, is 150.0)
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_2.armor.65635 changed in second object (was 100.0, is 150.0)
+root.PFSB506_Dunkerque_1940.group changed in second object (was demoWithoutStats, is special)
+root.PGSB110_Grossdeutschland.A1_Artillery.HP_GGM_3.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A1_Artillery.HP_GGM_4.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A1_Artillery.HP_GGM_2.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A1_Artillery.HP_GGM_1.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A2_Artillery.HP_GGM_3.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A2_Artillery.HP_GGM_4.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A2_Artillery.HP_GGM_2.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB110_Grossdeutschland.A2_Artillery.HP_GGM_1.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGGM148_420MM_48_DRH_LC_1940.HitLocationArtillery.maxHP changed in second object (was 20000.0, is 40000.0)
+root.PGSB507_Scharnhorst.A_ATBA.HP_GGS_1.miscFilter[0] removed in first object
+root.PGSB507_Scharnhorst.A_ATBA.HP_GGS_2.miscFilter[0] removed in first object
+root.PGSB507_Scharnhorst.A_Finders.HP_GF_1.gunNode changed in second object (was , is HP_GGM_2)
+root.PGSC508_Prinz_Eugen.A_AirArmament.HP_GC_1.angle changed in second object (was 90.0, is -90.0)
+root.PCEE040_Burning_Man removed in first object
+>> finished comparing

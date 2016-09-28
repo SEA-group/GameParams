@@ -1,0 +1,6 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCEC008_Camo_Eco_Tile.canBuy changed in second object (was True, is False)
+root.PCEC008_Camo_Eco_Tile.hidden changed in second object (was False, is True)
+>> finished comparing

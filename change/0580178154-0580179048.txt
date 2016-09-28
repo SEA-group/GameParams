@@ -1,0 +1,153 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRGM015_6in53_Mk16_Twin.armor.1 removed in first object
+root.PAGM121_5in51_Mk_7_mod2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65633 removed in second object
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.131169 removed in second object
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65635 removed in second object
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65633 removed in second object
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.131169 removed in second object
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65635 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131161 changed in second object (was 1.0, is 0.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131171 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.131162 changed in second object (was 1.0, is 0.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65633 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.65635 removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.armor.196697 removed in first object
+root.PWGM003_120mm_Bofors_wz34_36_twin.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWGM003_120mm_Bofors_wz34_36_twin.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PRSD106_Pr_30_Ognevoy.AB1_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSD106_Pr_30_Ognevoy.AB1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PJSB003_Myogi_1912.A_Hull.armor.65635 removed in second object
+root.PJSB003_Myogi_1912.A_Hull.armor.65633 removed in second object
+root.PRGM046_130mm_B2LM.armor.1 removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC804_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PJSD010_Kagero_1943.C1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD010_Kagero_1943.C1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD010_Kagero_1943.AB1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD010_Kagero_1943.AB1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD010_Kagero_1943.AB1_127_50.HP_JGM_3.armor.1 removed in first object
+root.PASC707_Flint.A1_Artillery.HP_AGM_1.armor.131169 changed in second object (was 32.0, is 0.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_3.armor.196707 changed in second object (was 0.0, is 16.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_3.armor.262243 changed in second object (was 16.0, is 0.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_2.armor.196707 changed in second object (was 0.0, is 16.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_2.armor.262243 changed in second object (was 16.0, is 0.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_4.armor.196707 changed in second object (was 16.0, is 0.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_4.armor.262243 changed in second object (was 0.0, is 16.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_6.armor.196707 changed in second object (was 0.0, is 16.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_6.armor.262243 changed in second object (was 16.0, is 0.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_5.armor.196707 changed in second object (was 0.0, is 16.0)
+root.PASC707_Flint.A1_Artillery.HP_AGM_5.armor.262243 changed in second object (was 16.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC805_FALSE_ENEMY_Erie_1936.A1_127_51.HP_AGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.HP_RGM_3.armor.1 removed in first object
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_2.armor.196707 removed in second object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_3.armor.196707 removed in second object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_3.armor.1 removed in first object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_1.armor.196707 removed in second object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PRSD109_Pr_48_Kiev.AB1_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSD109_Pr_48_Kiev.AB1_Artillery.HP_RGM_3.armor.1 removed in first object
+root.PRSD109_Pr_48_Kiev.AB1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PJSC009_Mogami_1935.A_Hull_1935.armor.65637 removed in second object
+root.PJSC009_Mogami_1935.A_Hull_1935.armor.65633 removed in first object
+root.PJSC009_Mogami_1935.A_Hull_1935.armor.131169 removed in first object
+root.PJSC009_Mogami_1935.A_Hull_1935.armor.65635 removed in first object
+root.PWGM004_120mm_Bofors_wz34_36_single.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWGM004_120mm_Bofors_wz34_36_single.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD006_Hatsuharu_1945.B1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD006_Hatsuharu_1945.B1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD006_Hatsuharu_1945.A1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD006_Hatsuharu_1945.A1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD006_Hatsuharu_1945.A1_127_50.HP_JGM_3.armor.1 removed in first object
+root.PCBX001.airDefense.HP_CGA_4.antiAirAuraStrength changed in second object (was 0.68, is 0.7)
+root.PCBX001.airDefense.HP_CGA_3.antiAirAuraStrength changed in second object (was 0.68, is 0.7)
+root.PCBX001.airDefense.HP_CGA_1.antiAirAuraStrength changed in second object (was 0.68, is 0.7)
+root.PCBX001.airDefense.HP_CGA_2.antiAirAuraStrength changed in second object (was 0.68, is 0.7)
+root.PCBX001.artillery.HP_CGM_3.idealRadius changed in second object (was 15, is 14)
+root.PCBX001.artillery.HP_CGM_2.idealRadius changed in second object (was 15, is 14)
+root.PCBX001.artillery.HP_CGM_1.idealRadius changed in second object (was 15, is 14)
+root.PRSC003_Murmansk_1944.ArtilleryDefault.HP_RGM_1.armor.1 removed in first object
+root.PRSC003_Murmansk_1944.ArtilleryDefault.HP_RGM_8.armor.1 removed in first object
+root.PRSD108_Pr_20i_Tashkent.AB1_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSD108_Pr_20i_Tashkent.AB1_Artillery.HP_RGM_3.armor.1 removed in first object
+root.PRSD108_Pr_20i_Tashkent.AB1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PJGM074_127mm50_Type_B.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B2_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B2_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B2_127_50.HP_JGM_3.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.A1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.A1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.A1_127_50.HP_JGM_3.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.C2_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.C2_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.C1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.C1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B1_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B1_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD007_Fubuki_1944.B1_127_50.HP_JGM_3.armor.1 removed in first object
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_1.armor.1 removed in first object
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_2.armor.1 removed in first object
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_3.armor.1 removed in first object
+root.PASC001_Erie_1936.A1_127_51.HP_AGM_1.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC001_Erie_1936.A1_127_51.HP_AGM_3.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC001_Erie_1936.A1_127_51.HP_AGM_2.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PASC001_Erie_1936.A1_127_51.HP_AGM_4.armor.131116 changed in second object (was 1.0, is 0.0)
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_1.armor.1 removed in first object
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_2.armor.1 removed in first object
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_3.armor.1 removed in first object
+root.PGSB507_Scharnhorst.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJGM072_120mm45_Type_HaGun.armor.1 removed in first object
+root.PJGM091_127mm50_Type_A.armor.1 removed in first object
+root.PRSC101_Orlan.A1_Artillery.HP_RGM_2.armor.1 removed in first object
+root.PRSC101_Orlan.A1_Artillery.HP_RGM_1.armor.1 removed in first object
+root.PJGM011_127mm50_Type_C.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_1.armor.131116 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_2.armor.131116 removed in first object
+root.PRSC104_Svetlana.A_Hull.armor.196695 removed in first object
+root.PRSC104_Svetlana.B_Hull.armor.196695 removed in first object
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_4.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_4.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_3.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_3.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_2.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_2.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_1.armor.65571 changed in second object (was 1.0, is 0.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.HP_WGM_1.armor.65635 changed in second object (was 1.0, is 7.0)
+root.PRSC505_KrasniKrym.A_Hull.armor.196695 removed in first object
+root.PRSC505_KrasniKrym.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJGM073_127mm50_Type_D.armor.1 removed in first object
+>> finished comparing

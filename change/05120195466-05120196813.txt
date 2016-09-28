@@ -1,0 +1,120 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PJSD207_Shiratsuyu.A_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD207_Shiratsuyu.B_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PGSB110_Grossdeutschland.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PJSB018_Yamato_1944.HullDefault.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.maxDist changed in second object (was 13040.0, is 11240.0)
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_2.shotDelay changed in second object (was 4.62, is 5.0)
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_3.shotDelay changed in second object (was 4.62, is 5.0)
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_1.shotDelay changed in second object (was 4.62, is 5.0)
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_4.shotDelay changed in second object (was 4.62, is 5.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PRGM047_130mm_B2U.shotDelay changed in second object (was 4.62, is 5.0)
+root.PJSC708_ARP_Takao.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_2.shotDelay changed in second object (was 4.62, is 5.0)
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_3.shotDelay changed in second object (was 4.62, is 5.0)
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.HP_RGM_1.shotDelay changed in second object (was 4.62, is 5.0)
+root.PGSC109_Roon.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PJSD107_Akatsuki.A_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD107_Akatsuki.B_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PGSC508_Prinz_Eugen.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PRSC101_Orlan.A1_Artillery.maxDist changed in second object (was 7990.0, is 8790.0)
+root.PGSB108_Bismarck.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSD108_Akizuki.A_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD108_Akizuki.B_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PASC016_Worcester_1948.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PJSD209_Yugumo.A_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD209_Yugumo.B_Hull.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PASB017_Montana_1945.HullDefault.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot6.mods[2] removed in first object
+root.PCM035_SteeringGear_Mod_III removed in first object
+>> finished comparing

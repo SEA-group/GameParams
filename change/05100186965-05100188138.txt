@@ -1,0 +1,25 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCEC006_Tile_Supertest.costGold changed in second object (was 50, is 60)
+root.PGSB110_Grossdeutschland.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB106_Bayern.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB109_Friedrich_der_Grosse.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_3.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_7.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_6.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_5.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_4.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_2.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_1.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSC104_Karlsruhe.B1_Artillery.HP_GGM_8.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSB107_Gneisenau.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB103_Nassau.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSC508_Prinz_Eugen.group changed in second object (was special, is demoWithoutStats)
+root.PGSB104_Kaiser.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB108_Bismarck.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGGM047_150mm_SK_L45.shotDelay changed in second object (was 8.57, is 6.5)
+root.PGSB105_Koenig.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PCEC016_Camo_Gamescom_2016 removed in first object
+root.PCEE039_Gamescom_2016 removed in first object
+>> finished comparing

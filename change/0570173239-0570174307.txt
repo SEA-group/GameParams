@@ -1,0 +1,183 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRGM047_130mm_B2U.armor.1 removed in second object
+root.PRGM047_130mm_B2U.armor.196707 removed in first object
+root.PRUH401_Murmansk_1944.costXP changed in second object (was 1, is 0)
+root.PRUH401_Murmansk_1944.costCR changed in second object (was 5700, is 0)
+root.PJUA012_076_40_TACHIBANA.costXP changed in second object (was 1, is 0)
+root.PJUA012_076_40_TACHIBANA.costCR changed in second object (was 1, is 0)
+root.PJUT107_450_SAKURA.costXP changed in second object (was 1, is 0)
+root.PJUT107_450_SAKURA.costCR changed in second object (was 250, is 0)
+root.PJUH761_ATAGO_1944.costXP changed in second object (was 5000, is 0)
+root.PJUH761_ATAGO_1944.costCR changed in second object (was 160000, is 0)
+root.PJUH421_Iwaki_1944.costXP changed in second object (was 1, is 0)
+root.PJUH421_Iwaki_1944.costCR changed in second object (was 1, is 0)
+root.PAUF721_SAIPAN.costXP changed in second object (was 1, is 0)
+root.PJUT431_533_JPT015_KAMIKAZE.costXP changed in second object (was 2600, is 0)
+root.PJUT431_533_JPT015_KAMIKAZE.costCR changed in second object (was 200000, is 0)
+root.PJUT106_450_TACHIBANA.costXP changed in second object (was 1, is 0)
+root.PJUT106_450_TACHIBANA.costCR changed in second object (was 250, is 0)
+root.PJUT504_610_TYPE_8_MOD_2_IWAKI.costXP changed in second object (was 1900, is 0)
+root.PJUT504_610_TYPE_8_MOD_2_IWAKI.costCR changed in second object (was 72000, is 0)
+root.PAUA431_152_53_MK16_MK13_CINCINNATI.costXP changed in second object (was 1300, is 0)
+root.PAUA431_152_53_MK16_MK13_CINCINNATI.costCR changed in second object (was 40000, is 0)
+root.PJUA013_076_40_SAKURA.costXP changed in second object (was 1, is 0)
+root.PJUA013_076_40_SAKURA.costCR changed in second object (was 1, is 0)
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_10.armor.65580 removed in second object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_10.armor.44 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_3.armor.65580 removed in second object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_3.armor.44 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_4.armor.65580 removed in second object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_4.armor.44 removed in first object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_9.armor.65580 removed in second object
+root.PJSB013_Amagi_1942.A_ATBA.HP_JGS_9.armor.44 removed in first object
+root.PAUA421_152_53_MK16_MK13_MB.costXP changed in second object (was 1300, is 0)
+root.PAUA421_152_53_MK16_MK13_MB.costCR changed in second object (was 40000, is 0)
+root.PRUE101_ENGINE_11600_DIANA.costXP changed in second object (was 1, is 0)
+root.PRUE101_ENGINE_11600_DIANA.costCR changed in second object (was 1, is 0)
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_10.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_10.armor.44 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_16.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_16.armor.44 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_15.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_15.armor.44 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_3.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_3.armor.44 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_4.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_4.armor.44 removed in first object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_9.armor.65580 removed in second object
+root.PJSB003_Myogi_1912.C_ATBA.HP_JGS_9.armor.44 removed in first object
+root.PRUS411_Suo.costXP changed in second object (was 1, is 0)
+root.PRUS411_Suo.costCR changed in second object (was 1, is 0)
+root.PASD019_Clemson_1920.B2_Artillery.HP_AGM_1.armor.1 changed in second object (was 1.0, is 0.0)
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_2.armor.1 removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_2.armor.196707 removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_3.armor.1 removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_3.armor.196707 removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_1.armor.1 removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_1.armor.196707 removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_4.armor.1 removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.HP_RGM_4.armor.196707 removed in first object
+root.PJUT804_610_ATAGO.costXP changed in second object (was 7500, is 0)
+root.PJUT804_610_ATAGO.costCR changed in second object (was 300000, is 0)
+root.PRUH411_Gremyashchy_1942.costXP changed in second object (was 1, is 0)
+root.PRUH411_Gremyashchy_1942.costCR changed in second object (was 1, is 0)
+root.PJUA121_305_40_TYPE41_MIKASA.costXP changed in second object (was 1, is 0)
+root.PJUA121_305_40_TYPE41_MIKASA.costCR changed in second object (was 50, is 0)
+root.PJUA751_203_50_ATAGO.costXP changed in second object (was 1, is 0)
+root.PJUA751_203_50_ATAGO.costCR changed in second object (was 1000, is 0)
+root.PJSC999_Yubari_Special.ATBADefault.HP_JGS_1.armor.65580 removed in second object
+root.PJSC999_Yubari_Special.ATBADefault.HP_JGS_1.armor.44 removed in first object
+root.PAGM131_4in50_Twin_Mount_shield.armor.1 changed in second object (was 1.0, is 0.0)
+root.PAUS419_SUO_MB.costXP changed in second object (was 1, is 0)
+root.PAUS419_SUO_MB.costCR changed in second object (was 1, is 0)
+root.PAUA731_127_38.costXP changed in second object (was 1, is 0)
+root.PAUA731_127_38.costCR changed in second object (was 1000, is 0)
+root.PJGM126_120mm45_Type_10.armor.65580 removed in second object
+root.PJGM126_120mm45_Type_10.armor.44 removed in first object
+root.PAUE111_Engine_7500.costXP changed in second object (was 1, is 0)
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD004_Minekadze_1920.B2_120_45.HP_JGM_4.armor.1 removed in first object
+root.PRUA411_130_50_B13.costXP changed in second object (was 1, is 0)
+root.PRUA411_130_50_B13.costCR changed in second object (was 100, is 0)
+root.PAUH471_TEXAS.costXP changed in second object (was 8500, is 0)
+root.PAUH471_TEXAS.costCR changed in second object (was 820000, is 0)
+root.PJUH332_YUB_TEST.costXP changed in second object (was 1, is 0)
+root.PJUH332_YUB_TEST.costCR changed in second object (was 1, is 0)
+root.PRUT411_533_3_39U.costXP changed in second object (was 1, is 0)
+root.PRUT411_533_3_39U.costCR changed in second object (was 1200, is 0)
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_1.armor.1 removed in first object
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_2.armor.1 removed in first object
+root.PJSD024_Wakatake_1923.AB1_Artillery.HP_JGM_3.armor.1 removed in first object
+root.PJUT331_610_2_JGT010.costXP changed in second object (was 1, is 0)
+root.PJUT331_610_2_JGT010.costCR changed in second object (was 6000, is 0)
+root.PJUT441_533_JPT015_TRUE_KAMIKAZE.costXP changed in second object (was 2600, is 0)
+root.PJUT441_533_JPT015_TRUE_KAMIKAZE.costCR changed in second object (was 200000, is 0)
+root.PGUA702_380_52_TIRPITZ.costXP changed in second object (was 1, is 0)
+root.PGUA702_380_52_TIRPITZ.costCR changed in second object (was 200, is 0)
+root.PJUA421_140_50_3_Year_Type.costXP changed in second object (was 1, is 0)
+root.PJUA421_140_50_3_Year_Type.costCR changed in second object (was 650, is 0)
+root.PJGM072_120mm45_Type_HaGun.armor.1 removed in first object
+root.PAUT531_533_4_PAPT001.costXP changed in second object (was 1, is 0)
+root.PAUT531_533_4_PAPT001.costCR changed in second object (was 1, is 0)
+root.PAUT503_533_MARK_15_MOD_3_ATLANTA.costXP changed in second object (was 1900, is 0)
+root.PAUT503_533_MARK_15_MOD_3_ATLANTA.costCR changed in second object (was 72000, is 0)
+root.PAUS331_SUO_ARK_PREM.costXP changed in second object (was 500, is 0)
+root.PAUS331_SUO_ARK_PREM.costCR changed in second object (was 14000, is 0)
+root.PJUS103_SUO_TACHIBANA.costXP changed in second object (was 275, is 0)
+root.PJUS103_SUO_TACHIBANA.costCR changed in second object (was 850, is 0)
+root.PJSC004_Yubari_1944.ATBADefault.HP_JGS_1.armor.65580 removed in second object
+root.PJSC004_Yubari_1944.ATBADefault.HP_JGS_1.armor.44 removed in first object
+root.PJUH331_Yubari_1944.costXP changed in second object (was 1, is 0)
+root.PJUH331_Yubari_1944.costCR changed in second object (was 1, is 0)
+root.PJUT442_533_JPT015_CAMO_KAMIKAZE.costXP changed in second object (was 2600, is 0)
+root.PJUT442_533_JPT015_CAMO_KAMIKAZE.costCR changed in second object (was 200000, is 0)
+root.PAUS521_Suo.costXP changed in second object (was 1, is 0)
+root.PAUS521_Suo.costCR changed in second object (was 1, is 0)
+root.PAUS431_SUO_CINCINNATI.costXP changed in second object (was 1, is 0)
+root.PAUS431_SUO_CINCINNATI.costCR changed in second object (was 1, is 0)
+root.PAUT631_533_PAPT015_SIMS.costCR changed in second object (was 10000, is 0)
+root.PCBC002.artillery.HP_GUN_1.armor.1 changed in second object (was 1.0, is 0.0)
+root.PGUT701_533_TIRPITZ.costXP changed in second object (was 1, is 0)
+root.PGUT701_533_TIRPITZ.costCR changed in second object (was 1200, is 0)
+root.PBUA501_381_42_Mk_1.costXP changed in second object (was 1, is 0)
+root.PBUA501_381_42_Mk_1.costCR changed in second object (was 200, is 0)
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_1.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_2.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_3.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.HP_JGM_4.armor.1 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_1.armor.65580 removed in second object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_1.armor.44 removed in first object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_2.armor.65580 removed in second object
+root.PJSD005_Mutsuki_1926.C2_120_45.HP_JGM_2.armor.44 removed in first object
+root.PAUS121_Suo.costXP changed in second object (was 1, is 0)
+root.PAUS121_Suo.costCR changed in second object (was 1, is 0)
+root.PAUS721_Suo.costXP changed in second object (was 1, is 0)
+root.PAUS721_Suo.costCR changed in second object (was 1, is 0)
+root.PRUA401_152_53_Mk16_Mk13.costXP changed in second object (was 1, is 0)
+root.PRUA401_152_53_Mk16_Mk13.costCR changed in second object (was 100, is 0)
+root.PAUH741_Atlanta_1942.costXP changed in second object (was 1, is 0)
+root.PAUH741_Atlanta_1942.costCR changed in second object (was 1, is 0)
+root.PJGS015_120mm45_Type_HaGun_10.armor.65580 removed in second object
+root.PJGS015_120mm45_Type_HaGun_10.armor.44 removed in first object
+root.PJUA761_203_50_TONE.costXP changed in second object (was 1, is 0)
+root.PJUA761_203_50_TONE.costCR changed in second object (was 1000, is 0)
+root.PJUS421_Suo.costXP changed in second object (was 1, is 0)
+root.PJUS421_Suo.costCR changed in second object (was 1, is 0)
+root.PJUT332_610_TEST.costXP changed in second object (was 1, is 0)
+root.PJUT332_610_TEST.costCR changed in second object (was 6000, is 0)
+root.PAUD008_Douglas_AD2.costXP changed in second object (was 1, is 0)
+root.PAUD008_Douglas_AD2.costCR changed in second object (was 2000, is 0)
+root.PJGM110_127mm50_Type_3.armor.65633 removed in first object
+root.PJGM110_127mm50_Type_3.armor.131171 removed in first object
+root.PJGM110_127mm50_Type_3.armor.196707 removed in first object
+root.PAUA111_152_50_Mk7.costXP changed in second object (was 1, is 0)
+root.PAUA111_152_50_Mk7.costCR changed in second object (was 50, is 0)
+root.PJUA331_305_45_MkX_ISHIZUCHI.costXP changed in second object (was 1, is 0)
+root.PJUA331_305_45_MkX_ISHIZUCHI.costCR changed in second object (was 50, is 0)
+root.PJUT805_610_TONE.costXP changed in second object (was 7500, is 0)
+root.PJUT805_610_TONE.costCR changed in second object (was 300000, is 0)
+root.PRUS401_Suo.costXP changed in second object (was 1, is 0)
+root.PRUS401_Suo.costCR changed in second object (was 1, is 0)
+root.PJUS104_SUO_SAKURA.costXP changed in second object (was 275, is 0)
+root.PJUS104_SUO_SAKURA.costCR changed in second object (was 850, is 0)
+root.PRUE111_ENGINE_11600_PALLADA.costXP changed in second object (was 1, is 0)
+root.PRUE111_ENGINE_11600_PALLADA.costCR changed in second object (was 1, is 0)
+>> finished comparing
