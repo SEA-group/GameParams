@@ -1,0 +1,2526 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBPA009_152MM_AP_100LBS.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA009_152MM_AP_100LBS.alphaDamage changed in second object (was 2500.0, is 1400.0)
+root.PBPA009_152MM_AP_100LBS.useSpecialShellModel removed in first object
+root.PCPA046_381mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PCPA023_140mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PCPA036_305mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PJPA997_Useless_ATBA.useSpecialShellModel removed in first object
+root.PJSB007_Kongo_1942.B_Hull_1941.fuelFee removed in second object
+root.PJSB007_Kongo_1942.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB007_Kongo_1942.B1_356_45.aimLevel removed in first object
+root.PJSB007_Kongo_1942.C_Hull_1942.fuelFee removed in second object
+root.PJSB007_Kongo_1942.C_Hull_1942.maxRepairCost removed in second object
+root.PJSB007_Kongo_1942.C1_356_45.aimLevel removed in first object
+root.PJSB007_Kongo_1942.AIParams removed in first object
+root.PRSD105_Pr_7_Gnevny.A_Hull.fuelFee removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.maxRepairCost removed in second object
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.aimLevel removed in first object
+root.PRSD105_Pr_7_Gnevny.B_Hull.fuelFee removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.maxRepairCost removed in second object
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.aimLevel removed in first object
+root.PRSD105_Pr_7_Gnevny.AIParams removed in first object
+root.PBSC102_Weymouth.A_Hull.fuelFee removed in second object
+root.PBSC102_Weymouth.A_Hull.maxRepairCost removed in second object
+root.PBSC102_Weymouth.AB1_Artillery.aimLevel removed in first object
+root.PBSC102_Weymouth.B_Hull.fuelFee removed in second object
+root.PBSC102_Weymouth.B_Hull.maxRepairCost removed in second object
+root.PBSC102_Weymouth.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC102_Weymouth.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 24.18, is 2.5)
+root.PBSC102_Weymouth.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC102_Weymouth.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC102_Weymouth.AIParams removed in first object
+root.PAAD008_Douglas_AD2.costCR changed in second object (was 600, is 1200)
+root.PGPA053_420MM_HE_HE_L_4_6.useSpecialShellModel removed in first object
+root.PFPA003_130MM_HE_MLE1935.useSpecialShellModel removed in first object
+root.PAPA016_Shell_152mm_AP_C_Mk_28.useSpecialShellModel removed in first object
+root.PJSB705_Kongou.B_Hull_1941.fuelFee removed in second object
+root.PJSB705_Kongou.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB705_Kongou.B1_356_45.aimLevel removed in first object
+root.PJSB705_Kongou.C_Hull_1942.fuelFee removed in second object
+root.PJSB705_Kongou.C_Hull_1942.maxRepairCost removed in second object
+root.PJSB705_Kongou.C1_356_45.aimLevel removed in first object
+root.PJSB705_Kongou.AIParams removed in first object
+root.PASB012_North_Carolina_1945.AB1_Artillery.aimLevel removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.fuelFee removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.B_Hull_1942.maxRepairCost removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.fuelFee removed in second object
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB012_North_Carolina_1945.C_Hull_1945.maxRepairCost removed in second object
+root.PASB012_North_Carolina_1945.C1_Artillery.aimLevel removed in first object
+root.PASB012_North_Carolina_1945.AIParams removed in first object
+root.PAAD002_Curtiss_SBC4.costCR changed in second object (was 200, is 320)
+root.PRSC505_KrasniKrym.A_Hull.fuelFee removed in second object
+root.PRSC505_KrasniKrym.A_Hull.maxRepairCost removed in second object
+root.PRSC505_KrasniKrym.A1_Artillery.aimLevel removed in first object
+root.PRSC505_KrasniKrym.AIParams removed in first object
+root.PFSB506_Dunkerque_1940.A_Hull.fuelFee removed in second object
+root.PFSB506_Dunkerque_1940.A_Hull.maxRepairCost removed in second object
+root.PFSB506_Dunkerque_1940.A1_Artillery.aimLevel removed in first object
+root.PFSB506_Dunkerque_1940.AIParams removed in first object
+root.PBGT038_21in_Triple_Torpedo_Tube.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PGPA064_203MM_HE_P_O.useSpecialShellModel removed in first object
+root.PAAB051_Douglas_BTD_1.costCR changed in second object (was 600, is 1200)
+root.PJSC709_Haguro.A_Hull.fuelFee removed in second object
+root.PJSC709_Haguro.A_Hull.maxRepairCost removed in second object
+root.PJSC709_Haguro.ArtilleryDefault.aimLevel removed in first object
+root.PJSC709_Haguro.B_Hull.fuelFee removed in second object
+root.PJSC709_Haguro.B_Hull.maxRepairCost removed in second object
+root.PJSC709_Haguro.C_Hull.fuelFee removed in second object
+root.PJSC709_Haguro.C_Hull.maxRepairCost removed in second object
+root.PJSC709_Haguro.AIParams removed in first object
+root.PRPA047_180_AP_MOLOTOV.useSpecialShellModel removed in first object
+root.PAPA066_SHELL_356MM_AP_MK_16_TEXAS.useSpecialShellModel removed in first object
+root.PASA002_Bogue_1942.A_Hull.fuelFee removed in second object
+root.PASA002_Bogue_1942.A_Hull.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASA002_Bogue_1942.A_Hull.maxRepairCost removed in second object
+root.PASA002_Bogue_1942.B_Hull.fuelFee removed in second object
+root.PASA002_Bogue_1942.B_Hull.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASA002_Bogue_1942.B_Hull.maxRepairCost removed in second object
+root.PASA002_Bogue_1942.AIParams removed in first object
+root.PAAD010_Douglas_BTD_1.costCR changed in second object (was 600, is 1200)
+root.PCPA037_305mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PASC002_Chester_1908.B2_152_50.aimLevel removed in first object
+root.PASC002_Chester_1908.A_Hull_1908.fuelFee removed in second object
+root.PASC002_Chester_1908.A_Hull_1908.maxRepairCost removed in second object
+root.PASC002_Chester_1908.B1_127_50.aimLevel removed in first object
+root.PASC002_Chester_1908.B_Hull_1917.fuelFee removed in second object
+root.PASC002_Chester_1908.B_Hull_1917.maxRepairCost removed in second object
+root.PASC002_Chester_1908.A1_127_50.aimLevel removed in first object
+root.PASC002_Chester_1908.AIParams removed in first object
+root.PBSC109_Neptune.permoflages[0] removed in first object
+root.PBSC109_Neptune.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PBSC109_Neptune.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PBSC109_Neptune.A_Hull.armor.65584 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65585 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65603 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65622 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65623 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65630 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.armor.65629 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.A_Hull.fuelFee removed in second object
+root.PBSC109_Neptune.A_Hull.maxRepairCost removed in second object
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot5.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PBSC109_Neptune.AB1_Artillery.aimLevel removed in first object
+root.PBSC109_Neptune.AB2_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB2_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB2_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB1_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.AB1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC109_Neptune.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PBSC109_Neptune.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PBSC109_Neptune.B_Hull.armor.65584 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65585 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65603 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65622 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65623 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65630 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.armor.65629 changed in second object (was 16.0, is 22.0)
+root.PBSC109_Neptune.B_Hull.fuelFee removed in second object
+root.PBSC109_Neptune.B_Hull.maxRepairCost removed in second object
+root.PBSC109_Neptune.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC109_Neptune.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 31.155, is 2.5)
+root.PBSC109_Neptune.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC109_Neptune.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_9, is UK_CL)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_9_Gold, is UK_CL_PREM)
+root.PBSC109_Neptune.AIParams removed in first object
+root.PAAB903_XP67_HALLOWEEN.costCR changed in second object (was 300, is 320)
+root.PRPA018_130MM_HE_OF_46_ORLAN.useSpecialShellModel removed in first object
+root.PAAF001_Grumman_F3F.costCR changed in second object (was 200, is 220)
+root.PJSC503_Katori.A_Hull.fuelFee removed in second object
+root.PJSC503_Katori.A_Hull.maxRepairCost removed in second object
+root.PJSC503_Katori.A1_Artillery.aimLevel removed in first object
+root.PJSC503_Katori.AIParams removed in first object
+root.PJSC035_Chikuma_1912.A_Hull_1912.fuelFee removed in second object
+root.PJSC035_Chikuma_1912.A_Hull_1912.maxRepairCost removed in second object
+root.PJSC035_Chikuma_1912.B1_152_45.aimLevel removed in first object
+root.PJSC035_Chikuma_1912.B_Hull_1918.fuelFee removed in second object
+root.PJSC035_Chikuma_1912.B_Hull_1918.maxRepairCost removed in second object
+root.PJSC035_Chikuma_1912.A1_152_45.aimLevel removed in first object
+root.PJSC035_Chikuma_1912.AIParams removed in first object
+root.PJAD009_Aichi_B7A.costCR changed in second object (was 600, is 1200)
+root.PASB801_False_Michigan_1916.ArtilleryDefault.aimLevel removed in first object
+root.PASB801_False_Michigan_1916.HullDefault.fuelFee removed in second object
+root.PASB801_False_Michigan_1916.HullDefault.maxRepairCost removed in second object
+root.PASB801_False_Michigan_1916.AIParams removed in first object
+root.PAPA007_Shell_356mm_HE_HC_Mk_22.useSpecialShellModel removed in first object
+root.PGPA040_150MM_HE_K_GR_18.useSpecialShellModel removed in first object
+root.PBPA001_381mm_HE_MkVIII.useSpecialShellModel removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.aimLevel removed in first object
+root.PASB034_New_Mexico_1941.B1_Artillery.aimLevel removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.fuelFee removed in second object
+root.PASB034_New_Mexico_1941.B_Hull_1936.maxRepairCost removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.maxRepairCost removed in second object
+root.PASB034_New_Mexico_1941.C_Hull_1941.fuelFee removed in second object
+root.PASB034_New_Mexico_1941.C1_Artillery.aimLevel removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.fuelFee removed in second object
+root.PASB034_New_Mexico_1941.A_Hull_1918.maxRepairCost removed in second object
+root.PASB034_New_Mexico_1941.AIParams removed in first object
+root.PAPA015_Shell_406mm_HE_HC_Mk_13.costCR changed in second object (was 150, is 250)
+root.PAPA015_Shell_406mm_HE_HC_Mk_13.useSpecialShellModel removed in first object
+root.PJPA041_76mm_AP_Type_0.useSpecialShellModel removed in first object
+root.PJSC015_Tatsuta_1919.ArtilleryDefault.HP_JGM_2.horizSector[0] changed in second object (was -113.0, is -139.0)
+root.PJSC015_Tatsuta_1919.ArtilleryDefault.HP_JGM_2.horizSector[1] changed in second object (was 113.0, is 139.0)
+root.PJSC015_Tatsuta_1919.ArtilleryDefault.HP_JGM_2.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PJSC015_Tatsuta_1919.ArtilleryDefault.aimLevel removed in first object
+root.PJSC015_Tatsuta_1919.A_Hull_1919.fuelFee removed in second object
+root.PJSC015_Tatsuta_1919.A_Hull_1919.maxRepairCost removed in second object
+root.PJSC015_Tatsuta_1919.B_Hull_1937.fuelFee removed in second object
+root.PJSC015_Tatsuta_1919.B_Hull_1937.maxRepairCost removed in second object
+root.PJSC015_Tatsuta_1919.AIParams removed in first object
+root.PAPB002_1000lbs_MK33.useSpecialShellModel removed in first object
+root.PRSC108_Pr_68_Chapaev.A_Hull.fuelFee removed in second object
+root.PRSC108_Pr_68_Chapaev.A_Hull.maxRepairCost removed in second object
+root.PRSC108_Pr_68_Chapaev.A1_Artillery.aimLevel removed in first object
+root.PRSC108_Pr_68_Chapaev.B_Hull.fuelFee removed in second object
+root.PRSC108_Pr_68_Chapaev.B_Hull.maxRepairCost removed in second object
+root.PRSC108_Pr_68_Chapaev.B1_Artillery.aimLevel removed in first object
+root.PRSC108_Pr_68_Chapaev.AIParams removed in first object
+root.PASA015_Midway_1945.HullDefault.fuelFee removed in second object
+root.PASA015_Midway_1945.HullDefault.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASA015_Midway_1945.HullDefault.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASA015_Midway_1945.HullDefault.maxRepairCost removed in second object
+root.PASA015_Midway_1945.AIParams removed in first object
+root.PCH041_TaskPerforming2.hidden changed in second object (was False, is True)
+root.PCH041_TaskPerforming2.events[0] removed in second object
+root.PCH041_TaskPerforming2.events[1] removed in second object
+root.PCH041_TaskPerforming2.constants.questCount removed in second object
+root.PJPA008_Shell_203mm_AP_AP_Type_91.useSpecialShellModel removed in first object
+root.PGSC106_Nurnberg.A_Hull.fuelFee removed in second object
+root.PGSC106_Nurnberg.A_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.armor.65593 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.A_Hull.maxRepairCost removed in second object
+root.PGSC106_Nurnberg.AB1_Artillery.aimLevel removed in first object
+root.PGSC106_Nurnberg.B_Hull.fuelFee removed in second object
+root.PGSC106_Nurnberg.B_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.armor.65593 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.B_Hull.maxRepairCost removed in second object
+root.PGSC106_Nurnberg.C_Hull.fuelFee removed in second object
+root.PGSC106_Nurnberg.C_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.armor.65593 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PGSC106_Nurnberg.C_Hull.maxRepairCost removed in second object
+root.PGSC106_Nurnberg.C1_Artillery.aimLevel removed in first object
+root.PGSC106_Nurnberg.AIParams removed in first object
+root.PJSB011_Mikasa_1905.ArtilleryDefault.aimLevel removed in first object
+root.PJSB011_Mikasa_1905.HullDefault.fuelFee removed in second object
+root.PJSB011_Mikasa_1905.HullDefault.maxRepairCost removed in second object
+root.PJSB011_Mikasa_1905.AIParams removed in first object
+root.PRPA037_180_AP_B_32_S.useSpecialShellModel removed in first object
+root.PBPA007_102MM_HE_MG_BS.bulletDetonator changed in second object (was 0.005, is 0.01)
+root.PBPA007_102MM_HE_MG_BS.alphaDamage changed in second object (was 500.0, is 450.0)
+root.PBPA007_102MM_HE_MG_BS.useSpecialShellModel removed in first object
+root.PBPA002_381mm_AP_APC_MarkXXIIb.useSpecialShellModel removed in first object
+root.PASD006_Mahan_1936.permoflages[0] removed in first object
+root.PASD006_Mahan_1936.A_Hull.fuelFee removed in second object
+root.PASD006_Mahan_1936.A_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.A_Hull.armor.131165 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.A_Hull.maxRepairCost removed in second object
+root.PASD006_Mahan_1936.B_Hull.fuelFee removed in second object
+root.PASD006_Mahan_1936.B_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.B_Hull.armor.131165 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.B_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.B_Hull.maxRepairCost removed in second object
+root.PASD006_Mahan_1936.C_Hull.fuelFee removed in second object
+root.PASD006_Mahan_1936.C_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.C_Hull.armor.131165 changed in second object (was 16.0, is 15.0)
+root.PASD006_Mahan_1936.C_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.C_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.C_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD006_Mahan_1936.C_Hull.maxRepairCost removed in second object
+root.PASD006_Mahan_1936.C_Artillery.aimLevel removed in first object
+root.PASD006_Mahan_1936.AB_Artillery.aimLevel removed in first object
+root.PASD006_Mahan_1936.AIParams removed in first object
+root.PBPA019_114MM_HE_MK16.useSpecialShellModel removed in first object
+root.PGPA002_380mm_HE_HE_L_4_6.useSpecialShellModel removed in first object
+root.PJSC717_Yellow_Dragon.A_Hull.fuelFee removed in second object
+root.PJSC717_Yellow_Dragon.A_Hull.maxRepairCost removed in second object
+root.PJSC717_Yellow_Dragon.ArtilleryDefault.aimLevel removed in first object
+root.PJSC717_Yellow_Dragon.B_Hull.fuelFee removed in second object
+root.PJSC717_Yellow_Dragon.B_Hull.maxRepairCost removed in second object
+root.PJSC717_Yellow_Dragon.C_Hull.fuelFee removed in second object
+root.PJSC717_Yellow_Dragon.C_Hull.maxRepairCost removed in second object
+root.PJSC717_Yellow_Dragon.AIParams removed in first object
+root.PJAB001_B5N2.costCR changed in second object (was 300, is 550)
+root.PJPA003_Shell_152mm_AP_C_Type_4.useSpecialShellModel removed in first object
+root.PBPA020_152MM_HE_BEL.useSpecialShellModel removed in first object
+root.PAPA009_Shell_406mm_AP_AP_Mk_3.useSpecialShellModel removed in first object
+root.PGPA058_305MM_HE_SPR_GR_L5.useSpecialShellModel removed in first object
+root.PBGT041_21in_Torpedo_Tubes_Twin_R.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PCPA011_102mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PGPA024_203MM_HE_SPR_GR_L4_7_BDZ.useSpecialShellModel removed in first object
+root.PJPA011_Shell_127mm_AP_Type_0.useSpecialShellModel removed in first object
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.aimLevel removed in first object
+root.PGSB002_Tirpiz_1942.HullDefault.fuelFee removed in second object
+root.PGSB002_Tirpiz_1942.HullDefault.maxRepairCost removed in second object
+root.PGSB002_Tirpiz_1942.AIParams removed in first object
+root.PJPA056_Shell_460mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PASB008_Colorado_1945.A1_Artillery.aimLevel removed in first object
+root.PASB008_Colorado_1945.B_Hull_1942.fuelFee removed in second object
+root.PASB008_Colorado_1945.B_Hull_1942.maxRepairCost removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.fuelFee removed in second object
+root.PASB008_Colorado_1945.A_Hull_1921.maxRepairCost removed in second object
+root.PASB008_Colorado_1945.B1_Artillery.aimLevel removed in first object
+root.PASB008_Colorado_1945.C1_Artillery.aimLevel removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.maxRepairCost removed in second object
+root.PASB008_Colorado_1945.C_Hull_1945.fuelFee removed in second object
+root.PASB008_Colorado_1945.AIParams removed in first object
+root.PJPA054_410mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PJPA046_Main_140mm_HE_O_Type_0.useSpecialShellModel removed in first object
+root.PJSD207_Shiratsuyu.A_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD207_Shiratsuyu.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.A_Hull.maxRepairCost removed in second object
+root.PJSD207_Shiratsuyu.A_Hull.fuelFee removed in second object
+root.PJSD207_Shiratsuyu.AB1_Artillery.aimLevel removed in first object
+root.PJSD207_Shiratsuyu.B_Hull.fuelFee removed in second object
+root.PJSD207_Shiratsuyu.B_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD207_Shiratsuyu.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.B_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD207_Shiratsuyu.B_Hull.maxRepairCost removed in second object
+root.PJSD207_Shiratsuyu.AIParams removed in first object
+root.PGSB110_Grossdeutschland.A_Hull.fuelFee removed in second object
+root.PGSB110_Grossdeutschland.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PGSB110_Grossdeutschland.A_Hull.maxRepairCost removed in second object
+root.PGSB110_Grossdeutschland.A1_Artillery.aimLevel removed in first object
+root.PGSB110_Grossdeutschland.A2_Artillery.aimLevel removed in first object
+root.PGSB110_Grossdeutschland.AIParams removed in first object
+root.PAAD006_Vought_SBU.level changed in second object (was 4, is 3)
+root.PAAD006_Vought_SBU.costCR changed in second object (was 200, is 220)
+root.PAPB007_500lbs_ANM64.useSpecialShellModel removed in first object
+root.PASD014_Leader_1919.A1_Artillery.aimLevel removed in first object
+root.PASD014_Leader_1919.B2_Artillery.aimLevel removed in first object
+root.PASD014_Leader_1919.B_Hull_1938.fuelFee removed in second object
+root.PASD014_Leader_1919.B_Hull_1938.maxRepairCost removed in second object
+root.PASD014_Leader_1919.A_Hull_1919.fuelFee removed in second object
+root.PASD014_Leader_1919.A_Hull_1919.maxRepairCost removed in second object
+root.PASD014_Leader_1919.AIParams removed in first object
+root.PJPT001_Sea_Torpedo_Type93.costCR changed in second object (was 350, is 900)
+root.PJSX701_Support.HullDefault.fuelFee removed in second object
+root.PJSX701_Support.HullDefault.maxRepairCost removed in second object
+root.PJSX701_Support.AIParams removed in first object
+root.PJPA047_Shell_140mm_AP_C_capped.useSpecialShellModel removed in first object
+root.PJAD007_D4Y3.costCR changed in second object (was 600, is 1200)
+root.PJPA020_Shell_155mm_HE_O_Type_0.useSpecialShellModel removed in first object
+root.PAAD508_Douglas_AD2_S.costCR changed in second object (was 600, is 1200)
+root.PRSD001_Gremyashchy_1942.ArtilleryDefault.aimLevel removed in first object
+root.PRSD001_Gremyashchy_1942.HullDefault.fuelFee removed in second object
+root.PRSD001_Gremyashchy_1942.HullDefault.maxRepairCost removed in second object
+root.PRSD001_Gremyashchy_1942.AIParams removed in first object
+root.PRPA046_180_HE_MOLOTOV.useSpecialShellModel removed in first object
+root.PRPA035_152MM_B35.useSpecialShellModel removed in first object
+root.PJPA028_Shell_120mm_HE_O_Mk_3.useSpecialShellModel removed in first object
+root.PAAF002_Grumman_F6F.costCR changed in second object (was 350, is 550)
+root.PAPT027_Mk_16_mod_1.costCR changed in second object (was 300, is 700)
+root.PAPA037_Shell_203mm_AP_AP_260lbs.useSpecialShellModel removed in first object
+root.PAPA035_Shell_356mm_AP_AP_Mk_16.useSpecialShellModel removed in first object
+root.PJPA060_SHELL_305MM_AP_850LBS.useSpecialShellModel removed in first object
+root.PCPA060_406mm_HE_HE_Mk_2.useSpecialShellModel removed in first object
+root.PJPA013_Shell_140mm_AP_C_capped.useSpecialShellModel removed in first object
+root.PJSB013_Amagi_1942.BC1_410_45.aimLevel removed in first object
+root.PJSB013_Amagi_1942.A1_410_45.aimLevel removed in first object
+root.PJSB013_Amagi_1942.B_Hull_1941.fuelFee removed in second object
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB013_Amagi_1942.A_Hull_1926.fuelFee removed in second object
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.A_Hull_1926.maxRepairCost removed in second object
+root.PJSB013_Amagi_1942.C_Hull_1944.fuelFee removed in second object
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB013_Amagi_1942.C_Hull_1944.maxRepairCost removed in second object
+root.PJSB013_Amagi_1942.AIParams removed in first object
+root.PCPA004_76mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PRPA016_130_HE_1911.useSpecialShellModel removed in first object
+root.PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5.useSpecialShellModel removed in first object
+root.PASD021_Fletcher_1943.A_Hull.fuelFee removed in second object
+root.PASD021_Fletcher_1943.A_Hull.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65585 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.armor.65630 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.A_Hull.maxRepairCost removed in second object
+root.PASD021_Fletcher_1943.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PASD021_Fletcher_1943.B_Hull.fuelFee removed in second object
+root.PASD021_Fletcher_1943.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.armor.65585 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.armor.65630 changed in second object (was 13.0, is 12.0)
+root.PASD021_Fletcher_1943.B_Hull.maxRepairCost removed in second object
+root.PASD021_Fletcher_1943.ABC1_Artillery.aimLevel removed in first object
+root.PASD021_Fletcher_1943.AIParams removed in first object
+root.PAPA034_Shell_102mm_HE_HC_Mk_15.useSpecialShellModel removed in first object
+root.PBPA015_152MM_HE_6CRH_MK4.useSpecialShellModel removed in first object
+root.PJSA015_Taiho_1944.A_Hull_1944.fuelFee removed in second object
+root.PJSA015_Taiho_1944.A_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA015_Taiho_1944.A_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA015_Taiho_1944.A_Hull_1944.maxRepairCost removed in second object
+root.PJSA015_Taiho_1944.B_Hull_1945.fuelFee removed in second object
+root.PJSA015_Taiho_1944.B_Hull_1945.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA015_Taiho_1944.B_Hull_1945.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA015_Taiho_1944.B_Hull_1945.maxRepairCost removed in second object
+root.PJSA015_Taiho_1944.AIParams removed in first object
+root.PJPA034_Shell_200mm_HE_Common_Type_4_Secondary.useSpecialShellModel removed in first object
+root.PGPA007_105MM_AP_PSGR.useSpecialShellModel removed in first object
+root.PCPA031_155mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PAPA039_Shell_356mm_AP_AP_1400lbs.useSpecialShellModel removed in first object
+root.PCPA029_152mm_BASIC_SG_AP.useSpecialShellModel removed in first object
+root.PAPA043_Shell_127_AP_C_Mk_15.useSpecialShellModel removed in first object
+root.PJAF004_J7W1_A.costCR changed in second object (was 600, is 1200)
+root.PAPA053_356mm_AP_Early_AP_1400lbs.useSpecialShellModel removed in first object
+root.PJPA005_Shell_410mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PGPA025_210MM_AP_PSGR_L3_1.useSpecialShellModel removed in first object
+root.PJSC038_Atago_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSC038_Atago_1944.HullDefault.maxRepairCost removed in second object
+root.PJSC038_Atago_1944.HullDefault.fuelFee removed in second object
+root.PJSC038_Atago_1944.AIParams removed in first object
+root.PRPA036_220_AP_B_23.useSpecialShellModel removed in first object
+root.PJAB002_Nakajima_B6N.costCR changed in second object (was 450, is 800)
+root.PASD502_Smith.A_Hull.fuelFee removed in second object
+root.PASD502_Smith.A_Hull.maxRepairCost removed in second object
+root.PASD502_Smith.A1_Artillery.aimLevel removed in first object
+root.PASD502_Smith.AIParams removed in first object
+root.PJPA043_Shell_152mm_AP_C_Type_4.useSpecialShellModel removed in first object
+root.PASD013_Gearing_1945.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PASD013_Gearing_1945.ArtilleryDefault.aimLevel removed in first object
+root.PASD013_Gearing_1945.HullDefault.fuelFee removed in second object
+root.PASD013_Gearing_1945.HullDefault.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD013_Gearing_1945.HullDefault.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD013_Gearing_1945.HullDefault.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PASD013_Gearing_1945.HullDefault.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD013_Gearing_1945.HullDefault.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD013_Gearing_1945.HullDefault.maxRepairCost removed in second object
+root.PASD013_Gearing_1945.AIParams removed in first object
+root.PJPA999_Useless_AP_Special.useSpecialShellModel removed in first object
+root.PRPA002_Shell_152mm_HE_HE_109lbs.useSpecialShellModel removed in first object
+root.PAPA011_Shell_406mm_AP_AP_Mk_8.costCR changed in second object (was 150, is 250)
+root.PAPA011_Shell_406mm_AP_AP_Mk_8.useSpecialShellModel removed in first object
+root.PAPA068_127MM_AP_FLINT.useSpecialShellModel removed in first object
+root.PCPA025_140mm_BASIC_SG_AP.useSpecialShellModel removed in first object
+root.PGPA055_283MM_HE_SCHARNHORST.useSpecialShellModel removed in first object
+root.PJSB018_Yamato_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSB018_Yamato_1944.HullDefault.fuelFee removed in second object
+root.PJSB018_Yamato_1944.HullDefault.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.131121 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PJSB018_Yamato_1944.HullDefault.maxRepairCost removed in second object
+root.PJSB018_Yamato_1944.AIParams removed in first object
+root.PUPA001_152MM_HE_PERTH.useSpecialShellModel removed in first object
+root.PAAB053_Douglas_XSB2D.costCR changed in second object (was 800, is 1700)
+root.PJPA031_Shell_305mm_HE_HE.useSpecialShellModel removed in first object
+root.PASB004_Arkansas_1912.A1_Artillery.aimLevel removed in first object
+root.PASB004_Arkansas_1912.B_Hull_1942.fuelFee removed in second object
+root.PASB004_Arkansas_1912.B_Hull_1942.maxRepairCost removed in second object
+root.PASB004_Arkansas_1912.B1_Artillery.aimLevel removed in first object
+root.PASB004_Arkansas_1912.A_Hull_1919.fuelFee removed in second object
+root.PASB004_Arkansas_1912.A_Hull_1919.maxRepairCost removed in second object
+root.PASB004_Arkansas_1912.AIParams removed in first object
+root.PAAD011_Kaiser_Fleetwings_XBTK.costCR changed in second object (was 800, is 1700)
+root.PCPA024_140mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PAAB001_Douglas_TBD.costCR changed in second object (was 300, is 320)
+root.PCPB001_Default_Bomb.useSpecialShellModel removed in first object
+root.PCPA001_Shell.useSpecialShellModel removed in first object
+root.PJSX702_Support.HullDefault.fuelFee removed in second object
+root.PJSX702_Support.HullDefault.maxRepairCost removed in second object
+root.PJSX702_Support.AIParams removed in first object
+root.PJAF008_Mitsubishi_A8M.costCR changed in second object (was 800, is 1700)
+root.PWPA001_120_HE_BLYSKAWICA.useSpecialShellModel removed in first object
+root.PRSD106_Pr_30_Ognevoy.permoflages[0] removed in first object
+root.PRSD106_Pr_30_Ognevoy.A_Hull.fuelFee removed in second object
+root.PRSD106_Pr_30_Ognevoy.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PRSD106_Pr_30_Ognevoy.A_Hull.armor.131128 changed in second object (was 16.0, is 13.0)
+root.PRSD106_Pr_30_Ognevoy.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PRSD106_Pr_30_Ognevoy.A_Hull.maxRepairCost removed in second object
+root.PRSD106_Pr_30_Ognevoy.AB1_Artillery.aimLevel removed in first object
+root.PRSD106_Pr_30_Ognevoy.B_Hull.fuelFee removed in second object
+root.PRSD106_Pr_30_Ognevoy.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PRSD106_Pr_30_Ognevoy.B_Hull.armor.131128 changed in second object (was 16.0, is 13.0)
+root.PRSD106_Pr_30_Ognevoy.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PRSD106_Pr_30_Ognevoy.B_Hull.maxRepairCost removed in second object
+root.PRSD106_Pr_30_Ognevoy.AIParams removed in first object
+root.PJSD206_Hatsuharu.B_Hull_1945.fuelFee removed in second object
+root.PJSD206_Hatsuharu.B_Hull_1945.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.B_Hull_1945.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD206_Hatsuharu.B_Hull_1945.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.B_Hull_1945.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.B_Hull_1945.maxRepairCost removed in second object
+root.PJSD206_Hatsuharu.B1_127_50.aimLevel removed in first object
+root.PJSD206_Hatsuharu.A1_127_50.aimLevel removed in first object
+root.PJSD206_Hatsuharu.A_Hull_1935.fuelFee removed in second object
+root.PJSD206_Hatsuharu.A_Hull_1935.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.A_Hull_1935.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD206_Hatsuharu.A_Hull_1935.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.A_Hull_1935.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD206_Hatsuharu.A_Hull_1935.maxRepairCost removed in second object
+root.PJSD206_Hatsuharu.AIParams removed in first object
+root.PRSC508_Kutuzov_1952.A_Hull.fuelFee removed in second object
+root.PRSC508_Kutuzov_1952.A_Hull.maxRepairCost removed in second object
+root.PRSC508_Kutuzov_1952.A1_Artillery.aimLevel removed in first object
+root.PRSC508_Kutuzov_1952.AIParams removed in first object
+root.PBPA014_152MM_HE_6CRH_SC.useSpecialShellModel removed in first object
+root.PAPA064_SHELL_203MM_AP_INDIANAPOLIS.useSpecialShellModel removed in first object
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.fuelFee removed in second object
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB708_Hiei_Arpeggio.B1_356_45.aimLevel removed in first object
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.fuelFee removed in second object
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.maxRepairCost removed in second object
+root.PJSB708_Hiei_Arpeggio.C1_356_45.aimLevel removed in first object
+root.PJSB708_Hiei_Arpeggio.AIParams removed in first object
+root.PCH040_TaskPerforming1.hidden changed in second object (was False, is True)
+root.PCH040_TaskPerforming1.events[0] removed in second object
+root.PCH040_TaskPerforming1.events[1] removed in second object
+root.PCH040_TaskPerforming1.constants.questCount removed in second object
+root.PCPA026_152mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PRPA023_100MM_OF55.useSpecialShellModel removed in first object
+root.PCPA015_120mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.aimLevel removed in first object
+root.PJSD026_Camo_Kamikaze.HullDefault.fuelFee removed in second object
+root.PJSD026_Camo_Kamikaze.HullDefault.maxRepairCost removed in second object
+root.PJSD026_Camo_Kamikaze.AIParams removed in first object
+root.PGSC110_Hindenburg.ArtilleryDefault.aimLevel removed in first object
+root.PGSC110_Hindenburg.HullDefault.fuelFee removed in second object
+root.PGSC110_Hindenburg.HullDefault.maxRepairCost removed in second object
+root.PGSC110_Hindenburg.AIParams removed in first object
+root.PCY006_SmokeGenerator.UK_Lvl_6.workTime changed in second object (was 3.0, is 23.0)
+root.PCY006_SmokeGenerator.UK_Lvl_6.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_7.workTime changed in second object (was 3.0, is 23.0)
+root.PCY006_SmokeGenerator.UK_Lvl_7.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_4.workTime changed in second object (was 3.0, is 22.0)
+root.PCY006_SmokeGenerator.UK_Lvl_4.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_5.workTime changed in second object (was 3.0, is 22.0)
+root.PCY006_SmokeGenerator.UK_Lvl_5.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_2.workTime changed in second object (was 3.0, is 21.0)
+root.PCY006_SmokeGenerator.UK_Lvl_2.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_3.workTime changed in second object (was 3.0, is 21.0)
+root.PCY006_SmokeGenerator.UK_Lvl_3.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_8.workTime changed in second object (was 3.0, is 24.0)
+root.PCY006_SmokeGenerator.UK_Lvl_8.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_9.workTime changed in second object (was 3.0, is 24.0)
+root.PCY006_SmokeGenerator.UK_Lvl_9.radius changed in second object (was 20.0, is 15.0)
+root.PCY006_SmokeGenerator.UK_Lvl_10.workTime changed in second object (was 3.0, is 25.0)
+root.PCY006_SmokeGenerator.UK_Lvl_10.radius changed in second object (was 20.0, is 15.0)
+root.PAAD004_Douglas_SBD2.costCR changed in second object (was 250, is 220)
+root.PJPA019_Shell_155mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PJPA038_Shell_203mm_AP_AP_Type_92.useSpecialShellModel removed in first object
+root.PAPA067_SHELL_356MM_HE_MK_22_TEXAS.useSpecialShellModel removed in first object
+root.PASD019_Clemson_1920.AB1_Artillery.aimLevel removed in first object
+root.PASD019_Clemson_1920.B2_Artillery.aimLevel removed in first object
+root.PASD019_Clemson_1920.A_Hull_1920.fuelFee removed in second object
+root.PASD019_Clemson_1920.A_Hull_1920.maxRepairCost removed in second object
+root.PASD019_Clemson_1920.B_Hull_1930.fuelFee removed in second object
+root.PASD019_Clemson_1920.B_Hull_1930.maxRepairCost removed in second object
+root.PASD019_Clemson_1920.AIParams removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.fuelFee removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.maxRepairCost removed in second object
+root.PRSD110_Pr_24_Khabarovsk.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PRSD110_Pr_24_Khabarovsk.A1_Artillery.aimLevel removed in first object
+root.PRSD110_Pr_24_Khabarovsk.AIParams removed in first object
+root.PJSC705_Myoko.A_Hull.fuelFee removed in second object
+root.PJSC705_Myoko.A_Hull.maxRepairCost removed in second object
+root.PJSC705_Myoko.ArtilleryDefault.aimLevel removed in first object
+root.PJSC705_Myoko.B_Hull.fuelFee removed in second object
+root.PJSC705_Myoko.B_Hull.maxRepairCost removed in second object
+root.PJSC705_Myoko.C_Hull.fuelFee removed in second object
+root.PJSC705_Myoko.C_Hull.maxRepairCost removed in second object
+root.PJSC705_Myoko.AIParams removed in first object
+root.PCPA049_406mm_FORTS_MG_AP.useSpecialShellModel removed in first object
+root.PASB001_Michigan_1916.A_Hull.fuelFee removed in second object
+root.PASB001_Michigan_1916.A_Hull.maxRepairCost removed in second object
+root.PASB001_Michigan_1916.A1_Artillery.aimLevel removed in first object
+root.PASB001_Michigan_1916.B_Hull.fuelFee removed in second object
+root.PASB001_Michigan_1916.B_Hull.maxRepairCost removed in second object
+root.PASB001_Michigan_1916.B1_Artillery.aimLevel removed in first object
+root.PASB001_Michigan_1916.AIParams removed in first object
+root.PGPA061_305MM_AP_KA.useSpecialShellModel removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.B_Hull.fuelFee removed in second object
+root.PASB018_Iowa_1944.B_Hull.maxRepairCost removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.A_Hull.fuelFee removed in second object
+root.PASB018_Iowa_1944.A_Hull.maxRepairCost removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB018_Iowa_1944.C_Hull.fuelFee removed in second object
+root.PASB018_Iowa_1944.C_Hull.maxRepairCost removed in second object
+root.PASB018_Iowa_1944.C_Artillery.aimLevel removed in first object
+root.PASB018_Iowa_1944.A_Artillery.aimLevel removed in first object
+root.PASB018_Iowa_1944.B_Artillery.aimLevel removed in first object
+root.PASB018_Iowa_1944.AIParams removed in first object
+root.PAAF028_Grumman_F6F_3.costCR changed in second object (was 300, is 320)
+root.PBPA016_152MM_AP_6CRH_MK4.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA016_152MM_AP_6CRH_MK4.alphaDamage changed in second object (was 2700.0, is 1500.0)
+root.PBPA016_152MM_AP_6CRH_MK4.useSpecialShellModel removed in first object
+root.PCPA022_140mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PAAB052_Grumman_TBM3.costCR changed in second object (was 450, is 800)
+root.PASC019_Burlington_1944.ArtilleryDefault.aimLevel removed in first object
+root.PASC019_Burlington_1944.HullDefault.fuelFee removed in second object
+root.PASC019_Burlington_1944.HullDefault.maxRepairCost removed in second object
+root.PASC019_Burlington_1944.AIParams removed in first object
+root.PBSC104_Danae.A_Hull.fuelFee removed in second object
+root.PBSC104_Danae.A_Hull.maxRepairCost removed in second object
+root.PBSC104_Danae.AB1_Artillery.aimLevel removed in first object
+root.PBSC104_Danae.AB2_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB2_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB2_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB1_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.AB1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC104_Danae.B_Hull.fuelFee removed in second object
+root.PBSC104_Danae.B_Hull.maxRepairCost removed in second object
+root.PBSC104_Danae.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC104_Danae.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 27.9, is 2.5)
+root.PBSC104_Danae.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC104_Danae.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC104_Danae.AIParams removed in first object
+root.PJSC018_Tone.ArtilleryDefault.aimLevel removed in first object
+root.PJSC018_Tone.HullDefault.fuelFee removed in second object
+root.PJSC018_Tone.HullDefault.maxRepairCost removed in second object
+root.PJSC018_Tone.AIParams removed in first object
+root.PAAF512_Vought_F4U_S.costCR changed in second object (was 600, is 800)
+root.PGPA045_305MM_AP_PZ_GR_L4_9.useSpecialShellModel removed in first object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSC012_Ibuki_1944.B_Hull_1945.fuelFee removed in second object
+root.PJSC012_Ibuki_1944.B_Hull_1945.maxRepairCost removed in second object
+root.PJSC012_Ibuki_1944.A_Hull_1944.fuelFee removed in second object
+root.PJSC012_Ibuki_1944.A_Hull_1944.maxRepairCost removed in second object
+root.PJSC012_Ibuki_1944.AIParams removed in first object
+root.PGPA013_88MM_HE_SPR_GR.useSpecialShellModel removed in first object
+root.PASC020_Des_Moines_1948.ArtilleryDefault.aimLevel removed in first object
+root.PASC020_Des_Moines_1948.HullDefault.maxRepairCost removed in second object
+root.PASC020_Des_Moines_1948.HullDefault.fuelFee removed in second object
+root.PASC020_Des_Moines_1948.AIParams removed in first object
+root.PJSA002_Hosho_1939.B_Hull_1939.fuelFee removed in second object
+root.PJSA002_Hosho_1939.B_Hull_1939.armor.131159 changed in second object (was 13.0, is 16.0)
+root.PJSA002_Hosho_1939.B_Hull_1939.maxRepairCost removed in second object
+root.PJSA002_Hosho_1939.C_Hull_1941.fuelFee removed in second object
+root.PJSA002_Hosho_1939.C_Hull_1941.armor.131159 changed in second object (was 13.0, is 16.0)
+root.PJSA002_Hosho_1939.C_Hull_1941.maxRepairCost removed in second object
+root.PJSA002_Hosho_1939.AIParams removed in first object
+root.PJAD001_D1A2.costCR changed in second object (was 250, is 220)
+root.PGPA023_203MM_AP_PZ_SPR_GGR_L4_4.useSpecialShellModel removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.A1_127_51.aimLevel removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.fuelFee removed in second object
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.maxRepairCost removed in second object
+root.PASC804_FALSE_ENEMY_Erie_1936.AIParams removed in first object
+root.PJAB004_Yokosuka_B4Y.costCR changed in second object (was 200, is 220)
+root.PBGT005_21in_Quad_Torpedo_Tube.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PZSD506_Anshan.A_Hull.fuelFee removed in second object
+root.PZSD506_Anshan.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PZSD506_Anshan.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PZSD506_Anshan.A_Hull.armor.65585 changed in second object (was 16.0, is 13.0)
+root.PZSD506_Anshan.A_Hull.armor.65592 changed in second object (was 16.0, is 13.0)
+root.PZSD506_Anshan.A_Hull.armor.65593 changed in second object (was 16.0, is 13.0)
+root.PZSD506_Anshan.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PZSD506_Anshan.A_Hull.armor.65630 changed in second object (was 16.0, is 13.0)
+root.PZSD506_Anshan.A_Hull.maxRepairCost removed in second object
+root.PZSD506_Anshan.A1_Artillery.aimLevel removed in first object
+root.PZSD506_Anshan.AIParams removed in first object
+root.PAPA002_Shell_203mm_HE_HC_Mk_25.useSpecialShellModel removed in first object
+root.PJPA024_Shell_120mm_HE_C_Type_1.useSpecialShellModel removed in first object
+root.PRSB001_Nikolay_I.ArtilleryDefault.aimLevel removed in first object
+root.PRSB001_Nikolay_I.HullDefault.fuelFee removed in second object
+root.PRSB001_Nikolay_I.HullDefault.maxRepairCost removed in second object
+root.PRSB001_Nikolay_I.AIParams removed in first object
+root.PAPA060_406mm_HE_HE_Mk_2.useSpecialShellModel removed in first object
+root.PJSB801_False_Kawachi_1912.B1_305_45.aimLevel removed in first object
+root.PJSB801_False_Kawachi_1912.A1_305_45.aimLevel removed in first object
+root.PJSB801_False_Kawachi_1912.A_Hull_1912.fuelFee removed in second object
+root.PJSB801_False_Kawachi_1912.A_Hull_1912.maxRepairCost removed in second object
+root.PJSB801_False_Kawachi_1912.B_Hull_1919.fuelFee removed in second object
+root.PJSB801_False_Kawachi_1912.B_Hull_1919.maxRepairCost removed in second object
+root.PJSB801_False_Kawachi_1912.B2_305_50.aimLevel removed in first object
+root.PJSB801_False_Kawachi_1912.AIParams removed in first object
+root.PAAB006_Martin_T4M_float.costCR changed in second object (was 200, is 220)
+root.PGSC002_Drezden_1908.A1_Artillery.aimLevel removed in first object
+root.PGSC002_Drezden_1908.A_Hull_1908.fuelFee removed in second object
+root.PGSC002_Drezden_1908.A_Hull_1908.maxRepairCost removed in second object
+root.PGSC002_Drezden_1908.B1_Artillery.aimLevel removed in first object
+root.PGSC002_Drezden_1908.B_Hull_1916.fuelFee removed in second object
+root.PGSC002_Drezden_1908.B_Hull_1916.maxRepairCost removed in second object
+root.PGSC002_Drezden_1908.AIParams removed in first object
+root.PJPA017_Shell_460mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PRPA026_100MM_HE_P_28.useSpecialShellModel removed in first object
+root.PBPA004_102mm_HE_HE_35lbs.useSpecialShellModel removed in first object
+root.PBSC101_Black_Swan.A_Hull.fuelFee removed in second object
+root.PBSC101_Black_Swan.A_Hull.maxRepairCost removed in second object
+root.PBSC101_Black_Swan.Cameras.Observe.InnerTrajectory.posCenter[1] changed in second object (was 0.3, is 0.5)
+root.PBSC101_Black_Swan.Cameras.Spectator.InnerTrajectory.posCenter[1] changed in second object (was 0.3, is 0.5)
+root.PBSC101_Black_Swan.A1_Artillery.maxDist changed in second object (was 7950.0, is 7040.0)
+root.PBSC101_Black_Swan.A1_Artillery.aimLevel removed in first object
+root.PBSC101_Black_Swan.group changed in second object (was demoWithoutStats, is start)
+root.PBSC101_Black_Swan.A_Engine.forwardEngineForsagMaxSpeed changed in second object (was 17.67, is 2.5)
+root.PBSC101_Black_Swan.A_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC101_Black_Swan.A_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC101_Black_Swan.AIParams removed in first object
+root.PAPA004_Shell_127mm_AP_SC_Mk_38.useSpecialShellModel removed in first object
+root.PBSC507_Belfast_1959.A_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PBSC507_Belfast_1959.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PBSC507_Belfast_1959.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PBSC507_Belfast_1959.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PBSC507_Belfast_1959.A_Hull.fuelFee removed in second object
+root.PBSC507_Belfast_1959.A_Hull.maxRepairCost removed in second object
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot5 removed in second object
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PBSC507_Belfast_1959.A1_Artillery.aimLevel removed in first object
+root.PBSC507_Belfast_1959.ShipUpgradeInfo.costGold changed in second object (was 8000, is 8200)
+root.PBSC507_Belfast_1959.A_Engine.forwardEngineForsagMaxSpeed changed in second object (was 30.225, is 2.5)
+root.PBSC507_Belfast_1959.A_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC507_Belfast_1959.A_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC507_Belfast_1959.AIParams removed in first object
+root.PJSD503_Isokaze.B_Hull_1925.fuelFee removed in second object
+root.PJSD503_Isokaze.B_Hull_1925.maxRepairCost removed in second object
+root.PJSD503_Isokaze.A1_120_40.aimLevel removed in first object
+root.PJSD503_Isokaze.B1_120_40.aimLevel removed in first object
+root.PJSD503_Isokaze.A_Hull_1917.fuelFee removed in second object
+root.PJSD503_Isokaze.A_Hull_1917.maxRepairCost removed in second object
+root.PJSD503_Isokaze.AIParams removed in first object
+root.PJAF009_Kawanishi_N1K5_A.costCR changed in second object (was 450, is 800)
+root.PJSD002_Umikaze_1925.A1_120_40.aimLevel removed in first object
+root.PJSD002_Umikaze_1925.A_Hull_1911.fuelFee removed in second object
+root.PJSD002_Umikaze_1925.A_Hull_1911.maxRepairCost removed in second object
+root.PJSD002_Umikaze_1925.B1_120_40.aimLevel removed in first object
+root.PJSD002_Umikaze_1925.B_Hull_1918.fuelFee removed in second object
+root.PJSD002_Umikaze_1925.B_Hull_1918.maxRepairCost removed in second object
+root.PJSD002_Umikaze_1925.AIParams removed in first object
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.aimLevel removed in first object
+root.PJSD017_Kamikaze_1930.HullDefault.fuelFee removed in second object
+root.PJSD017_Kamikaze_1930.HullDefault.maxRepairCost removed in second object
+root.PJSD017_Kamikaze_1930.AIParams removed in first object
+root.PRSC102_Novik.A_Hull.fuelFee removed in second object
+root.PRSC102_Novik.A_Hull.maxRepairCost removed in second object
+root.PRSC102_Novik.A1_Artillery.aimLevel removed in first object
+root.PRSC102_Novik.B_Hull.fuelFee removed in second object
+root.PRSC102_Novik.B_Hull.maxRepairCost removed in second object
+root.PRSC102_Novik.B1_Artillery.aimLevel removed in first object
+root.PRSC102_Novik.AIParams removed in first object
+root.PJSC037_Hashidate_1940.A_Hull.fuelFee removed in second object
+root.PJSC037_Hashidate_1940.A_Hull.maxRepairCost removed in second object
+root.PJSC037_Hashidate_1940.A_Artillery.aimLevel removed in first object
+root.PJSC037_Hashidate_1940.AIParams removed in first object
+root.PCPA038_356mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PRSD103_Derzky.A_Hull.fuelFee removed in second object
+root.PRSD103_Derzky.A_Hull.maxRepairCost removed in second object
+root.PRSD103_Derzky.B_Hull.fuelFee removed in second object
+root.PRSD103_Derzky.B_Hull.maxRepairCost removed in second object
+root.PRSD103_Derzky.A_Artillery.aimLevel removed in first object
+root.PRSD103_Derzky.B_Artillery.aimLevel removed in first object
+root.PRSD103_Derzky.AIParams removed in first object
+root.PJSD010_Kagero_1943.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PJSD010_Kagero_1943.A_Hull_1943.fuelFee removed in second object
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.A_Hull_1943.maxRepairCost removed in second object
+root.PJSD010_Kagero_1943.B_Hull_1941.fuelFee removed in second object
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.B_Hull_1941.maxRepairCost removed in second object
+root.PJSD010_Kagero_1943.C1_127_50.aimLevel removed in first object
+root.PJSD010_Kagero_1943.C_Hull_1945.fuelFee removed in second object
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.maxRepairCost removed in second object
+root.PJSD010_Kagero_1943.AB1_127_50.aimLevel removed in first object
+root.PJSD010_Kagero_1943.AIParams removed in first object
+root.PASC024_Phoenix_1917.A1_152_50.aimLevel removed in first object
+root.PASC024_Phoenix_1917.B2_152_53.aimLevel removed in first object
+root.PASC024_Phoenix_1917.B1_152_50.aimLevel removed in first object
+root.PASC024_Phoenix_1917.C_Hull_1938.fuelFee removed in second object
+root.PASC024_Phoenix_1917.C_Hull_1938.maxRepairCost removed in second object
+root.PASC024_Phoenix_1917.B_Hull_1924.fuelFee removed in second object
+root.PASC024_Phoenix_1917.B_Hull_1924.maxRepairCost removed in second object
+root.PASC024_Phoenix_1917.A_Hull_1917.fuelFee removed in second object
+root.PASC024_Phoenix_1917.A_Hull_1917.maxRepairCost removed in second object
+root.PASC024_Phoenix_1917.C1_152_50.aimLevel removed in first object
+root.PASC024_Phoenix_1917.C2_152_53.aimLevel removed in first object
+root.PASC024_Phoenix_1917.AIParams removed in first object
+root.PAPA041_Shell_76mm_HE_C.useSpecialShellModel removed in first object
+root.PJPA050_305mm_AP_APC_Mark_VI.useSpecialShellModel removed in first object
+root.PAAF008_F2A.costCR changed in second object (was 200, is 320)
+root.PZSD508_LoYang.A_Hull.fuelFee removed in second object
+root.PZSD508_LoYang.A_Hull.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PZSD508_LoYang.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PZSD508_LoYang.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PZSD508_LoYang.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PZSD508_LoYang.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PZSD508_LoYang.A_Hull.maxRepairCost removed in second object
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PZSD508_LoYang.A1_Artillery.aimLevel removed in first object
+root.PZSD508_LoYang.AIParams removed in first object
+root.PJSB010_Nagato_1944.A1_410_45.aimLevel removed in first object
+root.PJSB010_Nagato_1944.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB010_Nagato_1944.B_Hull_1941.fuelFee removed in second object
+root.PJSB010_Nagato_1944.B1_410_45.aimLevel removed in first object
+root.PJSB010_Nagato_1944.C1_410_45.aimLevel removed in first object
+root.PJSB010_Nagato_1944.A_Hull_1933.fuelFee removed in second object
+root.PJSB010_Nagato_1944.A_Hull_1933.maxRepairCost removed in second object
+root.PJSB010_Nagato_1944.C_Hull_1944.fuelFee removed in second object
+root.PJSB010_Nagato_1944.C_Hull_1944.maxRepairCost removed in second object
+root.PJSB010_Nagato_1944.AIParams removed in first object
+root.PGSB106_Bayern.A_Hull.fuelFee removed in second object
+root.PGSB106_Bayern.A_Hull.maxRepairCost removed in second object
+root.PGSB106_Bayern.A1_Artillery.aimLevel removed in first object
+root.PGSB106_Bayern.B_Hull.fuelFee removed in second object
+root.PGSB106_Bayern.B_Hull.maxRepairCost removed in second object
+root.PGSB106_Bayern.B1_Artillery.aimLevel removed in first object
+root.PGSB106_Bayern.AIParams removed in first object
+root.PAPA001_Shell_203mm_AP_AP_Mk_19.useSpecialShellModel removed in first object
+root.PASD002_Sampson_1917.AB1_Artillery.aimLevel removed in first object
+root.PASD002_Sampson_1917.A_Hull_1917.fuelFee removed in second object
+root.PASD002_Sampson_1917.A_Hull_1917.maxRepairCost removed in second object
+root.PASD002_Sampson_1917.B_Hull_1931.fuelFee removed in second object
+root.PASD002_Sampson_1917.B_Hull_1931.maxRepairCost removed in second object
+root.PASD002_Sampson_1917.AIParams removed in first object
+root.PAAD003_Vought_SB2U.costCR changed in second object (was 350, is 550)
+root.PASC707_Flint.A_Hull.fuelFee removed in second object
+root.PASC707_Flint.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.131120 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65603 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.131165 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65622 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PASC707_Flint.A_Hull.maxRepairCost removed in second object
+root.PASC707_Flint.A1_Artillery.aimLevel removed in first object
+root.PASC707_Flint.AIParams removed in first object
+root.PRPA027_120MM_HE_P_1907.useSpecialShellModel removed in first object
+root.PRSD507_Leningrad_1944.A_Hull.fuelFee removed in second object
+root.PRSD507_Leningrad_1944.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PRSD507_Leningrad_1944.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PRSD507_Leningrad_1944.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PRSD507_Leningrad_1944.A_Hull.maxRepairCost removed in second object
+root.PRSD507_Leningrad_1944.A1_Artillery.aimLevel removed in first object
+root.PRSD507_Leningrad_1944.AIParams removed in first object
+root.PJAD004_J5N.costCR changed in second object (was 800, is 1700)
+root.PAPA010_Shell_406mm_HE_HC_Mk_13.useSpecialShellModel removed in first object
+root.PAAF029_Vought_F4U_1A.costCR changed in second object (was 450, is 800)
+root.PJSC708_ARP_Takao.ArtilleryDefault.aimLevel removed in first object
+root.PJSC708_ARP_Takao.HullDefault.maxRepairCost removed in second object
+root.PJSC708_ARP_Takao.HullDefault.fuelFee removed in second object
+root.PJSC708_ARP_Takao.AIParams removed in first object
+root.PRSD102_SM_Storojevoy.A_Hull.fuelFee removed in second object
+root.PRSD102_SM_Storojevoy.A_Hull.maxRepairCost removed in second object
+root.PRSD102_SM_Storojevoy.ArtilleryDefault.aimLevel removed in first object
+root.PRSD102_SM_Storojevoy.B_Hull.fuelFee removed in second object
+root.PRSD102_SM_Storojevoy.B_Hull.maxRepairCost removed in second object
+root.PRSD102_SM_Storojevoy.AIParams removed in first object
+root.PAAB002_Grumman_TBF.costCR changed in second object (was 350, is 550)
+root.PJSC999_Yubari_Special.ArtilleryDefault.aimLevel removed in first object
+root.PJSC999_Yubari_Special.A_Hull_1912.fuelFee removed in second object
+root.PJSC999_Yubari_Special.A_Hull_1912.maxRepairCost removed in second object
+root.PJSC999_Yubari_Special.AIParams removed in first object
+root.PRPA012_85MM_HE_O_365_M.useSpecialShellModel removed in first object
+root.PAPA055_305mm_AP_AP_870lbs.useSpecialShellModel removed in first object
+root.PJPA001_Shell_356mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PJAD005_D3A2.costCR changed in second object (was 350, is 550)
+root.PAPA057_305mm_HE_Common_870lbs.useSpecialShellModel removed in first object
+root.PGPA048_380MM_AP_APC_L_4_4_B.useSpecialShellModel removed in first object
+root.PAPA777_Shell_76mm_prototype_common.useSpecialShellModel removed in first object
+root.PJAF003_Nikajima_A4N.costCR changed in second object (was 150, is 220)
+root.PAPA018_Main_127mm_HE_C_Mk_32.useSpecialShellModel removed in first object
+root.PAAB009_Douglas_AD1.costCR changed in second object (was 600, is 1200)
+root.PAAF009_Grumman_F4F.costCR changed in second object (was 200, is 220)
+root.PGPA054_283MM_AP_SCHARNHORST.useSpecialShellModel removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.A1_127_51.aimLevel removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.fuelFee removed in second object
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.maxRepairCost removed in second object
+root.PASC805_FALSE_ENEMY_Erie_1936.AIParams removed in first object
+root.PCPA043_410mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PRSD109_Pr_48_Kiev.A_Hull.fuelFee removed in second object
+root.PRSD109_Pr_48_Kiev.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PRSD109_Pr_48_Kiev.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PRSD109_Pr_48_Kiev.A_Hull.maxRepairCost removed in second object
+root.PRSD109_Pr_48_Kiev.AB1_Artillery.aimLevel removed in first object
+root.PRSD109_Pr_48_Kiev.B_Hull.fuelFee removed in second object
+root.PRSD109_Pr_48_Kiev.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PRSD109_Pr_48_Kiev.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PRSD109_Pr_48_Kiev.B_Hull.maxRepairCost removed in second object
+root.PRSD109_Pr_48_Kiev.AIParams removed in first object
+root.PRPA051_HE_LGD.useSpecialShellModel removed in first object
+root.PBGT023_21in_3tube_TR_Mk_IV_R.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PAPB008_1000lbs_ANM65.useSpecialShellModel removed in first object
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65630 changed in second object (was 32.0, is 30.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.131121 changed in second object (was 32.0, is 30.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.A_Hull.maxRepairCost removed in second object
+root.PGSB109_Friedrich_der_Grosse.A_Hull.fuelFee removed in second object
+root.PGSB109_Friedrich_der_Grosse.A1_Artillery.aimLevel removed in first object
+root.PGSB109_Friedrich_der_Grosse.B_Hull.fuelFee removed in second object
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65630 changed in second object (was 32.0, is 30.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.131121 changed in second object (was 32.0, is 30.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.armor.131166 changed in second object (was 32.0, is 28.0)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.maxRepairCost removed in second object
+root.PGSB109_Friedrich_der_Grosse.B2_Artillery.aimLevel removed in first object
+root.PGSB109_Friedrich_der_Grosse.B1_Artillery.aimLevel removed in first object
+root.PGSB109_Friedrich_der_Grosse.AIParams removed in first object
+root.PJPA055_Shell_460mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PCPA030_155mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PJSA012_Zuikaku_1944.A_Hull_1941.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.A_Hull_1941.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.A_Hull_1941.maxRepairCost removed in second object
+root.PJSA012_Zuikaku_1944.A_Hull_1941.fuelFee removed in second object
+root.PJSA012_Zuikaku_1944.B_Hull_1943.fuelFee removed in second object
+root.PJSA012_Zuikaku_1944.B_Hull_1943.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.B_Hull_1943.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.B_Hull_1943.maxRepairCost removed in second object
+root.PJSA012_Zuikaku_1944.C_Hull_1944.fuelFee removed in second object
+root.PJSA012_Zuikaku_1944.C_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.C_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA012_Zuikaku_1944.C_Hull_1944.maxRepairCost removed in second object
+root.PJSA012_Zuikaku_1944.AIParams removed in first object
+root.PJPA998_Useless_HE_Special.useSpecialShellModel removed in first object
+root.PGSC001_Hermelin_1940.A_Hull.fuelFee removed in second object
+root.PGSC001_Hermelin_1940.A_Hull.maxRepairCost removed in second object
+root.PGSC001_Hermelin_1940.A_Artillery.aimLevel removed in first object
+root.PGSC001_Hermelin_1940.AIParams removed in first object
+root.PASD029_Sims_1941.ArtilleryDefault.aimLevel removed in first object
+root.PASD029_Sims_1941.HullDefault.fuelFee removed in second object
+root.PASD029_Sims_1941.HullDefault.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD029_Sims_1941.HullDefault.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD029_Sims_1941.HullDefault.armor.65592 changed in second object (was 16.0, is 12.0)
+root.PASD029_Sims_1941.HullDefault.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD029_Sims_1941.HullDefault.maxRepairCost removed in second object
+root.PASD029_Sims_1941.AIParams removed in first object
+root.PGPA014_105MM_AP_SAP_PZ_GR.useSpecialShellModel removed in first object
+root.PBSC110_Minotaur.A_Hull.armor.65584 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65585 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65603 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65622 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65623 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PBSC110_Minotaur.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PBSC110_Minotaur.A_Hull.armor.65629 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.armor.65630 changed in second object (was 16.0, is 22.0)
+root.PBSC110_Minotaur.A_Hull.fuelFee removed in second object
+root.PBSC110_Minotaur.A_Hull.maxRepairCost removed in second object
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot5.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PBSC110_Minotaur.A1_Artillery.aimLevel removed in first object
+root.PBSC110_Minotaur.A1_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC110_Minotaur.A1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC110_Minotaur.A1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC110_Minotaur.A1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC110_Minotaur.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC110_Minotaur.A_Engine.forwardEngineForsagMaxSpeed changed in second object (was 31.155, is 2.5)
+root.PBSC110_Minotaur.A_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC110_Minotaur.A_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_10, is UK_CL)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_10_Gold, is UK_CL_PREM)
+root.PBSC110_Minotaur.AIParams removed in first object
+root.PJSC013_Kuma_1938.AB1_Artillery.aimLevel removed in first object
+root.PJSC013_Kuma_1938.A_Hull_1920.fuelFee removed in second object
+root.PJSC013_Kuma_1938.A_Hull_1920.maxRepairCost removed in second object
+root.PJSC013_Kuma_1938.B_Hull_1938.fuelFee removed in second object
+root.PJSC013_Kuma_1938.B_Hull_1938.maxRepairCost removed in second object
+root.PJSC013_Kuma_1938.AIParams removed in first object
+root.PJSC009_Mogami_1935.ABC1_Artillery.aimLevel removed in first object
+root.PJSC009_Mogami_1935.B_Hull_1943.maxRepairCost removed in second object
+root.PJSC009_Mogami_1935.B_Hull_1943.fuelFee removed in second object
+root.PJSC009_Mogami_1935.C_Hull_1944.fuelFee removed in second object
+root.PJSC009_Mogami_1935.C_Hull_1944.maxRepairCost removed in second object
+root.PJSC009_Mogami_1935.A_Hull_1935.fuelFee removed in second object
+root.PJSC009_Mogami_1935.A_Hull_1935.maxRepairCost removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.horizSector[0] changed in second object (was -130.0, is -148.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.horizSector[1] changed in second object (was 130.0, is 148.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.horizSector[0] changed in second object (was -130.0, is -150.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.horizSector[1] changed in second object (was 130.0, is 150.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.horizSector[0] changed in second object (was -135.0, is -150.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.horizSector[1] changed in second object (was 135.0, is 150.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.aimLevel removed in first object
+root.PJSC009_Mogami_1935.AIParams removed in first object
+root.PGPA046_305MM_HE_SPR_GR_L4_8_KZ.useSpecialShellModel removed in first object
+root.PAPA003_Shell_127mm_HE_HC_Mk_36.useSpecialShellModel removed in first object
+root.PRSC002_Diana_1905.ArtilleryDefault.aimLevel removed in first object
+root.PRSC002_Diana_1905.HullDefault.fuelFee removed in second object
+root.PRSC002_Diana_1905.HullDefault.maxRepairCost removed in second object
+root.PRSC002_Diana_1905.AIParams removed in first object
+root.PJAD002_D3A1.costCR changed in second object (was 300, is 320)
+root.PZPA002_130_AP_ANSHAN.useSpecialShellModel removed in first object
+root.PRPA021_152MM_B35_KUTUZOV.useSpecialShellModel removed in first object
+root.PASA013_Essex_1945.A_Hull_1943.fuelFee removed in second object
+root.PASA013_Essex_1945.A_Hull_1943.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.A_Hull_1943.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.A_Hull_1943.armor.131161 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.A_Hull_1943.maxRepairCost removed in second object
+root.PASA013_Essex_1945.B_Hull_1945.fuelFee removed in second object
+root.PASA013_Essex_1945.B_Hull_1945.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.B_Hull_1945.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.B_Hull_1945.armor.131161 changed in second object (was 13.0, is 12.0)
+root.PASA013_Essex_1945.B_Hull_1945.maxRepairCost removed in second object
+root.PASA013_Essex_1945.AIParams removed in first object
+root.PASA010_Ranger_1944.A_Hull_1941.fuelFee removed in second object
+root.PASA010_Ranger_1944.A_Hull_1941.armor.65622 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.A_Hull_1941.armor.65623 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.A_Hull_1941.armor.65624 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.A_Hull_1941.maxRepairCost removed in second object
+root.PASA010_Ranger_1944.B_Hull_1943.fuelFee removed in second object
+root.PASA010_Ranger_1944.B_Hull_1943.armor.65622 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.B_Hull_1943.armor.65623 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.B_Hull_1943.armor.65624 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.B_Hull_1943.armor.65620 changed in second object (was 16.0, is 19.0)
+root.PASA010_Ranger_1944.B_Hull_1943.maxRepairCost removed in second object
+root.PASA010_Ranger_1944.AIParams removed in first object
+root.PGPA003_150mm_HE_HE_N_F.useSpecialShellModel removed in first object
+root.PRPA011_130MM_AP_PB_46_B2U.useSpecialShellModel removed in first object
+root.PGPA037_380MM_HE_SPR_GR_L4_1_BDZ.useSpecialShellModel removed in first object
+root.PJPA042_Shell_76mm_HE_O_Mk_2.useSpecialShellModel removed in first object
+root.PBSD503_Campbeltown_1941.A_Hull.fuelFee removed in second object
+root.PBSD503_Campbeltown_1941.A_Hull.maxRepairCost removed in second object
+root.PBSD503_Campbeltown_1941.A1_Artillery.aimLevel removed in first object
+root.PBSD503_Campbeltown_1941.AIParams removed in first object
+root.PGPA060_150MM_AP_PSGR_L3_7_SG.useSpecialShellModel removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.fuelFee removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.maxRepairCost removed in second object
+root.PJSD803_False_Isokaze_1917.A1_120_40.aimLevel removed in first object
+root.PJSD803_False_Isokaze_1917.B1_120_40.aimLevel removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.fuelFee removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.maxRepairCost removed in second object
+root.PJSD803_False_Isokaze_1917.AIParams removed in first object
+root.PJSC008_Myoko_1945.A_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.A_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.A_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.A_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.A_Hull.fuelFee removed in second object
+root.PJSC008_Myoko_1945.A_Hull.maxRepairCost removed in second object
+root.PJSC008_Myoko_1945.ArtilleryDefault.aimLevel removed in first object
+root.PJSC008_Myoko_1945.B_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.B_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.B_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.B_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.B_Hull.fuelFee removed in second object
+root.PJSC008_Myoko_1945.B_Hull.maxRepairCost removed in second object
+root.PJSC008_Myoko_1945.C_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.C_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.C_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.C_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PJSC008_Myoko_1945.C_Hull.fuelFee removed in second object
+root.PJSC008_Myoko_1945.C_Hull.maxRepairCost removed in second object
+root.PJSC008_Myoko_1945.AIParams removed in first object
+root.PUPA002_152MM_AP_PERTH.useSpecialShellModel removed in first object
+root.PJPA014_Shell_140mm_HE_O_Type_0.useSpecialShellModel removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.fuelFee removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131120 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65592 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131165 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65593 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PASC507_Indianapolis_1945.A_Hull.maxRepairCost removed in second object
+root.PASC507_Indianapolis_1945.A1_Artillery.aimLevel removed in first object
+root.PASC507_Indianapolis_1945.AIParams removed in first object
+root.PGPA015_105MM_HE_SPR_GR_L3_85.useSpecialShellModel removed in first object
+root.PCPA045_460mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PJPA039_Shell_203mm_HE_C_Type_1.useSpecialShellModel removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.aimLevel removed in first object
+root.PJSD004_Minekadze_1920.B1_120_45.aimLevel removed in first object
+root.PJSD004_Minekadze_1920.A_Hull_1920.fuelFee removed in second object
+root.PJSD004_Minekadze_1920.A_Hull_1920.maxRepairCost removed in second object
+root.PJSD004_Minekadze_1920.B_Hull_1938.fuelFee removed in second object
+root.PJSD004_Minekadze_1920.B_Hull_1938.maxRepairCost removed in second object
+root.PJSD004_Minekadze_1920.B2_120_45.aimLevel removed in first object
+root.PJSD004_Minekadze_1920.AIParams removed in first object
+root.PRSD107_Pr_35_Udaloy.A_Hull.fuelFee removed in second object
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.65592 changed in second object (was 19.0, is 16.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.131128 changed in second object (was 19.0, is 13.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.armor.131165 changed in second object (was 19.0, is 16.0)
+root.PRSD107_Pr_35_Udaloy.A_Hull.maxRepairCost removed in second object
+root.PRSD107_Pr_35_Udaloy.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.aimLevel removed in first object
+root.PRSD107_Pr_35_Udaloy.B_Hull.fuelFee removed in second object
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.65592 changed in second object (was 19.0, is 16.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.131128 changed in second object (was 19.0, is 13.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.armor.131165 changed in second object (was 19.0, is 16.0)
+root.PRSD107_Pr_35_Udaloy.B_Hull.maxRepairCost removed in second object
+root.PRSD107_Pr_35_Udaloy.B2_Artillery.aimLevel removed in first object
+root.PRSD107_Pr_35_Udaloy.AIParams removed in first object
+root.PGPA032_305MM_AP_PZ_GR_L3_4.useSpecialShellModel removed in first object
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.fuelFee removed in second object
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.maxRepairCost removed in second object
+root.PJSD006_Hatsuharu_1945.B1_127_50.aimLevel removed in first object
+root.PJSD006_Hatsuharu_1945.A1_127_50.aimLevel removed in first object
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.fuelFee removed in second object
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.maxRepairCost removed in second object
+root.PJSD006_Hatsuharu_1945.AIParams removed in first object
+root.PAAF030_F4F_4.costCR changed in second object (was 250, is 220)
+root.PRSD104_Izyaslav.A_Hull.fuelFee removed in second object
+root.PRSD104_Izyaslav.A_Hull.maxRepairCost removed in second object
+root.PRSD104_Izyaslav.ArtilleryDefault.aimLevel removed in first object
+root.PRSD104_Izyaslav.B_Hull.fuelFee removed in second object
+root.PRSD104_Izyaslav.B_Hull.maxRepairCost removed in second object
+root.PRSD104_Izyaslav.AIParams removed in first object
+root.PAAB012_Consolidated_TBY_1.costCR changed in second object (was 350, is 550)
+root.PAAD005_Douglas_XSB2D.costCR changed in second object (was 800, is 1700)
+root.PCBX001.artillery.aimLevel removed in first object
+root.PCBX002.artillery.aimLevel removed in first object
+root.PCBX003.artillery.aimLevel removed in first object
+root.PRPA034_152MM_OFU35.useSpecialShellModel removed in first object
+root.PJSC005_Furutaka_1926.AB1_Artillery.aimLevel removed in first object
+root.PJSC005_Furutaka_1926.AB2_Artillery.aimLevel removed in first object
+root.PJSC005_Furutaka_1926.B_Hull_1941.fuelFee removed in second object
+root.PJSC005_Furutaka_1926.B_Hull_1941.maxRepairCost removed in second object
+root.PJSC005_Furutaka_1926.A_Hull_1929.fuelFee removed in second object
+root.PJSC005_Furutaka_1926.A_Hull_1929.maxRepairCost removed in second object
+root.PJSC005_Furutaka_1926.C2_Artillery.aimLevel removed in first object
+root.PJSC005_Furutaka_1926.C_Hull_1942.fuelFee removed in second object
+root.PJSC005_Furutaka_1926.C_Hull_1942.maxRepairCost removed in second object
+root.PJSC005_Furutaka_1926.C1_Artillery.aimLevel removed in first object
+root.PJSC005_Furutaka_1926.AIParams removed in first object
+root.PCPA018_127mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PRSC003_Murmansk_1944.Hull_A.fuelFee removed in second object
+root.PRSC003_Murmansk_1944.Hull_A.maxRepairCost removed in second object
+root.PRSC003_Murmansk_1944.ArtilleryDefault.aimLevel removed in first object
+root.PRSC003_Murmansk_1944.AIParams removed in first object
+root.PASC802_Cimarron_Target.ArtilleryDefault.aimLevel removed in first object
+root.PASC802_Cimarron_Target.HullDefault.fuelFee removed in second object
+root.PASC802_Cimarron_Target.HullDefault.maxRepairCost removed in second object
+root.PASC802_Cimarron_Target.AIParams removed in first object
+root.PJSD025_True_Kamikaze.ArtilleryDefault.aimLevel removed in first object
+root.PJSD025_True_Kamikaze.HullDefault.fuelFee removed in second object
+root.PJSD025_True_Kamikaze.HullDefault.maxRepairCost removed in second object
+root.PJSD025_True_Kamikaze.AIParams removed in first object
+root.PRPA039_130_AP_P_1928.useSpecialShellModel removed in first object
+root.PGSC109_Roon.A_Hull.fuelFee removed in second object
+root.PGSC109_Roon.A_Hull.maxRepairCost removed in second object
+root.PGSC109_Roon.A1_Artillery.aimLevel removed in first object
+root.PGSC109_Roon.A2_Artillery.aimLevel removed in first object
+root.PGSC109_Roon.B_Hull.fuelFee removed in second object
+root.PGSC109_Roon.B_Hull.maxRepairCost removed in second object
+root.PGSC109_Roon.B2_Artillery.aimLevel removed in first object
+root.PGSC109_Roon.B1_Artillery.aimLevel removed in first object
+root.PGSC109_Roon.AIParams removed in first object
+root.PRPA038_180_AP_B_32_F.useSpecialShellModel removed in first object
+root.PRSC105_Kirov.A_Hull.fuelFee removed in second object
+root.PRSC105_Kirov.A_Hull.armor.65583 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.A_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PRSC105_Kirov.A_Hull.armor.65584 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65585 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65598 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.A_Hull.armor.65603 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65622 changed in second object (was 18.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PRSC105_Kirov.A_Hull.armor.65628 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.A_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.armor.65630 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.A_Hull.maxRepairCost removed in second object
+root.PRSC105_Kirov.A1_Artillery.aimLevel removed in first object
+root.PRSC105_Kirov.B_Hull.fuelFee removed in second object
+root.PRSC105_Kirov.B_Hull.armor.65583 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.B_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PRSC105_Kirov.B_Hull.armor.65584 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65585 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65598 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.B_Hull.armor.65603 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65622 changed in second object (was 18.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PRSC105_Kirov.B_Hull.armor.65628 changed in second object (was 15.0, is 30.0)
+root.PRSC105_Kirov.B_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.armor.65630 changed in second object (was 13.0, is 19.0)
+root.PRSC105_Kirov.B_Hull.maxRepairCost removed in second object
+root.PRSC105_Kirov.B1_Artillery.aimLevel removed in first object
+root.PRSC105_Kirov.AIParams removed in first object
+root.PAAF031_FM_2.costCR changed in second object (was 250, is 220)
+root.PCPA039_356mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PAPB004_1600lbs_MK1.useSpecialShellModel removed in first object
+root.PRSC001_Avrora_1917.ArtilleryDefault.aimLevel removed in first object
+root.PRSC001_Avrora_1917.HullDefault.fuelFee removed in second object
+root.PRSC001_Avrora_1917.HullDefault.maxRepairCost removed in second object
+root.PRSC001_Avrora_1917.AIParams removed in first object
+root.PRSD108_Pr_20i_Tashkent.A_Hull.fuelFee removed in second object
+root.PRSD108_Pr_20i_Tashkent.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.maxRepairCost removed in second object
+root.PRSD108_Pr_20i_Tashkent.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PRSD108_Pr_20i_Tashkent.AB1_Artillery.aimLevel removed in first object
+root.PRSD108_Pr_20i_Tashkent.B_Hull.fuelFee removed in second object
+root.PRSD108_Pr_20i_Tashkent.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.maxRepairCost removed in second object
+root.PRSD108_Pr_20i_Tashkent.AIParams removed in first object
+root.PASC044_Marblehead_1924.ArtilleryDefault.aimLevel removed in first object
+root.PASC044_Marblehead_1924.HullDefault.fuelFee removed in second object
+root.PASC044_Marblehead_1924.HullDefault.maxRepairCost removed in second object
+root.PASC044_Marblehead_1924.AIParams removed in first object
+root.PJPA022_Main_140mm_HE_O_Type_0.useSpecialShellModel removed in first object
+root.PGSC103_Kolberg.A_Hull.fuelFee removed in second object
+root.PGSC103_Kolberg.A_Hull.maxRepairCost removed in second object
+root.PGSC103_Kolberg.ArtilleryDefault.aimLevel removed in first object
+root.PGSC103_Kolberg.B_Hull.fuelFee removed in second object
+root.PGSC103_Kolberg.B_Hull.maxRepairCost removed in second object
+root.PGSC103_Kolberg.AIParams removed in first object
+root.PJPA018_Shell_460mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PRPA019_130MM_AP_NEPREM.useSpecialShellModel removed in first object
+root.PAAD012_Douglas_SBD3.costCR changed in second object (was 300, is 320)
+root.PRPA003_130mm_AP_PB_46.useSpecialShellModel removed in first object
+root.PJPA036_Shell_410mm_AP_APC_Type_88.useSpecialShellModel removed in first object
+root.PJPA007_Shell_140mm_AP_C_Type_2.useSpecialShellModel removed in first object
+root.PAPA048_Shell_152mm_AP_C_Mk_28.useSpecialShellModel removed in first object
+root.PRSC107_Schors.A_Hull.fuelFee removed in second object
+root.PRSC107_Schors.A_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.A_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.A_Hull.armor.65623 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.A_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC107_Schors.A_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.A_Hull.maxRepairCost removed in second object
+root.PRSC107_Schors.A1_Artillery.aimLevel removed in first object
+root.PRSC107_Schors.B_Hull.fuelFee removed in second object
+root.PRSC107_Schors.B_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.B_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.B_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC107_Schors.B_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PRSC107_Schors.B_Hull.maxRepairCost removed in second object
+root.PRSC107_Schors.B1_Artillery.aimLevel removed in first object
+root.PRSC107_Schors.AIParams removed in first object
+root.PJPA012_Shell_127mm_HE_Type_1.useSpecialShellModel removed in first object
+root.PJPA033_Shell_305mm_AP_APC_41_year_Type.useSpecialShellModel removed in first object
+root.PGPA059_128MM_HE_SPR_GR_KZ.useSpecialShellModel removed in first object
+root.PRPA049_130_HE_P_1917.useSpecialShellModel removed in first object
+root.PRPA041_120_AP_P_1905.useSpecialShellModel removed in first object
+root.PBPA012_152MM_HE_4CRH.useSpecialShellModel removed in first object
+root.PAPA063_SHELL_356MM_HE_MK_22_ARIZONA.useSpecialShellModel removed in first object
+root.PJPA030_Shell_305mm_AP_APC_41_year_Type.useSpecialShellModel removed in first object
+root.PJPA006_Shell_410mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PJPA063_100MM_AP_C_TYPE_98_MG.useSpecialShellModel removed in first object
+root.PBPA011_152MM_AP_4CRH.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA011_152MM_AP_4CRH.alphaDamage changed in second object (was 2600.0, is 1400.0)
+root.PBPA011_152MM_AP_4CRH.useSpecialShellModel removed in first object
+root.PJPA037_Shell_152mm_HE_C_Type_4.useSpecialShellModel removed in first object
+root.PJSD007_Fubuki_1944.B2_127_50.aimLevel removed in first object
+root.PJSD007_Fubuki_1944.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PJSD007_Fubuki_1944.A1_127_50.aimLevel removed in first object
+root.PJSD007_Fubuki_1944.B_Hull_1944.fuelFee removed in second object
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.maxRepairCost removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.fuelFee removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.A_Hull_1944.maxRepairCost removed in second object
+root.PJSD007_Fubuki_1944.C2_127_50.aimLevel removed in first object
+root.PJSD007_Fubuki_1944.C1_127_50.aimLevel removed in first object
+root.PJSD007_Fubuki_1944.B1_127_50.aimLevel removed in first object
+root.PJSD007_Fubuki_1944.C_Hull_1943.fuelFee removed in second object
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.maxRepairCost removed in second object
+root.PJSD007_Fubuki_1944.AIParams removed in first object
+root.PJPA897_Shell_False_2.useSpecialShellModel removed in first object
+root.PJAF006_Mitsubishi_A7M1.costCR changed in second object (was 600, is 1200)
+root.PRPA028_130MM_HE_OF_42.useSpecialShellModel removed in first object
+root.PJPT021_610_Type93_model_2.costCR changed in second object (was 350, is 600)
+root.PJPT020_610_Type93_model_3.costCR changed in second object (was 350, is 1200)
+root.PJPA035_Shell_356mm_AP_AP_Type_5.useSpecialShellModel removed in first object
+root.PGPA063_203MM_AP_P_O.useSpecialShellModel removed in first object
+root.PJSC837_False_Hashidate_1940.ArtilleryDefault.aimLevel removed in first object
+root.PJSC837_False_Hashidate_1940.HullDefault.fuelFee removed in second object
+root.PJSC837_False_Hashidate_1940.HullDefault.maxRepairCost removed in second object
+root.PJSC837_False_Hashidate_1940.AIParams removed in first object
+root.PAPA038_Shell_203mm_HE_C_260lbs.useSpecialShellModel removed in first object
+root.PJSD012_Shimakaze_1943.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PJSD012_Shimakaze_1943.B_Hull.fuelFee removed in second object
+root.PJSD012_Shimakaze_1943.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD012_Shimakaze_1943.B_Hull.armor.65592 changed in second object (was 19.0, is 16.0)
+root.PJSD012_Shimakaze_1943.B_Hull.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD012_Shimakaze_1943.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD012_Shimakaze_1943.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD012_Shimakaze_1943.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD012_Shimakaze_1943.B_Hull.maxRepairCost removed in second object
+root.PJSD012_Shimakaze_1943.AB_127_50.aimLevel removed in first object
+root.PJSD012_Shimakaze_1943.AIParams removed in first object
+root.PAPA046_Shell_127_AP_C_Mk_15.useSpecialShellModel removed in first object
+root.PGPA004_105mm_HE_HE_33lbs.useSpecialShellModel removed in first object
+root.PASC001_Erie_1936.A_Hull.fuelFee removed in second object
+root.PASC001_Erie_1936.A_Hull.maxRepairCost removed in second object
+root.PASC001_Erie_1936.A_Artillery.aimLevel removed in first object
+root.PASC001_Erie_1936.AIParams removed in first object
+root.PASC017_Baltimore_1944.AB2_203_55.aimLevel removed in first object
+root.PASC017_Baltimore_1944.AB1_203_55.aimLevel removed in first object
+root.PASC017_Baltimore_1944.B_Hull_1948.fuelFee removed in second object
+root.PASC017_Baltimore_1944.B_Hull_1948.maxRepairCost removed in second object
+root.PASC017_Baltimore_1944.A_Hull_1944.fuelFee removed in second object
+root.PASC017_Baltimore_1944.A_Hull_1944.maxRepairCost removed in second object
+root.PASC017_Baltimore_1944.AIParams removed in first object
+root.PGSB503_Koenig_Albert.A_Hull.fuelFee removed in second object
+root.PGSB503_Koenig_Albert.A_Hull.maxRepairCost removed in second object
+root.PGSB503_Koenig_Albert.A1_Artillery.aimLevel removed in first object
+root.PGSB503_Koenig_Albert.AIParams removed in first object
+root.PGSC104_Karlsruhe.A_Hull.fuelFee removed in second object
+root.PGSC104_Karlsruhe.A_Hull.maxRepairCost removed in second object
+root.PGSC104_Karlsruhe.A1_Artillery.aimLevel removed in first object
+root.PGSC104_Karlsruhe.B_Hull.fuelFee removed in second object
+root.PGSC104_Karlsruhe.B_Hull.maxRepairCost removed in second object
+root.PGSC104_Karlsruhe.B1_Artillery.aimLevel removed in first object
+root.PGSC104_Karlsruhe.AIParams removed in first object
+root.PCPA028_152mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PAPA029_Shell_152mm_AP_SC_Mk_27_Mod_2.useSpecialShellModel removed in first object
+root.PRPA050_AP_LGD.useSpecialShellModel removed in first object
+root.PJSC707_Ashigara.A_Hull.fuelFee removed in second object
+root.PJSC707_Ashigara.A_Hull.maxRepairCost removed in second object
+root.PJSC707_Ashigara.ArtilleryDefault.aimLevel removed in first object
+root.PJSC707_Ashigara.B_Hull.fuelFee removed in second object
+root.PJSC707_Ashigara.B_Hull.maxRepairCost removed in second object
+root.PJSC707_Ashigara.C_Hull.fuelFee removed in second object
+root.PJSC707_Ashigara.C_Hull.maxRepairCost removed in second object
+root.PJSC707_Ashigara.AIParams removed in first object
+root.PAAF010_F8F_Bearcat.costCR changed in second object (was 800, is 1700)
+root.PASX006_Cimarron_invisible.ArtilleryDefault.aimLevel removed in first object
+root.PASX006_Cimarron_invisible.HullDefault.fuelFee removed in second object
+root.PASX006_Cimarron_invisible.HullDefault.maxRepairCost removed in second object
+root.PASX006_Cimarron_invisible.AIParams removed in first object
+root.PJPA048_200mm_AP_APC_Type_5.useSpecialShellModel removed in first object
+root.PJAF018_Mitsubishi_A5M4.costCR changed in second object (was 250, is 150)
+root.PRPA024_152MM_OFU35_KUTUZOV.useSpecialShellModel removed in first object
+root.PCY010_RegenCrewPremium.UK_CL_PREM.regenerationHPSpeed changed in second object (was 0.02, is 0.08)
+root.PCY010_RegenCrewPremium.UK_CL_PREM.workTime changed in second object (was 20.0, is 5.0)
+root.PJSD024_Wakatake_1923.AB1_Artillery.aimLevel removed in first object
+root.PJSD024_Wakatake_1923.A_Hull_1923.fuelFee removed in second object
+root.PJSD024_Wakatake_1923.A_Hull_1923.maxRepairCost removed in second object
+root.PJSD024_Wakatake_1923.B_Hull_1925.fuelFee removed in second object
+root.PJSD024_Wakatake_1923.B_Hull_1925.maxRepairCost removed in second object
+root.PJSD024_Wakatake_1923.AIParams removed in first object
+root.PCPA040_406mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PJPA053_410mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PCPA020_127mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PBSB002_Warspite_1941.ArtilleryDefault.aimLevel removed in first object
+root.PBSB002_Warspite_1941.HullDefault.fuelFee removed in second object
+root.PBSB002_Warspite_1941.HullDefault.maxRepairCost removed in second object
+root.PBSB002_Warspite_1941.AIParams removed in first object
+root.PAPA042_Shell_127_HE_HC_Mk_39.useSpecialShellModel removed in first object
+root.PGPA049_380MM_HE_HE_L_4_6_B.useSpecialShellModel removed in first object
+root.PGPA005_128mm_AP_PSGR.useSpecialShellModel removed in first object
+root.PJSA011_Hiryu_1942.B_Hull_1942.fuelFee removed in second object
+root.PJSA011_Hiryu_1942.B_Hull_1942.armor.65622 changed in second object (was 16.0, is 19.0)
+root.PJSA011_Hiryu_1942.B_Hull_1942.armor.131159 changed in second object (was 16.0, is 19.0)
+root.PJSA011_Hiryu_1942.B_Hull_1942.armor.196695 changed in second object (was 18.0, is 21.0)
+root.PJSA011_Hiryu_1942.B_Hull_1942.maxRepairCost removed in second object
+root.PJSA011_Hiryu_1942.C_Hull_1945.fuelFee removed in second object
+root.PJSA011_Hiryu_1942.C_Hull_1945.armor.65622 changed in second object (was 16.0, is 19.0)
+root.PJSA011_Hiryu_1942.C_Hull_1945.armor.131159 changed in second object (was 16.0, is 19.0)
+root.PJSA011_Hiryu_1942.C_Hull_1945.armor.196695 changed in second object (was 18.0, is 19.0)
+root.PJSA011_Hiryu_1942.C_Hull_1945.maxRepairCost removed in second object
+root.PJSA011_Hiryu_1942.AIParams removed in first object
+root.PJAB003_Aichi_B7A.costCR changed in second object (was 600, is 1200)
+root.PCPA027_152mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PCPA010_102mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PAPA030_Shell_152mm_HE_HC_Mark_34_Mod_1.useSpecialShellModel removed in first object
+root.PAAB013_A2D_Skyshark.costCR changed in second object (was 800, is 1700)
+root.PAPA069_127MM_HE_FLINT.useSpecialShellModel removed in first object
+root.PAAB005_Martin_T4M.costCR changed in second object (was 200, is 220)
+root.PJAB010_Nakajima_C6N5_1b.costCR changed in second object (was 800, is 1700)
+root.PJPA898_Shell_False_burner.useSpecialShellModel removed in first object
+root.PJPA002_Shell_356mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PGSB107_Gneisenau.permoflages[0] removed in first object
+root.PGSB107_Gneisenau.A_Hull.fuelFee removed in second object
+root.PGSB107_Gneisenau.A_Hull.maxRepairCost removed in second object
+root.PGSB107_Gneisenau.AB1_Artillery.aimLevel removed in first object
+root.PGSB107_Gneisenau.B_Hull.fuelFee removed in second object
+root.PGSB107_Gneisenau.B_Hull.maxRepairCost removed in second object
+root.PGSB107_Gneisenau.AIParams removed in first object
+root.PGSB103_Nassau.A_Hull.fuelFee removed in second object
+root.PGSB103_Nassau.A_Hull.maxRepairCost removed in second object
+root.PGSB103_Nassau.AB1_Artillery.aimLevel removed in first object
+root.PGSB103_Nassau.B_Hull.fuelFee removed in second object
+root.PGSB103_Nassau.B_Hull.maxRepairCost removed in second object
+root.PGSB103_Nassau.AIParams removed in first object
+root.PBSC108_Edinburgh.permoflages[0] removed in first object
+root.PBSC108_Edinburgh.A_Hull.armor.65622 changed in second object (was 19.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65584 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65585 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65603 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65623 changed in second object (was 19.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65629 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.armor.65630 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.A_Hull.fuelFee removed in second object
+root.PBSC108_Edinburgh.A_Hull.maxRepairCost removed in second object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PBSC108_Edinburgh.A1_Artillery.aimLevel removed in first object
+root.PBSC108_Edinburgh.AB2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC108_Edinburgh.AB2_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC108_Edinburgh.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC108_Edinburgh.AB1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65622 changed in second object (was 19.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65584 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65585 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65603 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65623 changed in second object (was 19.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65629 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.armor.65630 changed in second object (was 16.0, is 22.0)
+root.PBSC108_Edinburgh.B_Hull.fuelFee removed in second object
+root.PBSC108_Edinburgh.B_Hull.maxRepairCost removed in second object
+root.PBSC108_Edinburgh.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC108_Edinburgh.B1_Artillery.aimLevel removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[4][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[4][1] changed in second object (was UK_Lvl_8, is UK_CL)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[5][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[5][1] changed in second object (was UK_Lvl_8_Gold, is UK_CL_PREM)
+root.PBSC108_Edinburgh.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 30.225, is 2.5)
+root.PBSC108_Edinburgh.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC108_Edinburgh.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC108_Edinburgh.AIParams removed in first object
+root.PGSB507_Scharnhorst.A_Hull.fuelFee removed in second object
+root.PGSB507_Scharnhorst.A_Hull.maxRepairCost removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.aimLevel removed in first object
+root.PGSB507_Scharnhorst.AIParams removed in first object
+root.PASX001_Cimarron.HullDefault.fuelFee removed in second object
+root.PASX001_Cimarron.HullDefault.maxRepairCost removed in second object
+root.PASX001_Cimarron.AIParams removed in first object
+root.PGPA006_128MM_HE_SPRGR.useSpecialShellModel removed in first object
+root.PRPA008_102MM_HE_1915.useSpecialShellModel removed in first object
+root.PBPA023_152MM_HE_MK5_ALT_F.useSpecialShellModel removed in first object
+root.PJSD107_Akatsuki.A_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD107_Akatsuki.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.A_Hull.fuelFee removed in second object
+root.PJSD107_Akatsuki.A_Hull.maxRepairCost removed in second object
+root.PJSD107_Akatsuki.Cameras.Torp3.InnerTrajectory.posCenter[1] changed in second object (was 0.51, is 1.219)
+root.PJSD107_Akatsuki.AB1_Artillery.aimLevel removed in first object
+root.PJSD107_Akatsuki.B_Hull.fuelFee removed in second object
+root.PJSD107_Akatsuki.B_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD107_Akatsuki.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.B_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD107_Akatsuki.B_Hull.maxRepairCost removed in second object
+root.PJSD107_Akatsuki.AIParams removed in first object
+root.PJSC026_Iwaki_1944.A_Hull.fuelFee removed in second object
+root.PJSC026_Iwaki_1944.A_Hull.maxRepairCost removed in second object
+root.PJSC026_Iwaki_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSC026_Iwaki_1944.AIParams removed in first object
+root.PAPA036_Shell_356mm_HE_HC_Mk_22.useSpecialShellModel removed in first object
+root.PAAF902_XP54_HALLOWEEN.costCR changed in second object (was 300, is 320)
+root.PGPA038_406MM_AP_PZ_GR_L4_4.useSpecialShellModel removed in first object
+root.PGPA021_150MM_HE_SPGR_L4_4_KZ.useSpecialShellModel removed in first object
+root.PBPA018_152MM_HE_MK5.useSpecialShellModel removed in first object
+root.PBPA013_152MM_AP_4CRH_SC.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA013_152MM_AP_4CRH_SC.alphaDamage changed in second object (was 2700.0, is 1500.0)
+root.PBPA013_152MM_AP_4CRH_SC.useSpecialShellModel removed in first object
+root.PCY002_RegenCrew.UK_CL.regenerationHPSpeed changed in second object (was 0.02, is 0.08)
+root.PCY002_RegenCrew.UK_CL.workTime changed in second object (was 20.0, is 5.0)
+root.PBPA022_152MM_AP_MK5_ALT_F.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA022_152MM_AP_MK5_ALT_F.alphaDamage changed in second object (was 3200.0, is 1600.0)
+root.PBPA022_152MM_AP_MK5_ALT_F.useSpecialShellModel removed in first object
+root.PJSB706_Kirishima.B_Hull_1941.fuelFee removed in second object
+root.PJSB706_Kirishima.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB706_Kirishima.B1_356_45.aimLevel removed in first object
+root.PJSB706_Kirishima.C_Hull_1942.fuelFee removed in second object
+root.PJSB706_Kirishima.C_Hull_1942.maxRepairCost removed in second object
+root.PJSB706_Kirishima.C1_356_45.aimLevel removed in first object
+root.PJSB706_Kirishima.AIParams removed in first object
+root.PJAF014_Mitsubishi_1MF.costCR changed in second object (was 150, is 100)
+root.PJPT011_Type_F3.costCR changed in second object (was 350, is 650)
+root.PAAD901_X5FU_HALLOWEEN.costCR changed in second object (was 600, is 1200)
+root.PAPA070_127MM_AP_BLACK.useSpecialShellModel removed in first object
+root.PGPA020_150MM_AP_PSGR_L3_7_C25.useSpecialShellModel removed in first object
+root.PASB006_New_York_1934.B1_Artillery.aimLevel removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.fuelFee removed in second object
+root.PASB006_New_York_1934.C_Hull_1942.maxRepairCost removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.fuelFee removed in second object
+root.PASB006_New_York_1934.B_Hull_1934.maxRepairCost removed in second object
+root.PASB006_New_York_1934.C1_Artillery.aimLevel removed in first object
+root.PASB006_New_York_1934.AIParams removed in first object
+root.PASA004_Langley_1929.B_Hull_1944.fuelFee removed in second object
+root.PASA004_Langley_1929.B_Hull_1944.armor.131159 changed in second object (was 13.0, is 16.0)
+root.PASA004_Langley_1929.B_Hull_1944.maxRepairCost removed in second object
+root.PASA004_Langley_1929.A_Hull_1929.fuelFee removed in second object
+root.PASA004_Langley_1929.A_Hull_1929.armor.131159 changed in second object (was 13.0, is 16.0)
+root.PASA004_Langley_1929.A_Hull_1929.maxRepairCost removed in second object
+root.PASA004_Langley_1929.AIParams removed in first object
+root.PAPA017_Shell_152mm_HE_HC_Mk_34.useSpecialShellModel removed in first object
+root.PAPA033_Shell_102mm_AP_SC_Mk_16.useSpecialShellModel removed in first object
+root.PJSC727_Blue_Dragon.A_Hull.fuelFee removed in second object
+root.PJSC727_Blue_Dragon.A_Hull.maxRepairCost removed in second object
+root.PJSC727_Blue_Dragon.ArtilleryDefault.aimLevel removed in first object
+root.PJSC727_Blue_Dragon.B_Hull.fuelFee removed in second object
+root.PJSC727_Blue_Dragon.B_Hull.maxRepairCost removed in second object
+root.PJSC727_Blue_Dragon.C_Hull.fuelFee removed in second object
+root.PJSC727_Blue_Dragon.C_Hull.maxRepairCost removed in second object
+root.PJSC727_Blue_Dragon.AIParams removed in first object
+root.PGSC508_Prinz_Eugen.A_Hull.fuelFee removed in second object
+root.PGSC508_Prinz_Eugen.A_Hull.maxRepairCost removed in second object
+root.PGSC508_Prinz_Eugen.A1_Artillery.aimLevel removed in first object
+root.PGSC508_Prinz_Eugen.AIParams removed in first object
+root.PAPA031_Shell_152mm_AP_AP_105lbs.useSpecialShellModel removed in first object
+root.PCPA014_120mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PBGT046_21in_Torpedo_Tubes_Twin_L.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PRPA029_130MM_HE_OF_54.useSpecialShellModel removed in first object
+root.PRPA020_130MM_HE_NEPREM.useSpecialShellModel removed in first object
+root.PJSC007_Aoba_1943.AB1_Artillery.aimLevel removed in first object
+root.PJSC007_Aoba_1943.A_Hull_1942.fuelFee removed in second object
+root.PJSC007_Aoba_1943.A_Hull_1942.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.A_Hull_1942.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.A_Hull_1942.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.A_Hull_1942.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.A_Hull_1942.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.A_Hull_1942.maxRepairCost removed in second object
+root.PJSC007_Aoba_1943.B_Hull_1943.fuelFee removed in second object
+root.PJSC007_Aoba_1943.B_Hull_1943.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.B_Hull_1943.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.B_Hull_1943.armor.65603 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.B_Hull_1943.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.B_Hull_1943.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PJSC007_Aoba_1943.B_Hull_1943.maxRepairCost removed in second object
+root.PJSC007_Aoba_1943.AIParams removed in first object
+root.PAPA071_127MM_HE_BLACK.useSpecialShellModel removed in first object
+root.PASC907_Des_Moines_1948_Halloween.ArtilleryDefault.aimLevel removed in first object
+root.PASC907_Des_Moines_1948_Halloween.HullDefault.fuelFee removed in second object
+root.PASC907_Des_Moines_1948_Halloween.HullDefault.maxRepairCost removed in second object
+root.PASC907_Des_Moines_1948_Halloween.AIParams removed in first object
+root.PJSB021_Izumo_1938.ABC1_Artillery.aimLevel removed in first object
+root.PJSB021_Izumo_1938.B_Hull_1942.fuelFee removed in second object
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.maxRepairCost removed in second object
+root.PJSB021_Izumo_1938.BC2_Artillery.aimLevel removed in first object
+root.PJSB021_Izumo_1938.A_Hull_1938.fuelFee removed in second object
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.maxRepairCost removed in second object
+root.PJSB021_Izumo_1938.C_Hull_1945.fuelFee removed in second object
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.maxRepairCost removed in second object
+root.PJSB021_Izumo_1938.AIParams removed in first object
+root.PCEC008_Camo_Eco_Tile.canBuy changed in second object (was False, is True)
+root.PCEC008_Camo_Eco_Tile.hidden changed in second object (was True, is False)
+root.PJSC838_False_Hashidate_1940.ArtilleryDefault.aimLevel removed in first object
+root.PJSC838_False_Hashidate_1940.HullDefault.fuelFee removed in second object
+root.PJSC838_False_Hashidate_1940.HullDefault.maxRepairCost removed in second object
+root.PJSC838_False_Hashidate_1940.AIParams removed in first object
+root.PJAF010_Nakajima_J8N1.costCR changed in second object (was 800, is 1700)
+root.PWPA002_120_AP_BLYSKAWICA.useSpecialShellModel removed in first object
+root.PJPA027_Shell_120mm_AP_C.useSpecialShellModel removed in first object
+root.PAPT008_Mk_17.costCR changed in second object (was 500, is 1200)
+root.PJPA010_Shell_120mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PAPA019_Shell_152mm_AP_AP_Mk_35.costCR changed in second object (was 15, is 10)
+root.PAPA019_Shell_152mm_AP_AP_Mk_35.useSpecialShellModel removed in first object
+root.PJPA045_Shell_127mm_AP_Type_0.useSpecialShellModel removed in first object
+root.PRPA004_130mm_HE_OF_46.useSpecialShellModel removed in first object
+root.PASC003_Albany_1898.ArtilleryDefault.aimLevel removed in first object
+root.PASC003_Albany_1898.HullDefault.fuelFee removed in second object
+root.PASC003_Albany_1898.HullDefault.maxRepairCost removed in second object
+root.PASC003_Albany_1898.AIParams removed in first object
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_4_Gold.workTime changed in second object (was 3.0, is 22.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_4_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_8_Gold.workTime changed in second object (was 3.0, is 24.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_8_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_7_Gold.workTime changed in second object (was 3.0, is 23.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_7_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_10_Gold.workTime changed in second object (was 3.0, is 25.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_10_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_2_Gold.workTime changed in second object (was 3.0, is 21.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_2_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_9_Gold.workTime changed in second object (was 3.0, is 24.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_9_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_6_Gold.workTime changed in second object (was 3.0, is 23.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_6_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_3_Gold.workTime changed in second object (was 3.0, is 21.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_3_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_5_Gold.workTime changed in second object (was 3.0, is 22.0)
+root.PCY014_SmokeGeneratorPremium.UK_Lvl_5_Gold.radius changed in second object (was 20.0, is 15.0)
+root.PJPA040_Shell_100mm_HE_C_Type_98.useSpecialShellModel removed in first object
+root.PRPA005_75MM_HE.useSpecialShellModel removed in first object
+root.PAPA022_Shell_127mm_HE_C_Mk_15.useSpecialShellModel removed in first object
+root.PZPA004_127_AP_LO_YANG.useSpecialShellModel removed in first object
+root.PJAF007_Mitsubishi_A7M2.costCR changed in second object (was 600, is 800)
+root.PRPA010_130MM_HE_OF_46_B2U.useSpecialShellModel removed in first object
+root.PCPA019_127mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PRPA014_305_HE_1911.useSpecialShellModel removed in first object
+root.PGSB104_Kaiser.A_Hull.fuelFee removed in second object
+root.PGSB104_Kaiser.A_Hull.maxRepairCost removed in second object
+root.PGSB104_Kaiser.A1_Artillery.aimLevel removed in first object
+root.PGSB104_Kaiser.B_Hull.fuelFee removed in second object
+root.PGSB104_Kaiser.B_Hull.maxRepairCost removed in second object
+root.PGSB104_Kaiser.B1_Artillery.aimLevel removed in first object
+root.PGSB104_Kaiser.AIParams removed in first object
+root.PJSC004_Yubari_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSC004_Yubari_1944.A_Hull_1944.fuelFee removed in second object
+root.PJSC004_Yubari_1944.A_Hull_1944.maxRepairCost removed in second object
+root.PJSC004_Yubari_1944.AIParams removed in first object
+root.PCPA016_120mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PRPA001_Shell_152mm_AP_AP_91lbs.useSpecialShellModel removed in first object
+root.PASA905_Essex_1945_Halloween.B_Hull_1945.fuelFee removed in second object
+root.PASA905_Essex_1945_Halloween.B_Hull_1945.maxRepairCost removed in second object
+root.PASA905_Essex_1945_Halloween.AIParams removed in first object
+root.PRSC101_Orlan.A_Hull.fuelFee removed in second object
+root.PRSC101_Orlan.A_Hull.maxRepairCost removed in second object
+root.PRSC101_Orlan.A1_Artillery.aimLevel removed in first object
+root.PRSC101_Orlan.AIParams removed in first object
+root.PAPA051_152mm_HE_HC_Mark_39_Mod_0.useSpecialShellModel removed in first object
+root.PJSB006_Fuso_1943.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB006_Fuso_1943.B_Hull_1941.fuelFee removed in second object
+root.PJSB006_Fuso_1943.A1_356_45.aimLevel removed in first object
+root.PJSB006_Fuso_1943.B1_356_45.aimLevel removed in first object
+root.PJSB006_Fuso_1943.A_Hull_1919.fuelFee removed in second object
+root.PJSB006_Fuso_1943.A_Hull_1919.maxRepairCost removed in second object
+root.PJSB006_Fuso_1943.C_Hull_1943.maxRepairCost removed in second object
+root.PJSB006_Fuso_1943.C_Hull_1943.fuelFee removed in second object
+root.PJSB006_Fuso_1943.C1_356_45.aimLevel removed in first object
+root.PJSB006_Fuso_1943.AIParams removed in first object
+root.PAPA045_Shell_127_HE_HC_Mk_39.useSpecialShellModel removed in first object
+root.PCPA033_155mm_BASIC_SG_AP.useSpecialShellModel removed in first object
+root.PCPA002_76mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PAPA040_Shell_356mm_HE_C_1400lbs.useSpecialShellModel removed in first object
+root.PBPA003_152mm_HE_HE4crh.useSpecialShellModel removed in first object
+root.PJSD208_Kagero.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PJSD208_Kagero.A_Hull_1943.fuelFee removed in second object
+root.PJSD208_Kagero.A_Hull_1943.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.A_Hull_1943.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.A_Hull_1943.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD208_Kagero.A_Hull_1943.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD208_Kagero.A_Hull_1943.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD208_Kagero.A_Hull_1943.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.A_Hull_1943.maxRepairCost removed in second object
+root.PJSD208_Kagero.B_Hull_1941.fuelFee removed in second object
+root.PJSD208_Kagero.B_Hull_1941.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.B_Hull_1941.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.B_Hull_1941.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD208_Kagero.B_Hull_1941.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD208_Kagero.B_Hull_1941.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD208_Kagero.B_Hull_1941.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD208_Kagero.B_Hull_1941.maxRepairCost removed in second object
+root.PJSD208_Kagero.AB1_127_50.aimLevel removed in first object
+root.PJSD208_Kagero.AIParams removed in first object
+root.PRSC103_Bogatyr.A_Hull.fuelFee removed in second object
+root.PRSC103_Bogatyr.A_Hull.maxRepairCost removed in second object
+root.PRSC103_Bogatyr.A1_Artillery.aimLevel removed in first object
+root.PRSC103_Bogatyr.B_Hull.fuelFee removed in second object
+root.PRSC103_Bogatyr.B_Hull.maxRepairCost removed in second object
+root.PRSC103_Bogatyr.B2_Artillery.aimLevel removed in first object
+root.PRSC103_Bogatyr.B1_Artillery.aimLevel removed in first object
+root.PRSC103_Bogatyr.AIParams removed in first object
+root.PRPA040_130_AP_P_1911.useSpecialShellModel removed in first object
+root.PRPA025_100MM_HE_F_56.useSpecialShellModel removed in first object
+root.PAPA058_127mm_HE_HC_Mk41.useSpecialShellModel removed in first object
+root.PBSC103_Caledon.A_Hull.fuelFee removed in second object
+root.PBSC103_Caledon.A_Hull.maxRepairCost removed in second object
+root.PBSC103_Caledon.AB1_Artillery.aimLevel removed in first object
+root.PBSC103_Caledon.AB1_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC103_Caledon.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC103_Caledon.AB1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC103_Caledon.AB1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC103_Caledon.B_Hull.fuelFee removed in second object
+root.PBSC103_Caledon.B_Hull.maxRepairCost removed in second object
+root.PBSC103_Caledon.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC103_Caledon.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 26.97, is 2.5)
+root.PBSC103_Caledon.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC103_Caledon.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC103_Caledon.AIParams removed in first object
+root.PRPA043_152_HE_C.useSpecialShellModel removed in first object
+root.PJPA062_SHELL_152MM_HE_TYPE_0.useSpecialShellModel removed in first object
+root.PASA012_Lexington_1944.B_Hull_1944.fuelFee removed in second object
+root.PASA012_Lexington_1944.B_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASA012_Lexington_1944.B_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASA012_Lexington_1944.B_Hull_1944.maxRepairCost removed in second object
+root.PASA012_Lexington_1944.A_Hull_1942.fuelFee removed in second object
+root.PASA012_Lexington_1944.A_Hull_1942.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASA012_Lexington_1944.A_Hull_1942.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASA012_Lexington_1944.A_Hull_1942.maxRepairCost removed in second object
+root.PASA012_Lexington_1944.AIParams removed in first object
+root.PGSB108_Bismarck.A_Hull.fuelFee removed in second object
+root.PGSB108_Bismarck.A_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.A_Hull.armourCit[1] changed in second object (was 315.0, is 320.0)
+root.PGSB108_Bismarck.A_Hull.maxRepairCost removed in second object
+root.PGSB108_Bismarck.A1_Artillery.aimLevel removed in first object
+root.PGSB108_Bismarck.B_Hull.fuelFee removed in second object
+root.PGSB108_Bismarck.B_Hull.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PGSB108_Bismarck.B_Hull.armourCit[1] changed in second object (was 315.0, is 320.0)
+root.PGSB108_Bismarck.B_Hull.maxRepairCost removed in second object
+root.PGSB108_Bismarck.B1_Artillery.aimLevel removed in first object
+root.PGSB108_Bismarck.AIParams removed in first object
+root.PBPA006_102MM_HE_CAMPBELTOWN.useSpecialShellModel removed in first object
+root.PASA006_Independence_1945.A_Hull_1944.fuelFee removed in second object
+root.PASA006_Independence_1945.A_Hull_1944.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PASA006_Independence_1945.A_Hull_1944.armor.65622 changed in second object (was 13.0, is 19.0)
+root.PASA006_Independence_1945.A_Hull_1944.maxRepairCost removed in second object
+root.PASA006_Independence_1945.B_Hull_1945.fuelFee removed in second object
+root.PASA006_Independence_1945.B_Hull_1945.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PASA006_Independence_1945.B_Hull_1945.armor.65622 changed in second object (was 13.0, is 19.0)
+root.PASA006_Independence_1945.B_Hull_1945.maxRepairCost removed in second object
+root.PASA006_Independence_1945.AIParams removed in first object
+root.PJSA017_Hakuryu_1942.HullDefault.fuelFee removed in second object
+root.PJSA017_Hakuryu_1942.HullDefault.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSA017_Hakuryu_1942.HullDefault.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSA017_Hakuryu_1942.HullDefault.maxRepairCost removed in second object
+root.PJSA017_Hakuryu_1942.AIParams removed in first object
+root.PJAF011_Mitsubishi_A6M5.costCR changed in second object (was 350, is 550)
+root.PJSD504_Minekaze.A1_120_45.aimLevel removed in first object
+root.PJSD504_Minekaze.B1_120_45.aimLevel removed in first object
+root.PJSD504_Minekaze.A_Hull_1920.fuelFee removed in second object
+root.PJSD504_Minekaze.A_Hull_1920.maxRepairCost removed in second object
+root.PJSD504_Minekaze.B_Hull_1938.fuelFee removed in second object
+root.PJSD504_Minekaze.B_Hull_1938.maxRepairCost removed in second object
+root.PJSD504_Minekaze.B2_120_45.aimLevel removed in first object
+root.PJSD504_Minekaze.AIParams removed in first object
+root.PAPA054_Shell_305mm_AP_AP_Mk15.useSpecialShellModel removed in first object
+root.PJSD108_Akizuki.A_Hull.maxRepairCost removed in second object
+root.PJSD108_Akizuki.A_Hull.fuelFee removed in second object
+root.PJSD108_Akizuki.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD108_Akizuki.A_Hull.armor.131128 changed in second object (was 19.0, is 13.0)
+root.PJSD108_Akizuki.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD108_Akizuki.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD108_Akizuki.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD108_Akizuki.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PJSD108_Akizuki.AB1_Artillery.aimLevel removed in first object
+root.PJSD108_Akizuki.B_Hull.fuelFee removed in second object
+root.PJSD108_Akizuki.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD108_Akizuki.B_Hull.armor.131128 changed in second object (was 19.0, is 13.0)
+root.PJSD108_Akizuki.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD108_Akizuki.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD108_Akizuki.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD108_Akizuki.B_Hull.maxRepairCost removed in second object
+root.PJSD108_Akizuki.AIParams removed in first object
+root.PAPA056_305mm_HE_HC_Mk8.useSpecialShellModel removed in first object
+root.PJSC014_Kitakami_1945.ArtilleryDefault.aimLevel removed in first object
+root.PJSC014_Kitakami_1945.HullDefault.fuelFee removed in second object
+root.PJSC014_Kitakami_1945.HullDefault.maxRepairCost removed in second object
+root.PJSC014_Kitakami_1945.AIParams removed in first object
+root.PGPA019_150MM_AP_PSGR_L3_7.useSpecialShellModel removed in first object
+root.PJAB007_R2Y1_Keiun.costCR changed in second object (was 800, is 1700)
+root.PJPA052_410mm_AP_Type_90.useSpecialShellModel removed in first object
+root.PJPB002_Type99_N25_Mod1.useSpecialShellModel removed in first object
+root.PASA507_Saipan_1946.A_Hull.fuelFee removed in second object
+root.PASA507_Saipan_1946.A_Hull.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65624 changed in second object (was 13.0, is 19.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65620 changed in second object (was 13.0, is 19.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65622 changed in second object (was 13.0, is 19.0)
+root.PASA507_Saipan_1946.A_Hull.armor.196695 changed in second object (was 13.0, is 19.0)
+root.PASA507_Saipan_1946.A_Hull.maxRepairCost removed in second object
+root.PASA507_Saipan_1946.AIParams removed in first object
+root.PGPA029_105MM_HE_EMDEN.useSpecialShellModel removed in first object
+root.PASD801_FALSE_ENEMY_Sampson.AB1_Artillery.aimLevel removed in first object
+root.PASD801_FALSE_ENEMY_Sampson.A_Hull_1917.fuelFee removed in second object
+root.PASD801_FALSE_ENEMY_Sampson.A_Hull_1917.maxRepairCost removed in second object
+root.PASD801_FALSE_ENEMY_Sampson.AIParams removed in first object
+root.PAAB509_Douglas_AD1_S.costCR changed in second object (was 600, is 800)
+root.PGPA062_305MM_HE_KA.useSpecialShellModel removed in first object
+root.PZPA003_127_HE_LO_YANG.useSpecialShellModel removed in first object
+root.PCPA048_406mm_FORTS_MG_HE.useSpecialShellModel removed in first object
+root.PASD008_Benson_1945.ShipModernization.ModernizationSlot5.mods[2] removed in second object
+root.PASD008_Benson_1945.AB1_Artillery.aimLevel removed in first object
+root.PASD008_Benson_1945.B_Hull_1942.fuelFee removed in second object
+root.PASD008_Benson_1945.B_Hull_1942.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PASD008_Benson_1945.B_Hull_1942.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.B_Hull_1942.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.B_Hull_1942.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.B_Hull_1942.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.B_Hull_1942.maxRepairCost removed in second object
+root.PASD008_Benson_1945.A_Hull_1938.fuelFee removed in second object
+root.PASD008_Benson_1945.A_Hull_1938.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PASD008_Benson_1945.A_Hull_1938.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.A_Hull_1938.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.A_Hull_1938.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.A_Hull_1938.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.A_Hull_1938.maxRepairCost removed in second object
+root.PASD008_Benson_1945.C_Hull_1944.fuelFee removed in second object
+root.PASD008_Benson_1945.C_Hull_1944.armor.131128 changed in second object (was 19.0, is 16.0)
+root.PASD008_Benson_1945.C_Hull_1944.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.C_Hull_1944.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.C_Hull_1944.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD008_Benson_1945.C_Hull_1944.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD008_Benson_1945.C_Hull_1944.maxRepairCost removed in second object
+root.PASD008_Benson_1945.C1_Artillery.aimLevel removed in first object
+root.PASD008_Benson_1945.AIParams removed in first object
+root.PAPA025_Shell_305mm_AP_AP.useSpecialShellModel removed in first object
+root.PRPA048_130_AP_P_1917.useSpecialShellModel removed in first object
+root.PJSB707_Haruna.B_Hull_1941.fuelFee removed in second object
+root.PJSB707_Haruna.B_Hull_1941.maxRepairCost removed in second object
+root.PJSB707_Haruna.B1_356_45.aimLevel removed in first object
+root.PJSB707_Haruna.C_Hull_1942.fuelFee removed in second object
+root.PJSB707_Haruna.C_Hull_1942.maxRepairCost removed in second object
+root.PJSB707_Haruna.C1_356_45.aimLevel removed in first object
+root.PJSB707_Haruna.AIParams removed in first object
+root.PASC014_New_Orlean_1944.A1_203_55.aimLevel removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.fuelFee removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.maxRepairCost removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.fuelFee removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.maxRepairCost removed in second object
+root.PASC014_New_Orlean_1944.B2_203_55.aimLevel removed in first object
+root.PASC014_New_Orlean_1944.B1_203_55.aimLevel removed in first object
+root.PASC014_New_Orlean_1944.AIParams removed in first object
+root.PCBC003.artillery.aimLevel removed in first object
+root.PCBC002.artillery.aimLevel removed in first object
+root.PCBC004.artillery.aimLevel removed in first object
+root.PRPA032_180_HE_OF_42_F.useSpecialShellModel removed in first object
+root.PRPA030_130_HE_1911_MG.useSpecialShellModel removed in first object
+root.PCPA044_460mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PAPA049_Shell_120_HE_45lbs.useSpecialShellModel removed in first object
+root.PBSC105_Emerald.B2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.B2_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A_Hull.maxRepairCost removed in second object
+root.PBSC105_Emerald.A_Hull.fuelFee removed in second object
+root.PBSC105_Emerald.AB1_Artillery.aimLevel removed in first object
+root.PBSC105_Emerald.A2_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A2_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A2_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A1_Torpedoes.HP_BGT_3.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.A1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.B_Hull.fuelFee removed in second object
+root.PBSC105_Emerald.B_Hull.maxRepairCost removed in second object
+root.PBSC105_Emerald.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC105_Emerald.B1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.B1_Torpedoes.HP_BGT_4.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC105_Emerald.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 30.69, is 2.5)
+root.PBSC105_Emerald.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC105_Emerald.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[4][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[4][1] changed in second object (was UK_Lvl_5, is UK_CL)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[5][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[5][1] changed in second object (was UK_Lvl_5_Gold, is UK_CL_PREM)
+root.PBSC105_Emerald.AIParams removed in first object
+root.PJPA026_Shell_76mm_HE_O_Mk_2.useSpecialShellModel removed in first object
+root.PASC007_Cleveland_1945.AB2_152_47.aimLevel removed in first object
+root.PASC007_Cleveland_1945.A_Hull_1943.fuelFee removed in second object
+root.PASC007_Cleveland_1945.A_Hull_1943.armor.65625 changed in second object (was 13.0, is 10.0)
+root.PASC007_Cleveland_1945.A_Hull_1943.armor.65626 changed in second object (was 13.0, is 10.0)
+root.PASC007_Cleveland_1945.A_Hull_1943.maxRepairCost removed in second object
+root.PASC007_Cleveland_1945.B_Hull_1945.fuelFee removed in second object
+root.PASC007_Cleveland_1945.B_Hull_1945.armor.65625 changed in second object (was 13.0, is 10.0)
+root.PASC007_Cleveland_1945.B_Hull_1945.armor.65626 changed in second object (was 13.0, is 10.0)
+root.PASC007_Cleveland_1945.B_Hull_1945.maxRepairCost removed in second object
+root.PASC007_Cleveland_1945.AB1_152_47.aimLevel removed in first object
+root.PASC007_Cleveland_1945.AIParams removed in first object
+root.PRPA045_130_AP_KK.useSpecialShellModel removed in first object
+root.PJPA032_Shell_305mm_HE_HE.useSpecialShellModel removed in first object
+root.PAPA027_Shell_152mm_AP_AP_105lbs.useSpecialShellModel removed in first object
+root.PRPA007_Shell_152mm_HE_HC_Mark_34_Mod_1.useSpecialShellModel removed in first object
+root.PAPA050_152mm_AP_130lbs_Mk35.useSpecialShellModel removed in first object
+root.PJSD005_Mutsuki_1926.B1_120_45.aimLevel removed in first object
+root.PJSD005_Mutsuki_1926.C1_120_45.aimLevel removed in first object
+root.PJSD005_Mutsuki_1926.A1_120_45.aimLevel removed in first object
+root.PJSD005_Mutsuki_1926.A_Hull_1926.fuelFee removed in second object
+root.PJSD005_Mutsuki_1926.A_Hull_1926.armor.65592 changed in second object (was 16.0, is 14.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.armor.196701 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.maxRepairCost removed in second object
+root.PJSD005_Mutsuki_1926.C2_120_45.aimLevel removed in first object
+root.PJSD005_Mutsuki_1926.B_Hull_1939.fuelFee removed in second object
+root.PJSD005_Mutsuki_1926.B_Hull_1939.armor.65592 changed in second object (was 16.0, is 14.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.armor.196701 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.maxRepairCost removed in second object
+root.PJSD005_Mutsuki_1926.C_Hull_1942.fuelFee removed in second object
+root.PJSD005_Mutsuki_1926.C_Hull_1942.armor.65592 changed in second object (was 16.0, is 14.0)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.armor.196701 changed in second object (was 16.0, is 12.0)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.maxRepairCost removed in second object
+root.PJSD005_Mutsuki_1926.AIParams removed in first object
+root.PCPA042_410mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PJPA021_Shell_127mm_HE_New_Type.useSpecialShellModel removed in first object
+root.PAPA062_SHELL_356MM_AP_MK_16_ARIZONA.useSpecialShellModel removed in first object
+root.PAPB005_100lbs_ANM30A1.useSpecialShellModel removed in first object
+root.PGSC502_Emden_1908.A_Hull.fuelFee removed in second object
+root.PGSC502_Emden_1908.A_Hull.maxRepairCost removed in second object
+root.PGSC502_Emden_1908.A1_Artillery.aimLevel removed in first object
+root.PGSC502_Emden_1908.AIParams removed in first object
+root.PAPB001_Bomb_6.useSpecialShellModel removed in first object
+root.PRSC104_Svetlana.A_Hull.maxRepairCost removed in second object
+root.PRSC104_Svetlana.A_Hull.fuelFee removed in second object
+root.PRSC104_Svetlana.AB1_Artillery.aimLevel removed in first object
+root.PRSC104_Svetlana.B_Hull.fuelFee removed in second object
+root.PRSC104_Svetlana.B_Hull.maxRepairCost removed in second object
+root.PRSC104_Svetlana.B2_Artillery.aimLevel removed in first object
+root.PRSC104_Svetlana.AIParams removed in first object
+root.PAPA065_SHELL_203MM_HE_INDIANAPOLIS.useSpecialShellModel removed in first object
+root.PAPA005_Shell_127mm_HE_C_Mk_32.useSpecialShellModel removed in first object
+root.PBGT047_21in_3tube_TR_Mk_IV_L.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PWSD501_Blyskawica.ArtilleryDefault.aimLevel removed in first object
+root.PWSD501_Blyskawica.HullDefault.fuelFee removed in second object
+root.PWSD501_Blyskawica.HullDefault.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PWSD501_Blyskawica.HullDefault.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PWSD501_Blyskawica.HullDefault.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PWSD501_Blyskawica.HullDefault.armor.131165 changed in second object (was 16.0, is 15.0)
+root.PWSD501_Blyskawica.HullDefault.maxRepairCost removed in second object
+root.PWSD501_Blyskawica.AIParams removed in first object
+root.PRSC110_Pr_66_Moskva.A_Hull.fuelFee removed in second object
+root.PRSC110_Pr_66_Moskva.A_Hull.maxRepairCost removed in second object
+root.PRSC110_Pr_66_Moskva.A1_Artillery.aimLevel removed in first object
+root.PRSC110_Pr_66_Moskva.AIParams removed in first object
+root.PAPA059_Shell_406mm_AP_AP_Mk_5.useSpecialShellModel removed in first object
+root.PJAB008_Mitsubishi_B1M.costCR changed in second object (was 150, is 220)
+root.PBSC107_Fiji.permoflages[0] removed in first object
+root.PBSC107_Fiji.A_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.A_Hull.fuelFee removed in second object
+root.PBSC107_Fiji.A_Hull.maxRepairCost removed in second object
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PBSC107_Fiji.AB1_Artillery.aimLevel removed in first object
+root.PBSC107_Fiji.AB2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC107_Fiji.AB2_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC107_Fiji.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC107_Fiji.AB1_Torpedoes.HP_BGT_1.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC107_Fiji.B_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.B_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.B_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.B_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PBSC107_Fiji.B_Hull.fuelFee removed in second object
+root.PBSC107_Fiji.B_Hull.maxRepairCost removed in second object
+root.PBSC107_Fiji.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[4][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[4][1] changed in second object (was UK_Lvl_7, is UK_CL)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[5][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[5][1] changed in second object (was UK_Lvl_7_Gold, is UK_CL_PREM)
+root.PBSC107_Fiji.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 30.225, is 2.5)
+root.PBSC107_Fiji.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC107_Fiji.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC107_Fiji.AIParams removed in first object
+root.PGPA027_210MM_HE_SPR_GR_L4_3_BDZ.useSpecialShellModel removed in first object
+root.PJPA049_200mm_HE_Common_Type_4.useSpecialShellModel removed in first object
+root.PRSC999_Seal.ArtilleryDefault.aimLevel removed in first object
+root.PRSC999_Seal.HullDefault.fuelFee removed in second object
+root.PRSC999_Seal.HullDefault.maxRepairCost removed in second object
+root.PRSC999_Seal.AIParams removed in first object
+root.PAPA020_Shell_152mm_HE_HC_Mk_34.costCR changed in second object (was 15, is 10)
+root.PAPA020_Shell_152mm_HE_HC_Mk_34.useSpecialShellModel removed in first object
+root.PJSB799_Kirishima.HullDefault.fuelFee removed in second object
+root.PJSB799_Kirishima.HullDefault.maxRepairCost removed in second object
+root.PJSB799_Kirishima.AIParams removed in first object
+root.PZPA001_130_HE_ANSHAN.useSpecialShellModel removed in first object
+root.PASB705_Texas_1944.A_Hull.fuelFee removed in second object
+root.PASB705_Texas_1944.A_Hull.maxRepairCost removed in second object
+root.PASB705_Texas_1944.A1_Artillery.aimLevel removed in first object
+root.PASB705_Texas_1944.AIParams removed in first object
+root.PJPA064_100MM_HE_C_TYPE_98_MG.useSpecialShellModel removed in first object
+root.PCPA041_406mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PASC016_Worcester_1948.ArtilleryDefault.aimLevel removed in first object
+root.PASC016_Worcester_1948.HullDefault.fuelFee removed in second object
+root.PASC016_Worcester_1948.HullDefault.maxRepairCost removed in second object
+root.PASC016_Worcester_1948.AIParams removed in first object
+root.PGPA012_88MM_HE_SPR_GR.useSpecialShellModel removed in first object
+root.PUSC506_Perth_1942.A_Hull.armor.131158 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.131139 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.65603 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PUSC506_Perth_1942.A_Hull.fuelFee removed in second object
+root.PUSC506_Perth_1942.A_Hull.maxRepairCost removed in second object
+root.PUSC506_Perth_1942.A1_Artillery.aimLevel removed in first object
+root.PUSC506_Perth_1942.A1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PUSC506_Perth_1942.group changed in second object (was demoWithoutStats, is special)
+root.PUSC506_Perth_1942.AIParams removed in first object
+root.PCPA003_76mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PJSD001_Tachibana_1912.ArtilleryDefault.aimLevel removed in first object
+root.PJSD001_Tachibana_1912.A_Hull_1912.fuelFee removed in second object
+root.PJSD001_Tachibana_1912.A_Hull_1912.maxRepairCost removed in second object
+root.PJSD001_Tachibana_1912.AIParams removed in first object
+root.PRPA022_152MM_OF35_KUTUZOV.useSpecialShellModel removed in first object
+root.PGPA039_406MM_HE_SPR_GR_L4_4_KZ.useSpecialShellModel removed in first object
+root.PJAF005_Mitsubishi_A5M2.costCR changed in second object (was 200, is 320)
+root.PJSC034_Zao_1944.ArtilleryDefault.aimLevel removed in first object
+root.PJSC034_Zao_1944.HullDefault.fuelFee removed in second object
+root.PJSC034_Zao_1944.HullDefault.maxRepairCost removed in second object
+root.PJSC034_Zao_1944.AIParams removed in first object
+root.PAPA021_Shell_127mm_AP_AP.useSpecialShellModel removed in first object
+root.PJAD008_Wakusei.costCR changed in second object (was 800, is 1700)
+root.PBPA021_152MM_AP_BEL.useSpecialShellModel removed in first object
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.aimLevel removed in first object
+root.PASC045_Marblehead_1924_Asus.HullDefault.fuelFee removed in second object
+root.PASC045_Marblehead_1924_Asus.HullDefault.maxRepairCost removed in second object
+root.PASC045_Marblehead_1924_Asus.AIParams removed in first object
+root.PRSC106_Pr_94_Budeny.A_Hull.fuelFee removed in second object
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65583 changed in second object (was 20.0, is 30.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65584 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65585 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65598 changed in second object (was 20.0, is 30.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65603 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.armor.65630 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.maxRepairCost removed in second object
+root.PRSC106_Pr_94_Budeny.A1_Artillery.aimLevel removed in first object
+root.PRSC106_Pr_94_Budeny.B_Hull.fuelFee removed in second object
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65583 changed in second object (was 20.0, is 30.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65584 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65585 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65598 changed in second object (was 20.0, is 30.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65603 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65623 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65628 changed in second object (was 20.0, is 30.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.armor.65630 changed in second object (was 13.0, is 19.0)
+root.PRSC106_Pr_94_Budeny.B_Hull.maxRepairCost removed in second object
+root.PRSC106_Pr_94_Budeny.B1_Artillery.aimLevel removed in first object
+root.PRSC106_Pr_94_Budeny.AIParams removed in first object
+root.PGSC108_Hipper.A_Hull.fuelFee removed in second object
+root.PGSC108_Hipper.A_Hull.maxRepairCost removed in second object
+root.PGSC108_Hipper.A1_Artillery.aimLevel removed in first object
+root.PGSC108_Hipper.B_Hull.fuelFee removed in second object
+root.PGSC108_Hipper.B_Hull.maxRepairCost removed in second object
+root.PGSC108_Hipper.C_Hull.fuelFee removed in second object
+root.PGSC108_Hipper.C_Hull.maxRepairCost removed in second object
+root.PGSC108_Hipper.B1_Artillery.aimLevel removed in first object
+root.PGSC108_Hipper.C1_Artillery.aimLevel removed in first object
+root.PGSC108_Hipper.AIParams removed in first object
+root.PAPA028_Shell_152mm_HE_C_105lbs.useSpecialShellModel removed in first object
+root.PASC005_Omaha_1923.B2_152_53.aimLevel removed in first object
+root.PASC005_Omaha_1923.B1_152_53.aimLevel removed in first object
+root.PASC005_Omaha_1923.A_Hull_1923.maxRepairCost removed in second object
+root.PASC005_Omaha_1923.A_Hull_1923.fuelFee removed in second object
+root.PASC005_Omaha_1923.A1_152_53.aimLevel removed in first object
+root.PASC005_Omaha_1923.B_Hull_1938.fuelFee removed in second object
+root.PASC005_Omaha_1923.B_Hull_1938.maxRepairCost removed in second object
+root.PASC005_Omaha_1923.C_Hull_1944.fuelFee removed in second object
+root.PASC005_Omaha_1923.C_Hull_1944.maxRepairCost removed in second object
+root.PASC005_Omaha_1923.C1_152_53.aimLevel removed in first object
+root.PASC005_Omaha_1923.C2_152_53.aimLevel removed in first object
+root.PASC005_Omaha_1923.AIParams removed in first object
+root.PRPA044_130_HE_KK.useSpecialShellModel removed in first object
+root.PAPA052_356mm_HE_Common_1400lbs.useSpecialShellModel removed in first object
+root.PAPA012_Shell_203mm_AP_AP_Mk_21.useSpecialShellModel removed in first object
+root.PAAF016_McDonnell_F2H.costCR changed in second object (was 800, is 1700)
+root.PGPA033_305MM_HE_SPR_GR_L3_8_BDZ.useSpecialShellModel removed in first object
+root.PAAD001_Curtiss_SB2C.costCR changed in second object (was 450, is 800)
+root.PAPB006_250lbs_ANM57.useSpecialShellModel removed in first object
+root.PBGT050_21in_4tube_QR_Mk_VII_R.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PASB013_Arkansas_1912.ArtilleryDefault.aimLevel removed in first object
+root.PASB013_Arkansas_1912.HullDefault.fuelFee removed in second object
+root.PASB013_Arkansas_1912.HullDefault.maxRepairCost removed in second object
+root.PASB013_Arkansas_1912.AIParams removed in first object
+root.PJSA009_Ryujo_1933.A_Hull.fuelFee removed in second object
+root.PJSA009_Ryujo_1933.A_Hull.armor.131158 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.A_Hull.armor.262231 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.A_Hull.maxRepairCost removed in second object
+root.PJSA009_Ryujo_1933.C_Hull.fuelFee removed in second object
+root.PJSA009_Ryujo_1933.C_Hull.armor.131158 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.C_Hull.armor.262231 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.C_Hull.maxRepairCost removed in second object
+root.PJSA009_Ryujo_1933.B_Hull.armor.131158 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.B_Hull.armor.262231 changed in second object (was 13.0, is 19.0)
+root.PJSA009_Ryujo_1933.B_Hull.fuelFee removed in second object
+root.PJSA009_Ryujo_1933.B_Hull.maxRepairCost removed in second object
+root.PJSA009_Ryujo_1933.AIParams removed in first object
+root.PJSD105_Mutsuki.A_Hull_1942.fuelFee removed in second object
+root.PJSD105_Mutsuki.A_Hull_1942.maxRepairCost removed in second object
+root.PJSD105_Mutsuki.B_Hull_1942.fuelFee removed in second object
+root.PJSD105_Mutsuki.B_Hull_1942.maxRepairCost removed in second object
+root.PJSD105_Mutsuki.AB1_120_45.aimLevel removed in first object
+root.PJSD105_Mutsuki.B2_120_45.aimLevel removed in first object
+root.PJSD105_Mutsuki.AIParams removed in first object
+root.PJPA899_Shell_False.useSpecialShellModel removed in first object
+root.PAPA024_Shell_76mm_HE_C.useSpecialShellModel removed in first object
+root.PGPA028_105MM_AP_EMDEN.useSpecialShellModel removed in first object
+root.PRPA009_102MM_AP_1915.useSpecialShellModel removed in first object
+root.PJSB802_False_Ally_Kawachi_1912.B_Hull_1919.fuelFee removed in second object
+root.PJSB802_False_Ally_Kawachi_1912.B_Hull_1919.maxRepairCost removed in second object
+root.PJSB802_False_Ally_Kawachi_1912.B2_305_50.aimLevel removed in first object
+root.PJSB802_False_Ally_Kawachi_1912.AIParams removed in first object
+root.PJAF019_Mitsubishi_A6M5_C.costCR changed in second object (was 350, is 550)
+root.PFPA001_330MM_AP_D.useSpecialShellModel removed in first object
+root.PCPA009_Shell_406mm_AP_AP_Mk_3.useSpecialShellModel removed in first object
+root.PJSB008_Ishizuchi_1921.ArtilleryDefault.aimLevel removed in first object
+root.PJSB008_Ishizuchi_1921.HullDefault.fuelFee removed in second object
+root.PJSB008_Ishizuchi_1921.HullDefault.maxRepairCost removed in second object
+root.PJSB008_Ishizuchi_1921.AIParams removed in first object
+root.PGPA008_105MM_HE_SPRGR.useSpecialShellModel removed in first object
+root.PGPA001_380mm_AP_APC_L_4_4.useSpecialShellModel removed in first object
+root.PGPA056_283MM_AP_PZ_GR_L3_2.useSpecialShellModel removed in first object
+root.PGSC105_Konigsberg.A_Hull.fuelFee removed in second object
+root.PGSC105_Konigsberg.A_Hull.maxRepairCost removed in second object
+root.PGSC105_Konigsberg.A1_Artillery.aimLevel removed in first object
+root.PGSC105_Konigsberg.B_Hull.fuelFee removed in second object
+root.PGSC105_Konigsberg.B_Hull.maxRepairCost removed in second object
+root.PGSC105_Konigsberg.B1_Artillery.aimLevel removed in first object
+root.PGSC105_Konigsberg.AIParams removed in first object
+root.PJAF001_A6M2.costCR changed in second object (was 300, is 320)
+root.PCPA032_155mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PJSC737_Nachi.A_Hull.fuelFee removed in second object
+root.PJSC737_Nachi.A_Hull.maxRepairCost removed in second object
+root.PJSC737_Nachi.ArtilleryDefault.aimLevel removed in first object
+root.PJSC737_Nachi.B_Hull.fuelFee removed in second object
+root.PJSC737_Nachi.B_Hull.maxRepairCost removed in second object
+root.PJSC737_Nachi.C_Hull.fuelFee removed in second object
+root.PJSC737_Nachi.C_Hull.maxRepairCost removed in second object
+root.PJSC737_Nachi.AIParams removed in first object
+root.PGPA057_283MM_HE_SPR_GR_L3_6.useSpecialShellModel removed in first object
+root.PASD005_Farragut_1944.A_Hull.fuelFee removed in second object
+root.PASD005_Farragut_1944.A_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD005_Farragut_1944.A_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.A_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.A_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.A_Hull.armor.196701 changed in second object (was 16.0, is 13.0)
+root.PASD005_Farragut_1944.A_Hull.maxRepairCost removed in second object
+root.PASD005_Farragut_1944.B_Hull.fuelFee removed in second object
+root.PASD005_Farragut_1944.B_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD005_Farragut_1944.B_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.B_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.B_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.B_Hull.armor.196701 changed in second object (was 16.0, is 13.0)
+root.PASD005_Farragut_1944.B_Hull.maxRepairCost removed in second object
+root.PASD005_Farragut_1944.AB1_127_38.aimLevel removed in first object
+root.PASD005_Farragut_1944.C_Hull.fuelFee removed in second object
+root.PASD005_Farragut_1944.C_Hull.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PASD005_Farragut_1944.C_Hull.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.C_Hull.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.C_Hull.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PASD005_Farragut_1944.C_Hull.armor.196701 changed in second object (was 16.0, is 13.0)
+root.PASD005_Farragut_1944.C_Hull.maxRepairCost removed in second object
+root.PASD005_Farragut_1944.C1_127_38.aimLevel removed in first object
+root.PASD005_Farragut_1944.AIParams removed in first object
+root.PRSC010_Diana_1905_Asus.ArtilleryDefault.aimLevel removed in first object
+root.PRSC010_Diana_1905_Asus.HullDefault.fuelFee removed in second object
+root.PRSC010_Diana_1905_Asus.HullDefault.maxRepairCost removed in second object
+root.PRSC010_Diana_1905_Asus.AIParams removed in first object
+root.PJPA051_305mm_HE_HE_Mark_IIa.useSpecialShellModel removed in first object
+root.PASC803_Cimarron_shooter.ArtilleryDefault.aimLevel removed in first object
+root.PASC803_Cimarron_shooter.HullDefault.fuelFee removed in second object
+root.PASC803_Cimarron_shooter.HullDefault.maxRepairCost removed in second object
+root.PASC803_Cimarron_shooter.AIParams removed in first object
+root.PCPA034_203mm_BASIC_MG_HE.useSpecialShellModel removed in first object
+root.PJPA044_Shell_127mm_HE_Type_1.useSpecialShellModel removed in first object
+root.PJSD003_Isokaze_1917.B_Hull_1925.fuelFee removed in second object
+root.PJSD003_Isokaze_1917.B_Hull_1925.maxRepairCost removed in second object
+root.PJSD003_Isokaze_1917.A1_120_40.aimLevel removed in first object
+root.PJSD003_Isokaze_1917.B1_120_40.aimLevel removed in first object
+root.PJSD003_Isokaze_1917.A_Hull_1917.fuelFee removed in second object
+root.PJSD003_Isokaze_1917.A_Hull_1917.maxRepairCost removed in second object
+root.PJSD003_Isokaze_1917.AIParams removed in first object
+root.PBPA017_152MM_AP_MK5.bulletDetonator changed in second object (was 0.005, is 0.025)
+root.PBPA017_152MM_AP_MK5.alphaDamage changed in second object (was 3200.0, is 1600.0)
+root.PBPA017_152MM_AP_MK5.useSpecialShellModel removed in first object
+root.PAPA032_Shell_152mm_HE_C_105lbs.useSpecialShellModel removed in first object
+root.PGSC107_Yorck.B_Hull.fuelFee removed in second object
+root.PGSC107_Yorck.B_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.B_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.B_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.B_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.B_Hull.armor.65637 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.B_Hull.maxRepairCost removed in second object
+root.PGSC107_Yorck.C_Hull.fuelFee removed in second object
+root.PGSC107_Yorck.C_Hull.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.C_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.C_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.C_Hull.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.C_Hull.armor.65637 changed in second object (was 16.0, is 19.0)
+root.PGSC107_Yorck.C_Hull.maxRepairCost removed in second object
+root.PGSC107_Yorck.ABC1_Artillery.aimLevel removed in first object
+root.PGSC107_Yorck.AIParams removed in first object
+root.PGPA036_380MM_AP_PZ_GR_L3_5.useSpecialShellModel removed in first object
+root.PASC006_Atlanta_1942.ArtilleryDefault.aimLevel removed in first object
+root.PASC006_Atlanta_1942.HullDefault.fuelFee removed in second object
+root.PASC006_Atlanta_1942.HullDefault.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.131120 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65603 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.131165 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65622 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65623 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PASC006_Atlanta_1942.HullDefault.maxRepairCost removed in second object
+root.PASC006_Atlanta_1942.AIParams removed in first object
+root.PGPA022_150MM_HE_SPR_GR_L4_1_BDZ.useSpecialShellModel removed in first object
+root.PCPA035_203mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PAPA008_Shell_127mm_HE_HC_Mk_39.useSpecialShellModel removed in first object
+root.PJPA009_Shell_203mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PAPA047_Shell_152mm_HE_HC_Mk_34.useSpecialShellModel removed in first object
+root.PBPA005_102MM_AP_CAMPBELTOWN.useSpecialShellModel removed in first object
+root.PRPA006_Shell_152mm_AP_SC_Mk_27_Mod_2.useSpecialShellModel removed in first object
+root.PCH042_TaskPerforming3.hidden changed in second object (was False, is True)
+root.PCH042_TaskPerforming3.events[0] removed in second object
+root.PCH042_TaskPerforming3.events[1] removed in second object
+root.PCH042_TaskPerforming3.constants.questCount removed in second object
+root.PJPA029_Shell_120mm_HE_Common.useSpecialShellModel removed in first object
+root.PJSD209_Yugumo.A_Hull.fuelFee removed in second object
+root.PJSD209_Yugumo.A_Hull.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD209_Yugumo.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.A_Hull.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD209_Yugumo.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD209_Yugumo.A_Hull.maxRepairCost removed in second object
+root.PJSD209_Yugumo.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PJSD209_Yugumo.AB1_Artillery.aimLevel removed in first object
+root.PJSD209_Yugumo.B_Hull.fuelFee removed in second object
+root.PJSD209_Yugumo.B_Hull.armor.65592 changed in second object (was 19.0, is 15.0)
+root.PJSD209_Yugumo.B_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.B_Hull.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.B_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PJSD209_Yugumo.B_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PJSD209_Yugumo.B_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PJSD209_Yugumo.B_Hull.maxRepairCost removed in second object
+root.PJSD209_Yugumo.AIParams removed in first object
+root.PJSA006_Zuiho_1944.A_Hull_1940.fuelFee removed in second object
+root.PJSA006_Zuiho_1944.A_Hull_1940.armor.65623 changed in second object (was 15.0, is 16.0)
+root.PJSA006_Zuiho_1944.A_Hull_1940.maxRepairCost removed in second object
+root.PJSA006_Zuiho_1944.B_Hull_1942.fuelFee removed in second object
+root.PJSA006_Zuiho_1944.B_Hull_1942.armor.65623 changed in second object (was 15.0, is 16.0)
+root.PJSA006_Zuiho_1944.B_Hull_1942.maxRepairCost removed in second object
+root.PJSA006_Zuiho_1944.C_Hull_1944.fuelFee removed in second object
+root.PJSA006_Zuiho_1944.C_Hull_1944.armor.65623 changed in second object (was 15.0, is 16.0)
+root.PJSA006_Zuiho_1944.C_Hull_1944.maxRepairCost removed in second object
+root.PJSA006_Zuiho_1944.AIParams removed in first object
+root.PRSC506_Molotov_1943.A_Hull.fuelFee removed in second object
+root.PRSC506_Molotov_1943.A_Hull.armor.65583 changed in second object (was 20.0, is 30.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65584 changed in second object (was 13.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65585 changed in second object (was 13.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65598 changed in second object (was 20.0, is 30.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65603 changed in second object (was 13.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65622 changed in second object (was 18.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65623 changed in second object (was 16.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65628 changed in second object (was 20.0, is 30.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65629 changed in second object (was 13.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65630 changed in second object (was 13.0, is 19.0)
+root.PRSC506_Molotov_1943.A_Hull.maxRepairCost removed in second object
+root.PRSC506_Molotov_1943.A1_Artillery.aimLevel removed in first object
+root.PRSC506_Molotov_1943.AIParams removed in first object
+root.PAPA023_Shell_76mm_AP_AP_Mk_29.useSpecialShellModel removed in first object
+root.PJSD014_Tachibana_1912_Asus.ArtilleryDefault.aimLevel removed in first object
+root.PJSD014_Tachibana_1912_Asus.A_Hull_1912.fuelFee removed in second object
+root.PJSD014_Tachibana_1912_Asus.A_Hull_1912.maxRepairCost removed in second object
+root.PJSD014_Tachibana_1912_Asus.AIParams removed in first object
+root.PAPA014_Shell_406mm_AP_AP_Mk_8.useSpecialShellModel removed in first object
+root.PRPA031_180_HE_OF_42_S.useSpecialShellModel removed in first object
+root.PAPA026_Shell_305mm_HE_C.useSpecialShellModel removed in first object
+root.PJPA004_Shell_127mm_HE_C_Type_0.useSpecialShellModel removed in first object
+root.PJPA065_120MM_HE_KAM.useSpecialShellModel removed in first object
+root.PJAD003_D4Y2.costCR changed in second object (was 450, is 800)
+root.PASB017_Montana_1945.ArtilleryDefault.aimLevel removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.65584 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65585 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65593 changed in second object (was 29.0, is 38.0)
+root.PASB017_Montana_1945.HullDefault.armor.65630 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.armor.65629 changed in second object (was 32.0, is 28.0)
+root.PASB017_Montana_1945.HullDefault.fuelFee removed in second object
+root.PASB017_Montana_1945.HullDefault.maxRepairCost removed in second object
+root.PASB017_Montana_1945.AIParams removed in first object
+root.PJPA023_Shell_120mm_AP_C_Type_0.useSpecialShellModel removed in first object
+root.PJSD106_Fubuki.A_Hull_1943.maxRepairCost removed in second object
+root.PJSD106_Fubuki.A_Hull_1943.fuelFee removed in second object
+root.PJSD106_Fubuki.A_Hull_1943.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.A_Hull_1943.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD106_Fubuki.A_Hull_1943.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.A_Hull_1943.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.B_Hull_1943.fuelFee removed in second object
+root.PJSD106_Fubuki.B_Hull_1943.armor.65584 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.B_Hull_1943.armor.65592 changed in second object (was 16.0, is 15.0)
+root.PJSD106_Fubuki.B_Hull_1943.armor.131128 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.B_Hull_1943.armor.65629 changed in second object (was 16.0, is 12.0)
+root.PJSD106_Fubuki.B_Hull_1943.maxRepairCost removed in second object
+root.PJSD106_Fubuki.AB1_127_50.aimLevel removed in first object
+root.PJSD106_Fubuki.AIParams removed in first object
+root.PJSC799_Takao.HullDefault.fuelFee removed in second object
+root.PJSC799_Takao.HullDefault.maxRepairCost removed in second object
+root.PJSC799_Takao.AIParams removed in first object
+root.PRPA042_152_AP_C.useSpecialShellModel removed in first object
+root.PGPA042_203MM_HE_SPR_GR_L4_7_KZ.useSpecialShellModel removed in first object
+root.PBPA010_152MM_HE_100LBS.useSpecialShellModel removed in first object
+root.PJPA025_Shell_155mm_AP_APC_Type_91.useSpecialShellModel removed in first object
+root.PCPA047_381mm_BASIC_MG_AP.useSpecialShellModel removed in first object
+root.PCPA008_100mm_BASIC_SG_HE.useSpecialShellModel removed in first object
+root.PRPA017_130MM_AP_PB_46_ORLAN.useSpecialShellModel removed in first object
+root.PAPA006_Shell_356mm_AP_AP_Mk_16.useSpecialShellModel removed in first object
+root.PJPA061_SHELL_305MM_HE_850LBS.useSpecialShellModel removed in first object
+root.PASB506_Arizona_1941.A_Hull.fuelFee removed in second object
+root.PASB506_Arizona_1941.A_Hull.maxRepairCost removed in second object
+root.PASB506_Arizona_1941.A1_Artillery.aimLevel removed in first object
+root.PASB506_Arizona_1941.AIParams removed in first object
+root.PASC012_Pensacola_1944.AB1_203_50.aimLevel removed in first object
+root.PASC012_Pensacola_1944.B_Hull_1944.fuelFee removed in second object
+root.PASC012_Pensacola_1944.B_Hull_1944.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.B_Hull_1944.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.B_Hull_1944.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.B_Hull_1944.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.B_Hull_1944.maxRepairCost removed in second object
+root.PASC012_Pensacola_1944.A_Hull_1942.fuelFee removed in second object
+root.PASC012_Pensacola_1944.A_Hull_1942.armor.65630 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.A_Hull_1942.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.A_Hull_1942.armor.65585 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.A_Hull_1942.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PASC012_Pensacola_1944.A_Hull_1942.maxRepairCost removed in second object
+root.PASC012_Pensacola_1944.B2_203_55.aimLevel removed in first object
+root.PASC012_Pensacola_1944.AIParams removed in first object
+root.PASD709_Black.A_Hull.fuelFee removed in second object
+root.PASD709_Black.A_Hull.armor.131128 changed in second object (was 19.0, is 12.0)
+root.PASD709_Black.A_Hull.armor.65584 changed in second object (was 19.0, is 12.0)
+root.PASD709_Black.A_Hull.armor.65585 changed in second object (was 19.0, is 12.0)
+root.PASD709_Black.A_Hull.armor.65593 changed in second object (was 19.0, is 13.0)
+root.PASD709_Black.A_Hull.armor.65625 changed in second object (was 13.0, is 12.0)
+root.PASD709_Black.A_Hull.armor.65626 changed in second object (was 13.0, is 12.0)
+root.PASD709_Black.A_Hull.armor.65629 changed in second object (was 19.0, is 12.0)
+root.PASD709_Black.A_Hull.maxRepairCost removed in second object
+root.PASD709_Black.ShipModernization.ModernizationSlot6.mods[2] removed in second object
+root.PASD709_Black.A1_Artillery.aimLevel removed in first object
+root.PASD709_Black.AIParams removed in first object
+root.PRSC109_Dmitry_Donskoy.A_Hull.fuelFee removed in second object
+root.PRSC109_Dmitry_Donskoy.A_Hull.maxRepairCost removed in second object
+root.PRSC109_Dmitry_Donskoy.AB1_Artillery.aimLevel removed in first object
+root.PRSC109_Dmitry_Donskoy.B_Hull.fuelFee removed in second object
+root.PRSC109_Dmitry_Donskoy.B_Hull.maxRepairCost removed in second object
+root.PRSC109_Dmitry_Donskoy.C_Hull.fuelFee removed in second object
+root.PRSC109_Dmitry_Donskoy.C_Hull.maxRepairCost removed in second object
+root.PRSC109_Dmitry_Donskoy.C1_Artillery.aimLevel removed in first object
+root.PRSC109_Dmitry_Donskoy.AIParams removed in first object
+root.PAAF012_Vought_F4U.costCR changed in second object (was 600, is 1200)
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.fuelFee removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.maxRepairCost removed in second object
+root.PASB802_FALSE_ENEMY_Michigan.ArtilleryDefault.aimLevel removed in first object
+root.PASB802_FALSE_ENEMY_Michigan.AIParams removed in first object
+root.PAPA044_Main_127mm_HE_C_Mk_32.useSpecialShellModel removed in first object
+root.PAAD013_Douglas_SBD5.costCR changed in second object (was 350, is 550)
+root.PASC004_St_Louis_1906.A1_152_50.aimLevel removed in first object
+root.PASC004_St_Louis_1906.B2_152_50.aimLevel removed in first object
+root.PASC004_St_Louis_1906.B1_152_50.aimLevel removed in first object
+root.PASC004_St_Louis_1906.A_Hull_1906.fuelFee removed in second object
+root.PASC004_St_Louis_1906.A_Hull_1906.maxRepairCost removed in second object
+root.PASC004_St_Louis_1906.B_Hull_1924.fuelFee removed in second object
+root.PASC004_St_Louis_1906.B_Hull_1924.maxRepairCost removed in second object
+root.PASC004_St_Louis_1906.AIParams removed in first object
+root.PGPA052_420MM_AP_APC_L_4_6.useSpecialShellModel removed in first object
+root.PBSC106_Leander.A_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.armor.65603 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.armor.196695 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.A_Hull.fuelFee removed in second object
+root.PBSC106_Leander.A_Hull.maxRepairCost removed in second object
+root.PBSC106_Leander.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM024_Engine_Mod_II)
+root.PBSC106_Leander.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PBSC106_Leander.A1_Artillery.aimLevel removed in first object
+root.PBSC106_Leander.AB2_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC106_Leander.AB1_Torpedoes.HP_BGT_2.timeBetweenShots changed in second object (was 0.2, is 1.0)
+root.PBSC106_Leander.B_Hull.armor.65584 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.armor.65603 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.armor.196695 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PBSC106_Leander.B_Hull.fuelFee removed in second object
+root.PBSC106_Leander.B_Hull.maxRepairCost removed in second object
+root.PBSC106_Leander.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PBSC106_Leander.AB_Engine.forwardEngineForsagMaxSpeed changed in second object (was 30.225, is 2.5)
+root.PBSC106_Leander.AB_Engine.backwardEngineForsagMaxSpeed changed in second object (was 5.0, is 2.5)
+root.PBSC106_Leander.AB_Engine.forwardEngineForsag changed in second object (was 1.75, is 2.5)
+root.PBSC106_Leander.B1_Artillery.aimLevel removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[4][0] changed in second object (was PCY006_SmokeGenerator, is PCY007_SpeedBooster)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[4][1] changed in second object (was UK_Lvl_6, is UK_CL)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[5][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY015_SpeedBoosterPremium)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[5][1] changed in second object (was UK_Lvl_6_Gold, is UK_CL_PREM)
+root.PBSC106_Leander.AIParams removed in first object
+root.PJSB001_Kawachi_1912.A1_305_45.aimLevel removed in first object
+root.PJSB001_Kawachi_1912.A_Hull_1912.fuelFee removed in second object
+root.PJSB001_Kawachi_1912.A_Hull_1912.maxRepairCost removed in second object
+root.PJSB001_Kawachi_1912.B_Hull_1919.fuelFee removed in second object
+root.PJSB001_Kawachi_1912.B_Hull_1919.maxRepairCost removed in second object
+root.PJSB001_Kawachi_1912.B2_305_50.aimLevel removed in first object
+root.PJSB001_Kawachi_1912.AIParams removed in first object
+root.PFPA002_330MM_HE_D.useSpecialShellModel removed in first object
+root.PGSB105_Koenig.A_Hull.fuelFee removed in second object
+root.PGSB105_Koenig.A_Hull.maxRepairCost removed in second object
+root.PGSB105_Koenig.A1_Artillery.aimLevel removed in first object
+root.PGSB105_Koenig.B_Hull.fuelFee removed in second object
+root.PGSB105_Koenig.B_Hull.maxRepairCost removed in second object
+root.PGSB105_Koenig.C_Hull.fuelFee removed in second object
+root.PGSB105_Koenig.C_Hull.maxRepairCost removed in second object
+root.PGSB105_Koenig.BC1_Artillery.aimLevel removed in first object
+root.PGSB105_Koenig.AIParams removed in first object
+root.PRPA015_305_AP_1911.useSpecialShellModel removed in first object
+root.PJSB003_Myogi_1912.A_Hull.fuelFee removed in second object
+root.PJSB003_Myogi_1912.A_Hull.maxRepairCost removed in second object
+root.PJSB003_Myogi_1912.B_Hull.fuelFee removed in second object
+root.PJSB003_Myogi_1912.B_Hull.maxRepairCost removed in second object
+root.PJSB003_Myogi_1912.C_Hull.fuelFee removed in second object
+root.PJSB003_Myogi_1912.C_Hull.maxRepairCost removed in second object
+root.PJSB003_Myogi_1912.AB1_356_45.aimLevel removed in first object
+root.PJSB003_Myogi_1912.C1_356_45.aimLevel removed in first object
+root.PJSB003_Myogi_1912.AIParams removed in first object
+root.PASD027_Wickes_1918.AB1_Artillery.aimLevel removed in first object
+root.PASD027_Wickes_1918.B_Hull_1925.fuelFee removed in second object
+root.PASD027_Wickes_1918.B_Hull_1925.maxRepairCost removed in second object
+root.PASD027_Wickes_1918.A_Hull_1918.fuelFee removed in second object
+root.PASD027_Wickes_1918.A_Hull_1918.maxRepairCost removed in second object
+root.PASD027_Wickes_1918.AIParams removed in first object
+root.PRPA033_220_HE_OF_23.useSpecialShellModel removed in first object
+root.PCH043_TaskPerforming4.hidden changed in second object (was False, is True)
+root.PCH043_TaskPerforming4.events[0] removed in second object
+root.PCH043_TaskPerforming4.events[1] removed in second object
+root.PCH043_TaskPerforming4.events[2] removed in second object
+root.PCH043_TaskPerforming4.events[3] removed in second object
+root.PCH043_TaskPerforming4.constants.dayCount removed in second object
+root.PXF001_Rangefinder removed in first object
+root.PJSD706_Shinonome removed in first object
+root.PXW001_DefaultCrew removed in first object
+root.PCH068_F_2016 removed in first object
+root.PCGM501_VanHellsing_Gun removed in first object
+root.PJUT507_TORP_SHINO removed in first object
+root.PCPA061_406mm_HE_VanHellsing removed in first object
+root.PXRS002_Radar removed in first object
+root.PJUA548_ART_SHINO removed in first object
+root.PJPT026_610MM_SHINO removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN removed in first object
+root.PCH067_LootboxOpening4 removed in first object
+root.PJUE535_ENG_SHINO removed in first object
+root.PCH065_LootboxOpening2 removed in first object
+root.PJUH526_SHINO removed in first object
+root.PCH064_LootboxOpening1 removed in first object
+root.PRGA091_75mm_Cane removed in first object
+root.PCH066_LootboxOpening3 removed in first object
+root.PJPA066_127MM_HE_SHINO removed in first object
+root.PASX904_Cimarron removed in first object
+root.PJPA067_127MM_AP_SHINO removed in first object
+root.PCBC005 removed in first object
+root.PCPA069_Shell_406mm_AP_VanHellsing removed in first object
+root.PJUS513_SUO_SHINO removed in first object
+root.PCBX004 removed in first object
+>> finished comparing
