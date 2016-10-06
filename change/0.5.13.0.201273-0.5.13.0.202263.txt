@@ -1,0 +1,114 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCH068_F_2016.events[0][1][1][2] changed in second object (was in, is ==)
+root.PCH068_F_2016.events[0][1][1][4] changed in second object (was mapNames, is mapName)
+root.PCH068_F_2016.constants.mapNames removed in second object
+root.PCH068_F_2016.constants.mapName removed in first object
+root.PCH068_F_2016.shipCategories removed in first object
+root.PCH034_ScienceOfWinning1.shipCategories removed in first object
+root.PCH014_Headbutt.shipCategories removed in first object
+root.PCH012_Arsonist.shipCategories removed in first object
+root.PCH041_TaskPerforming2.shipCategories removed in first object
+root.PCH015_SilentKiller.shipCategories removed in first object
+root.PCH044_Researching1.shipCategories removed in first object
+root.PCH020_ATBACaliber.shipCategories removed in first object
+root.PCH048_CBTPartisipant.shipCategories removed in first object
+root.PCH003_MainCaliber.shipCategories removed in first object
+root.PCH013_Liquidator.shipCategories removed in first object
+root.PCH047_OBTPartisipant.shipCategories removed in first object
+root.PCH022_Shadow.shipCategories removed in first object
+root.PCH039_ScienceOfWinning6.shipCategories removed in first object
+root.PCH040_TaskPerforming1.shipCategories removed in first object
+root.PCH052_WGStaff.shipCategories removed in first object
+root.PCH036_ScienceOfWinning3.shipCategories removed in first object
+root.PCH016_FirstBlood.shipCategories removed in first object
+root.PCH067_LootboxOpening4.shipCategories removed in first object
+root.PCH054_F_Manners.shipCategories removed in first object
+root.PCH037_ScienceOfWinning4.shipCategories removed in first object
+root.PCH018_Unsinkable.shipCategories removed in first object
+root.PCH058_F_PartyCheckIn.shipCategories removed in first object
+root.PCH031_EarningMoney1.shipCategories removed in first object
+root.PCH001_DoubleKill.shipCategories removed in first object
+root.PCH010_Retribution.shipCategories removed in first object
+root.PCH061_F_FestivSoup.shipCategories removed in first object
+root.PCH049_ATPartisipant.shipCategories removed in first object
+root.PCH051_STPartisipant.shipCategories removed in first object
+root.PCH065_LootboxOpening2.shipCategories removed in first object
+root.PCH011_InstantKill.shipCategories removed in first object
+root.PCH002_OneSoldierInTheField.shipCategories removed in first object
+root.PCH064_LootboxOpening1.shipCategories removed in first object
+root.PCH059_F_RunForest.shipCategories removed in first object
+root.PCH007_ClearSky.shipCategories removed in first object
+root.PCH033_EarningMoney3.shipCategories removed in first object
+root.PCH024_Destroyers.shipCategories removed in first object
+root.PCH066_LootboxOpening3.shipCategories removed in first object
+root.PCH045_Researching2.shipCategories removed in first object
+root.PCH026_EarningAchievement2.shipCategories removed in first object
+root.PCH029_Winning2.shipCategories removed in first object
+root.PCH063_F_KingOfParty.shipCategories removed in first object
+root.PCH009_DecisiveContributuion.shipCategories removed in first object
+root.PCH005_Support.shipCategories removed in first object
+root.PCH008_BrothersInArms.shipCategories removed in first object
+root.PCH017_Fireproof.shipCategories removed in first object
+root.PCH053_WGSPbStaff.shipCategories removed in first object
+root.PCH006_Withering.shipCategories removed in first object
+root.PCH062_F_PartyAnimal.shipCategories removed in first object
+root.PCH038_ScienceOfWinning5.shipCategories removed in first object
+root.PCH055_F_WrongSow.shipCategories removed in first object
+root.PCH019_Detonated.shipCategories removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.Bow.maxHP changed in second object (was 1200.0, is 2300.0)
+root.PASC014_New_Orlean_1944.B_Hull_1944.Bow.splashBoxes[2] removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.Bow.splashBoxes[3] removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.Bow.volume changed in second object (was 0.63, is 1.31)
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.131136 removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.65573 removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.65574 removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.65638 removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.196656 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.196672 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.131119 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.196673 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.131120 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.131121 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.armor.196657 removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.Cit.volume changed in second object (was 3.06, is 2.78)
+root.PASC014_New_Orlean_1944.B_Hull_1944.St.maxHP changed in second object (was 2000.0, is 1800.0)
+root.PASC014_New_Orlean_1944.B_Hull_1944.SS.maxHP changed in second object (was 2000.0, is 1800.0)
+root.PASC014_New_Orlean_1944.B_Hull_1944.SSC.maxHP changed in second object (was 5400.0, is 4800.0)
+root.PASC014_New_Orlean_1944.A_Hull_1942.Bow.maxHP changed in second object (was 1100.0, is 2000.0)
+root.PASC014_New_Orlean_1944.A_Hull_1942.Bow.splashBoxes[2] removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.Bow.splashBoxes[3] removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.Bow.volume changed in second object (was 0.63, is 1.31)
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.131136 removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.65573 removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.65574 removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.65638 removed in second object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.196656 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.196672 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.131119 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.196673 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.131120 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.131121 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.armor.196657 removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.Cit.volume changed in second object (was 3.06, is 2.78)
+root.PASC014_New_Orlean_1944.A_Hull_1942.St.maxHP changed in second object (was 1700.0, is 1600.0)
+root.PASC014_New_Orlean_1944.A_Hull_1942.SS.maxHP changed in second object (was 1700.0, is 1500.0)
+root.PASC014_New_Orlean_1944.A_Hull_1942.SSC.maxHP changed in second object (was 4600.0, is 4100.0)
+root.PCH056_F_Snatch.shipCategories removed in first object
+root.PCH030_Winning3.shipCategories removed in first object
+root.PCH035_ScienceOfWinning2.shipCategories removed in first object
+root.PCH032_EarningMoney2.shipCategories removed in first object
+root.PCH050_BWPartisipant.shipCategories removed in first object
+root.PCH027_EarningAchievement3.shipCategories removed in first object
+root.PCH021_Unarmed.shipCategories removed in first object
+root.PCH046_Researching3.shipCategories removed in first object
+root.PCH057_F_RiseOfTheMachines.shipCategories removed in first object
+root.PCH042_TaskPerforming3.shipCategories removed in first object
+root.PCH023_Warrior.shipCategories removed in first object
+root.PCH004_Dreadnought.shipCategories removed in first object
+root.PCH025_EarningAchievement1.shipCategories removed in first object
+root.PCH060_F_FireShow.shipCategories removed in first object
+root.PCH028_Winning1.shipCategories removed in first object
+root.PCH043_TaskPerforming4.shipCategories removed in first object
+>> finished comparing
