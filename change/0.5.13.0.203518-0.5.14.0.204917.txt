@@ -1,0 +1,747 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSB007_Kongo_1942.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB007_Kongo_1942.C_Hull_1942.shipWheelsPresent removed in first object
+root.PRSD105_Pr_7_Gnevny.A_Hull.shipWheelsPresent removed in first object
+root.PRSD105_Pr_7_Gnevny.B_Hull.shipWheelsPresent removed in first object
+root.PBSC102_Weymouth.A_Hull.shipWheelsPresent removed in first object
+root.PBSC102_Weymouth.B_Hull.shipWheelsPresent removed in first object
+root.PBSC102_Weymouth.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSB705_Kongou.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB705_Kongou.C_Hull_1942.shipWheelsPresent removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.shipWheelsPresent removed in first object
+root.PASB012_North_Carolina_1945.C_Hull_1945.shipWheelsPresent removed in first object
+root.PRSC505_KrasniKrym.A_Hull.fuelFee removed in second object
+root.PRSC505_KrasniKrym.A_Hull.maxRepairCost removed in second object
+root.PRSC505_KrasniKrym.A_Hull.shipWheelsPresent removed in first object
+root.PRSC505_KrasniKrym.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC505_KrasniKrym.groupCustom.RU removed in first object
+root.PFSB506_Dunkerque_1940.A_Hull.shipWheelsPresent removed in first object
+root.PJSC709_Haguro.A_Hull.shipWheelsPresent removed in first object
+root.PJSC709_Haguro.B_Hull.shipWheelsPresent removed in first object
+root.PJSC709_Haguro.C_Hull.shipWheelsPresent removed in first object
+root.PJSD706_Shinonome.A_Hull.armor.131129 removed in second object
+root.PJSD706_Shinonome.A_Hull.armor.65643 removed in second object
+root.PJSD706_Shinonome.A_Hull.armor.65644 removed in second object
+root.PJSD706_Shinonome.A_Hull.armor.65645 removed in second object
+root.PJSD706_Shinonome.A_Hull.armor.196664 removed in first object
+root.PJSD706_Shinonome.A_Hull.SG.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PJSD706_Shinonome.A_Hull.shipWheelsPresent removed in first object
+root.PJSD706_Shinonome.Cameras.Torp3.OuterTrajectory.semiAxisH changed in second object (was 4.0, is 4.228)
+root.PJSD706_Shinonome.Cameras.Torp3.OuterTrajectory.posCenter[1] changed in second object (was 3, is 3.251)
+root.PJSD706_Shinonome.Cameras.Torp3.OuterTrajectory.posCenter[2] changed in second object (was -1.64, is -1.516)
+root.PJSD706_Shinonome.Cameras.Torp3.OuterTrajectory.semiAxisV changed in second object (was 4.0, is 4.054)
+root.PJSD706_Shinonome.Cameras.Torp3.InnerTrajectory.semiAxisH changed in second object (was 0.5, is 0.4)
+root.PJSD706_Shinonome.Cameras.Torp3.InnerTrajectory.posCenter[1] changed in second object (was 0.665, is 0.615)
+root.PJSD706_Shinonome.Cameras.Torp3.InnerTrajectory.posCenter[2] changed in second object (was -1.64, is -1.516)
+root.PJSD706_Shinonome.Cameras.Torp3.InnerTrajectory.semiAxisV changed in second object (was 0.32, is 0.35)
+root.PJSD706_Shinonome.Cameras.Torp3.InnerTrajectory.inclineV changed in second object (was -3.0, is -5)
+root.PJSD706_Shinonome.Cameras.Guns2.InnerTrajectory.semiAxisH changed in second object (was 0.8, is 0.6)
+root.PJSD706_Shinonome.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.805, is 0.7)
+root.PJSD706_Shinonome.Cameras.Guns2.InnerTrajectory.posCenter[2] changed in second object (was -2.794, is -2.527)
+root.PJSD706_Shinonome.Cameras.Guns2.InnerTrajectory.semiAxisV changed in second object (was 0.762, is 0.3)
+root.PJSD706_Shinonome.Cameras.Guns2.InnerTrajectory.inclineV changed in second object (was -5.864, is -7.0)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C_dead.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A_dead.model)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.id changed in second object (was 4283033296, is 4134135504)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.index changed in second object (was PJGM011, is PJGM153)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.miscFilterMode changed in second object (was True, is False)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.name changed in second object (was PJGM011_127mm50_Type_C, is PJGM153_127_50_twin_type_A)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A.model)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C_dead.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A_dead.model)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.id changed in second object (was 4283033296, is 4134135504)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.index changed in second object (was PJGM011, is PJGM153)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.name changed in second object (was PJGM011_127mm50_Type_C, is PJGM153_127_50_twin_type_A)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A.model)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C_dead.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A_dead.model)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.id changed in second object (was 4283033296, is 4134135504)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.index changed in second object (was PJGM011, is PJGM153)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.name changed in second object (was PJGM011_127mm50_Type_C, is PJGM153_127_50_twin_type_A)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/main/JGM011_127mm50_Type_C/JGM011_127mm50_Type_C.model, is content/gameplay/japan/gun/main/JGM153_127_50_twin_type_A/JGM153_127_50_twin_type_A.model)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_3 removed in second object
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_2 removed in second object
+root.PJSD706_Shinonome.A_AirDefense.AuraMedium removed in second object
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.index changed in second object (was PJGA019, is PJGA020)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA020_13mm76_Type93_double)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.antiAirAuraDistance changed in second object (was 103.0, is 40.0)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.antiAirAuraStrength changed in second object (was 0.05, is 0.035)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.barrelDiameter changed in second object (was 0.025, is 0.0132)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA020_13mm76_Type93_double/JGA020_13mm76_Type93_double_dead.model)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA020_13mm76_Type93_double/JGA020_13mm76_Type93_double.model)
+root.PJSD706_Shinonome.A_AirDefense.HP_JGA_1.id changed in second object (was 4275037904, is 4273989328)
+root.PJSD706_Shinonome.A_AirDefense.AuraNear removed in first object
+root.PJSD706_Shinonome.A_Finders.HP_JF_1.index changed in second object (was PJF028, is PJF043)
+root.PJSD706_Shinonome.A_Finders.HP_JF_1.name changed in second object (was PJF028_Rangefinder_2m, is PJF043_Rangefinder_66cm)
+root.PJSD706_Shinonome.A_Finders.HP_JF_1.model changed in second object (was content/gameplay/japan/finder/JF028_Rangefinder_2m/JF028_Rangefinder_2m.model, is content/gameplay/japan/finder/JF043_Rangefinder_66cm/JF043_Rangefinder_66cm.model)
+root.PJSD706_Shinonome.A_Finders.HP_JF_1.id changed in second object (was 4264749776, is 4249021136)
+root.PJSD706_Shinonome.A_Finders.HP_JF_1.gunNode changed in second object (was HP_JGM_1, is )
+root.PJSD706_Shinonome.A_Finders.HP_JF_2.gunNode changed in second object (was HP_JGM_2, is HP_JGM_1)
+root.PJSD706_Shinonome.A_Finders.HP_JF_3 removed in first object
+root.PASA002_Bogue_1942.A_Hull.shipWheelsPresent removed in first object
+root.PASA002_Bogue_1942.B_Hull.shipWheelsPresent removed in first object
+root.PJUT605_D7_TORP_STOCK_1 removed in second object
+root.PASC002_Chester_1908.A_Hull_1908.shipWheelsPresent removed in first object
+root.PASC002_Chester_1908.B_Hull_1917.shipWheelsPresent removed in first object
+root.PBSC109_Neptune.A_Hull.shipWheelsPresent removed in first object
+root.PBSC109_Neptune.B_Hull.shipWheelsPresent removed in first object
+root.PBSC109_Neptune.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJUA643_D7_ART_STOCK_1 removed in second object
+root.PJSC503_Katori.A_Hull.maxRepairCost removed in second object
+root.PJSC503_Katori.A_Hull.shipWheelsPresent removed in first object
+root.PJSC503_Katori.groupCustom.CN changed in second object (was special, is premium)
+root.PJSC035_Chikuma_1912.A_Hull_1912.shipWheelsPresent removed in first object
+root.PJSC035_Chikuma_1912.B_Hull_1918.shipWheelsPresent removed in first object
+root.PASB801_False_Michigan_1916.HullDefault.shipWheelsPresent removed in first object
+root.PASB034_New_Mexico_1941.B_Hull_1936.shipWheelsPresent removed in first object
+root.PASB034_New_Mexico_1941.C_Hull_1941.shipWheelsPresent removed in first object
+root.PASB034_New_Mexico_1941.A_Hull_1918.shipWheelsPresent removed in first object
+root.PJSC015_Tatsuta_1919.A_Hull_1919.shipWheelsPresent removed in first object
+root.PJSC015_Tatsuta_1919.B_Hull_1937.shipWheelsPresent removed in first object
+root.PRSC108_Pr_68_Chapaev.A_Hull.shipWheelsPresent removed in first object
+root.PRSC108_Pr_68_Chapaev.B_Hull.shipWheelsPresent removed in first object
+root.PASA015_Midway_1945.permoflages[0] removed in first object
+root.PASA015_Midway_1945.HullDefault.shipWheelsPresent removed in first object
+root.PGSC106_Nurnberg.A_Hull.shipWheelsPresent removed in first object
+root.PGSC106_Nurnberg.B_Hull.shipWheelsPresent removed in first object
+root.PGSC106_Nurnberg.C_Hull.shipWheelsPresent removed in first object
+root.PJSB011_Mikasa_1905.HullDefault.maxRepairCost removed in second object
+root.PJSB011_Mikasa_1905.HullDefault.shipWheelsPresent removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PJSB011_Mikasa_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PASD006_Mahan_1936.A_Hull.shipWheelsPresent removed in first object
+root.PASD006_Mahan_1936.B_Hull.shipWheelsPresent removed in first object
+root.PASD006_Mahan_1936.C_Hull.shipWheelsPresent removed in first object
+root.PJSC717_Yellow_Dragon.A_Hull.shipWheelsPresent removed in first object
+root.PJSC717_Yellow_Dragon.B_Hull.shipWheelsPresent removed in first object
+root.PJSC717_Yellow_Dragon.C_Hull.shipWheelsPresent removed in first object
+root.PGSB002_Tirpiz_1942.HullDefault.fuelFee removed in second object
+root.PGSB002_Tirpiz_1942.HullDefault.armor.196664 changed in second object (was 170.0, is 240.0)
+root.PGSB002_Tirpiz_1942.HullDefault.armor.131173 changed in second object (was 170.0, is 240.0)
+root.PGSB002_Tirpiz_1942.HullDefault.maxRepairCost removed in second object
+root.PGSB002_Tirpiz_1942.HullDefault.shipWheelsPresent removed in first object
+root.PGSB002_Tirpiz_1942.groupCustom.EU changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.NA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.CN changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.ASIA changed in second object (was special, is premium)
+root.PGSB002_Tirpiz_1942.groupCustom.RU changed in second object (was special, is premium)
+root.PASB008_Colorado_1945.B_Hull_1942.shipWheelsPresent removed in first object
+root.PASB008_Colorado_1945.A_Hull_1921.shipWheelsPresent removed in first object
+root.PASB008_Colorado_1945.C_Hull_1945.shipWheelsPresent removed in first object
+root.PJSD207_Shiratsuyu.A_Hull.shipWheelsPresent removed in first object
+root.PJSD207_Shiratsuyu.B_Hull.shipWheelsPresent removed in first object
+root.PGSB110_Grossdeutschland.permoflages[0] removed in first object
+root.PGSB110_Grossdeutschland.A_Hull.shipWheelsPresent removed in first object
+root.PASD014_Leader_1919.B_Hull_1938.shipWheelsPresent removed in first object
+root.PASD014_Leader_1919.A_Hull_1919.shipWheelsPresent removed in first object
+root.PJSX701_Support.HullDefault.shipWheelsPresent removed in first object
+root.PRSD001_Gremyashchy_1942.HullDefault.shipWheelsPresent removed in first object
+root.PJSB013_Amagi_1942.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB013_Amagi_1942.A_Hull_1926.shipWheelsPresent removed in first object
+root.PJSB013_Amagi_1942.C_Hull_1944.shipWheelsPresent removed in first object
+root.PASD021_Fletcher_1943.A_Hull.shipWheelsPresent removed in first object
+root.PASD021_Fletcher_1943.B_Hull.shipWheelsPresent removed in first object
+root.PJSA015_Taiho_1944.A_Hull_1944.shipWheelsPresent removed in first object
+root.PJSA015_Taiho_1944.B_Hull_1945.shipWheelsPresent removed in first object
+root.PJSC038_Atago_1944.HullDefault.maxRepairCost removed in second object
+root.PJSC038_Atago_1944.HullDefault.fuelFee removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65639 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65643 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65644 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.65645 removed in second object
+root.PJSC038_Atago_1944.HullDefault.armor.196672 removed in first object
+root.PJSC038_Atago_1944.HullDefault.shipWheelsPresent removed in first object
+root.PJSC038_Atago_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSC038_Atago_1944.groupCustom.RU changed in second object (was special, is premium)
+root.PASD502_Smith.A_Hull.maxRepairCost removed in second object
+root.PASD502_Smith.A_Hull.shipWheelsPresent removed in first object
+root.PASD502_Smith.groupCustom.NA changed in second object (was special, is premium)
+root.PASD502_Smith.groupCustom.RU removed in first object
+root.PASD013_Gearing_1945.permoflages[0] removed in first object
+root.PASD013_Gearing_1945.HullDefault.shipWheelsPresent removed in first object
+root.PJSB018_Yamato_1944.permoflages[0] removed in first object
+root.PJSB018_Yamato_1944.HullDefault.shipWheelsPresent removed in first object
+root.PASB004_Arkansas_1912.B_Hull_1942.shipWheelsPresent removed in first object
+root.PASB004_Arkansas_1912.A_Hull_1919.shipWheelsPresent removed in first object
+root.PJSX702_Support.HullDefault.shipWheelsPresent removed in first object
+root.PRSD106_Pr_30_Ognevoy.A_Hull.shipWheelsPresent removed in first object
+root.PRSD106_Pr_30_Ognevoy.B_Hull.shipWheelsPresent removed in first object
+root.PJSD206_Hatsuharu.B_Hull_1945.shipWheelsPresent removed in first object
+root.PJSD206_Hatsuharu.A_Hull_1935.shipWheelsPresent removed in first object
+root.PRSC508_Kutuzov_1952.A_Hull.fuelFee removed in second object
+root.PRSC508_Kutuzov_1952.A_Hull.maxRepairCost removed in second object
+root.PRSC508_Kutuzov_1952.A_Hull.shipWheelsPresent removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC508_Kutuzov_1952.groupCustom.RU changed in second object (was special, is premium)
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.shipWheelsPresent removed in first object
+root.PJSD026_Camo_Kamikaze.HullDefault.shipWheelsPresent removed in first object
+root.PGSC110_Hindenburg.permoflages[0] removed in first object
+root.PGSC110_Hindenburg.HullDefault.shipWheelsPresent removed in first object
+root.PASD019_Clemson_1920.A_Hull_1920.shipWheelsPresent removed in first object
+root.PASD019_Clemson_1920.B_Hull_1930.shipWheelsPresent removed in first object
+root.PRSD110_Pr_24_Khabarovsk.permoflages[0] removed in first object
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.shipWheelsPresent removed in first object
+root.PJSC705_Myoko.A_Hull.shipWheelsPresent removed in first object
+root.PJSC705_Myoko.B_Hull.shipWheelsPresent removed in first object
+root.PJSC705_Myoko.C_Hull.shipWheelsPresent removed in first object
+root.PASB001_Michigan_1916.A_Hull.armor.131141 removed in second object
+root.PASB001_Michigan_1916.A_Hull.shipWheelsPresent removed in first object
+root.PASB001_Michigan_1916.B_Hull.armor.131141 removed in second object
+root.PASB001_Michigan_1916.B_Hull.shipWheelsPresent removed in first object
+root.PASB018_Iowa_1944.B_Hull.shipWheelsPresent removed in first object
+root.PASB018_Iowa_1944.A_Hull.shipWheelsPresent removed in first object
+root.PASB018_Iowa_1944.C_Hull.shipWheelsPresent removed in first object
+root.PASC019_Burlington_1944.HullDefault.shipWheelsPresent removed in first object
+root.PBSC104_Danae.A_Hull.armor.65643 removed in second object
+root.PBSC104_Danae.A_Hull.armor.196698 removed in second object
+root.PBSC104_Danae.A_Hull.armor.65644 removed in second object
+root.PBSC104_Danae.A_Hull.armor.65645 removed in second object
+root.PBSC104_Danae.A_Hull.shipWheelsPresent removed in first object
+root.PBSC104_Danae.B_Hull.armor.65643 removed in second object
+root.PBSC104_Danae.B_Hull.armor.196698 removed in second object
+root.PBSC104_Danae.B_Hull.armor.65644 removed in second object
+root.PBSC104_Danae.B_Hull.armor.65645 removed in second object
+root.PBSC104_Danae.B_Hull.shipWheelsPresent removed in first object
+root.PBSC104_Danae.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSC018_Tone.HullDefault.shipWheelsPresent removed in first object
+root.PJSC012_Ibuki_1944.B_Hull_1945.shipWheelsPresent removed in first object
+root.PJSC012_Ibuki_1944.A_Hull_1944.shipWheelsPresent removed in first object
+root.PASC020_Des_Moines_1948.permoflages[0] removed in first object
+root.PASC020_Des_Moines_1948.HullDefault.shipWheelsPresent removed in first object
+root.PJSA002_Hosho_1939.B_Hull_1939.shipWheelsPresent removed in first object
+root.PJSA002_Hosho_1939.C_Hull_1941.shipWheelsPresent removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.shipWheelsPresent removed in first object
+root.PZSD506_Anshan.A_Hull.fuelFee removed in second object
+root.PZSD506_Anshan.A_Hull.armor.131128 changed in second object (was 12.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65584 changed in second object (was 12.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65585 changed in second object (was 13.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65592 changed in second object (was 13.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65593 changed in second object (was 13.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65629 changed in second object (was 12.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.armor.65630 changed in second object (was 13.0, is 16.0)
+root.PZSD506_Anshan.A_Hull.maxRepairCost removed in second object
+root.PZSD506_Anshan.A_Hull.shipWheelsPresent removed in first object
+root.PZSD506_Anshan.groupCustom.CN changed in second object (was special, is premium)
+root.PRSB001_Nikolay_I.HullDefault.maxRepairCost removed in second object
+root.PRSB001_Nikolay_I.HullDefault.shipWheelsPresent removed in first object
+root.PRSB001_Nikolay_I.groupCustom.CN changed in second object (was special, is premium)
+root.PCY013_SpotterPremium.PUY101_WALRUS_Cruiser_3 removed in first object
+root.PJSB801_False_Kawachi_1912.A_Hull_1912.shipWheelsPresent removed in first object
+root.PJSB801_False_Kawachi_1912.B_Hull_1919.shipWheelsPresent removed in first object
+root.PGSC002_Drezden_1908.A_Hull_1908.shipWheelsPresent removed in first object
+root.PGSC002_Drezden_1908.B_Hull_1916.shipWheelsPresent removed in first object
+root.PBSC101_Black_Swan.A_Hull.shipWheelsPresent removed in first object
+root.PBSC101_Black_Swan.group changed in second object (was demoWithoutStats, is start)
+root.PBSC507_Belfast_1959.A_Hull.shipWheelsPresent removed in first object
+root.PJSD503_Isokaze.B_Hull_1925.shipWheelsPresent removed in first object
+root.PJSD503_Isokaze.A_Hull_1917.shipWheelsPresent removed in first object
+root.PJSD002_Umikaze_1925.A_Hull_1911.shipWheelsPresent removed in first object
+root.PJSD002_Umikaze_1925.B_Hull_1918.shipWheelsPresent removed in first object
+root.PJSD017_Kamikaze_1930.HullDefault.shipWheelsPresent removed in first object
+root.PRSC102_Novik.A_Hull.shipWheelsPresent removed in first object
+root.PRSC102_Novik.B_Hull.shipWheelsPresent removed in first object
+root.PJSC037_Hashidate_1940.A_Hull.shipWheelsPresent removed in first object
+root.PRSD103_Derzky.A_Hull.shipWheelsPresent removed in first object
+root.PRSD103_Derzky.B_Hull.shipWheelsPresent removed in first object
+root.PJSD010_Kagero_1943.A_Hull_1943.shipWheelsPresent removed in first object
+root.PJSD010_Kagero_1943.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSD010_Kagero_1943.C_Hull_1945.shipWheelsPresent removed in first object
+root.PASC024_Phoenix_1917.C_Hull_1938.shipWheelsPresent removed in first object
+root.PASC024_Phoenix_1917.B_Hull_1924.shipWheelsPresent removed in first object
+root.PASC024_Phoenix_1917.A_Hull_1917.shipWheelsPresent removed in first object
+root.PZSD508_LoYang.A_Hull.fuelFee removed in second object
+root.PZSD508_LoYang.A_Hull.armor.131128 changed in second object (was 16.0, is 19.0)
+root.PZSD508_LoYang.A_Hull.armor.65584 changed in second object (was 12.0, is 19.0)
+root.PZSD508_LoYang.A_Hull.armor.65625 changed in second object (was 12.0, is 13.0)
+root.PZSD508_LoYang.A_Hull.armor.65626 changed in second object (was 12.0, is 13.0)
+root.PZSD508_LoYang.A_Hull.armor.65629 changed in second object (was 12.0, is 19.0)
+root.PZSD508_LoYang.A_Hull.maxRepairCost removed in second object
+root.PZSD508_LoYang.A_Hull.shipWheelsPresent removed in first object
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PZSD508_LoYang.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB010_Nagato_1944.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB010_Nagato_1944.C1_410_45.HP_JGM_4.armor.327777 removed in first object
+root.PJSB010_Nagato_1944.C1_410_45.HP_JGM_4.armor.393313 removed in first object
+root.PJSB010_Nagato_1944.A_Hull_1933.shipWheelsPresent removed in first object
+root.PJSB010_Nagato_1944.C_Hull_1944.shipWheelsPresent removed in first object
+root.PGSB106_Bayern.A_Hull.shipWheelsPresent removed in first object
+root.PGSB106_Bayern.B_Hull.shipWheelsPresent removed in first object
+root.PASD002_Sampson_1917.A_Hull_1917.shipWheelsPresent removed in first object
+root.PASD002_Sampson_1917.B_Hull_1931.shipWheelsPresent removed in first object
+root.PASC707_Flint.A_Hull.shipWheelsPresent removed in first object
+root.PRSD507_Leningrad_1944.A_Hull.shipWheelsPresent removed in first object
+root.PJSC708_ARP_Takao.HullDefault.shipWheelsPresent removed in first object
+root.PRSD102_SM_Storojevoy.A_Hull.shipWheelsPresent removed in first object
+root.PRSD102_SM_Storojevoy.B_Hull.shipWheelsPresent removed in first object
+root.PJSC999_Yubari_Special.A_Hull_1912.shipWheelsPresent removed in first object
+root.PJUE653_D7_ENG_STOCK_1 removed in second object
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.shipWheelsPresent removed in first object
+root.PRSD109_Pr_48_Kiev.A_Hull.shipWheelsPresent removed in first object
+root.PRSD109_Pr_48_Kiev.B_Hull.shipWheelsPresent removed in first object
+root.PGSB109_Friedrich_der_Grosse.A_Hull.shipWheelsPresent removed in first object
+root.PGSB109_Friedrich_der_Grosse.B_Hull.shipWheelsPresent removed in first object
+root.PJSA012_Zuikaku_1944.A_Hull_1941.shipWheelsPresent removed in first object
+root.PJSA012_Zuikaku_1944.B_Hull_1943.shipWheelsPresent removed in first object
+root.PJSA012_Zuikaku_1944.C_Hull_1944.shipWheelsPresent removed in first object
+root.PGSC001_Hermelin_1940.A_Hull.shipWheelsPresent removed in first object
+root.PASD029_Sims_1941.HullDefault.fuelFee removed in second object
+root.PASD029_Sims_1941.HullDefault.armor.131128 changed in second object (was 12.0, is 16.0)
+root.PASD029_Sims_1941.HullDefault.armor.65584 changed in second object (was 12.0, is 16.0)
+root.PASD029_Sims_1941.HullDefault.armor.65592 changed in second object (was 12.0, is 16.0)
+root.PASD029_Sims_1941.HullDefault.armor.65629 changed in second object (was 12.0, is 16.0)
+root.PASD029_Sims_1941.HullDefault.maxRepairCost removed in second object
+root.PASD029_Sims_1941.HullDefault.shipWheelsPresent removed in first object
+root.PASD029_Sims_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PASD029_Sims_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSC110_Minotaur.permoflages[0] removed in first object
+root.PBSC110_Minotaur.A_Hull.shipWheelsPresent removed in first object
+root.PBSC110_Minotaur.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSC013_Kuma_1938.A_Hull_1920.shipWheelsPresent removed in first object
+root.PJSC013_Kuma_1938.B_Hull_1938.shipWheelsPresent removed in first object
+root.PJSC009_Mogami_1935.B_Hull_1943.shipWheelsPresent removed in first object
+root.PJSC009_Mogami_1935.C_Hull_1944.shipWheelsPresent removed in first object
+root.PJSC009_Mogami_1935.A_Hull_1935.shipWheelsPresent removed in first object
+root.PRSC002_Diana_1905.HullDefault.maxRepairCost removed in second object
+root.PRSC002_Diana_1905.HullDefault.shipWheelsPresent removed in first object
+root.PRSC002_Diana_1905.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.RU changed in second object (was special, is premium)
+root.PRSC002_Diana_1905.groupCustom.CN changed in second object (was special, is premium)
+root.PASA013_Essex_1945.A_Hull_1943.shipWheelsPresent removed in first object
+root.PASA013_Essex_1945.B_Hull_1945.shipWheelsPresent removed in first object
+root.PASA010_Ranger_1944.A_Hull_1941.shipWheelsPresent removed in first object
+root.PASA010_Ranger_1944.B_Hull_1943.shipWheelsPresent removed in first object
+root.PBSD503_Campbeltown_1941.A_Hull.maxRepairCost removed in second object
+root.PBSD503_Campbeltown_1941.A_Hull.shipWheelsPresent removed in first object
+root.PBSD503_Campbeltown_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSD503_Campbeltown_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.shipWheelsPresent removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.shipWheelsPresent removed in first object
+root.PJSC008_Myoko_1945.A_Hull.shipWheelsPresent removed in first object
+root.PJSC008_Myoko_1945.B_Hull.shipWheelsPresent removed in first object
+root.PJSC008_Myoko_1945.C_Hull.shipWheelsPresent removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.fuelFee removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.armor.65630 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65584 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65585 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131120 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65592 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65603 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.131165 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65593 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.armor.65629 changed in second object (was 19.0, is 16.0)
+root.PASC507_Indianapolis_1945.A_Hull.maxRepairCost removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.shipWheelsPresent removed in first object
+root.PASC507_Indianapolis_1945.groupCustom.EU changed in second object (was special, is premium)
+root.PJSD004_Minekadze_1920.A_Hull_1920.shipWheelsPresent removed in first object
+root.PJSD004_Minekadze_1920.B_Hull_1938.shipWheelsPresent removed in first object
+root.PRSD107_Pr_35_Udaloy.A_Hull.shipWheelsPresent removed in first object
+root.PRSD107_Pr_35_Udaloy.B_Hull.shipWheelsPresent removed in first object
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.shipWheelsPresent removed in first object
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.shipWheelsPresent removed in first object
+root.PRSD104_Izyaslav.A_Hull.shipWheelsPresent removed in first object
+root.PRSD104_Izyaslav.B_Hull.shipWheelsPresent removed in first object
+root.PJSC005_Furutaka_1926.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSC005_Furutaka_1926.A_Hull_1929.shipWheelsPresent removed in first object
+root.PJSC005_Furutaka_1926.C_Hull_1942.shipWheelsPresent removed in first object
+root.PRSC003_Murmansk_1944.Hull_A.fuelFee removed in second object
+root.PRSC003_Murmansk_1944.Hull_A.maxRepairCost removed in second object
+root.PRSC003_Murmansk_1944.Hull_A.shipWheelsPresent removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.RU changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC003_Murmansk_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PASC802_Cimarron_Target.HullDefault.shipWheelsPresent removed in first object
+root.PJSD025_True_Kamikaze.HullDefault.shipWheelsPresent removed in first object
+root.PGSC109_Roon.A_Hull.shipWheelsPresent removed in first object
+root.PGSC109_Roon.B_Hull.shipWheelsPresent removed in first object
+root.PRSC105_Kirov.A_Hull.shipWheelsPresent removed in first object
+root.PRSC105_Kirov.B_Hull.shipWheelsPresent removed in first object
+root.PRSC001_Avrora_1917.HullDefault.maxRepairCost removed in second object
+root.PRSC001_Avrora_1917.HullDefault.shipWheelsPresent removed in first object
+root.PRSC001_Avrora_1917.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.CN changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC001_Avrora_1917.groupCustom.RU changed in second object (was special, is premium)
+root.PRSD108_Pr_20i_Tashkent.A_Hull.shipWheelsPresent removed in first object
+root.PRSD108_Pr_20i_Tashkent.B_Hull.shipWheelsPresent removed in first object
+root.PASC044_Marblehead_1924.HullDefault.fuelFee removed in second object
+root.PASC044_Marblehead_1924.HullDefault.maxRepairCost removed in second object
+root.PASC044_Marblehead_1924.HullDefault.shipWheelsPresent removed in first object
+root.PASC044_Marblehead_1924.groupCustom.EU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.RU changed in second object (was special, is premium)
+root.PASC044_Marblehead_1924.groupCustom.CN changed in second object (was special, is premium)
+root.PGSC103_Kolberg.A_Hull.shipWheelsPresent removed in first object
+root.PGSC103_Kolberg.B_Hull.shipWheelsPresent removed in first object
+root.PRSC107_Schors.A_Hull.shipWheelsPresent removed in first object
+root.PRSC107_Schors.B_Hull.shipWheelsPresent removed in first object
+root.PCY005_Spotter.PUY001_WALRUS_Cruiser_3 removed in first object
+root.PJSD007_Fubuki_1944.A1_127_50.HP_JGM_1.miscFilterMode changed in second object (was True, is False)
+root.PJSD007_Fubuki_1944.B_Hull_1944.shipWheelsPresent removed in first object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.131129 removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65643 removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65644 removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.65645 removed in second object
+root.PJSD007_Fubuki_1944.A_Hull_1944.armor.196664 removed in first object
+root.PJSD007_Fubuki_1944.A_Hull_1944.shipWheelsPresent removed in first object
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.PJUH702_Fubuki_1944.components.finders[0] changed in second object (was FindersDefault, is BC_Finders)
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.PJUH703_Fubuki_1943.components.finders[0] changed in second object (was FindersDefault, is BC_Finders)
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.PJUH701_Fubuki_1942.components.finders[0] changed in second object (was FindersDefault, is A_Finders)
+root.PJSD007_Fubuki_1944.Cameras.Torp3 removed in second object
+root.PJSD007_Fubuki_1944.Cameras.Guns2 removed in second object
+root.PJSD007_Fubuki_1944.Cameras.Torp3_BC removed in first object
+root.PJSD007_Fubuki_1944.Cameras.Guns2_BC removed in first object
+root.PJSD007_Fubuki_1944.Cameras.Guns2_A removed in first object
+root.PJSD007_Fubuki_1944.Cameras.Torp3_A removed in first object
+root.PJSD007_Fubuki_1944.FindersDefault removed in second object
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_3 removed in second object
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_2 removed in second object
+root.PJSD007_Fubuki_1944.A_AirDefense.AuraMedium removed in second object
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.index changed in second object (was PJGA019, is PJGA020)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.name changed in second object (was PJGA019_25mm_Type96_double, is PJGA020_13mm76_Type93_double)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.antiAirAuraDistance changed in second object (was 103.0, is 40.0)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.antiAirAuraStrength changed in second object (was 0.05, is 0.035)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.barrelDiameter changed in second object (was 0.025, is 0.0132)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.deadMesh changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double_dead.model, is content/gameplay/japan/gun/aaircraft/JGA020_13mm76_Type93_double/JGA020_13mm76_Type93_double_dead.model)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.model changed in second object (was content/gameplay/japan/gun/aaircraft/JGA019_25mm_Type96_double/JGA019_25mm_Type96_double.model, is content/gameplay/japan/gun/aaircraft/JGA020_13mm76_Type93_double/JGA020_13mm76_Type93_double.model)
+root.PJSD007_Fubuki_1944.A_AirDefense.HP_JGA_1.id changed in second object (was 4275037904, is 4273989328)
+root.PJSD007_Fubuki_1944.A_AirDefense.AuraNear removed in first object
+root.PJSD007_Fubuki_1944.C_Hull_1943.shipWheelsPresent removed in first object
+root.PJSD007_Fubuki_1944.BC_Finders removed in first object
+root.PJSD007_Fubuki_1944.A_Finders removed in first object
+root.PJSC837_False_Hashidate_1940.HullDefault.shipWheelsPresent removed in first object
+root.PJSD012_Shimakaze_1943.permoflages[0] removed in first object
+root.PJSD012_Shimakaze_1943.B_Hull.shipWheelsPresent removed in first object
+root.PJSD012_Shimakaze_1943.DirectorsDefault.HP_JD_1.index changed in second object (was PJD032, is PJD092)
+root.PJSD012_Shimakaze_1943.DirectorsDefault.HP_JD_1.name changed in second object (was PJD032_Director_127mm_1, is PJD092_Director_Type_94)
+root.PJSD012_Shimakaze_1943.DirectorsDefault.HP_JD_1.miscFilter[0] removed in first object
+root.PJSD012_Shimakaze_1943.DirectorsDefault.HP_JD_1.model changed in second object (was content/gameplay/japan/director/JD032_Director_127mm_1/JD032_Director_127mm_1.model, is content/gameplay/japan/director/JD092_Director_Type_94/JD092_Director_Type_94.model)
+root.PJSD012_Shimakaze_1943.DirectorsDefault.HP_JD_1.id changed in second object (was 4260557520, is 4197642960)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D_dead.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C_dead.model)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C.model)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D_dead.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C_dead.model)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C.model)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D_dead.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C_dead.model)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C.model)
+root.PASC001_Erie_1936.A_Hull.shipWheelsPresent removed in first object
+root.PASC017_Baltimore_1944.B_Hull_1948.shipWheelsPresent removed in first object
+root.PASC017_Baltimore_1944.A_Hull_1944.shipWheelsPresent removed in first object
+root.PGSB503_Koenig_Albert.A_Hull.maxRepairCost removed in second object
+root.PGSB503_Koenig_Albert.A_Hull.shipWheelsPresent removed in first object
+root.PGSB503_Koenig_Albert.groupCustom.NA changed in second object (was special, is premium)
+root.PGSC104_Karlsruhe.A_Hull.shipWheelsPresent removed in first object
+root.PGSC104_Karlsruhe.B_Hull.shipWheelsPresent removed in first object
+root.PJSC707_Ashigara.A_Hull.shipWheelsPresent removed in first object
+root.PJSC707_Ashigara.B_Hull.shipWheelsPresent removed in first object
+root.PJSC707_Ashigara.C_Hull.shipWheelsPresent removed in first object
+root.PASX006_Cimarron_invisible.HullDefault.shipWheelsPresent removed in first object
+root.PJSD024_Wakatake_1923.A_Hull_1923.shipWheelsPresent removed in first object
+root.PJSD024_Wakatake_1923.B_Hull_1925.shipWheelsPresent removed in first object
+root.PBSB002_Warspite_1941.HullDefault.fuelFee removed in second object
+root.PBSB002_Warspite_1941.HullDefault.maxRepairCost removed in second object
+root.PBSB002_Warspite_1941.HullDefault.shipWheelsPresent removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.NA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.CN changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.ASIA changed in second object (was special, is premium)
+root.PBSB002_Warspite_1941.groupCustom.RU changed in second object (was special, is premium)
+root.PJSA011_Hiryu_1942.B_Hull_1942.shipWheelsPresent removed in first object
+root.PJSA011_Hiryu_1942.C_Hull_1945.shipWheelsPresent removed in first object
+root.PGSB107_Gneisenau.A_Hull.shipWheelsPresent removed in first object
+root.PGSB107_Gneisenau.B_Hull.shipWheelsPresent removed in first object
+root.PGSB103_Nassau.A_Hull.shipWheelsPresent removed in first object
+root.PGSB103_Nassau.B_Hull.shipWheelsPresent removed in first object
+root.PBSC108_Edinburgh.A_Hull.shipWheelsPresent removed in first object
+root.PBSC108_Edinburgh.B_Hull.shipWheelsPresent removed in first object
+root.PBSC108_Edinburgh.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PGSB507_Scharnhorst.A_Hull.shipWheelsPresent removed in first object
+root.PASX001_Cimarron.HullDefault.shipWheelsPresent removed in first object
+root.PJSD107_Akatsuki.A_Hull.shipWheelsPresent removed in first object
+root.PJSD107_Akatsuki.B_Hull.shipWheelsPresent removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUA643_D7_ART_STOCK_1 removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUE653_D7_ENG_STOCK_1 removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT606_D7_TORP_TOP_1 removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT605_D7_TORP_STOCK_1 removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUA641_D7_ART_STOCK removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT603_D7_TORP_STOCK removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT604_D7_TORP_TOP removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUE651_D7_ENG_STOCK removed in first object
+root.PJSC026_Iwaki_1944.A_Hull.shipWheelsPresent removed in first object
+root.PJSB706_Kirishima.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB706_Kirishima.C_Hull_1942.shipWheelsPresent removed in first object
+root.PASB006_New_York_1934.C_Hull_1942.shipWheelsPresent removed in first object
+root.PASB006_New_York_1934.B_Hull_1934.shipWheelsPresent removed in first object
+root.PASA004_Langley_1929.B_Hull_1944.shipWheelsPresent removed in first object
+root.PASA004_Langley_1929.A_Hull_1929.shipWheelsPresent removed in first object
+root.PJSC727_Blue_Dragon.A_Hull.shipWheelsPresent removed in first object
+root.PJSC727_Blue_Dragon.B_Hull.shipWheelsPresent removed in first object
+root.PJSC727_Blue_Dragon.C_Hull.shipWheelsPresent removed in first object
+root.PGSC508_Prinz_Eugen.A_Hull.shipWheelsPresent removed in first object
+root.PJSC007_Aoba_1943.A_Hull_1942.shipWheelsPresent removed in first object
+root.PJSC007_Aoba_1943.B_Hull_1943.shipWheelsPresent removed in first object
+root.PASC907_Des_Moines_1948_Halloween.HullDefault.shipWheelsPresent removed in first object
+root.PJSB021_Izumo_1938.B_Hull_1942.shipWheelsPresent removed in first object
+root.PJSB021_Izumo_1938.A_Hull_1938.shipWheelsPresent removed in first object
+root.PJSB021_Izumo_1938.C_Hull_1945.shipWheelsPresent removed in first object
+root.PJSC838_False_Hashidate_1940.HullDefault.shipWheelsPresent removed in first object
+root.PASC003_Albany_1898.HullDefault.maxRepairCost removed in second object
+root.PASC003_Albany_1898.HullDefault.shipWheelsPresent removed in first object
+root.PASC003_Albany_1898.groupCustom.CN changed in second object (was special, is premium)
+root.PASC003_Albany_1898.groupCustom.RU removed in first object
+root.PGSB104_Kaiser.A_Hull.shipWheelsPresent removed in first object
+root.PGSB104_Kaiser.B_Hull.shipWheelsPresent removed in first object
+root.PJSC004_Yubari_1944.A_Hull_1944.shipWheelsPresent removed in first object
+root.PASA905_Essex_1945_Halloween.B_Hull_1945.shipWheelsPresent removed in first object
+root.PRSC101_Orlan.A_Hull.shipWheelsPresent removed in first object
+root.PJSB006_Fuso_1943.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB006_Fuso_1943.A_Hull_1919.shipWheelsPresent removed in first object
+root.PJSB006_Fuso_1943.C_Hull_1943.shipWheelsPresent removed in first object
+root.PJSD208_Kagero.A_Hull_1943.shipWheelsPresent removed in first object
+root.PJSD208_Kagero.B_Hull_1941.shipWheelsPresent removed in first object
+root.PRSC103_Bogatyr.A_Hull.shipWheelsPresent removed in first object
+root.PRSC103_Bogatyr.B_Hull.shipWheelsPresent removed in first object
+root.PBSC103_Caledon.A_Hull.shipWheelsPresent removed in first object
+root.PBSC103_Caledon.B_Hull.shipWheelsPresent removed in first object
+root.PBSC103_Caledon.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASA012_Lexington_1944.B_Hull_1944.shipWheelsPresent removed in first object
+root.PASA012_Lexington_1944.A_Hull_1942.shipWheelsPresent removed in first object
+root.PGSB108_Bismarck.A_Hull.shipWheelsPresent removed in first object
+root.PGSB108_Bismarck.B_Hull.shipWheelsPresent removed in first object
+root.PASA006_Independence_1945.A_Hull_1944.shipWheelsPresent removed in first object
+root.PASA006_Independence_1945.B_Hull_1945.shipWheelsPresent removed in first object
+root.PASX904_Cimarron.HullDefault.shipWheelsPresent removed in first object
+root.PJSA017_Hakuryu_1942.permoflages[0] removed in first object
+root.PJSA017_Hakuryu_1942.HullDefault.shipWheelsPresent removed in first object
+root.PJSD504_Minekaze.A_Hull_1920.shipWheelsPresent removed in first object
+root.PJSD504_Minekaze.B_Hull_1938.shipWheelsPresent removed in first object
+root.PJSD108_Akizuki.A_Hull.shipWheelsPresent removed in first object
+root.PJSD108_Akizuki.B_Hull.shipWheelsPresent removed in first object
+root.PJSC014_Kitakami_1945.HullDefault.shipWheelsPresent removed in first object
+root.PJGM073_127mm50_Type_D.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D_dead.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C_dead.model)
+root.PJGM073_127mm50_Type_D.model changed in second object (was content/gameplay/japan/gun/secondary/JGS037_127mm50_Type_D/JGS037_127mm50_Type_D.model, is content/gameplay/japan/gun/main/JGM151_127mm50_Type_C/JGM151_127mm50_Type_C.model)
+root.PASA507_Saipan_1946.A_Hull.fuelFee removed in second object
+root.PASA507_Saipan_1946.A_Hull.armor.65623 changed in second object (was 19.0, is 13.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65624 changed in second object (was 19.0, is 13.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65620 changed in second object (was 19.0, is 13.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65622 changed in second object (was 19.0, is 13.0)
+root.PASA507_Saipan_1946.A_Hull.armor.196695 changed in second object (was 19.0, is 13.0)
+root.PASA507_Saipan_1946.A_Hull.maxRepairCost removed in second object
+root.PASA507_Saipan_1946.A_Hull.shipWheelsPresent removed in first object
+root.PASA507_Saipan_1946.groupCustom.EU changed in second object (was special, is premium)
+root.PASA507_Saipan_1946.groupCustom.NA changed in second object (was special, is premium)
+root.PASD801_FALSE_ENEMY_Sampson.A_Hull_1917.shipWheelsPresent removed in first object
+root.PASD008_Benson_1945.B_Hull_1942.shipWheelsPresent removed in first object
+root.PASD008_Benson_1945.A_Hull_1938.shipWheelsPresent removed in first object
+root.PASD008_Benson_1945.C_Hull_1944.shipWheelsPresent removed in first object
+root.PJSB707_Haruna.B_Hull_1941.shipWheelsPresent removed in first object
+root.PJSB707_Haruna.C_Hull_1942.shipWheelsPresent removed in first object
+root.PASC014_New_Orlean_1944.B_Hull_1944.shipWheelsPresent removed in first object
+root.PASC014_New_Orlean_1944.A_Hull_1942.shipWheelsPresent removed in first object
+root.PBSC105_Emerald.A_Hull.shipWheelsPresent removed in first object
+root.PBSC105_Emerald.B_Hull.shipWheelsPresent removed in first object
+root.PBSC105_Emerald.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC007_Cleveland_1945.A_Hull_1943.shipWheelsPresent removed in first object
+root.PASC007_Cleveland_1945.B_Hull_1945.shipWheelsPresent removed in first object
+root.PJSD005_Mutsuki_1926.A_Hull_1926.shipWheelsPresent removed in first object
+root.PJSD005_Mutsuki_1926.B_Hull_1939.shipWheelsPresent removed in first object
+root.PJSD005_Mutsuki_1926.C_Hull_1942.shipWheelsPresent removed in first object
+root.PGSC502_Emden_1908.A_Hull.maxRepairCost removed in second object
+root.PGSC502_Emden_1908.A_Hull.shipWheelsPresent removed in first object
+root.PGSC502_Emden_1908.groupCustom.EU changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.NA changed in second object (was special, is premium)
+root.PGSC502_Emden_1908.groupCustom.RU changed in second object (was special, is premium)
+root.PRSC104_Svetlana.A_Hull.shipWheelsPresent removed in first object
+root.PRSC104_Svetlana.B_Hull.shipWheelsPresent removed in first object
+root.PWSD501_Blyskawica.HullDefault.fuelFee removed in second object
+root.PWSD501_Blyskawica.HullDefault.armor.65584 changed in second object (was 12.0, is 16.0)
+root.PWSD501_Blyskawica.HullDefault.armor.131128 changed in second object (was 12.0, is 16.0)
+root.PWSD501_Blyskawica.HullDefault.armor.65629 changed in second object (was 12.0, is 16.0)
+root.PWSD501_Blyskawica.HullDefault.armor.131165 changed in second object (was 15.0, is 16.0)
+root.PWSD501_Blyskawica.HullDefault.maxRepairCost removed in second object
+root.PWSD501_Blyskawica.HullDefault.shipWheelsPresent removed in first object
+root.PWSD501_Blyskawica.groupCustom.EU changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.RU changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.CN changed in second object (was special, is premium)
+root.PWSD501_Blyskawica.groupCustom.ASIA changed in second object (was special, is premium)
+root.PRSC110_Pr_66_Moskva.permoflages[0] removed in first object
+root.PRSC110_Pr_66_Moskva.A_Hull.shipWheelsPresent removed in first object
+root.PBSC107_Fiji.A_Hull.shipWheelsPresent removed in first object
+root.PBSC107_Fiji.B_Hull.shipWheelsPresent removed in first object
+root.PBSC107_Fiji.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJUT606_D7_TORP_TOP_1 removed in second object
+root.PRSC999_Seal.HullDefault.shipWheelsPresent removed in first object
+root.PJSB799_Kirishima.HullDefault.shipWheelsPresent removed in first object
+root.PASB705_Texas_1944.A_Hull.fuelFee removed in second object
+root.PASB705_Texas_1944.A_Hull.maxRepairCost removed in second object
+root.PASB705_Texas_1944.A_Hull.shipWheelsPresent removed in first object
+root.PASB705_Texas_1944.groupCustom.EU changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.NA changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.ASIA changed in second object (was special, is premium)
+root.PASB705_Texas_1944.groupCustom.RU removed in first object
+root.PASC016_Worcester_1948.HullDefault.shipWheelsPresent removed in first object
+root.PUSC506_Perth_1942.A_Hull.shipWheelsPresent removed in first object
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PBY005_FAIREY_S_Cruiser_3, is PUY001_WALRUS_Cruiser_3)
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PBY105_FAIREY_S_Cruiser_3, is PUY101_WALRUS_Cruiser_3)
+root.PJSD001_Tachibana_1912.groupCustom.EU changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.NA changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.CN changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD001_Tachibana_1912.A_Hull_1912.maxRepairCost removed in second object
+root.PJSD001_Tachibana_1912.A_Hull_1912.shipWheelsPresent removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_1.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_1.armor.1 removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_2.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_2.armor.1 removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_3.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_3.armor.1 removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_4.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_4.armor.1 removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_5.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_5.armor.1 removed in first object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_6.armor.65635 removed in second object
+root.PJSC034_Zao_1944.ATBADefault.HP_JGS_6.armor.1 removed in first object
+root.PJSC034_Zao_1944.permoflages[0] removed in first object
+root.PJSC034_Zao_1944.HullDefault.shipWheelsPresent removed in first object
+root.PASC045_Marblehead_1924_Asus.HullDefault.shipWheelsPresent removed in first object
+root.PRSC106_Pr_94_Budeny.A_Hull.shipWheelsPresent removed in first object
+root.PRSC106_Pr_94_Budeny.B_Hull.shipWheelsPresent removed in first object
+root.PGSC108_Hipper.A_Hull.shipWheelsPresent removed in first object
+root.PGSC108_Hipper.B_Hull.shipWheelsPresent removed in first object
+root.PGSC108_Hipper.C_Hull.shipWheelsPresent removed in first object
+root.PASC005_Omaha_1923.A_Hull_1923.shipWheelsPresent removed in first object
+root.PASC005_Omaha_1923.B_Hull_1938.shipWheelsPresent removed in first object
+root.PASC005_Omaha_1923.C_Hull_1944.shipWheelsPresent removed in first object
+root.PASC005_Omaha_1923.C1_152_53.HP_AGM_8.armor.1 removed in second object
+root.PASC005_Omaha_1923.C1_152_53.HP_AGM_1.armor.1 removed in second object
+root.PASC005_Omaha_1923.C2_152_53.HP_AGM_8.armor.1 removed in second object
+root.PASC005_Omaha_1923.C2_152_53.HP_AGM_1.armor.1 removed in second object
+root.PASB013_Arkansas_1912.HullDefault.shipWheelsPresent removed in first object
+root.PJSA009_Ryujo_1933.A_Hull.shipWheelsPresent removed in first object
+root.PJSA009_Ryujo_1933.C_Hull.shipWheelsPresent removed in first object
+root.PJSA009_Ryujo_1933.B_Hull.shipWheelsPresent removed in first object
+root.PJSD105_Mutsuki.A_Hull_1942.shipWheelsPresent removed in first object
+root.PJSD105_Mutsuki.B_Hull_1942.shipWheelsPresent removed in first object
+root.PJSB802_False_Ally_Kawachi_1912.B_Hull_1919.shipWheelsPresent removed in first object
+root.PJSB008_Ishizuchi_1921.HullDefault.maxRepairCost removed in second object
+root.PJSB008_Ishizuchi_1921.HullDefault.shipWheelsPresent removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.EU changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.NA changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.CN changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.ASIA changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.RU changed in second object (was special, is premium)
+root.PGSC105_Konigsberg.A_Hull.shipWheelsPresent removed in first object
+root.PGSC105_Konigsberg.B_Hull.shipWheelsPresent removed in first object
+root.PJSC737_Nachi.A_Hull.armor.196698 removed in second object
+root.PJSC737_Nachi.A_Hull.shipWheelsPresent removed in first object
+root.PJSC737_Nachi.B_Hull.armor.196698 removed in second object
+root.PJSC737_Nachi.B_Hull.shipWheelsPresent removed in first object
+root.PJSC737_Nachi.C_Hull.shipWheelsPresent removed in first object
+root.PASD005_Farragut_1944.A_Hull.shipWheelsPresent removed in first object
+root.PASD005_Farragut_1944.B_Hull.shipWheelsPresent removed in first object
+root.PASD005_Farragut_1944.C_Hull.shipWheelsPresent removed in first object
+root.PRSC010_Diana_1905_Asus.HullDefault.shipWheelsPresent removed in first object
+root.PASC803_Cimarron_shooter.HullDefault.shipWheelsPresent removed in first object
+root.PJSD003_Isokaze_1917.B_Hull_1925.shipWheelsPresent removed in first object
+root.PJSD003_Isokaze_1917.A_Hull_1917.shipWheelsPresent removed in first object
+root.PGSC107_Yorck.B_Hull.shipWheelsPresent removed in first object
+root.PGSC107_Yorck.C_Hull.shipWheelsPresent removed in first object
+root.PASC006_Atlanta_1942.HullDefault.fuelFee removed in second object
+root.PASC006_Atlanta_1942.HullDefault.armor.65630 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65584 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65585 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.131120 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65603 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.131165 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65622 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65623 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.armor.65629 changed in second object (was 16.0, is 13.0)
+root.PASC006_Atlanta_1942.HullDefault.maxRepairCost removed in second object
+root.PASC006_Atlanta_1942.HullDefault.shipWheelsPresent removed in first object
+root.PASC006_Atlanta_1942.groupCustom.EU changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.NA changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.CN changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.ASIA changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD209_Yugumo.A_Hull.shipWheelsPresent removed in first object
+root.PJSD209_Yugumo.B_Hull.shipWheelsPresent removed in first object
+root.PJSA006_Zuiho_1944.A_Hull_1940.shipWheelsPresent removed in first object
+root.PJSA006_Zuiho_1944.B_Hull_1942.shipWheelsPresent removed in first object
+root.PJSA006_Zuiho_1944.C_Hull_1944.shipWheelsPresent removed in first object
+root.PRSC506_Molotov_1943.A_Hull.fuelFee removed in second object
+root.PRSC506_Molotov_1943.A_Hull.armor.65583 changed in second object (was 30.0, is 20.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65626 changed in second object (was 13.0, is 10.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65584 changed in second object (was 19.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65585 changed in second object (was 19.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65598 changed in second object (was 30.0, is 20.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65603 changed in second object (was 19.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65622 changed in second object (was 19.0, is 18.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65623 changed in second object (was 19.0, is 16.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65625 changed in second object (was 13.0, is 10.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65628 changed in second object (was 30.0, is 20.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65629 changed in second object (was 19.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.armor.65630 changed in second object (was 19.0, is 13.0)
+root.PRSC506_Molotov_1943.A_Hull.maxRepairCost removed in second object
+root.PRSC506_Molotov_1943.A_Hull.shipWheelsPresent removed in first object
+root.PRSC506_Molotov_1943.groupCustom.EU changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.NA changed in second object (was special, is premium)
+root.PRSC506_Molotov_1943.groupCustom.RU changed in second object (was special, is premium)
+root.PJSD014_Tachibana_1912_Asus.A_Hull_1912.shipWheelsPresent removed in first object
+root.PAGM157_6in53_Mk16_Twin.armor.65568 removed in first object
+root.PAGM157_6in53_Mk16_Twin.armor.65569 removed in first object
+root.PAGM157_6in53_Mk16_Twin.armor.65571 removed in first object
+root.PAGM157_6in53_Mk16_Twin.armor.65636 removed in first object
+root.PAGM157_6in53_Mk16_Twin.armor.65635 removed in first object
+root.PCBX004.hull.health changed in second object (was 45000.0, is 30000.0)
+root.PASB017_Montana_1945.permoflages[0] removed in first object
+root.PASB017_Montana_1945.HullDefault.shipWheelsPresent removed in first object
+root.PJGS124_100mm65_Type98.armor.65635 removed in second object
+root.PJGS124_100mm65_Type98.armor.1 removed in first object
+root.PJSD106_Fubuki.A_Hull_1943.shipWheelsPresent removed in first object
+root.PJSD106_Fubuki.B_Hull_1943.shipWheelsPresent removed in first object
+root.PJSC799_Takao.HullDefault.shipWheelsPresent removed in first object
+root.PASB506_Arizona_1941.A_Hull.fuelFee removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65588 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65589 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65590 removed in second object
+root.PASB506_Arizona_1941.A_Hull.armor.65643 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.65644 removed in first object
+root.PASB506_Arizona_1941.A_Hull.armor.65645 removed in first object
+root.PASB506_Arizona_1941.A_Hull.maxRepairCost removed in second object
+root.PASB506_Arizona_1941.A_Hull.shipWheelsPresent removed in first object
+root.PASB506_Arizona_1941.groupCustom.EU changed in second object (was special, is premium)
+root.PASB506_Arizona_1941.groupCustom.RU removed in first object
+root.PASC012_Pensacola_1944.B_Hull_1944.shipWheelsPresent removed in first object
+root.PASC012_Pensacola_1944.A_Hull_1942.shipWheelsPresent removed in first object
+root.PASD709_Black.A_Hull.shipWheelsPresent removed in first object
+root.PRSC109_Dmitry_Donskoy.A_Hull.shipWheelsPresent removed in first object
+root.PRSC109_Dmitry_Donskoy.B_Hull.shipWheelsPresent removed in first object
+root.PRSC109_Dmitry_Donskoy.C_Hull.shipWheelsPresent removed in first object
+root.PASB802_FALSE_ENEMY_Michigan.A_Hull.shipWheelsPresent removed in first object
+root.PASC004_St_Louis_1906.A_Hull_1906.shipWheelsPresent removed in first object
+root.PASC004_St_Louis_1906.B_Hull_1924.shipWheelsPresent removed in first object
+root.PBSC106_Leander.A_Hull.shipWheelsPresent removed in first object
+root.PBSC106_Leander.B_Hull.shipWheelsPresent removed in first object
+root.PBSC106_Leander.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSB001_Kawachi_1912.A_Hull_1912.shipWheelsPresent removed in first object
+root.PJSB001_Kawachi_1912.B_Hull_1919.shipWheelsPresent removed in first object
+root.PGSB105_Koenig.A_Hull.shipWheelsPresent removed in first object
+root.PGSB105_Koenig.B_Hull.shipWheelsPresent removed in first object
+root.PGSB105_Koenig.C_Hull.shipWheelsPresent removed in first object
+root.PJSB003_Myogi_1912.A_Hull.shipWheelsPresent removed in first object
+root.PJSB003_Myogi_1912.B_Hull.shipWheelsPresent removed in first object
+root.PJSB003_Myogi_1912.C_Hull.shipWheelsPresent removed in first object
+root.PASD027_Wickes_1918.B_Hull_1925.shipWheelsPresent removed in first object
+root.PASD027_Wickes_1918.A_Hull_1918.shipWheelsPresent removed in first object
+root.PUAS001_Walrus removed in first object
+root.PJGM153_127_50_twin_type_A removed in first object
+root.PCEE052_Squared_circle removed in first object
+root.PCEP120_Permo_Upgr_10_lvl removed in first object
+root.PCEE051_Belfast removed in first object
+>> finished comparing
