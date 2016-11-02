@@ -1,0 +1,69 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC505_KrasniKrym.groupCustom.ASIA removed in first object
+root.PFSB506_Dunkerque_1940.groupCustom.RU removed in first object
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_1.rotationSpeed[1] changed in second object (was 12.0, is 6.0)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_2.rotationSpeed[1] changed in second object (was 12.0, is 6.0)
+root.PJSD706_Shinonome.A1_Artillery.HP_JGM_3.rotationSpeed[1] changed in second object (was 12.0, is 6.0)
+root.PGSB507_Scharnhorst.groupCustom.RU removed in first object
+root.PJSD207_Shiratsuyu.AB1_Artillery.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD207_Shiratsuyu.AB1_Artillery.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD207_Shiratsuyu.AB1_Artillery.HP_JGM_3.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PJSD206_Hatsuharu.B1_127_50.HP_JGM_1.shotDelay changed in second object (was 8.0, is 7.5)
+root.PJSD206_Hatsuharu.B1_127_50.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD206_Hatsuharu.B1_127_50.HP_JGM_2.shotDelay changed in second object (was 8.0, is 7.5)
+root.PJSD206_Hatsuharu.B1_127_50.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_1.shotDelay changed in second object (was 8.0, is 7.5)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_2.shotDelay changed in second object (was 8.0, is 7.5)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_3.shotDelay changed in second object (was 8.0, is 7.5)
+root.PJSD206_Hatsuharu.A1_127_50.HP_JGM_3.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PASC507_Indianapolis_1945.groupCustom.RU removed in first object
+root.PASC507_Indianapolis_1945.groupCustom.ASIA removed in first object
+root.PJPA066_127MM_HE_SHINO.alphaDamage changed in second object (was 2100.0, is 1800.0)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_1.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_2.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_3.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD107_Akatsuki.AB1_Artillery.HP_JGM_3.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_3.deadZone[0][0] changed in second object (was -68.0, is -47.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_3.deadZone[0][1] changed in second object (was 68.0, is 47.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_2.deadZone[0][0] changed in second object (was -68.0, is -47.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_2.deadZone[0][1] changed in second object (was 68.0, is 47.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_1.horizSector[0] changed in second object (was -103.0, is -114.0)
+root.PJSD107_Akatsuki.AB1_Torpedoes.HP_JGT_1.horizSector[1] changed in second object (was 103.0, is 114.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_3.deadZone[0][0] changed in second object (was -68.0, is -47.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_3.deadZone[0][1] changed in second object (was 68.0, is 47.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_2.deadZone[0][0] changed in second object (was -68.0, is -47.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_2.deadZone[0][1] changed in second object (was 68.0, is 47.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_1.horizSector[0] changed in second object (was -103.0, is -114.0)
+root.PJSD107_Akatsuki.AB2_Torpedoes.HP_JGT_1.horizSector[1] changed in second object (was 103.0, is 114.0)
+root.PGSC508_Prinz_Eugen.groupCustom.RU removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.ASIA removed in first object
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_1.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_2.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_3.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD208_Kagero.AB1_127_50.HP_JGM_3.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PUSC506_Perth_1942.group changed in second object (was demoWithoutStats, is special)
+root.PJSD209_Yugumo.AB1_Artillery.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD209_Yugumo.AB1_Artillery.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD209_Yugumo.AB1_Artillery.HP_JGM_3.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD106_Fubuki.AB1_127_50.HP_JGM_1.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD106_Fubuki.AB1_127_50.HP_JGM_1.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PJSD106_Fubuki.AB1_127_50.HP_JGM_2.ammoList[0] changed in second object (was PJPA012_Shell_127mm_HE_Type_1, is PJPA066_127MM_HE_SHINO)
+root.PJSD106_Fubuki.AB1_127_50.HP_JGM_2.rotationSpeed[1] changed in second object (was 12.0, is 8.0)
+root.PASB506_Arizona_1941.groupCustom.ASIA removed in first object
+>> finished comparing
