@@ -1,0 +1,19 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCY018_TorpedoReloaderPremium.Jap_DD_premium_tst removed in first object
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was Jap_DD, is Jap_DD_tst)
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was Jap_DD_premium, is Jap_DD_premium_tst)
+root.PJPA066_127MM_HE_SHINO.burnProb changed in second object (was 0.09, is 0.07)
+root.PCY017_TorpedoReloader.Jap_DD_tst removed in first object
+root.PJSD108_Akizuki.AB1_Artillery.maxDist changed in second object (was 11326.0, is 9236.0)
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was Jap_DD, is Jap_DD_tst)
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was Jap_DD_premium, is Jap_DD_premium_tst)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_2.shotDelay changed in second object (was 73.0, is 76.0)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_2.ammoList[0] changed in second object (was PJPT010_Type_8, is PJPT017_610mm_Type_8_mod_2)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_1.shotDelay changed in second object (was 73.0, is 76.0)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_1.ammoList[0] changed in second object (was PJPT010_Type_8, is PJPT017_610mm_Type_8_mod_2)
+root.PCEE055_Perth_flag removed in first object
+root.PCEE054_Buffed_de removed in first object
+root.PCEE053_Votes_flag removed in first object
+>> finished comparing
