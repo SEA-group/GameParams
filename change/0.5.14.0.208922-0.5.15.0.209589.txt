@@ -1,0 +1,29 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQT168_CampaignSB_Mission02_Task08_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT071_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT009_Key.costUnlock changed in second object (was 5, is 2)
+root.PCQT158_CampaignSB_Mission01_Task08_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT198_CampaignSB_Mission05_Task08_Key.rewards changed in second object (was 
+			<rewards>
+				<Ship shipId="PJSD706_Shinonome" level='11' count="1"/>
+			</rewards>
+		, is 
+			<rewards>
+				<Ship shipId="PJSB011_Mikasa_1905" level='11' count="1"/>
+			</rewards>
+		)
+root.PCQT198_CampaignSB_Mission05_Task08_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT117_Key.costUnlock changed in second object (was 15, is 5)
+root.PCQT148_Key.costUnlock changed in second object (was 15, is 5)
+root.PCQT178_CampaignSB_Mission03_Task08_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT087_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT188_CampaignSB_Mission04_Task08_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT041_Key.costUnlock changed in second object (was 7, is 3)
+root.PCQT134_Key.costUnlock changed in second object (was 15, is 5)
+root.PCQT055_Key.costUnlock changed in second object (was 10, is 5)
+root.PCEE055_Perth_flag removed in first object
+root.PCEE054_Buffed_de removed in first object
+root.PCEE053_Votes_flag removed in first object
+>> finished comparing

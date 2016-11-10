@@ -1,0 +1,32 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSD104_V_170.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.45, is 0.48)
+root.PGSD104_V_170.Cameras.Guns2.InnerTrajectory.inclineV changed in second object (was -6, is -3)
+root.PGSD104_V_170.Cameras.Guns2.InnerTrajectory.minPitch changed in second object (was -89, is -9)
+root.PGSD103_G_101.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.45, is 0.48)
+root.PGSD103_G_101.Cameras.Guns2.InnerTrajectory.inclineV changed in second object (was -6, is -2)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_2.ammoList[0] changed in second object (was PJPT010_Type_8, is PJPT027_Type_8_M3)
+root.PJSD105_Mutsuki.AB1_610_JPT010.HP_JGT_1.ammoList[0] changed in second object (was PJPT010_Type_8, is PJPT027_Type_8_M3)
+root.PCQC002_CampaignSB.startTime changed in second object (was 31-08-2016 14:30:00, is )
+root.PCQC002_CampaignSB.endTime changed in second object (was 01-01-2017 00:01:01, is )
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.196641 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.196640 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.262176 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.196641 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.196640 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.262176 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.196641 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.196640 removed in second object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.262176 removed in second object
+root.PBSC107_Fiji.A_Hull.armourCit[1] changed in second object (was 89.0, is 114.0)
+root.PBSC107_Fiji.A_Hull.armourCas[1] changed in second object (was 89.0, is 114.0)
+root.PBSC107_Fiji.B_Hull.armourCit[1] changed in second object (was 89.0, is 114.0)
+root.PBSC107_Fiji.B_Hull.armourCas[1] changed in second object (was 89.0, is 114.0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.costGold changed in second object (was 4200, is 4800)
+root.PGSD102_V_25.Cameras.Guns2.InnerTrajectory.semiAxisH changed in second object (was 0.36, is 0.32)
+root.PGSD102_V_25.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.47, is 0.49)
+root.PGSD102_V_25.Cameras.Guns2.InnerTrajectory.posCenter[2] changed in second object (was -2.052, is -2.035)
+root.PGSD102_V_25.Cameras.Guns2.InnerTrajectory.semiAxisV changed in second object (was 0.18, is 0.16)
+root.PJPT027_Type_8_M3 removed in first object
+>> finished comparing

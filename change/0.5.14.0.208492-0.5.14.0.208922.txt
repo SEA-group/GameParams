@@ -1,0 +1,961 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJUH602_Kagero_1941.costXP changed in second object (was 21000, is 14000)
+root.PJUH602_Kagero_1941.costCR changed in second object (was 1600000, is 1100000)
+root.PCH034_ScienceOfWinning1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH034_ScienceOfWinning1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH034_ScienceOfWinning1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH034_ScienceOfWinning1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH034_ScienceOfWinning1.shipCategories[6] removed in first object
+root.PCH014_Headbutt.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH014_Headbutt.shipCategories[3] changed in second object (was special, is premium)
+root.PCH014_Headbutt.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH014_Headbutt.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH014_Headbutt.shipCategories[6] removed in first object
+root.PCH012_Arsonist.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH012_Arsonist.shipCategories[3] changed in second object (was special, is premium)
+root.PCH012_Arsonist.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH012_Arsonist.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH012_Arsonist.shipCategories[6] removed in first object
+root.PCH041_TaskPerforming2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH041_TaskPerforming2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH041_TaskPerforming2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH041_TaskPerforming2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH041_TaskPerforming2.shipCategories[6] removed in first object
+root.PJUH502_Hatsuharu_1945.costXP changed in second object (was 12400, is 9300)
+root.PJUH502_Hatsuharu_1945.costCR changed in second object (was 1080000, is 800000)
+root.PJUH703_Fubuki_1943.costXP changed in second object (was 16500, is 7300)
+root.PJUH703_Fubuki_1943.costCR changed in second object (was 1400000, is 570000)
+root.PCH015_SilentKiller.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH015_SilentKiller.shipCategories[3] changed in second object (was special, is premium)
+root.PCH015_SilentKiller.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH015_SilentKiller.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH015_SilentKiller.shipCategories[6] removed in first object
+root.PJUH642_D7_HULL_TOP_2.costXP changed in second object (was 0, is 12000)
+root.PJUH642_D7_HULL_TOP_2.costCR changed in second object (was 0, is 1080000)
+root.PCH044_Researching1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH044_Researching1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH044_Researching1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH044_Researching1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH044_Researching1.shipCategories[6] removed in first object
+root.PCT068_AccountLevel12.credits changed in second object (was 0, is 5000000)
+root.PCT068_AccountLevel12.storageItems[0] removed in second object
+root.PCT068_AccountLevel12.storageItems[1] removed in second object
+root.PCT068_AccountLevel12.storageItems[2] removed in second object
+root.PCT068_AccountLevel12.storageItems[3] removed in second object
+root.PCT068_AccountLevel12.storageItems[4] removed in second object
+root.PCT068_AccountLevel12.storageItems[5] removed in second object
+root.PCT068_AccountLevel12.storageItems[6] removed in second object
+root.PCT068_AccountLevel12.storageItems[7] removed in second object
+root.PCT068_AccountLevel12.storageItems[8] removed in second object
+root.PCT068_AccountLevel12.storageItems[9] removed in second object
+root.PJUH707_Fubuki_1944.costXP changed in second object (was 14000, is 10500)
+root.PJUH707_Fubuki_1944.costCR changed in second object (was 1100000, is 950000)
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.131169 changed in second object (was 0.0, is 350.0)
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.196705 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.196640 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_3.armor.262176 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.196705 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.196640 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_2.armor.262176 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.131169 changed in second object (was 0.0, is 350.0)
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.196705 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.196640 removed in first object
+root.PGSB507_Scharnhorst.A_Artillery.HP_GGM_1.armor.262176 removed in first object
+root.PJSD207_Shiratsuyu.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD207_Shiratsuyu.ShipUpgradeInfo.PJUH642_D7_HULL_TOP_2.nextShips[0] removed in first object
+root.PJPA028_Shell_120mm_HE_O_Mk_3.alphaDamage changed in second object (was 2000.0, is 1700.0)
+root.PJPA028_Shell_120mm_HE_O_Mk_3.burnProb changed in second object (was 0.08, is 0.07)
+root.PCH020_ATBACaliber.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH020_ATBACaliber.shipCategories[3] changed in second object (was special, is premium)
+root.PCH020_ATBACaliber.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH020_ATBACaliber.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH020_ATBACaliber.shipCategories[6] removed in first object
+root.PCH048_CBTPartisipant.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH048_CBTPartisipant.shipCategories[3] changed in second object (was special, is premium)
+root.PCH048_CBTPartisipant.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH048_CBTPartisipant.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH048_CBTPartisipant.shipCategories[6] removed in first object
+root.PGPA007_105MM_AP_PSGR.costCR changed in second object (was 5, is 3)
+root.PCH003_MainCaliber.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH003_MainCaliber.shipCategories[3] changed in second object (was special, is premium)
+root.PCH003_MainCaliber.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH003_MainCaliber.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH003_MainCaliber.shipCategories[6] removed in first object
+root.PCH013_Liquidator.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH013_Liquidator.shipCategories[3] changed in second object (was special, is premium)
+root.PCH013_Liquidator.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH013_Liquidator.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH013_Liquidator.shipCategories[6] removed in first object
+root.PJUT812_D9_TORP_TOP_2.costXP changed in second object (was 0, is 30000)
+root.PJUT812_D9_TORP_TOP_2.costCR changed in second object (was 0, is 2500000)
+root.PCH047_OBTPartisipant.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH047_OBTPartisipant.shipCategories[3] changed in second object (was special, is premium)
+root.PCH047_OBTPartisipant.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH047_OBTPartisipant.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH047_OBTPartisipant.shipCategories[6] removed in first object
+root.PCH022_Shadow.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH022_Shadow.shipCategories[3] changed in second object (was special, is premium)
+root.PCH022_Shadow.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH022_Shadow.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH022_Shadow.shipCategories[6] removed in first object
+root.PJSD206_Hatsuharu.B_Hull_1945.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD206_Hatsuharu.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD206_Hatsuharu.ShipUpgradeInfo.PJUH504_Hatsuharu_1945.nextShips[0] removed in first object
+root.PJSD206_Hatsuharu.A_Hull_1935.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PCH039_ScienceOfWinning6.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH039_ScienceOfWinning6.shipCategories[3] changed in second object (was special, is premium)
+root.PCH039_ScienceOfWinning6.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH039_ScienceOfWinning6.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH039_ScienceOfWinning6.shipCategories[6] removed in first object
+root.PCH040_TaskPerforming1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH040_TaskPerforming1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH040_TaskPerforming1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH040_TaskPerforming1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH040_TaskPerforming1.shipCategories[6] removed in first object
+root.PCT040_AccountLevel8.credits changed in second object (was 0, is 2000000)
+root.PCT040_AccountLevel8.storageItems[0] removed in second object
+root.PCT040_AccountLevel8.storageItems[1] removed in second object
+root.PCT040_AccountLevel8.storageItems[2] removed in second object
+root.PCT040_AccountLevel8.storageItems[3] removed in second object
+root.PCT040_AccountLevel8.storageItems[4] removed in second object
+root.PCT040_AccountLevel8.storageItems[5] removed in second object
+root.PCT040_AccountLevel8.storageItems[6] removed in second object
+root.PCT040_AccountLevel8.storageItems[7] removed in second object
+root.PCT040_AccountLevel8.storageItems[8] removed in second object
+root.PCT040_AccountLevel8.storageItems[9] removed in second object
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.HP_JGM_2.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.HP_JGM_3.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.HP_JGM_4.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PCH052_WGStaff.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH052_WGStaff.shipCategories[3] changed in second object (was special, is premium)
+root.PCH052_WGStaff.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH052_WGStaff.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH052_WGStaff.shipCategories[6] removed in first object
+root.PCH036_ScienceOfWinning3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH036_ScienceOfWinning3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH036_ScienceOfWinning3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH036_ScienceOfWinning3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH036_ScienceOfWinning3.shipCategories[6] removed in first object
+root.PASB018_Iowa_1944.C_Artillery.HP_AGM_1.miscFilter[4] removed in first object
+root.PASB018_Iowa_1944.C_Artillery.HP_AGM_3.miscFilter[6] removed in first object
+root.PASB018_Iowa_1944.C_Artillery.HP_AGM_2.miscFilter[5] removed in first object
+root.PASB018_Iowa_1944.A_Artillery.HP_AGM_1.miscFilter[9] removed in first object
+root.PASB018_Iowa_1944.A_Artillery.HP_AGM_3.miscFilter[8] removed in first object
+root.PASB018_Iowa_1944.A_Artillery.HP_AGM_2.miscFilter[8] removed in first object
+root.PASB018_Iowa_1944.C_AirDefense.HP_AGM_3_HP_AGA_1 removed in second object
+root.PASB018_Iowa_1944.C_AirDefense.AuraMedium.guns[18] changed in second object (was HP_AGM_3_HP_AGA_1, is HP_AGM_3_HP_AGA_4)
+root.PASB018_Iowa_1944.C_AirDefense.HP_AGM_3_HP_AGA_4 removed in first object
+root.PASB018_Iowa_1944.B_Artillery.HP_AGM_1.miscFilter[3] removed in first object
+root.PASB018_Iowa_1944.B_Artillery.HP_AGM_3.miscFilter[4] removed in first object
+root.PASB018_Iowa_1944.B_Artillery.HP_AGM_2.miscFilter[4] removed in first object
+root.PCH016_FirstBlood.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH016_FirstBlood.shipCategories[3] changed in second object (was special, is premium)
+root.PCH016_FirstBlood.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH016_FirstBlood.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH016_FirstBlood.shipCategories[6] removed in first object
+root.PCH067_LootboxOpening4.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH067_LootboxOpening4.shipCategories[3] changed in second object (was special, is premium)
+root.PCH067_LootboxOpening4.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH067_LootboxOpening4.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH067_LootboxOpening4.shipCategories[6] removed in first object
+root.PJUH504_Hatsuharu_1945.costXP changed in second object (was 12400, is 10000)
+root.PJUH504_Hatsuharu_1945.costCR changed in second object (was 1080000, is 1000000)
+root.PCH054_F_Manners.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH054_F_Manners.shipCategories[3] changed in second object (was special, is premium)
+root.PCH054_F_Manners.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH054_F_Manners.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH054_F_Manners.shipCategories[6] removed in first object
+root.PCH037_ScienceOfWinning4.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH037_ScienceOfWinning4.shipCategories[3] changed in second object (was special, is premium)
+root.PCH037_ScienceOfWinning4.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH037_ScienceOfWinning4.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH037_ScienceOfWinning4.shipCategories[6] removed in first object
+root.PCH018_Unsinkable.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH018_Unsinkable.shipCategories[3] changed in second object (was special, is premium)
+root.PCH018_Unsinkable.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH018_Unsinkable.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH018_Unsinkable.shipCategories[6] removed in first object
+root.PJPA024_Shell_120mm_HE_C_Type_1.alphaDamage changed in second object (was 2000.0, is 1700.0)
+root.PJPA024_Shell_120mm_HE_C_Type_1.burnProb changed in second object (was 0.08, is 0.07)
+root.PCH058_F_PartyCheckIn.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH058_F_PartyCheckIn.shipCategories[3] changed in second object (was special, is premium)
+root.PCH058_F_PartyCheckIn.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH058_F_PartyCheckIn.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH058_F_PartyCheckIn.shipCategories[6] removed in first object
+root.PCH031_EarningMoney1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH031_EarningMoney1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH031_EarningMoney1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH031_EarningMoney1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH031_EarningMoney1.shipCategories[6] removed in first object
+root.PGSC002_Drezden_1908.ShipUpgradeInfo.PGUE101_C2_ENG_STOCK.nextShips[0] removed in first object
+root.PCH001_DoubleKill.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH001_DoubleKill.shipCategories[3] changed in second object (was special, is premium)
+root.PCH001_DoubleKill.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH001_DoubleKill.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH001_DoubleKill.shipCategories[6] removed in first object
+root.PCH010_Retribution.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH010_Retribution.shipCategories[3] changed in second object (was special, is premium)
+root.PCH010_Retribution.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH010_Retribution.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH010_Retribution.shipCategories[6] removed in first object
+root.PJSD503_Isokaze.group changed in second object (was demoWithoutStats, is disabled)
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.HP_JGM_2.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.HP_JGM_3.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.HP_JGM_4.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PCH061_F_FestivSoup.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH061_F_FestivSoup.shipCategories[3] changed in second object (was special, is premium)
+root.PCH061_F_FestivSoup.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH061_F_FestivSoup.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH061_F_FestivSoup.shipCategories[6] removed in first object
+root.PJSD010_Kagero_1943.group changed in second object (was upgradeable, is disabled)
+root.PCH049_ATPartisipant.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH049_ATPartisipant.shipCategories[3] changed in second object (was special, is premium)
+root.PCH049_ATPartisipant.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH049_ATPartisipant.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH049_ATPartisipant.shipCategories[6] removed in first object
+root.PCH051_STPartisipant.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH051_STPartisipant.shipCategories[3] changed in second object (was special, is premium)
+root.PCH051_STPartisipant.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH051_STPartisipant.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH051_STPartisipant.shipCategories[6] removed in first object
+root.PCH065_LootboxOpening2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH065_LootboxOpening2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH065_LootboxOpening2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH065_LootboxOpening2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH065_LootboxOpening2.shipCategories[6] removed in first object
+root.PCH011_InstantKill.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH011_InstantKill.shipCategories[3] changed in second object (was special, is premium)
+root.PCH011_InstantKill.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH011_InstantKill.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH011_InstantKill.shipCategories[6] removed in first object
+root.PCH002_OneSoldierInTheField.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH002_OneSoldierInTheField.shipCategories[3] changed in second object (was special, is premium)
+root.PCH002_OneSoldierInTheField.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH002_OneSoldierInTheField.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH002_OneSoldierInTheField.shipCategories[6] removed in first object
+root.PJSD803_False_Isokaze_1917.ShipUpgradeInfo.PJUH302_Isokaze_1925.nextShips[0] changed in second object (was PJSD004_Minekadze_1920, is PJSD105_Mutsuki)
+root.PJSD803_False_Isokaze_1917.ShipUpgradeInfo.PJUS302_Suo.nextShips[0] removed in first object
+root.PJSD803_False_Isokaze_1917.B1_120_40.HP_JGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD803_False_Isokaze_1917.B1_120_40.HP_JGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD803_False_Isokaze_1917.B1_120_40.HP_JGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD803_False_Isokaze_1917.B1_120_40.HP_JGM_4.shotDelay changed in second object (was 10.0, is 12.0)
+root.PCH064_LootboxOpening1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH064_LootboxOpening1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH064_LootboxOpening1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH064_LootboxOpening1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH064_LootboxOpening1.shipCategories[6] removed in first object
+root.PCH059_F_RunForest.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH059_F_RunForest.shipCategories[3] changed in second object (was special, is premium)
+root.PCH059_F_RunForest.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH059_F_RunForest.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH059_F_RunForest.shipCategories[6] removed in first object
+root.PCH007_ClearSky.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH007_ClearSky.shipCategories[3] changed in second object (was special, is premium)
+root.PCH007_ClearSky.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH007_ClearSky.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH007_ClearSky.shipCategories[6] removed in first object
+root.PCH033_EarningMoney3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH033_EarningMoney3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH033_EarningMoney3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH033_EarningMoney3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH033_EarningMoney3.shipCategories[6] removed in first object
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_1.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_2.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_3.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.A1_120_45.HP_JGM_4.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_1.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_2.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_3.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.B1_120_45.HP_JGM_4.shotDelay changed in second object (was 12.0, is 10.9)
+root.PJSD004_Minekadze_1920.B2_533 removed in second object
+root.PJSD004_Minekadze_1920.ShipUpgradeInfo.PJUH402_Minekadze_1938.nextShips[0] changed in second object (was PJSD005_Mutsuki_1926, is PJSD206_Hatsuharu)
+root.PJSD004_Minekadze_1920.ShipUpgradeInfo.PJUH402_Minekadze_1938.components.torpedoes[1] removed in second object
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_3.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_2.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_1.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD004_Minekadze_1920.AB1_533.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD006_Hatsuharu_1945.group changed in second object (was upgradeable, is disabled)
+root.PCBX001.hull.damageFromBombsCoefficients[0] changed in second object (was 1.8, is 1.0)
+root.PCBX001.hull.damageFromBombsCoefficients[1] removed in second object
+root.PCBX001.hull.damageFromBombsCoefficients[2] removed in second object
+root.PCBX001.hull.damageFromBombsCoefficients[3] removed in second object
+root.PCBX001.hull.damageFromBombsCoefficients[4] removed in second object
+root.PCBX001.hull.armor.131149 changed in second object (was 77.0, is 420.0)
+root.PCBX001.hull.armor.131150 changed in second object (was 22.0, is 420.0)
+root.PCBX001.hull.armor.196685 removed in second object
+root.PCBX001.hull.armor.196686 removed in second object
+root.PCBX001.hull.armor.65613 changed in second object (was 77.0, is 420.0)
+root.PCBX001.hull.armor.262222 removed in second object
+root.PCBX001.hull.armor.65614 changed in second object (was 22.0, is 420.0)
+root.PCBX001.hull.health changed in second object (was 300000.0, is 65000.0)
+root.PCBX001.hull.healthRestorationRate changed in second object (was 2000, is 435)
+root.PCBX001.hull.burnNodes[0][0] changed in second object (was Scene Root, is HP_Fire_1)
+root.PCBX001.hull.burnNodes[0][1] changed in second object (was 0.0, is 0.8)
+root.PCBX001.hull.burnNodes[0][2] changed in second object (was 0.0, is 0.42)
+root.PCBX001.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_Fort_2.xml, is sfx/vehicles/Fire_Fort_04.xml)
+root.PCBX001.hull.visibilityCoefGKByPlane removed in first object
+root.PCBX001.hull.visibilityCoefGK removed in first object
+root.PCBX001.hull.visibilityCoefATBAByPlane removed in first object
+root.PCBX001.hull.visibilityCoefATBA removed in first object
+root.PCBX001.hull.visibilityCoefFireByPlane removed in first object
+root.PCBX001.hull.OCit removed in first object
+root.PCBX001.hull.suppressionEffect removed in first object
+root.PCBX001.hull.visibilityCoefFire removed in first object
+root.PCBX001.artillery.targetWeightTypeTable.Cruiser[0] changed in second object (was 1.2, is 2.0)
+root.PCBX001.artillery.targetWeightTypeTable.Cruiser[1] changed in second object (was 1.2, is 2.0)
+root.PCBX001.artillery.targetWeightTypeTable.Cruiser[2] changed in second object (was 1.2, is 2.0)
+root.PCBX001.artillery.targetWeightTypeTable.AirCarrier[0] changed in second object (was 2.0, is 4.0)
+root.PCBX001.artillery.targetWeightTypeTable.AirCarrier[1] changed in second object (was 2.0, is 4.0)
+root.PCBX001.artillery.targetWeightTypeTable.AirCarrier[2] changed in second object (was 2.0, is 3.0)
+root.PCBX001.artillery.targetWeightTypeTable.Battleship[0] changed in second object (was 1.5, is 3.0)
+root.PCBX001.artillery.targetWeightTypeTable.Battleship[1] changed in second object (was 1.5, is 3.0)
+root.PCBX001.artillery.targetWeightTypeTable.Battleship[2] changed in second object (was 1.5, is 3.0)
+root.PCBX001.artillery.HP_CGM_3.minRadius changed in second object (was 2.0, is 3)
+root.PCBX001.artillery.HP_CGM_2.minRadius changed in second object (was 2.0, is 3)
+root.PCBX001.artillery.HP_CGM_1.minRadius changed in second object (was 2.0, is 3)
+root.PCBX002.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_Fort_2.xml, is sfx/vehicles/Fire_Fort_02.xml)
+root.PCBX002.hull.suppressionEffect removed in first object
+root.PCBX002.hull.OCit removed in first object
+root.PCBX003.hull.damageFromBombsCoefficients[0] changed in second object (was 1.8, is 1.0)
+root.PCBX003.hull.damageFromBombsCoefficients[1] removed in second object
+root.PCBX003.hull.damageFromBombsCoefficients[2] removed in second object
+root.PCBX003.hull.damageFromBombsCoefficients[3] removed in second object
+root.PCBX003.hull.damageFromBombsCoefficients[4] removed in second object
+root.PCBX003.hull.burnNodes[0][0] changed in second object (was Scene Root, is HP_Fire_1)
+root.PCBX003.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_Fort_2.xml, is sfx/vehicles/Fire_Fort_04.xml)
+root.PCBX003.hull.visibilityCoefGKByPlane removed in first object
+root.PCBX003.hull.visibilityCoefGK removed in first object
+root.PCBX003.hull.visibilityCoefATBAByPlane removed in first object
+root.PCBX003.hull.visibilityCoefATBA removed in first object
+root.PCBX003.hull.visibilityCoefFireByPlane removed in first object
+root.PCBX003.hull.OCit removed in first object
+root.PCBX003.hull.suppressionEffect removed in first object
+root.PCBX003.hull.visibilityCoefFire removed in first object
+root.PCBX003.artillery.HP_CGM_3.minRadius changed in second object (was 2.0, is 3)
+root.PCBX003.artillery.HP_CGM_2.minRadius changed in second object (was 2.0, is 3)
+root.PCBX003.artillery.HP_CGM_1.minRadius changed in second object (was 2.0, is 3)
+root.PJSD025_True_Kamikaze.ArtilleryDefault.HP_JGM_1.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD025_True_Kamikaze.ArtilleryDefault.HP_JGM_2.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD025_True_Kamikaze.ArtilleryDefault.HP_JGM_3.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD025_True_Kamikaze.ArtilleryDefault.HP_JGM_4.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PCH024_Destroyers.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH024_Destroyers.shipCategories[3] changed in second object (was special, is premium)
+root.PCH024_Destroyers.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH024_Destroyers.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH024_Destroyers.shipCategories[6] removed in first object
+root.PCH066_LootboxOpening3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH066_LootboxOpening3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH066_LootboxOpening3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH066_LootboxOpening3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH066_LootboxOpening3.shipCategories[6] removed in first object
+root.PCH060_F_FireShow.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH060_F_FireShow.shipCategories[3] changed in second object (was special, is premium)
+root.PCH060_F_FireShow.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH060_F_FireShow.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH060_F_FireShow.shipCategories[6] removed in first object
+root.PCH045_Researching2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH045_Researching2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH045_Researching2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH045_Researching2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH045_Researching2.shipCategories[6] removed in first object
+root.PJPA012_Shell_127mm_HE_Type_1.alphaDamage changed in second object (was 2100.0, is 1800.0)
+root.PJPA012_Shell_127mm_HE_Type_1.burnProb changed in second object (was 0.09, is 0.07)
+root.PJUH522_Mutsuki_1939.costXP changed in second object (was 4800, is 3700)
+root.PJUH522_Mutsuki_1939.costCR changed in second object (was 420000, is 300000)
+root.PCH026_EarningAchievement2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH026_EarningAchievement2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH026_EarningAchievement2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH026_EarningAchievement2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH026_EarningAchievement2.shipCategories[6] removed in first object
+root.PCH029_Winning2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH029_Winning2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH029_Winning2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH029_Winning2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH029_Winning2.shipCategories[6] removed in first object
+root.PJSD007_Fubuki_1944.group changed in second object (was upgradeable, is disabled)
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.costCR changed in second object (was 9040000, is 9000000)
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.costXP changed in second object (was 115000, is 110000)
+root.PGGM058_280mm54_5_C34.armor.196705 removed in first object
+root.PGGM058_280mm54_5_C34.armor.196640 removed in first object
+root.PGGM058_280mm54_5_C34.armor.262176 removed in first object
+root.PJSD024_Wakatake_1923.ShipUpgradeInfo.PJUH232_Wakatake_1925.components.torpedoes[1] removed in second object
+root.PJSD024_Wakatake_1923.ShipUpgradeInfo.PJUH231_Wakatake_1923.components.torpedoes[1] removed in second object
+root.PJSD024_Wakatake_1923.ShipUpgradeInfo.PJUT203_D3_TORP_TOP removed in second object
+root.PJSD024_Wakatake_1923.AB2_Torpedoes removed in second object
+root.PCH063_F_KingOfParty.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH063_F_KingOfParty.shipCategories[3] changed in second object (was special, is premium)
+root.PCH063_F_KingOfParty.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH063_F_KingOfParty.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH063_F_KingOfParty.shipCategories[6] removed in first object
+root.PCH009_DecisiveContributuion.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH009_DecisiveContributuion.shipCategories[3] changed in second object (was special, is premium)
+root.PCH009_DecisiveContributuion.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH009_DecisiveContributuion.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH009_DecisiveContributuion.shipCategories[6] removed in first object
+root.PJSD107_Akatsuki.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUH644_D7_HULL_TOP.nextShips[0] removed in first object
+root.PCH005_Support.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH005_Support.shipCategories[3] changed in second object (was special, is premium)
+root.PCH005_Support.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH005_Support.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH005_Support.shipCategories[6] removed in first object
+root.PCH008_BrothersInArms.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH008_BrothersInArms.shipCategories[3] changed in second object (was special, is premium)
+root.PCH008_BrothersInArms.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH008_BrothersInArms.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH008_BrothersInArms.shipCategories[6] removed in first object
+root.PCH017_Fireproof.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH017_Fireproof.shipCategories[3] changed in second object (was special, is premium)
+root.PCH017_Fireproof.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH017_Fireproof.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH017_Fireproof.shipCategories[6] removed in first object
+root.PCH053_WGSPbStaff.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH053_WGSPbStaff.shipCategories[3] changed in second object (was special, is premium)
+root.PCH053_WGSPbStaff.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH053_WGSPbStaff.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH053_WGSPbStaff.shipCategories[6] removed in first object
+root.PCT041_AccountLevel9.storageItems[0][0] changed in second object (was PCEC007_Camo_3_Tile_Double, is PCEF005_SM_SignalFlag)
+root.PCT041_AccountLevel9.storageItems[0][1] changed in second object (was 100, is 25)
+root.PCT041_AccountLevel9.storageItems[1] removed in first object
+root.PCT041_AccountLevel9.storageItems[2] removed in first object
+root.PCT041_AccountLevel9.storageItems[3] removed in first object
+root.PCT041_AccountLevel9.storageItems[4] removed in first object
+root.PCT041_AccountLevel9.storageItems[5] removed in first object
+root.PCT041_AccountLevel9.storageItems[6] removed in first object
+root.PCT041_AccountLevel9.storageItems[7] removed in first object
+root.PCT041_AccountLevel9.storageItems[8] removed in first object
+root.PCT041_AccountLevel9.storageItems[9] removed in first object
+root.PCBS001.hull.health changed in second object (was 9000.0, is 1900.0)
+root.PCBS001.hull.healthRestorationRate changed in second object (was 50, is 8)
+root.PCBS001.hull.burnNodes[0][2] changed in second object (was 0.3, is 0.42)
+root.PCBS001.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_SensorTower.xml, is sfx/vehicles/Fire_Tower.xml)
+root.PCBS001.hull.suppressionEffect removed in first object
+root.PCBS001.hull.OCit removed in first object
+root.PCH006_Withering.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH006_Withering.shipCategories[3] changed in second object (was special, is premium)
+root.PCH006_Withering.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH006_Withering.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH006_Withering.shipCategories[6] removed in first object
+root.PCT038_AccountLevel6.credits changed in second object (was 2000000, is 1000000)
+root.PCH062_F_PartyAnimal.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH062_F_PartyAnimal.shipCategories[3] changed in second object (was special, is premium)
+root.PCH062_F_PartyAnimal.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH062_F_PartyAnimal.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH062_F_PartyAnimal.shipCategories[6] removed in first object
+root.PJSD208_Kagero.A_Hull_1943.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD208_Kagero.B_Hull_1941.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD208_Kagero.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD208_Kagero.ShipUpgradeInfo.PJUH605_Kagero_1941.nextShips[0] removed in first object
+root.PJSD208_Kagero.ShipUpgradeInfo.costCR changed in second object (was 9040000, is 9100000)
+root.PCH038_ScienceOfWinning5.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH038_ScienceOfWinning5.shipCategories[3] changed in second object (was special, is premium)
+root.PCH038_ScienceOfWinning5.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH038_ScienceOfWinning5.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH038_ScienceOfWinning5.shipCategories[6] removed in first object
+root.PCH055_F_WrongSow.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH055_F_WrongSow.shipCategories[3] changed in second object (was special, is premium)
+root.PCH055_F_WrongSow.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH055_F_WrongSow.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH055_F_WrongSow.shipCategories[6] removed in first object
+root.PJUH702_Fubuki_1944.costXP changed in second object (was 14000, is 4800)
+root.PJUH702_Fubuki_1944.costCR changed in second object (was 1100000, is 420000)
+root.PJSD504_Minekaze.group changed in second object (was demoWithoutStats, is disabled)
+root.PJGM142_120mm45_Type_Ha.ammoList[0] changed in second object (was PJPA024_Shell_120mm_HE_C_Type_1, is PJPA065_120MM_HE_KAM)
+root.PJSD108_Akizuki.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PCH019_Detonated.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH019_Detonated.shipCategories[3] changed in second object (was special, is premium)
+root.PCH019_Detonated.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH019_Detonated.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH019_Detonated.shipCategories[6] removed in first object
+root.PJUH603_Kagero_1945.costXP changed in second object (was 26000, is 16500)
+root.PJUH603_Kagero_1945.costCR changed in second object (was 2000000, is 1400000)
+root.PCBC003.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_Fort_1.xml, is sfx/vehicles/Fire_Fort_01.xml)
+root.PCBC003.hull.suppressionEffect removed in first object
+root.PCBC004.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Suppression_Fort_2.xml, is sfx/vehicles/Fire_Fort_02.xml)
+root.PCBC004.hull.suppressionEffect removed in first object
+root.PJSD005_Mutsuki_1926.group changed in second object (was upgradeable, is disabled)
+root.PCEE052_Squared_circle removed in second object
+root.PCT043_AccountLevel11.premium changed in second object (was 0, is 1)
+root.PCT043_AccountLevel11.credits changed in second object (was 5000000, is 0)
+root.PCH056_F_Snatch.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH056_F_Snatch.shipCategories[3] changed in second object (was special, is premium)
+root.PCH056_F_Snatch.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH056_F_Snatch.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH056_F_Snatch.shipCategories[6] removed in first object
+root.PCH030_Winning3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH030_Winning3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH030_Winning3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH030_Winning3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH030_Winning3.shipCategories[6] removed in first object
+root.PCH035_ScienceOfWinning2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH035_ScienceOfWinning2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH035_ScienceOfWinning2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH035_ScienceOfWinning2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH035_ScienceOfWinning2.shipCategories[6] removed in first object
+root.PCT042_AccountLevel10.premium changed in second object (was 1, is 0)
+root.PCT042_AccountLevel10.storageItems[0] removed in first object
+root.PJUA405_D5_ART_TOP_2.costXP changed in second object (was 2500, is 4200)
+root.PJUA405_D5_ART_TOP_2.costCR changed in second object (was 210000, is 320000)
+root.PJUH523_Mutsuki_1942.costXP changed in second object (was 7300, is 4800)
+root.PJUH523_Mutsuki_1942.costCR changed in second object (was 570000, is 420000)
+root.PCH032_EarningMoney2.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH032_EarningMoney2.shipCategories[3] changed in second object (was special, is premium)
+root.PCH032_EarningMoney2.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH032_EarningMoney2.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH032_EarningMoney2.shipCategories[6] removed in first object
+root.PJSD105_Mutsuki.A_Hull_1942.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD105_Mutsuki.B_Hull_1942.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD105_Mutsuki.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUS407_D5_SUO_STOCK_2 removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUT409_D5_TORP_STOCK_2 removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUE407_D5_ENG_STOCK_2 removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUA545_D6_ART_STOCK removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUS408_D5_SUO_TOP_2 removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUH525_Mutsuki_1939.nextShips[0] removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUA546_D6_ART_TOP removed in second object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUE405_D5_ENG_STOCK_2 removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUA404_D5_ART_STOCK_2 removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUS403_D5_SUO_STOCK_2 removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUT405_D5_TORP_STOCK_2 removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUA405_D5_ART_TOP_2 removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.PJUS404_D5_SUO_TOP_2 removed in first object
+root.PCH050_BWPartisipant.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH050_BWPartisipant.shipCategories[3] changed in second object (was special, is premium)
+root.PCH050_BWPartisipant.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH050_BWPartisipant.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH050_BWPartisipant.shipCategories[6] removed in first object
+root.PCH027_EarningAchievement3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH027_EarningAchievement3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH027_EarningAchievement3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH027_EarningAchievement3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH027_EarningAchievement3.shipCategories[6] removed in first object
+root.PGPA008_105MM_HE_SPRGR.costCR changed in second object (was 5, is 3)
+root.PJUH705_D8_HULL_TOP_2.costXP changed in second object (was 0, is 16500)
+root.PJUH705_D8_HULL_TOP_2.costCR changed in second object (was 0, is 1400000)
+root.PCH021_Unarmed.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH021_Unarmed.shipCategories[3] changed in second object (was special, is premium)
+root.PCH021_Unarmed.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH021_Unarmed.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH021_Unarmed.shipCategories[6] removed in first object
+root.PCT039_AccountLevel7.credits changed in second object (was 3000000, is 2000000)
+root.PCEE051_Belfast removed in second object
+root.PJSD003_Isokaze_1917.A1_120_40.HP_JGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.A1_120_40.HP_JGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.A1_120_40.HP_JGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.ShipUpgradeInfo.PJUH302_Isokaze_1925.nextShips[0] changed in second object (was PJSD004_Minekadze_1920, is PJSD105_Mutsuki)
+root.PJSD003_Isokaze_1917.ShipUpgradeInfo.PJUS302_Suo.nextShips[0] removed in first object
+root.PJSD003_Isokaze_1917.B1_120_40.HP_JGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.B1_120_40.HP_JGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.B1_120_40.HP_JGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.B1_120_40.HP_JGM_4.shotDelay changed in second object (was 10.0, is 12.0)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_3.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_3.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_2.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_2.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_1.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD003_Isokaze_1917.AB1_533.HP_JGT_1.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_3.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_2.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_1.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD003_Isokaze_1917.AB2_533.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PCH046_Researching3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH046_Researching3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH046_Researching3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH046_Researching3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH046_Researching3.shipCategories[6] removed in first object
+root.PCH057_F_RiseOfTheMachines.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH057_F_RiseOfTheMachines.shipCategories[3] changed in second object (was special, is premium)
+root.PCH057_F_RiseOfTheMachines.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH057_F_RiseOfTheMachines.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH057_F_RiseOfTheMachines.shipCategories[6] removed in first object
+root.PCH042_TaskPerforming3.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH042_TaskPerforming3.shipCategories[3] changed in second object (was special, is premium)
+root.PCH042_TaskPerforming3.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH042_TaskPerforming3.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH042_TaskPerforming3.shipCategories[6] removed in first object
+root.PJSD209_Yugumo.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD209_Yugumo.ShipUpgradeInfo.PJUH842_D9_HULL_TOP_2.nextShips[0] removed in first object
+root.PJUT622_D7_TORP_TOP_2.costXP changed in second object (was 0, is 16000)
+root.PJUT622_D7_TORP_TOP_2.costCR changed in second object (was 0, is 1300000)
+root.PJUH842_D9_HULL_TOP_2.costXP changed in second object (was 0, is 26000)
+root.PJUH842_D9_HULL_TOP_2.costCR changed in second object (was 0, is 2000000)
+root.PCH023_Warrior.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH023_Warrior.shipCategories[3] changed in second object (was special, is premium)
+root.PCH023_Warrior.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH023_Warrior.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH023_Warrior.shipCategories[6] removed in first object
+root.PCBX004 removed in second object
+root.PJSD106_Fubuki.A_Hull_1943.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD106_Fubuki.B_Hull_1943.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSD106_Fubuki.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PJSD106_Fubuki.ShipUpgradeInfo.PJUH707_Fubuki_1944.nextShips[0] removed in first object
+root.PASC012_Pensacola_1944.permoflages[0] removed in first object
+root.PJUH644_D7_HULL_TOP.costXP changed in second object (was 0, is 12400)
+root.PJUH644_D7_HULL_TOP.costCR changed in second object (was 0, is 1100000)
+root.PCH004_Dreadnought.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH004_Dreadnought.shipCategories[3] changed in second object (was special, is premium)
+root.PCH004_Dreadnought.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH004_Dreadnought.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH004_Dreadnought.shipCategories[6] removed in first object
+root.PCH025_EarningAchievement1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH025_EarningAchievement1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH025_EarningAchievement1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH025_EarningAchievement1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH025_EarningAchievement1.shipCategories[6] removed in first object
+root.PCH028_Winning1.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH028_Winning1.shipCategories[3] changed in second object (was special, is premium)
+root.PCH028_Winning1.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH028_Winning1.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH028_Winning1.shipCategories[6] removed in first object
+root.PCH043_TaskPerforming4.shipCategories[2] changed in second object (was premium, is upgradeableExclusive)
+root.PCH043_TaskPerforming4.shipCategories[3] changed in second object (was special, is premium)
+root.PCH043_TaskPerforming4.shipCategories[4] changed in second object (was demoWithStats, is special)
+root.PCH043_TaskPerforming4.shipCategories[5] changed in second object (was peculiar, is demoWithStats)
+root.PCH043_TaskPerforming4.shipCategories[6] removed in first object
+root.PCQT168_CampaignSB_Mission02_Task08_Key removed in first object
+root.PCQT076 removed in first object
+root.PCQT077 removed in first object
+root.PCQT075 removed in first object
+root.PCQT078 removed in first object
+root.PCQT187_CampaignSB_Mission04_Task07 removed in first object
+root.PGUH605_GRAF_HULL removed in first object
+root.PCQT070 removed in first object
+root.PCQT176_CampaignSB_Mission03_Task06 removed in first object
+root.PGUT201_D3_TORP_STOCK removed in first object
+root.PGUH204_D3_HULL_TOP removed in first object
+root.PGGA088_20mm_Flak_38 removed in first object
+root.PCQT157_CampaignSB_Mission01_Task07 removed in first object
+root.PCQT182_CampaignSB_Mission04_Task02 removed in first object
+root.PCQM014_CampaignSB_Mission04 removed in first object
+root.PGUH704_D8_HULL_TOP removed in first object
+root.PGUS803_D9_SUO_STOCK removed in first object
+root.PGUS804_D9_SUO_TOP removed in first object
+root.PCQT003 removed in first object
+root.PCQT007 removed in first object
+root.PCQT006 removed in first object
+root.PCQT005 removed in first object
+root.PCQT004 removed in first object
+root.PCQT008 removed in first object
+root.PGGM083_127mm_45_SK_C41 removed in first object
+root.PGSD104_V_170 removed in first object
+root.PCQT135 removed in first object
+root.PGUH403_D5_HULL_STOCK removed in first object
+root.PCH072_CampaignSBCompleted removed in first object
+root.PGGT074_500mm_Torpedo_Tube removed in first object
+root.PGUT403_D5_TORP_TOP removed in first object
+root.PGPA074_88MM_HE_SK_L45 removed in first object
+root.PCQT193_CampaignSB_Mission05_Task03 removed in first object
+root.PCQT122 removed in first object
+root.PRGM097_152mm_45_casemate_L removed in first object
+root.PGD050_Torpedo_Zielsaule removed in first object
+root.PAUS832_SUO_MISSOURI removed in first object
+root.PGGA089_MachineGunMaxim_7_62 removed in first object
+root.PGUT903_D10_TORP_TOP removed in first object
+root.PCQT011 removed in first object
+root.PCQT012 removed in first object
+root.PCQT013 removed in first object
+root.PCQT014 removed in first object
+root.PCQT016 removed in first object
+root.PCQT017 removed in first object
+root.PCQT018 removed in first object
+root.PCQT019 removed in first object
+root.PGUH804_D9_HULL_TOP removed in first object
+root.PGUH104_D2_HULL_TOP removed in first object
+root.PAUE833_ENG_MISSOURI removed in first object
+root.PGPT002_G6 removed in first object
+root.PCQT161_CampaignSB_Mission02_Task01 removed in first object
+root.PGPT011_G7_Schildbutt removed in first object
+root.PGSD103_G_101 removed in first object
+root.PGUS703_D8_SUO_STOCK removed in first object
+root.PGUS103_D2_SUO_STOCK removed in first object
+root.PGSD105_T_22 removed in first object
+root.PCQT186_CampaignSB_Mission04_Task06 removed in first object
+root.PGUT704_D8_TORP_TOP removed in first object
+root.PGPT010_G7_Steinbarch removed in first object
+root.PAEP310_Missouri removed in first object
+root.PCQT173_CampaignSB_Mission03_Task03 removed in first object
+root.PGPA073_88MM_AP_SK_L45 removed in first object
+root.PGF045_3D_Stabilized_Dir removed in first object
+root.PCQT103_Key removed in first object
+root.PGD047_Directoscope removed in first object
+root.PGPA071_128MM_AP_C41 removed in first object
+root.PGGM076_150mm_TL_C_36 removed in first object
+root.PGUS704_D8_SUO_TOP removed in first object
+root.PGUT102_D2_TORP_TOP removed in first object
+root.PCQT151_CampaignSB_Mission01_Task01 removed in first object
+root.PCQT147 removed in first object
+root.PCQT177_CampaignSB_Mission03_Task07 removed in first object
+root.PGUH505_D6_HULL_TOP removed in first object
+root.PCQT144 removed in first object
+root.PGUS604_D7_SUO_TOP removed in first object
+root.PGUA202_D3_ART_STOCK removed in first object
+root.PGUS902_D10_SUO_STOCK removed in first object
+root.PGUA103_D2_ART_TOP removed in first object
+root.PGPT612_GRAF removed in first object
+root.PGUH703_D8_HULL_STOCK removed in first object
+root.PCQT141 removed in first object
+root.PCQT038 removed in first object
+root.PGUT902_D10_TORP_STOCK removed in first object
+root.PCQT033 removed in first object
+root.PCQT037 removed in first object
+root.PCQT034 removed in first object
+root.PCQC001_Campaign1 removed in first object
+root.PGUH404_D5_HULL_TOP removed in first object
+root.PGUT605_GRAF_TORP removed in first object
+root.PGUA302_D4_ART_STOCK removed in first object
+root.PGUT304_D4_TORP_TOP removed in first object
+root.PCQT143 removed in first object
+root.PGUA504_D6_ART_TOP removed in first object
+root.PRPA053_HE_OLEG removed in first object
+root.PGUT502_D6_TORP_STOCK removed in first object
+root.PGRS048_FUMO21 removed in first object
+root.PCQT152_CampaignSB_Mission01_Task02 removed in first object
+root.PGUT603_D7_TORP_STOCK removed in first object
+root.PCQM010 removed in first object
+root.PGUS404_D5_SUO_TOP removed in first object
+root.PCQT063 removed in first object
+root.PGGT073_500mm_Torpedo_Tubes_Twin removed in first object
+root.PCQT064 removed in first object
+root.PCQT100 removed in first object
+root.PGSD109_Z_46 removed in first object
+root.PAPA073_406MM_HE_MISSOURI removed in first object
+root.PGPA066_128MM_HE_SK_C34 removed in first object
+root.PCQT071_Key removed in first object
+root.PGGM092_88mm45_SK_L45 removed in first object
+root.PGUA603_GRAF_ART removed in first object
+root.PGUA712_D8_ART_STOCK removed in first object
+root.PGPT005_G7 removed in first object
+root.PRPA052_AP_OLEG removed in first object
+root.PCQT009_Key removed in first object
+root.PCQM001 removed in first object
+root.PCQM003 removed in first object
+root.PCQM004 removed in first object
+root.PCQM005 removed in first object
+root.PCQM006 removed in first object
+root.PCQM007 removed in first object
+root.PCQM008 removed in first object
+root.PAUA822_ART_MISSOURI removed in first object
+root.PGUS605_GRAF_SUO removed in first object
+root.PCQT002 removed in first object
+root.PCQT001 removed in first object
+root.PGUS304_D4_SUO_TOP removed in first object
+root.PCQT191_CampaignSB_Mission05_Task01 removed in first object
+root.PGF042_4m_Rangefinder removed in first object
+root.PGUT402_D5_TORP_STOCK removed in first object
+root.PGUA502_D6_ART_STOCK removed in first object
+root.PGUT803_D9_TORP_TOP removed in first object
+root.PGUA902_D10_ART_STOCK removed in first object
+root.PRUE212_ENG_OLEG removed in first object
+root.PCQT195_CampaignSB_Mission05_Task05 removed in first object
+root.PCQT172_CampaignSB_Mission03_Task02 removed in first object
+root.PCQT158_CampaignSB_Mission01_Task08_Key removed in first object
+root.PAUH834_MISSOURI removed in first object
+root.PGPT004_G6D removed in first object
+root.PCQT196_CampaignSB_Mission05_Task06 removed in first object
+root.PCQM002 removed in first object
+root.PCQM009 removed in first object
+root.PCQT083 removed in first object
+root.PCQT175_CampaignSB_Mission03_Task05 removed in first object
+root.PCQT081 removed in first object
+root.PCQT080 removed in first object
+root.PCQT086 removed in first object
+root.PCQT085 removed in first object
+root.PCQT084 removed in first object
+root.PCQT185_CampaignSB_Mission04_Task05 removed in first object
+root.PRGM100_152mm_45_casemate_R removed in first object
+root.PAPA072_406MM_AP_MISSOURI removed in first object
+root.PGUH902_D10_HULL_STOCK removed in first object
+root.PCQT167_CampaignSB_Mission02_Task07 removed in first object
+root.PCQM013_CampaignSB_Mission03 removed in first object
+root.PCQC002_CampaignSB removed in first object
+root.PGUS204_D3_SUO_TOP removed in first object
+root.PGPA065_128MM_AP_SK_C34 removed in first object
+root.PGUT202_D3_TORP_TOP removed in first object
+root.PCH071_Campaign1CompletedExcellent removed in first object
+root.PGPT009_G7_Steinbutt removed in first object
+root.PGUA402_D5_ART_STOCK removed in first object
+root.PGUA602_D7_ART_STOCK removed in first object
+root.PGUA102_D2_ART_STOCK removed in first object
+root.PCQT098 removed in first object
+root.PCQT099 removed in first object
+root.PCQT091 removed in first object
+root.PCQT092 removed in first object
+root.PCQT093 removed in first object
+root.PCQT094 removed in first object
+root.PCQT095 removed in first object
+root.PCQT096 removed in first object
+root.PGUH604_D7_HULL_TOP removed in first object
+root.PCQT174_CampaignSB_Mission03_Task04 removed in first object
+root.PCQT198_CampaignSB_Mission05_Task08_Key removed in first object
+root.PCQT165_CampaignSB_Mission02_Task05 removed in first object
+root.PCQT048 removed in first object
+root.PCQT117_Key removed in first object
+root.PGUA802_D9_ART_STOCK removed in first object
+root.PGPA070_105MM_HE_SK_C32 removed in first object
+root.PGUS503_D6_SUO_STOCK removed in first object
+root.PGSD108_Z_23 removed in first object
+root.PCQT067 removed in first object
+root.PGGM085_105mm_tbts_LC_16 removed in first object
+root.PCQT156_CampaignSB_Mission01_Task06 removed in first object
+root.PCQT153_CampaignSB_Mission01_Task03 removed in first object
+root.PGGM071_127mm_SK_C34 removed in first object
+root.PGUA503_D6_ART_STOCK_2 removed in first object
+root.PGPA072_128MM_HE_C41 removed in first object
+root.PGUE802_D9_ENG_STOCK removed in first object
+root.PGUT503_D6_TORP_TOP removed in first object
+root.PCQT192_CampaignSB_Mission05_Task02 removed in first object
+root.PGUE502_D6_ENG_STOCK removed in first object
+root.PCQT148_Key removed in first object
+root.PCBS002 removed in first object
+root.PCQT178_CampaignSB_Mission03_Task08_Key removed in first object
+root.PGUH203_D3_HULL_STOCK removed in first object
+root.PCQT079 removed in first object
+root.PGPT013_G7_Steinwal removed in first object
+root.PGGM077_150mm_1DrhL_C_38 removed in first object
+root.PCQT164_CampaignSB_Mission02_Task04 removed in first object
+root.PCH073_CampaignSBCompletedExcellent removed in first object
+root.PCQT132 removed in first object
+root.PCQT036 removed in first object
+root.PCQT163_CampaignSB_Mission02_Task03 removed in first object
+root.PCQT146 removed in first object
+root.PCQT145 removed in first object
+root.PCQT142 removed in first object
+root.PCQT140 removed in first object
+root.PGUS403_D5_SUO_STOCK removed in first object
+root.PGUH603_D7_HULL_STOCK removed in first object
+root.PGUE602_D7_ENG_STOCK removed in first object
+root.PGPA067_150MM_AP_PSGR_L4_5 removed in first object
+root.PRSC503_Oleg removed in first object
+root.PGUE402_D5_ENG_STOCK removed in first object
+root.PCQT155_CampaignSB_Mission01_Task05 removed in first object
+root.PGSC506_Admiral_Graf_Spee removed in first object
+root.PCQT049 removed in first object
+root.PCQT123 removed in first object
+root.PCQM011_CampaignSB_Mission01 removed in first object
+root.PGF046_1_7m_Rangefinder removed in first object
+root.PGUT802_D9_TORP_STOCK removed in first object
+root.PGUH504_D6_HULL_STOCK removed in first object
+root.PCQT133 removed in first object
+root.PCQT197_CampaignSB_Mission05_Task07 removed in first object
+root.PCQT131 removed in first object
+root.PCQT130 removed in first object
+root.PCQT137 removed in first object
+root.PCQT136 removed in first object
+root.PCQT139 removed in first object
+root.PCQT138 removed in first object
+root.PGUA714_D8_ART_TOP removed in first object
+root.PCQT047 removed in first object
+root.PCQT046 removed in first object
+root.PCQT045 removed in first object
+root.PCQT040 removed in first object
+root.PCQT181_CampaignSB_Mission04_Task01 removed in first object
+root.PGUS603_D7_SUO_STOCK removed in first object
+root.PCQT097 removed in first object
+root.PGPT008_G7A_T1_Z removed in first object
+root.PGRS049_FuMO25 removed in first object
+root.PGPA069_105MM_AP_SK_C32 removed in first object
+root.PGUE202_D3_ENG_STOCK removed in first object
+root.PGUT604_D7_TORP_TOP removed in first object
+root.PCQT154_CampaignSB_Mission01_Task04 removed in first object
+root.PGUE712_D8_ENG_STOCK removed in first object
+root.PGGT087_533_Torpedo_Tubes_Quad removed in first object
+root.PCQT121 removed in first object
+root.PCQT124 removed in first object
+root.PCQT125 removed in first object
+root.PCQT126 removed in first object
+root.PCQT127 removed in first object
+root.PCQT128 removed in first object
+root.PCQT129 removed in first object
+root.PCQT015 removed in first object
+root.PGUS303_D4_SUO_STOCK removed in first object
+root.PCQT054 removed in first object
+root.PCQT050 removed in first object
+root.PCQT051 removed in first object
+root.PCQT052 removed in first object
+root.PCQT053 removed in first object
+root.PRUS223_SUO_OLEG removed in first object
+root.PCQT171_CampaignSB_Mission03_Task01 removed in first object
+root.PGUT703_D8_TORP_STOCK removed in first object
+root.PGUS203_D3_SUO_STOCK removed in first object
+root.PGUH304_D4_HULL_TOP removed in first object
+root.PCQT087_Key removed in first object
+root.PGUE102_D2_ENG_STOCK removed in first object
+root.PGUS504_D6_SUO_TOP removed in first object
+root.PCQT162_CampaignSB_Mission02_Task02 removed in first object
+root.PGPA075_283MM_AP_GRAF removed in first object
+root.PGUH803_D9_HULL_STOCK removed in first object
+root.PGPT003_G6_AV3 removed in first object
+root.PCQT039 removed in first object
+root.PRUA203_ART_OLEG removed in first object
+root.PASB509_Missouri removed in first object
+root.PCQT188_CampaignSB_Mission04_Task08_Key removed in first object
+root.PGPT007_Klippfisch removed in first object
+root.PCQT166_CampaignSB_Mission02_Task06 removed in first object
+root.PGGA086_37mm_Flak_M42_LM43 removed in first object
+root.PCT088_AccountLevel13 removed in first object
+root.PCH070_Campaign1Completed removed in first object
+root.PCQT032 removed in first object
+root.PGUA713_D8_ART_STOCK_2 removed in first object
+root.PRUH223_OLEG removed in first object
+root.PGUH303_D4_HULL_STOCK removed in first object
+root.PGGM094_280mm54_5_C34_Shee removed in first object
+root.PGGA091_20mm_Flak_38 removed in first object
+root.PCQT031 removed in first object
+root.PCQT041_Key removed in first object
+root.PCQT115 removed in first object
+root.PCQT114 removed in first object
+root.PCQT116 removed in first object
+root.PCQT111 removed in first object
+root.PCQT110 removed in first object
+root.PCQT113 removed in first object
+root.PCQT112 removed in first object
+root.PGSD102_V_25 removed in first object
+root.PCQM012_CampaignSB_Mission02 removed in first object
+root.PCQT069 removed in first object
+root.PCQT068 removed in first object
+root.PCQT061 removed in first object
+root.PCQT062 removed in first object
+root.PCQT065 removed in first object
+root.PCQT066 removed in first object
+root.PCQT035 removed in first object
+root.PCQT020_Key removed in first object
+root.PCQT134_Key removed in first object
+root.PCQT055_Key removed in first object
+root.PGPT012_G7_Wolfsbarsch removed in first object
+root.PGUS104_D2_SUO_TOP removed in first object
+root.PGUT303_D4_TORP_STOCK removed in first object
+root.PGGM090_105mm_SK_C32_gE removed in first object
+root.PGUH103_D2_HULL_STOCK removed in first object
+root.PGPA076_283MM_HE_GRAF removed in first object
+root.PGF048_10_5m_Rangefinder removed in first object
+root.PCQT108 removed in first object
+root.PCQT082 removed in first object
+root.PGSD107_Leberecht_Maass removed in first object
+root.PCQT194_CampaignSB_Mission05_Task04 removed in first object
+root.PCBX006 removed in first object
+root.PGSD110_Z_52 removed in first object
+root.PCQT183_CampaignSB_Mission04_Task03 removed in first object
+root.PGGT078_533mm_QuadTube removed in first object
+root.PGUE902_D10_ENG_STOCK removed in first object
+root.PGUT101_D2_TORP_STOCK removed in first object
+root.PGSD106_Ernst_Gaede removed in first object
+root.PGUE603_GRAF_ENG removed in first object
+root.PCQM015_CampaignSB_Mission05 removed in first object
+root.PGPA068_150MM_HE_SPR_GR_L4_6 removed in first object
+root.PGUE302_D4_ENG_STOCK removed in first object
+root.PCQT184_CampaignSB_Mission04_Task04 removed in first object
+root.PCQT109 removed in first object
+root.PCQT102 removed in first object
+root.PCQT101 removed in first object
+root.PCQT106 removed in first object
+root.PCQT107 removed in first object
+root.PCQT105 removed in first object
+>> finished comparing

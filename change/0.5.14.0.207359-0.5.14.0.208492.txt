@@ -1,0 +1,44 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PXW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PZW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PJW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PXSB001_Mr_Hyde.group changed in second object (was event, is disabled)
+root.PAW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PUW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PBW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PAW101_Seagal.Skills.MainGunsRotationModifier.bigGunBonus changed in second object (was 0.7, is 1.0)
+root.PAW101_Seagal.Skills.MainGunsRotationModifier.smallGunBonus changed in second object (was 2.5, is 3.0)
+root.PAW101_Seagal.Skills.IntuitionModifier.switchAmmoReloadCoef changed in second object (was 0.5, is 0.25)
+root.PAW101_Seagal.CrewPersonality.photoId removed in second object
+root.PAW101_Seagal.CrewPersonality.photoPose removed in second object
+root.PXSD001_VanHellsink.group changed in second object (was event, is disabled)
+root.PXSC001_Dr_Frankenship.group changed in second object (was event, is disabled)
+root.PCEC012_Camo_Basketball_Tile_4.costCR changed in second object (was 22500, is -1)
+root.PCEC012_Camo_Basketball_Tile_4.costGold changed in second object (was -1, is 75)
+root.PCEC012_Camo_Basketball_Tile_4.crewExpFactor removed in first object
+root.PCEC012_Camo_Basketball_Tile_4.creditsFactor removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUA641_D7_ART_STOCK removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT603_D7_TORP_STOCK removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT604_D7_TORP_TOP removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUE651_D7_ENG_STOCK removed in second object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUA643_D7_ART_STOCK_1 removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUE653_D7_ENG_STOCK_1 removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT606_D7_TORP_TOP_1 removed in first object
+root.PJSD107_Akatsuki.ShipUpgradeInfo.PJUT605_D7_TORP_STOCK_1 removed in first object
+root.PCW001_CrewCommon.CrewPersonality.isPerson removed in first object
+root.PRW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PXSB003_Zeekasa.group changed in second object (was unavailable, is disabled)
+root.PWW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PXSB002_Rasputin.group changed in second object (was unavailable, is disabled)
+root.PFW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PJSC737_Nachi.C_Hull.armor.196698 removed in second object
+root.PGW001_DefaultCrew.CrewPersonality.isPerson removed in first object
+root.PXSX001_Transylvania.group changed in second object (was unavailable, is disabled)
+root.PJUT605_D7_TORP_STOCK_1 removed in first object
+root.PJUA643_D7_ART_STOCK_1 removed in first object
+root.PJUE653_D7_ENG_STOCK_1 removed in first object
+root.PJUT606_D7_TORP_TOP_1 removed in first object
+root.PCEC019_Camo_Halloween_16 removed in first object
+>> finished comparing

@@ -1,0 +1,394 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PAAD008_Douglas_AD2.costCR changed in second object (was 1200, is 600)
+root.PAAD002_Curtiss_SBC4.costCR changed in second object (was 320, is 200)
+root.PJEP409_Mogami_1935.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAB051_Douglas_BTD_1.costCR changed in second object (was 1200, is 600)
+root.PAAD010_Douglas_BTD_1.costCR changed in second object (was 1200, is 600)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_9, is C_9)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_9_Gold, is C_9_Premium)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY006_SmokeGenerator)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was UK_CL, is UK_Lvl_9)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY014_SmokeGeneratorPremium)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was UK_CL_PREM, is UK_Lvl_9_Gold)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_9, is UK_CL)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC109_Neptune.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_9_Premium, is UK_CL_PREM)
+root.PAAB903_XP67_HALLOWEEN.costCR changed in second object (was 320, is 300)
+root.PAAF001_Grumman_F3F.costCR changed in second object (was 220, is 200)
+root.PJAD009_Aichi_B7A.costCR changed in second object (was 1200, is 600)
+root.PAPA015_Shell_406mm_HE_HC_Mk_13.costCR changed in second object (was 250, is 150)
+root.PAEP318_Iowa_1944.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PREP509_Pr_48_Kiev.afterBattleRepair removed in first object
+root.PJAB001_B5N2.costCR changed in second object (was 550, is 300)
+root.PGPA058_305MM_HE_SPR_GR_L5.costCR changed in second object (was 55, is 50)
+root.PREP409_Dmitry_Donskoy.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.HP_GGM_3.armor.65571 changed in second object (was 220.0, is 320.0)
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.HP_GGM_4.armor.65571 changed in second object (was 220.0, is 320.0)
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.HP_GGM_2.armor.65571 changed in second object (was 220.0, is 320.0)
+root.PGSB002_Tirpiz_1942.ArtilleryDefault.HP_GGM_1.armor.65571 changed in second object (was 220.0, is 320.0)
+root.PASB008_Colorado_1945.C_Hull_1945.armor.131156 removed in second object
+root.PAAD006_Vought_SBU.level changed in second object (was 3, is 4)
+root.PAAD006_Vought_SBU.costCR changed in second object (was 220, is 200)
+root.PJPT001_Sea_Torpedo_Type93.costCR changed in second object (was 900, is 350)
+root.PJAD007_D4Y3.costCR changed in second object (was 1200, is 600)
+root.PAAD508_Douglas_AD2_S.costCR changed in second object (was 1200, is 600)
+root.PAAF002_Grumman_F6F.costCR changed in second object (was 550, is 350)
+root.PAPT027_Mk_16_mod_1.costCR changed in second object (was 700, is 300)
+root.PAEP112_Lexington_1944.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJEP506_Hatsuharu_1945.afterBattleRepair removed in first object
+root.PJAF004_J7W1_A.costCR changed in second object (was 1200, is 600)
+root.PAEP312_North_Carolina_1945.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJAB002_Nakajima_B6N.costCR changed in second object (was 800, is 450)
+root.PAPA011_Shell_406mm_AP_AP_Mk_8.costCR changed in second object (was 250, is 150)
+root.PAAB053_Douglas_XSB2D.costCR changed in second object (was 1700, is 800)
+root.PAAD011_Kaiser_Fleetwings_XBTK.costCR changed in second object (was 1700, is 800)
+root.PAAB001_Douglas_TBD.costCR changed in second object (was 320, is 300)
+root.PJAF008_Mitsubishi_A8M.costCR changed in second object (was 1700, is 800)
+root.PCY006_SmokeGenerator.Perth removed in first object
+root.PAAD004_Douglas_SBD2.costCR changed in second object (was 220, is 250)
+root.PJEP507_Fubuki_1944.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAF028_Grumman_F6F_3.costCR changed in second object (was 320, is 300)
+root.PAAB052_Grumman_TBM3.costCR changed in second object (was 800, is 450)
+root.PBSC104_Danae.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PBSC104_Danae.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PBSC104_Danae.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC104_Danae.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_4, is C)
+root.PBSC104_Danae.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC104_Danae.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_4_Premium, is C_Gold)
+root.PAAF512_Vought_F4U_S.costCR changed in second object (was 800, is 600)
+root.PJEP321_Izumo_1938.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PJAD001_D1A2.costCR changed in second object (was 220, is 250)
+root.PJAB004_Yokosuka_B4Y.costCR changed in second object (was 220, is 200)
+root.PZSD506_Anshan.groupCustom.EU removed in first object
+root.PAEP508_Benson_1945.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAB006_Martin_T4M_float.costCR changed in second object (was 220, is 200)
+root.PJAF009_Kawanishi_N1K5_A.costCR changed in second object (was 800, is 450)
+root.PAAF008_F2A.costCR changed in second object (was 320, is 200)
+root.PZSD508_LoYang.groupCustom.EU removed in first object
+root.PAAD003_Vought_SB2U.costCR changed in second object (was 550, is 350)
+root.PRSD507_Leningrad_1944.groupCustom.EU removed in first object
+root.PJAD004_J5N.costCR changed in second object (was 1700, is 800)
+root.PAAF029_Vought_F4U_1A.costCR changed in second object (was 800, is 450)
+root.PAAB002_Grumman_TBF.costCR changed in second object (was 550, is 350)
+root.PJAD005_D3A2.costCR changed in second object (was 550, is 350)
+root.PJAF003_Nikajima_A4N.costCR changed in second object (was 220, is 150)
+root.PAAB009_Douglas_AD1.costCR changed in second object (was 1200, is 600)
+root.PREP508_Pr_20i_Tashkent.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAF009_Grumman_F4F.costCR changed in second object (was 220, is 200)
+root.PREP407_Schors.afterBattleRepair removed in first object
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_10, is C_10)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_10_Gold, is C_10_Premium)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY006_SmokeGenerator)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was UK_CL, is UK_Lvl_10)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY014_SmokeGeneratorPremium)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was UK_CL_PREM, is UK_Lvl_10_Gold)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_10, is UK_CL)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC110_Minotaur.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_10_Premium, is UK_CL_PREM)
+root.PJAD002_D3A1.costCR changed in second object (was 320, is 300)
+root.PAAF030_F4F_4.costCR changed in second object (was 220, is 250)
+root.PAAB012_Consolidated_TBY_1.costCR changed in second object (was 550, is 350)
+root.PAAD005_Douglas_XSB2D.costCR changed in second object (was 1700, is 800)
+root.PAAF031_FM_2.costCR changed in second object (was 220, is 250)
+root.PJEP111_Hiryu_1942.afterBattleRepair removed in first object
+root.PAAD012_Douglas_SBD3.costCR changed in second object (was 320, is 300)
+root.PAEP521_Fletcher_1943.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PJAF006_Mitsubishi_A7M1.costCR changed in second object (was 1200, is 600)
+root.PJPT021_610_Type93_model_2.costCR changed in second object (was 600, is 350)
+root.PJPT020_610_Type93_model_3.costCR changed in second object (was 1200, is 350)
+root.PAAF010_F8F_Bearcat.costCR changed in second object (was 1700, is 800)
+root.PJAF018_Mitsubishi_A5M4.costCR changed in second object (was 150, is 250)
+root.PJAB003_Aichi_B7A.costCR changed in second object (was 1200, is 600)
+root.PJEP313_Amagi_1942.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAB013_A2D_Skyshark.costCR changed in second object (was 1700, is 800)
+root.PAAB005_Martin_T4M.costCR changed in second object (was 220, is 200)
+root.PJAB010_Nakajima_C6N5_1b.costCR changed in second object (was 1700, is 800)
+root.PGSB107_Gneisenau.Cameras.Torpedoes.InnerTrajectory.posCenter[1] changed in second object (was 4, is 6.0)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.index changed in second object (was PBGA020, is PBGA007)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.name changed in second object (was PBGA020_20mm_Oerlikon_MK_V, is PBGA007_20mm_Oerlikon_MK4)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.antiAirAuraStrength changed in second object (was 0.061, is 0.036)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.numBarrels changed in second object (was 2, is 1.0)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_4.id changed in second object (was 4273989584, is 4287621072)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.index changed in second object (was PBGA020, is PBGA007)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.name changed in second object (was PBGA020_20mm_Oerlikon_MK_V, is PBGA007_20mm_Oerlikon_MK4)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.antiAirAuraStrength changed in second object (was 0.061, is 0.036)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.numBarrels changed in second object (was 2, is 1.0)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_2.id changed in second object (was 4273989584, is 4287621072)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.index changed in second object (was PBGA020, is PBGA007)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.name changed in second object (was PBGA020_20mm_Oerlikon_MK_V, is PBGA007_20mm_Oerlikon_MK4)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.antiAirAuraStrength changed in second object (was 0.061, is 0.036)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.numBarrels changed in second object (was 2, is 1.0)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_3.id changed in second object (was 4273989584, is 4287621072)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.index changed in second object (was PBGA020, is PBGA007)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.name changed in second object (was PBGA020_20mm_Oerlikon_MK_V, is PBGA007_20mm_Oerlikon_MK4)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.antiAirAuraStrength changed in second object (was 0.061, is 0.036)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.numBarrels changed in second object (was 2, is 1.0)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model, is content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_1.id changed in second object (was 4273989584, is 4287621072)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.index changed in second object (was PBGA007, is PBGA020)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.name changed in second object (was PBGA007_20mm_Oerlikon_MK4, is PBGA020_20mm_Oerlikon_MK_V)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.antiAirAuraStrength changed in second object (was 0.036, is 0.061)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.numBarrels changed in second object (was 1.0, is 2)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_14.id changed in second object (was 4287621072, is 4273989584)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.index changed in second object (was PBGA007, is PBGA020)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.name changed in second object (was PBGA007_20mm_Oerlikon_MK4, is PBGA020_20mm_Oerlikon_MK_V)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.antiAirAuraStrength changed in second object (was 0.036, is 0.061)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.numBarrels changed in second object (was 1.0, is 2)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_11.id changed in second object (was 4287621072, is 4273989584)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.index changed in second object (was PBGA007, is PBGA020)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.name changed in second object (was PBGA007_20mm_Oerlikon_MK4, is PBGA020_20mm_Oerlikon_MK_V)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.antiAirAuraStrength changed in second object (was 0.036, is 0.061)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.numBarrels changed in second object (was 1.0, is 2)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_12.id changed in second object (was 4287621072, is 4273989584)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.index changed in second object (was PBGA007, is PBGA020)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.name changed in second object (was PBGA007_20mm_Oerlikon_MK4, is PBGA020_20mm_Oerlikon_MK_V)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.antiAirAuraStrength changed in second object (was 0.036, is 0.061)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.numBarrels changed in second object (was 1.0, is 2)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.deadMesh changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4_dead.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V_dead.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.model changed in second object (was content/gameplay/uk/gun/aaircraft/BGA007_20mm_Oerlikon_MK4/BGA007_20mm_Oerlikon_MK4.model, is content/gameplay/uk/gun/aaircraft/BGA020_20mm_Oerlikon_MK_V/BGA020_20mm_Oerlikon_MK_V.model)
+root.PBSC108_Edinburgh.A_AirDefense.HP_BGA_13.id changed in second object (was 4287621072, is 4273989584)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_8, is C_8)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_8_Gold, is C_8_Premium)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[6] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot2.abils[7] removed in second object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY006_SmokeGenerator)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was UK_CL, is UK_Lvl_8)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY014_SmokeGeneratorPremium)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was UK_CL_PREM, is UK_Lvl_8_Gold)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[4] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[5] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[6] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot3.abils[7] removed in first object
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_8, is UK_CL)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC108_Edinburgh.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_8_Premium, is UK_CL_PREM)
+root.PJSD107_Akatsuki.Cameras.Guns1.InnerTrajectory.semiAxisH changed in second object (was 0.717, is 0.6)
+root.PJSD107_Akatsuki.Cameras.Guns1.InnerTrajectory.posCenter[1] changed in second object (was 1.169, is 0.72)
+root.PJSD107_Akatsuki.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.931, is 2.906)
+root.PJSD107_Akatsuki.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.21, is 0.3)
+root.PJSD107_Akatsuki.Cameras.Guns1.InnerTrajectory.inclineV changed in second object (was 9.0, is 0)
+root.PAAF902_XP54_HALLOWEEN.costCR changed in second object (was 320, is 300)
+root.PJAF014_Mitsubishi_1MF.costCR changed in second object (was 100, is 150)
+root.PJPT011_Type_F3.costCR changed in second object (was 650, is 350)
+root.PAAD901_X5FU_HALLOWEEN.costCR changed in second object (was 1200, is 600)
+root.PGSC508_Prinz_Eugen.A1_Artillery.HP_GGM_4.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC508_Prinz_Eugen.A1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC508_Prinz_Eugen.groupCustom.EU removed in first object
+root.PAEP110_Ranger_1944.afterBattleRepair removed in first object
+root.PJAF010_Nakajima_J8N1.costCR changed in second object (was 1700, is 800)
+root.PCEP119_Permo_Upgr_9_lvl.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PAPT008_Mk_17.costCR changed in second object (was 1200, is 500)
+root.PAPA019_Shell_152mm_AP_AP_Mk_35.costCR changed in second object (was 10, is 15)
+root.PCY014_SmokeGeneratorPremium.Perth removed in first object
+root.PJAF007_Mitsubishi_A7M2.costCR changed in second object (was 800, is 600)
+root.PGSB104_Kaiser.Cameras.Guns1 removed in second object
+root.PGSB104_Kaiser.Cameras.Guns1_A removed in first object
+root.PGSB104_Kaiser.Cameras.Guns1_B removed in first object
+root.PAEP414_New_Orlean_1944.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PCEP128_Permo_Upgr_8_lvl.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PBSC103_Caledon.ShipAbilities.AbilitySlot1.abils[0] removed in first object
+root.PBSC103_Caledon.ShipAbilities.AbilitySlot1.abils[1] removed in first object
+root.PJAF011_Mitsubishi_A6M5.costCR changed in second object (was 550, is 350)
+root.PGEP407_Yorck.afterBattleRepair removed in first object
+root.PJEP408_Myoko_1945.afterBattleRepair removed in first object
+root.PJAB007_R2Y1_Keiun.costCR changed in second object (was 1700, is 800)
+root.PCEP117_Permo_Upgr_7_lvl.afterBattleRepair removed in first object
+root.PAAB509_Douglas_AD1_S.costCR changed in second object (was 800, is 600)
+root.PGEP409_Roon.afterBattleRepair changed in second object (was 0.9, is 0.8)
+root.PCBC005.artillery.HP_GUN_1 removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_5, is C_5)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_5_Gold, is C_5_Premium)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[4] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot3.abils[5] removed in first object
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_5, is C)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC105_Emerald.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_5_Premium, is C_Gold)
+root.PJAB008_Mitsubishi_B1M.costCR changed in second object (was 220, is 150)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_7, is C_7)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_7_Gold, is C_7_Premium)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[4] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot3.abils[5] removed in first object
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_7, is C)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC107_Fiji.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_7_Premium, is C_Gold)
+root.PAPA020_Shell_152mm_HE_HC_Mk_34.costCR changed in second object (was 10, is 15)
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM024_Engine_Mod_II, is PCM025_SteeringGear_Mod_II)
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot4.mods[2] removed in second object
+root.PUSC506_Perth_1942.A_Engine.forwardEngineForsagMaxSpeed changed in second object (was 2.5, is 30.225)
+root.PUSC506_Perth_1942.A_Engine.backwardEngineForsagMaxSpeed changed in second object (was 2.5, is 5.0)
+root.PUSC506_Perth_1942.A_Engine.forwardEngineForsag changed in second object (was 2.5, is 1.8)
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PUSC506_Perth_1942.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PJAF005_Mitsubishi_A5M2.costCR changed in second object (was 320, is 200)
+root.PJAD008_Wakusei.costCR changed in second object (was 1700, is 800)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_4.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_4.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.armor.65571 changed in second object (was 60.0, is 90.0)
+root.PAAF016_McDonnell_F2H.costCR changed in second object (was 1700, is 800)
+root.PAAD001_Curtiss_SB2C.costCR changed in second object (was 800, is 450)
+root.PCEP120_Permo_Upgr_10_lvl.costGold changed in second object (was 4000, is 5000)
+root.PCEP120_Permo_Upgr_10_lvl.expFactor changed in second object (was 1.0, is 2.0)
+root.PCEP120_Permo_Upgr_10_lvl.creditsFactor removed in first object
+root.PJAF019_Mitsubishi_A6M5_C.costCR changed in second object (was 550, is 350)
+root.PJAF001_A6M2.costCR changed in second object (was 320, is 300)
+root.PJAD003_D4Y2.costCR changed in second object (was 800, is 450)
+root.PCEP118_Permo_Upgr_8_lvl.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PGEP408_Hipper.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJEP112_Zuikaku_1944.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAAF012_Vought_F4U.costCR changed in second object (was 1200, is 600)
+root.PAAD013_Douglas_SBD5.costCR changed in second object (was 550, is 350)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY006_SmokeGenerator, is PCY008_SonarSearch)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was UK_Lvl_6, is C_6)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY014_SmokeGeneratorPremium, is PCY016_SonarSearchPremium)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was UK_Lvl_6_Gold, is C_6_Premium)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[4] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot3.abils[5] removed in first object
+root.PBSC106_Leander.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY002_RegenCrew)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_6, is C)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY010_RegenCrewPremium)
+root.PBSC106_Leander.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_6_Premium, is C_Gold)
+root.PXPT001_533MM_HELLSINK removed in first object
+root.PXGS005_3in50_Mk4 removed in first object
+root.PXGS012_88mm45_casemate_SK_L45 removed in first object
+root.PXW101_Dr_Van_Helsind removed in first object
+root.PXPA001_88MM_HE_HYDE removed in first object
+root.PXGS023_150mm_Cannon removed in first object
+root.PXSB001_Mr_Hyde removed in first object
+root.PXUH006_HULL_TRANS removed in first object
+root.PXPA016_FIREBALL removed in first object
+root.PXGS007_152mm40_Color_White removed in first object
+root.PXGS009_76mm40_with_shield_White removed in first object
+root.PXPA006_305MM_AP_RASPUTIN removed in first object
+root.PXW103_Mr_Hide removed in first object
+root.PXGM003_6in50_MK6 removed in first object
+root.PXGA017_MachineGunMaxim_7_62 removed in first object
+root.PXUH005_HULL_HELLSINK removed in first object
+root.PXUT001_TORP_HELLSINK removed in first object
+root.PXUH004_HULL_FRANKY removed in first object
+root.PXUA002_305MM_RASPUTIN removed in first object
+root.PXUS004_SUO_HELLSINK removed in first object
+root.PXGS006_152mm40_Color_Black removed in first object
+root.PXUE005_ENG_HELLSINK removed in first object
+root.PXGM002_6in50_MK6 removed in first object
+root.PXPA005_305MM_HE_RASPUTIN removed in first object
+root.PXUH001_HULL_HYDE removed in first object
+root.PXGT022_533mm_2 removed in first object
+root.PAW101_Seagal removed in first object
+root.PXPA010_150MM_HE_TRANS removed in first object
+root.PXGM021_120mm45_Type_HaGun removed in first object
+root.PXPA012_152MM_AP_DR_FRANKY removed in first object
+root.PXGM014_28cm_SK_L45_LC_1906 removed in first object
+root.PXSD001_VanHellsink removed in first object
+root.PXUH003_HULL_ZEEKASA removed in first object
+root.PXGM015_280mm_SK_L45_LC_1906 removed in first object
+root.PXPA003_283MM_HE_HYDE removed in first object
+root.PXGM016_280mm_SK_L45_LC_1906 removed in first object
+root.PXUA001_283MM_HYDE removed in first object
+root.PXSC001_Dr_Frankenship removed in first object
+root.PXGM001_6in50_MK6 removed in first object
+root.PXUS001_SUO_HYDE removed in first object
+root.PXUA003_152MM_FRANKY removed in first object
+root.PXUS003_SUO_FRANKY removed in first object
+root.PXGS011_150mm_SK_L45_C06 removed in first object
+root.PXUH002_HULL_RASPUTIN removed in first object
+root.PXPA007_130MM_HE_RASPUTIN removed in first object
+root.PXSB003_Zeekasa removed in first object
+root.PXUA004_120MM_HELLSINK removed in first object
+root.PXGM502_Catapult_H removed in first object
+root.PXPA011_76MM_HE_DR_FRANKY removed in first object
+root.PXUE003_ENG_ZEEKASA removed in first object
+root.PXPA013_152MM_HE_DR_FRANKY removed in first object
+root.PXSB002_Rasputin removed in first object
+root.PXW102_Dr_Frankenship removed in first object
+root.PXPA014_120MM_AP_HELLSINK removed in first object
+root.PXPA015_120MM_HE_HELLSINK removed in first object
+root.PXPA009_152MM_HE_ZEEKASA removed in first object
+root.PXGM018_12in52 removed in first object
+root.PXGS013_88mm45_SK_L45 removed in first object
+root.PXGS010_76mm40_with_shield_Black removed in first object
+root.PXGS004_3in50_Mk4 removed in first object
+root.PXUE001_ENG_HYDE removed in first object
+root.PXPA004_150MM_AP_HYDE removed in first object
+root.PXPA002_283MM_AP_HYDE removed in first object
+root.PXGS008_76mm40_with_shield_2 removed in first object
+root.PXGS019_130mm_55 removed in first object
+root.PXUE004_ENG_FRANKY removed in first object
+root.PXSX001_Transylvania removed in first object
+root.PXGA020_63_5mm removed in first object
+root.PXUS002_SUO_RASPUTIN removed in first object
+root.PXUE002_ENG_RASPUTIN removed in first object
+root.PXPA008_76MM_HE_ZEEKASA removed in first object
+>> finished comparing
