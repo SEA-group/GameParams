@@ -1,0 +1,191 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQT157_CampaignSB_Mission01_Task07.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="15"/> 
+			</rewards>
+		)
+root.PCQT186_CampaignSB_Mission04_Task06.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="50"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="15"/> 
+			</rewards>
+		)
+root.PCQT173_CampaignSB_Mission03_Task03.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="15"/> 
+			</rewards>
+		)
+root.PCQT172_CampaignSB_Mission03_Task02.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="15"/> 
+			</rewards>
+		)
+root.PCQT185_CampaignSB_Mission04_Task05.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEF008_IY_SignalFlag" count="75"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEF008_IY_SignalFlag" count="50"/> 
+			</rewards>
+		)
+root.PCH071_Campaign1CompletedExcellent.events[0][1][1][4] changed in second object (was 2, is 5)
+root.PCQT165_CampaignSB_Mission02_Task05.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="15"/> 
+			</rewards>
+		)
+root.PCQT117_Key.rewards changed in second object (was 
+            <rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="25"/>
+				<Item idx="PCY010_RegenCrewPremium" count="25" />
+				<Item idx="PCY011_AirDefenseDispPremium" count="25" />
+				<Item idx="PCY014_SmokeGeneratorPremium" count="25" />
+            </rewards>
+		, is 
+            <rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="10"/>
+				<Item idx="PCY010_RegenCrewPremium" count="10" />
+				<Item idx="PCY011_AirDefenseDispPremium" count="10" />
+				<Item idx="PCY014_SmokeGeneratorPremium" count="10" />
+            </rewards>
+		)
+root.PCQT153_CampaignSB_Mission01_Task03.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="50"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="15"/> 
+			</rewards>
+		)
+root.PCQT178_CampaignSB_Mission03_Task08_Key.rewards changed in second object (was 
+			<rewards>
+				<Add type="FREE_XP" limit="20001" count="20000"/>
+			</rewards>
+		, is 
+			<rewards>
+				<Add type="FREE_XP" limit="20001" count="15000"/>
+			</rewards>
+		)
+root.PCQT164_CampaignSB_Mission02_Task04.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY011_AirDefenseDispPremium" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY011_AirDefenseDispPremium" count="15"/> 
+			</rewards>
+		)
+root.PCH073_CampaignSBCompletedExcellent.events[0][1][1][4] changed in second object (was 2, is 5)
+root.PCQT132.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isKillShipsByWeapon count="5" killTypes="bomber,tbomber" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isKillShipsByWeapon count="5" killTypes="planes" />
+        </conditions>
+		)
+root.PCQT163_CampaignSB_Mission02_Task03.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="15"/> 
+			</rewards>
+		)
+root.PCQT181_CampaignSB_Mission04_Task01.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC007_Camo_3_Tile_Double" count="15"/> 
+			</rewards>
+		)
+root.PCQT154_CampaignSB_Mission01_Task04.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCEC008_Camo_Eco_Tile" count="15"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCEC008_Camo_Eco_Tile" count="10"/> 
+			</rewards>
+		)
+root.PCQT162_CampaignSB_Mission02_Task02.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY014_SmokeGeneratorPremium" count="25"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY014_SmokeGeneratorPremium" count="15"/> 
+			</rewards>
+		)
+root.PCQT188_CampaignSB_Mission04_Task08_Key.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY010_RegenCrewPremium" count="25"/> 
+				<Item idx="PCY011_AirDefenseDispPremium" count="25"/> 
+				<Item idx="PCY014_SmokeGeneratorPremium" count="25"/> 
+				</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY010_RegenCrewPremium" count="15"/> 
+				<Item idx="PCY011_AirDefenseDispPremium" count="15"/> 
+				<Item idx="PCY014_SmokeGeneratorPremium" count="15"/> 
+				</rewards>
+		)
+root.PCQT134_Key.rewards changed in second object (was 
+            <rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="25" />
+            </rewards>
+		, is 
+            <rewards>
+				<Item idx="PCEC015_Camo_CN_Special" count="15" />
+            </rewards>
+		)
+root.PCQT055_Key.rewards changed in second object (was 
+            <rewards>
+				<Item idx="PCEC008_Camo_Eco_Tile" count="25" />
+            </rewards>
+		, is 
+            <rewards>
+				<Item idx="PCEC008_Camo_Eco_Tile" count="15" />
+            </rewards>
+		)
+root.PCQT183_CampaignSB_Mission04_Task03.rewards changed in second object (was 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="10"/> 
+			</rewards>
+		, is 
+			<rewards>
+				<Item idx="PCY009_CrashCrewPremium" count="15"/> 
+			</rewards>
+		)
+>> finished comparing
