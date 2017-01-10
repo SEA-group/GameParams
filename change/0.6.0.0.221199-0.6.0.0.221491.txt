@@ -1,0 +1,10 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC505_KrasniKrym.groupCustom.NA removed in first object
+root.PBSC507_Belfast_1959.groupCustom.NA removed in first object
+root.PASC507_Indianapolis_1945.groupCustom.NA removed in first object
+root.PGSB507_Scharnhorst.groupCustom.NA removed in first object
+root.PASC006_Atlanta_1942.groupCustom.NA removed in second object
+root.PASB506_Arizona_1941.groupCustom.NA removed in first object
+>> finished comparing
