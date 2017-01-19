@@ -1,0 +1,1476 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PAUA211_D3_ART_STOCK.costCR changed in second object (was 0, is 25000)
+root.PRSD105_Pr_7_Gnevny.A_Hull.deathFoamEffect changed in second object (was sfx/NF_Gnevny_foam_post_death.xml, is sfx/NF_Pr_7_foam_post_death.xml)
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.65644 removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.131129 removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.65643 removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.131180 removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.65645 removed in second object
+root.PRSD105_Pr_7_Gnevny.A_Hull.armor.65646 removed in first object
+root.PRSD105_Pr_7_Gnevny.B_Hull.deathFoamEffect changed in second object (was sfx/NF_Gnevny_foam_post_death.xml, is sfx/NF_Pr_7_foam_post_death.xml)
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.65644 removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.131129 removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.65643 removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.131180 removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.65645 removed in second object
+root.PRSD105_Pr_7_Gnevny.B_Hull.armor.65646 removed in first object
+root.PRUH911_MOSKVA_A.costCR changed in second object (was 0, is 2550000)
+root.PJUH211_Kawachi_1912.costCR changed in second object (was 0, is 72000)
+root.PRUA131_C2_ART_STOCK.costCR changed in second object (was 0, is 7500)
+root.PAUI801_CV9_F_STOCK.costCR changed in second object (was 0, is 500000)
+root.PAUH811_Essex_1943.costCR changed in second object (was 0, is 1200000)
+root.PCEE012_SeasonFlag02.canSell removed in first object
+root.PRUS611_SUO.costCR changed in second object (was 0, is 505000)
+root.PCEF006_HY_SignalFlag.canSell removed in first object
+root.PAUI301_CV4_F_STOCK.costCR changed in second object (was 0, is 58000)
+root.PRGM095_130MM55_B7CAS.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PGUT201_D3_TORP_STOCK.costCR changed in second object (was 0, is 14000)
+root.PFSB506_Dunkerque_1940.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PFSB506_Dunkerque_1940.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJEP308_Ishizuchi_1921.canSell removed in first object
+root.PRUT811_C9_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PCEC006_Tile_Supertest.canSell removed in first object
+root.PRUE801_D9_ENG_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PJUD501_CV6_DB_STOCK.costCR changed in second object (was 0, is 150000)
+root.PGEP507_Scharnhorst.canSell removed in first object
+root.PCEE008_Rank20.canSell removed in first object
+root.PCEE068_Community_Contest removed in second object
+root.PJUH821_Taiho_1944.costCR changed in second object (was 0, is 1000000)
+root.PGEP418_Prinz_Eugen.canSell removed in first object
+root.PJUH921_TENGU_1944.costCR changed in second object (was 0, is 2800000)
+root.PJEP409_Mogami_1935.canSell removed in first object
+root.PAUE742_B8_ENG_STOCK.costCR changed in second object (was 0, is 380000)
+root.PGUA801_C9_ART_STOCK.costCR changed in second object (was 0, is 900000)
+root.PJUE711_C8_ENG_STOCK.costCR changed in second object (was 0, is 650000)
+root.PJSD706_Shinonome.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD706_Shinonome.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUA101_C2_ART_STOCK.costCR changed in second object (was 0, is 8500)
+root.PCEE032_Arizona_memorial.canSell removed in first object
+root.PCH079_F_500Leagues.enabled changed in second object (was False, is True)
+root.PREP505_Pr_7_Gnevny.canSell removed in first object
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PBSC109_Neptune.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PAUB401_CV5_TB_STOCK.costCR changed in second object (was 0, is 140000)
+root.PJUA643_D7_ART_STOCK_1.costCR changed in second object (was 0, is 390000)
+root.PCM028_FireControl_Mod_I_US.type removed in first object
+root.PGUA211_B3_ART_STOCK.costCR changed in second object (was 0, is 32000)
+root.PJUB801_CV9_TB_STOCK.costCR changed in second object (was 0, is 630000)
+root.PCH074_F_DressTheTree.enabled changed in second object (was False, is True)
+root.PCH080_F_BreakTheBank.enabled changed in second object (was False, is True)
+root.PGUE901_C10_ENG_STOCK.costCR changed in second object (was 0, is 1400000)
+root.PGUT501_C6_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PGUS803_D9_SUO_STOCK.costCR changed in second object (was 0, is 850000)
+root.PAUS501_Suo.costCR changed in second object (was 0, is 205000)
+root.PJUS511_Suo.costCR changed in second object (was 0, is 260000)
+root.PBUT211_C3_TORP_STOCK.costCR changed in second object (was 0, is 45000)
+root.PJUS507_D6_SUO_STOCK_2.costCR changed in second object (was 0, is 105000)
+root.PASB034_New_Mexico_1941.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB034_New_Mexico_1941.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUE801_C9_ENG_STOCK.costCR changed in second object (was 0, is 840000)
+root.PAUS821_Suo.costCR changed in second object (was 0, is 1000000)
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUE721_C8_ENG_STOCK.costCR changed in second object (was 0, is 600000)
+root.PCEE999_SecretSanta.canSell removed in first object
+root.PAEP319_Alabama.canSell removed in first object
+root.PJUA931_D10_ART_STOCK.costCR changed in second object (was 0, is 1700000)
+root.PRUH801_KIEV_A.costCR changed in second object (was 0, is 630000)
+root.PCM021_Engine_Mod_I.type removed in first object
+root.PBUS901_C10_SUO_STOCK.costCR changed in second object (was 0, is 1450000)
+root.PJUH931_Hakuryu_1942.costCR changed in second object (was 0, is 2850000)
+root.PAUE902_C10_ENG_STOCK.costCR changed in second object (was 0, is 1600000)
+root.PJUT811_D9_TORP_STOCK_2.costCR changed in second object (was 0, is 1800000)
+root.PRUT511_D6_TORP_STOCK.costCR changed in second object (was 0, is 250000)
+root.PASA015_Midway_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASA015_Midway_1945.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PCEE014_Flag_Supertest.canSell removed in first object
+root.PGUE411_B5_ENG_STOCK.costCR changed in second object (was 0, is 84000)
+root.PCEF010_JC_SignalFlag.canSell removed in first object
+root.PAUE711_D8_ENG_STOCK.costCR changed in second object (was 0, is 625000)
+root.PGSC106_Nurnberg.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC106_Nurnberg.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUH101_Chester_1908.costCR changed in second object (was 0, is 10500)
+root.PJUA231_D3_ART_STOCK.costCR changed in second object (was 0, is 21000)
+root.PRUS801_Suo.costCR changed in second object (was 0, is 900000)
+root.PGUS701_SUO.costCR changed in second object (was 0, is 600000)
+root.PJUS831_Suo.costCR changed in second object (was 0, is 1000000)
+root.PAUT403_D5_TORP_STOCK.costCR changed in second object (was 0, is 152000)
+root.PAUI701_CV8_F_STOCK.costCR changed in second object (was 0, is 320000)
+root.PBUE601_C7_ENG_STOCK.costCR changed in second object (was 0, is 400000)
+root.PGUH403_D5_HULL_STOCK.costCR changed in second object (was 0, is 160000)
+root.PJUE842_D9_ENG_STOCK_2.costCR changed in second object (was 0, is 900000)
+root.PASD006_Mahan_1936.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PASD006_Mahan_1936.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD006_Mahan_1936.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUS701_SUO.costCR changed in second object (was 0, is 415000)
+root.PAUH431_Bogue_1942.costCR changed in second object (was 0, is 105000)
+root.PCEC013_Camo_MGT.canSell removed in first object
+root.PJUT701_C8_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PAUE401_C5_ENG_STOCK.costCR changed in second object (was 0, is 84000)
+root.PCM001_MainGun_Mod_I.type removed in first object
+root.PAUH901_Des_Moines_1948.costCR changed in second object (was 0, is 2900000)
+root.PCEF014_NF_SignalFlag.canSell removed in first object
+root.PREP509_Pr_48_Kiev.canSell removed in first object
+root.PAUA321_B4_ART_STOCK.costCR changed in second object (was 0, is 100000)
+root.PGUT603_D7_TORP_STOCK.costCR changed in second object (was 0, is 430000)
+root.PJUH911_Yamato_1944.costCR changed in second object (was 0, is 3300000)
+root.PJUD801_CV9_DB_STOCK.costCR changed in second object (was 0, is 630000)
+root.PRUS511_SUO.costCR changed in second object (was 0, is 300000)
+root.PBUH901_C10_HULL_A.costCR changed in second object (was 0, is 2450000)
+root.PRUS901_Suo.costCR changed in second object (was 0, is 1500000)
+root.PAUI401_CV5_F_STOCK.costCR changed in second object (was 0, is 85000)
+root.PAUT301_C4_TORP_STOCK.costCR changed in second object (was 0, is 22000)
+root.PAUD904_CV10_DB_STOCK.costCR changed in second object (was 0, is 980000)
+root.PGUT401_C5_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PGUT711_C8_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PAUE511_D6_ENG_STOCK.costCR changed in second object (was 0, is 155000)
+root.PCT068_AccountLevel12.credits changed in second object (was 5000000, is 2000000)
+root.PJUA711_B8_ART_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PJEP321_Izumo_1938.canSell removed in first object
+root.PCEC002_Camo_2.canSell removed in first object
+root.PJUH721_Myoko_1936.costCR changed in second object (was 0, is 530000)
+root.PAUD301_CV4_DB_STOCK.costCR changed in second object (was 0, is 72000)
+root.PJUI601_CV7_F_STOCK.costCR changed in second object (was 0, is 200000)
+root.PAEP445_Marblehead_1924_Asus.canSell removed in first object
+root.PJUA642_D7_ART_STOCK_2.costCR changed in second object (was 0, is 410000)
+root.PJUS403_D5_SUO_STOCK_2.costCR changed in second object (was 0, is 70000)
+root.PREP409_Dmitry_Donskoy.canSell removed in first object
+root.PCEE059_Pearl_Harbor.canSell removed in first object
+root.PGUE811_B9_ENG_STOCK.costCR changed in second object (was 0, is 600000)
+root.PCEE042_Birthday_flag.canSell removed in first object
+root.PASB008_Colorado_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB008_Colorado_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEF001_Zulu_SignalFlag.canSell removed in first object
+root.PRUA121_D2_ART_STOCK.costCR changed in second object (was 0, is 8000)
+root.PJSD207_Shiratsuyu.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD207_Shiratsuyu.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD207_Shiratsuyu.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUT601_D7_TORP_STOCK.costCR changed in second object (was 0, is 480000)
+root.PRUA601_C7_ART_STOCK.costCR changed in second object (was 0, is 400000)
+root.PJUT103_D2_TORP_STOCK.costCR changed in second object (was 0, is 12000)
+root.PGSB110_Grossdeutschland.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB110_Grossdeutschland.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGUA101_C2_ART_STOCK.costCR changed in second object (was 0, is 8000)
+root.PGUA713_D8_ART_STOCK_2.costCR changed in second object (was 0, is 650000)
+root.PCEE067_Supremacy_League_Participant removed in second object
+root.PAUA601_C7_ART_STOCK.costCR changed in second object (was 0, is 440000)
+root.PJUS803_D8_SUO_STOCK_2.costCR changed in second object (was 0, is 370000)
+root.PJUB401_CV5_TB_STOCK.costCR changed in second object (was 0, is 90000)
+root.PBUH401_C5_HULL_A.costCR changed in second object (was 0, is 140000)
+root.PAUE222_B3_ENG_STOCK.costCR changed in second object (was 0, is 17000)
+root.PCEE066_Supremacy_League_Winner removed in second object
+root.PAUS421_Suo.costCR changed in second object (was 0, is 84000)
+root.PJUS411_Suo.costCR changed in second object (was 0, is 76000)
+root.PGSD106_Ernst_Gaede.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PGSD106_Ernst_Gaede.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSD106_Ernst_Gaede.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSD106_Ernst_Gaede.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUE101_C2_ENG_STOCK.costCR changed in second object (was 0, is 3000)
+root.PCM023_DamageControl_Mod_II.type removed in first object
+root.PAUD601_CV7_DB_STOCK.costCR changed in second object (was 0, is 240000)
+root.PAEP509_Black.costGold changed in second object (was 2000, is 3000)
+root.PAEP509_Black.expFactor changed in second object (was 1.5, is 2.0)
+root.PAEP509_Black.canSell removed in first object
+root.PJUA611_B7_ART_STOCK.costCR changed in second object (was 0, is 560000)
+root.PAUE101_C2_ENG_STOCK.costCR changed in second object (was 0, is 4000)
+root.PRUE131_C2_ENG_STOCK.costCR changed in second object (was 0, is 3000)
+root.PJUH802_Shimakaze_1944.costCR changed in second object (was 0, is 2000000)
+root.PGUS703_D8_SUO_STOCK.costCR changed in second object (was 0, is 400000)
+root.PRUT421_D5_TORP_STOCK.costCR changed in second object (was 0, is 125000)
+root.PCH076_F_Aiming.enabled changed in second object (was False, is True)
+root.PRUS811_SUO.costCR changed in second object (was 0, is 980000)
+root.PGUS103_D2_SUO_STOCK.costCR changed in second object (was 0, is 4000)
+root.PAEP112_Lexington_1944.canSell removed in first object
+root.PGUA721_B8_ART_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PAUH701_New_Orleans_1942.costCR changed in second object (was 0, is 1000000)
+root.PGUA411_B5_ART_STOCK.costCR changed in second object (was 0, is 178000)
+root.PJUS231_Suo.costCR changed in second object (was 0, is 18500)
+root.PJSA015_Taiho_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSA015_Taiho_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJEP311_Mikasa_1905.canSell removed in first object
+root.PRUT901_D10_TORP_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PJEP506_Hatsuharu_1945.canSell removed in first object
+root.PRUS211_SUO.costCR changed in second object (was 0, is 20000)
+root.PGUT901_C10_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PCM030_MainWeapon_Mod_I.type removed in first object
+root.PAUA711_D8_ART_STOCK.costCR changed in second object (was 0, is 650000)
+root.PGEP402_Emden_1908.canSell removed in first object
+root.PRUS121_Suo.costCR changed in second object (was 0, is 4500)
+root.PRUA911_D10_ART_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PRUA501_C6_ART_STOCK.costCR changed in second object (was 0, is 120000)
+root.PBUE101_C2_ENG_STOCK.costCR changed in second object (was 0, is 5000)
+root.PAUH621_Mahan_1936.costCR changed in second object (was 0, is 600000)
+root.PBUA301_C4_ART_STOCK.costCR changed in second object (was 0, is 50000)
+root.PAEP312_North_Carolina_1945.canSell removed in first object
+root.PJUH201_Umikaze_1911.costCR changed in second object (was 0, is 8900)
+root.PCEE037_Veterans_flag.canSell removed in first object
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PJSC038_Atago_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCM013_MainGun_Mod_III.type removed in first object
+root.PAUH541_New_Mexico_1918.costCR changed in second object (was 0, is 420000)
+root.PBUS601_C7_SUO_STOCK.costCR changed in second object (was 0, is 500000)
+root.PCM014_Torpedo_Mod_III.type removed in first object
+root.PCEE055_Perth_flag.canSell removed in first object
+root.PRUE421_D5_ENG_STOCK.costCR changed in second object (was 0, is 95000)
+root.PCEF009_JY2_SignalFlag.canSell removed in first object
+root.PJUE351_CV4_ENG_STOCK.costCR changed in second object (was 0, is 33000)
+root.PAUE421_CV5_ENG_STOCK.costCR changed in second object (was 0, is 66000)
+root.PCEE054_Buffed_de.canSell removed in first object
+root.PASD013_Gearing_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD013_Gearing_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASD013_Gearing_1945.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASD013_Gearing_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUE121_D2_ENG_STOCK.costCR changed in second object (was 0, is 3000)
+root.PGUS401_SUO.costCR changed in second object (was 0, is 105000)
+root.PCEE035_Dunkerque.canSell removed in first object
+root.PCM010_Airplanes_Mod_II.type removed in first object
+root.PJSB018_Yamato_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB018_Yamato_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJUH431_Furutaka_1926.costCR changed in second object (was 0, is 150000)
+root.PJUE204_B3_ENG_STOCK.costCR changed in second object (was 0, is 18000)
+root.PGUT602_B7_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PBUE211_C3_ENG_STOCK.costCR changed in second object (was 0, is 19000)
+root.PGUA601_C7_ART_STOCK.costCR changed in second object (was 0, is 410000)
+root.PJUA351_D4_ART_STOCK.costCR changed in second object (was 0, is 45000)
+root.PJUE653_D7_ENG_STOCK_1.costCR changed in second object (was 0, is 350000)
+root.PBUS401_C5_SUO_STOCK.costCR changed in second object (was 0, is 110000)
+root.PRSD106_Pr_30_Ognevoy.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PRSD106_Pr_30_Ognevoy.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD106_Pr_30_Ognevoy.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJSD206_Hatsuharu.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD206_Hatsuharu.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD206_Hatsuharu.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PRSC508_Kutuzov_1952.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEP301_Permo_NY.canSell removed in first object
+root.PBUS301_C4_SUO_STOCK.costCR changed in second object (was 0, is 60000)
+root.PJUE405_D5_ENG_STOCK_2.costCR changed in second object (was 0, is 105000)
+root.PJUT301_C4_TORP_STOCK.costCR changed in second object (was 0, is 200000)
+root.PJUS401_Suo.costCR changed in second object (was 0, is 70000)
+root.PCT040_AccountLevel8.premium changed in second object (was 0, is 1)
+root.PCT040_AccountLevel8.credits changed in second object (was 2000000, is 0)
+root.PAUT302_D4_TORP_STOCK.costCR changed in second object (was 0, is 70000)
+root.PGUE711_C8_ENG_STOCK.costCR changed in second object (was 0, is 600000)
+root.PAUH721_Benson_1938.costCR changed in second object (was 0, is 690000)
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PGSC110_Hindenburg.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PRUH301_IZYASLAV_A.costCR changed in second object (was 0, is 80000)
+root.PAEP309_New_York_Scull.canSell removed in first object
+root.PGUA202_D3_ART_STOCK.costCR changed in second object (was 0, is 24000)
+root.PCEF007_ID_SignalFlag.canSell removed in first object
+root.PBUS701_C8_SUO_STOCK.costCR changed in second object (was 0, is 700000)
+root.PGUS902_D10_SUO_STOCK.costCR changed in second object (was 0, is 1700000)
+root.PGUE401_C5_ENG_STOCK.costCR changed in second object (was 0, is 82000)
+root.PRSD110_Pr_24_Khabarovsk.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD110_Pr_24_Khabarovsk.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PRSD110_Pr_24_Khabarovsk.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUF911_FlightControl_1.costCR changed in second object (was 0, is 1150000)
+root.PJEP507_Fubuki_1944.canSell removed in first object
+root.PRUH311_SVETLANA_A.costCR changed in second object (was 0, is 90000)
+root.PRUA421_D5_ART_STOCK.costCR changed in second object (was 0, is 80000)
+root.PJUT621_D7_TORP_STOCK_2.costCR changed in second object (was 0, is 400000)
+root.PAUS731_Suo.costCR changed in second object (was 0, is 590000)
+root.PJUS509_D6_SUO_STOCK.costCR changed in second object (was 0, is 105000)
+root.PJUS901_Suo.costCR changed in second object (was 0, is 1100000)
+root.PJUI301_CV4_F_STOCK.costCR changed in second object (was 0, is 51000)
+root.PGUS721_SUO.costCR changed in second object (was 0, is 750000)
+root.PJUE421_CV5_ENG_STOCK.costCR changed in second object (was 0, is 100000)
+root.PAUS931_Suo.costCR changed in second object (was 0, is 2100000)
+root.PJUS633_D7_SUO_STOCK.costCR changed in second object (was 0, is 235000)
+root.PAUA631_B7_ART_STOCK.costCR changed in second object (was 0, is 560000)
+root.PJUE705_D8_ENG_STOCK.costCR changed in second object (was 0, is 600000)
+root.PJUH831_Izumo_1938.costCR changed in second object (was 0, is 1800000)
+root.PRUT801_D9_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PJUF901_FlightControl_1.costCR changed in second object (was 0, is 1100000)
+root.PCEF013_PP_SignalFlag.canSell removed in first object
+root.PJUH811_Ibuki_1944.costCR changed in second object (was 0, is 1100000)
+root.PJUH541_Ryujo.costCR changed in second object (was 0, is 220000)
+root.PGUS301_SUO.costCR changed in second object (was 0, is 56000)
+root.PJUA721_C8_ART_STOCK.costCR changed in second object (was 0, is 700000)
+root.PRUA821_C9_ART_STOCK.costCR changed in second object (was 0, is 1105000)
+root.PBUH801_C9_HULL_A.costCR changed in second object (was 0, is 1300000)
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PASC019_Burlington_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASC019_Burlington_1944.ShipAbilities.AbilitySlot2.abils[4] removed in first object
+root.PASC019_Burlington_1944.ShipAbilities.AbilitySlot2.abils[5] removed in first object
+root.PJSC018_Tone.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC018_Tone.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUT605_D7_TORP_STOCK_1.costCR changed in second object (was 0, is 400000)
+root.PGUE501_C6_ENG_STOCK.costCR changed in second object (was 0, is 180000)
+root.PRUS911_SUO.costCR changed in second object (was 0, is 1900000)
+root.PGUS211_SUO.costCR changed in second object (was 0, is 24000)
+root.PAUA301_C4_ART_STOCK.costCR changed in second object (was 0, is 56000)
+root.PAUB801_CV9_TB_STOCK.costCR changed in second object (was 0, is 640000)
+root.PGUS501_SUO.costCR changed in second object (was 0, is 210000)
+root.PCEE017_Flag_Volunteer.canSell removed in first object
+root.PBUS211_C3_SUO_STOCK.costCR changed in second object (was 0, is 20000)
+root.PAUS311_Suo.costCR changed in second object (was 0, is 44000)
+root.PGUH703_D8_HULL_STOCK.costCR changed in second object (was 0, is 900000)
+root.PAUA401_C5_ART_STOCK.costCR changed in second object (was 0, is 110000)
+root.PJUE831_C9_ENG_STOCK.costCR changed in second object (was 0, is 800000)
+root.PAEP408_Flint.canSell removed in first object
+root.PGUT902_D10_TORP_STOCK.costCR changed in second object (was 0, is 1500000)
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJSC012_Ibuki_1944.ShipModernization.ModernizationSlot5.mods[4] removed in first object
+root.PRUH421_GNEVNY_A.costCR changed in second object (was 0, is 200000)
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PASC020_Des_Moines_1948.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PCEE010_Rank1.canSell removed in first object
+root.PJUH713_AMAGI_1926.costCR changed in second object (was 0, is 1100000)
+root.PAUH301_Phoenix_1917.costCR changed in second object (was 0, is 78000)
+root.PJUE641_C7_ENG_STOCK.costCR changed in second object (was 0, is 400000)
+root.PJUH641_D7_HULL_STOCK_2.costCR changed in second object (was 0, is 490000)
+root.PAUA701_C8_ART_STOCK.costCR changed in second object (was 0, is 730000)
+root.PREP501_Gremyashchy_1942.canSell removed in first object
+root.PZSD506_Anshan.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PZSD506_Anshan.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PZSD506_Anshan.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUA302_D4_ART_STOCK.costCR changed in second object (was 0, is 50000)
+root.PBUT601_C7_TORP_STOCK.costCR changed in second object (was 0, is 500000)
+root.PJUI701_CV8_F_STOCK.costCR changed in second object (was 0, is 280000)
+root.PRUE911_C10_ENG_STOCK.costCR changed in second object (was 0, is 1500000)
+root.PGUH803_D9_HULL_STOCK.costCR changed in second object (was 0, is 1400000)
+root.PRUT101_D2_TORP_STOCK.costCR changed in second object (was 0, is 6000)
+root.PJUT801_C9_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PAUA501_C6_ART_STOCK.costCR changed in second object (was 0, is 225000)
+root.PCEP103_Permo_Prem_Low_lvl.canSell removed in first object
+root.PAUA611_D7_ART_STOCK.costCR changed in second object (was 0, is 420000)
+root.PBUS801_C9_SUO_STOCK.costCR changed in second object (was 0, is 900000)
+root.PBUT801_C9_TORP_STOCK.costCR changed in second object (was 0, is 1200000)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_2.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_3.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_1.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_6.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_7.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_4.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_5.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_8.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_9.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_10.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_11.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_12.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_13.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_14.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRSC505_KrasniKrym.A1_Artillery.HP_RGM_15.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PRUA721_D8_ART_STOCK.costCR changed in second object (was 0, is 650000)
+root.PGUA201_C3_ART_STOCK.costCR changed in second object (was 0, is 20000)
+root.PCH082_F_WinAtLeastOne.enabled changed in second object (was False, is True)
+root.PJUB601_CV7_TB_STOCK.costCR changed in second object (was 0, is 230000)
+root.PAEP508_Benson_1945.canSell removed in first object
+root.PAUE403_D5_ENG_STOCK.costCR changed in second object (was 0, is 120000)
+root.PGUH301_KARLSRUHE_A.costCR changed in second object (was 0, is 90000)
+root.PCEF020_Blue_Dragon_Flag.canSell removed in first object
+root.PAUH211_Wickes_1918.costCR changed in second object (was 0, is 38000)
+root.PGUT303_D4_TORP_STOCK.costCR changed in second object (was 0, is 50000)
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PBSC507_Belfast_1959.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PGUT502_D6_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PJUA101_D2_ART_STOCK.costCR changed in second object (was 0, is 5000)
+root.PJUA431_C5_ART_STOCK.costCR changed in second object (was 0, is 130000)
+root.PCEC016_Camo_Gamescom_2016.canSell removed in first object
+root.PAUS631_Suo.costCR changed in second object (was 0, is 330000)
+root.PBUA701_C8_ART_STOCK.costCR changed in second object (was 0, is 600000)
+root.PCEE048_SeasonFlag05.canSell removed in first object
+root.PAUS531_Suo.costCR changed in second object (was 0, is 200000)
+root.PJUE401_D5_ENG_STOCK.costCR changed in second object (was 0, is 105000)
+root.PJSD010_Kagero_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD010_Kagero_1943.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJSD010_Kagero_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUE702_C8_ENG_STOCK.costCR changed in second object (was 0, is 620000)
+root.PJUD701_CV8_DB_STOCK.costCR changed in second object (was 0, is 320000)
+root.PAUH601_Pensacola_1942.costCR changed in second object (was 0, is 610000)
+root.PWEP501_Blyskawica.canSell removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB012_North_Carolina_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAEP318_Iowa_1944.canSell removed in first object
+root.PAUS601_Suo.costCR changed in second object (was 0, is 395000)
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PZSD508_LoYang.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUS201_Suo.costCR changed in second object (was 0, is 21000)
+root.PAUT701_D8_TORP_STOCK.costCR changed in second object (was 0, is 780000)
+root.PJSB010_Nagato_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB010_Nagato_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUT441_C5_TORP_STOCK.costCR changed in second object (was 0, is 125000)
+root.PGSB106_Bayern.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASC707_Flint.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC707_Flint.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC707_Flint.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUE102_D2_ENG_STOCK.costCR changed in second object (was 0, is 6000)
+root.PJUE941_D10_ENG_STOCK.costCR changed in second object (was 0, is 1650000)
+root.PJUA311_C4_ART_STOCK.costCR changed in second object (was 0, is 44000)
+root.PAUH911_Gearing_1945.costCR changed in second object (was 0, is 2650000)
+root.PRUA441_C5_ART_STOCK.costCR changed in second object (was 0, is 125000)
+root.PZEP506_Anshan.canSell removed in first object
+root.PAUB701_CV8_TB_STOCK.costCR changed in second object (was 0, is 240000)
+root.PJUF801_FlightControl_1.costCR changed in second object (was 0, is 950000)
+root.PREP410_Diana_1905_Asus.canSell removed in first object
+root.PBEP302_Warspite_1941.canSell removed in first object
+root.PJUF501_FlightControl_1.costCR changed in second object (was 0, is 190000)
+root.PJSB013_Amagi_1942.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB013_Amagi_1942.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGSD109_Z_46.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSD109_Z_46.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSD109_Z_46.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGSD109_Z_46.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUS911_Suo.costCR changed in second object (was 0, is 2100000)
+root.PASB018_Iowa_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB018_Iowa_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PAUH831_Iowa_1943.costCR changed in second object (was 0, is 1750000)
+root.PJUE603_B7_ENG_STOCK.costCR changed in second object (was 0, is 220000)
+root.PAUH801_Baltimore_1944.costCR changed in second object (was 0, is 1450000)
+root.PAUH732_North_Carolina_1942.costCR changed in second object (was 0, is 1700000)
+root.PGUA611_B7_ART_STOCK.costCR changed in second object (was 0, is 520000)
+root.PJUH611_Nagato_1941.costCR changed in second object (was 0, is 690000)
+root.PJUH751_Zuikaku_1941.costCR changed in second object (was 0, is 580000)
+root.PAUH421_Leader_1919.costCR changed in second object (was 0, is 140000)
+root.PAUA131_D2_ART_STOCK.costCR changed in second object (was 0, is 7500)
+root.PAUE341_C4_ENG_STOCK.costCR changed in second object (was 0, is 40000)
+root.PAUA311_D4_ART_STOCK.costCR changed in second object (was 0, is 50000)
+root.PGUS411_SUO.costCR changed in second object (was 0, is 64000)
+root.PCEE030_Battle_of_Jutland.canSell removed in first object
+root.PAEP306_Arizona.canSell removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.canSell removed in first object
+root.PAUI901_CV10_F_STOCK.costCR changed in second object (was 0, is 680000)
+root.PAEP444_Marblehead_1924.canSell removed in first object
+root.PGUE201_C3_ENG_STOCK.costCR changed in second object (was 0, is 15000)
+root.PJUI801_CV9_F_STOCK.costCR changed in second object (was 0, is 440000)
+root.PREP508_Pr_20i_Tashkent.canSell removed in first object
+root.PCEE018_Flag_Val_Player.canSell removed in first object
+root.PJUE534_D6_ENG_STOCK_2.costCR changed in second object (was 0, is 110000)
+root.PGEP406_Nurnberg.canSell removed in first object
+root.PAUE602_CV7_ENG_STOCK.costCR changed in second object (was 0, is 340000)
+root.PCEE069_Fire_Rooster removed in second object
+root.PFEP306_Dunkerque_1940.canSell removed in first object
+root.PRUE701_D8_ENG_STOCK.costCR changed in second object (was 0, is 700000)
+root.PRSD107_Pr_35_Udaloy.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD107_Pr_35_Udaloy.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PRSD107_Pr_35_Udaloy.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRSD109_Pr_48_Kiev.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PRSD109_Pr_48_Kiev.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD109_Pr_48_Kiev.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUE701_CV8_ENG_STOCK.costCR changed in second object (was 0, is 560000)
+root.PRUE901_D10_ENG_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PAUE231_D3_ENG_STOCK.costCR changed in second object (was 0, is 21000)
+root.PJUS301_Suo.costCR changed in second object (was 0, is 38000)
+root.PJUH621_Mogami_1935.costCR changed in second object (was 0, is 690000)
+root.PJUS521_Suo.costCR changed in second object (was 0, is 240000)
+root.PGSB109_Friedrich_der_Grosse.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB109_Friedrich_der_Grosse.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJSA012_Zuikaku_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSA012_Zuikaku_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PREP407_Schors.canSell removed in first object
+root.PASD029_Sims_1941.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PASD029_Sims_1941.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD029_Sims_1941.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUS901_SUO.costCR changed in second object (was 0, is 1700000)
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC110_Minotaur.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PGUS811_SUO.costCR changed in second object (was 0, is 1000000)
+root.PCEE064_Flag_Volunteer_3.canSell removed in first object
+root.PCEE041_Player_Gathering.canSell removed in first object
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PJSC009_Mogami_1935.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCH075_F_ToTheBottom.enabled changed in second object (was False, is True)
+root.PJUE521_CV6_ENG_STOCK.costCR changed in second object (was 0, is 170000)
+root.PCEE013_SeasonFlag03.canSell removed in first object
+root.PASA013_Essex_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASA013_Essex_1945.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASA010_Ranger_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUA911_B10_ART_STOCK.costCR changed in second object (was 0, is 2300000)
+root.PAUS901_Suo.costCR changed in second object (was 0, is 1800000)
+root.PCEF008_IY_SignalFlag.canSell removed in first object
+root.PGUT402_D5_TORP_STOCK.costCR changed in second object (was 0, is 100000)
+root.PBUA101_C2_ART_STOCK.costCR changed in second object (was 0, is 8000)
+root.PCEE046_Pirate_Day_flag.canSell removed in first object
+root.PAUE832_B9_ENG_STOCK.costCR changed in second object (was 0, is 550000)
+root.PBUT501_C6_TORP_STOCK.costCR changed in second object (was 0, is 400000)
+root.PAUE811_D9_ENG_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PJEP418_Tone.canSell removed in first object
+root.PBUT901_C10_TORP_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PJSC008_Myoko_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC008_Myoko_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PRUA901_C10_ART_STOCK.costCR changed in second object (was 0, is 2350000)
+root.PJUA547_D6_ART_STOCK_2.costCR changed in second object (was 0, is 190000)
+root.PCEP115_Permo_Upgr_5_lvl.canSell removed in first object
+root.PJUT601_C7_TORP_STOCK.costCR changed in second object (was 0, is 400000)
+root.PJUH841_D9_HULL_STOCK_2.costCR changed in second object (was 0, is 980000)
+root.PRUH441_KIROV_A.costCR changed in second object (was 0, is 180000)
+root.PJUS221_Suo.costCR changed in second object (was 0, is 23000)
+root.PCEC001_Camo_1.canSell removed in first object
+root.PJUH401_Minekadze_1920.costCR changed in second object (was 0, is 110000)
+root.PASC507_Indianapolis_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC507_Indianapolis_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUA812_B9_ART_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PJUE211_D3_ENG_STOCK.costCR changed in second object (was 0, is 19500)
+root.PAUF311_FlightControl_1.costCR changed in second object (was 0, is 40000)
+root.PJSD006_Hatsuharu_1945.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD006_Hatsuharu_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD006_Hatsuharu_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUS401_Suo.costCR changed in second object (was 0, is 90000)
+root.PCEE039_Gamescom_2016.canSell removed in first object
+root.PGUA902_D10_ART_STOCK.costCR changed in second object (was 0, is 2000000)
+root.PREP406_Molotov.canSell removed in first object
+root.PBUH211_C3_HULL_A.costCR changed in second object (was 0, is 60000)
+root.PJUE931_B10_ENG_STOCK.costCR changed in second object (was 0, is 590000)
+root.PJUT503_C6_TORP_STOCK.costCR changed in second object (was 0, is 400000)
+root.PAUH331_Arkansas_1912.costCR changed in second object (was 0, is 150000)
+root.PGUE601_C7_ENG_STOCK.costCR changed in second object (was 0, is 330000)
+root.PJUS841_D9_SUO_STOCK_2.costCR changed in second object (was 0, is 530000)
+root.PJUS121_Suo.costCR changed in second object (was 0, is 4500)
+root.PGSC109_Roon.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC109_Roon.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PGSC109_Roon.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PGSC109_Roon.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PAUH311_Langley_1929.costCR changed in second object (was 0, is 90000)
+root.PJUA341_B4_ART_STOCK.costCR changed in second object (was 0, is 90000)
+root.PJUS807_D8_SUO_STOCK.costCR changed in second object (was 0, is 350000)
+root.PGUT801_C9_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PAUS321_Suo.costCR changed in second object (was 0, is 40000)
+root.PCM016_FlightControl_Mod_II.type removed in first object
+root.PCM024_Engine_Mod_II.type removed in first object
+root.PCM025_SteeringGear_Mod_II.type removed in first object
+root.PRSD108_Pr_20i_Tashkent.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PRSD108_Pr_20i_Tashkent.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD108_Pr_20i_Tashkent.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_10.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_10.position[0] changed in second object (was 5.75, is 6.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_9.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_8.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_1.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_3.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_3.position[0] changed in second object (was 0.75, is 0.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_2.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_2.position[0] changed in second object (was 0.75, is 0.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_4.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_4.position[0] changed in second object (was 1.75, is 1.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_7.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_6.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_5.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC044_Marblehead_1924.ArtilleryDefault.HP_AGM_5.position[0] changed in second object (was 1.75, is 1.0)
+root.PASC044_Marblehead_1924.TorpedoesDefault.HP_AGT_1.horizSector[0] changed in second object (was -97.0, is -100.0)
+root.PASC044_Marblehead_1924.TorpedoesDefault.HP_AGT_1.horizSector[1] changed in second object (was 7.0, is -4.0)
+root.PASC044_Marblehead_1924.TorpedoesDefault.HP_AGT_2.horizSector[0] changed in second object (was -7.0, is 0.0)
+root.PGUE611_B7_ENG_STOCK.costCR changed in second object (was 0, is 300000)
+root.PCM005_SecondaryGun_Mod_I.type removed in first object
+root.PBUA401_C5_ART_STOCK.costCR changed in second object (was 0, is 100000)
+root.PAEP403_Albany_1898.canSell removed in first object
+root.PCEE036_Taiwan_Navy.canSell removed in first object
+root.PREP405_KrasniKrym.canSell removed in first object
+root.PCEE024_MGT_20.canSell removed in first object
+root.PCEE027_Sea_Lion.canSell removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.canSell removed in first object
+root.PCEE025_Military_Month_Contributor_Flag.canSell removed in first object
+root.PJEP111_Hiryu_1942.canSell removed in first object
+root.PBUA211_C3_ART_STOCK.costCR changed in second object (was 0, is 22000)
+root.PGUA711_C8_ART_STOCK.costCR changed in second object (was 0, is 700000)
+root.PRUH211_Derzky_1915.costCR changed in second object (was 0, is 40000)
+root.PRSC107_Schors.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC107_Schors.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC107_Schors.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUD901_CV10_DB_STOCK.costCR changed in second object (was 0, is 990000)
+root.PCM012_SecondaryGun_Mod_II.type removed in first object
+root.PCEC018_Restless_Fire.canSell removed in first object
+root.PAEP107_Indianapolis.canSell removed in first object
+root.PCEF016_NE7_SignalFlag.canSell removed in first object
+root.PAUT901_D10_TORP_STOCK.costCR changed in second object (was 0, is 2500000)
+root.PGUH902_D10_HULL_STOCK.costCR changed in second object (was 0, is 2350000)
+root.PJUS621_Suo.costCR changed in second object (was 0, is 420000)
+root.PAEP521_Fletcher_1943.canSell removed in first object
+root.PGUH411_KONIG_A.costCR changed in second object (was 0, is 190000)
+root.PJUH643_D7_HULL_STOCK.costCR changed in second object (was 0, is 500000)
+root.PRUT721_D8_TORP_STOCK.costCR changed in second object (was 0, is 800000)
+root.PCEP139_Permo_Prem_9_lvl.canSell removed in first object
+root.PBUH101_C2_HULL_A.costCR changed in second object (was 0, is 17000)
+root.PBUE901_C10_ENG_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PRUH701_TASHKENT_A.costCR changed in second object (was 0, is 850000)
+root.PRUS441_SUO.costCR changed in second object (was 0, is 120000)
+root.PJSD007_Fubuki_1944.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD007_Fubuki_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD007_Fubuki_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUE311_B4_ENG_STOCK.costCR changed in second object (was 0, is 30000)
+root.PGUH901_HINDENBURG_A.costCR changed in second object (was 0, is 2200000)
+root.PAEP502_Smith.canSell removed in first object
+root.PJEP514_Tachibana_1912_Asus.canSell removed in first object
+root.PGUA901_C10_ART_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PJUI401_CV5_F_STOCK.costCR changed in second object (was 0, is 70000)
+root.PJUS711_Suo.costCR changed in second object (was 0, is 640000)
+root.PRUE201_D3_ENG_STOCK.costCR changed in second object (was 0, is 16000)
+root.PAUH611_Ranger_1941.costCR changed in second object (was 0, is 420000)
+root.PJUA704_D8_ART_STOCK.costCR changed in second object (was 0, is 590000)
+root.PAUE612_B7_ENG_STOCK.costCR changed in second object (was 0, is 180000)
+root.PJUH604_Kagero_1943.costCR changed in second object (was 0, is 610000)
+root.PJUH706_Fubuki_1942.costCR changed in second object (was 0, is 230000)
+root.PJSD012_Shimakaze_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD012_Shimakaze_1943.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJSD012_Shimakaze_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUE533_B6_ENG_STOCK.costCR changed in second object (was 0, is 132000)
+root.PJUA544_D6_ART_STOCK.costCR changed in second object (was 0, is 180000)
+root.PJUH231_Wakatake_1923.costCR changed in second object (was 0, is 30000)
+root.PJUT902_C10_TORP_STOCK.costCR changed in second object (was 0, is 2500000)
+root.PAEP308_New_York_1934.canSell removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PASC017_Baltimore_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PCM002_Torpedo_Mod_I.type removed in first object
+root.PASB509_Missouri.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PAUA821_B9_ART_STOCK.costCR changed in second object (was 0, is 1350000)
+root.PCM011_AirDefense_Mod_II.type removed in first object
+root.PJUT510_D6_TORP_STOCK_2.costCR changed in second object (was 0, is 180000)
+root.PJUE702_B8_ENG_STOCK.costCR changed in second object (was 0, is 440000)
+root.PGUE511_B6_ENG_STOCK.costCR changed in second object (was 0, is 130000)
+root.PCEF015_ZH_SignalFlag.canSell removed in first object
+root.PJUE221_C3_ENG_STOCK.costCR changed in second object (was 0, is 22000)
+root.PCEE011_SeasonFlag01.canSell removed in first object
+root.PGUS101_SUO.costCR changed in second object (was 0, is 6000)
+root.PCEE043_Restless_Fire.canSell removed in first object
+root.PAUA901_C10_ART_STOCK.costCR changed in second object (was 0, is 2000000)
+root.PJUA531_C6_ART_STOCK.costCR changed in second object (was 0, is 240000)
+root.PRUH601_UDALOY_A.costCR changed in second object (was 0, is 1400000)
+root.PGUH211_NASSAU_A.costCR changed in second object (was 0, is 74000)
+root.PCEP302_Permo_NY_2.canSell removed in first object
+root.PGUA402_D5_ART_STOCK.costCR changed in second object (was 0, is 100000)
+root.PJUH111_Chikuma_1912.costCR changed in second object (was 0, is 10000)
+root.PJUE704_D8_ENG_STOCK_2.costCR changed in second object (was 0, is 600000)
+root.PCM027_ConcealmentMeasures_Mod_I.type removed in first object
+root.PGUA602_D7_ART_STOCK.costCR changed in second object (was 0, is 420000)
+root.PGUA102_D2_ART_STOCK.costCR changed in second object (was 0, is 4000)
+root.PAUS411_Suo.costCR changed in second object (was 0, is 90000)
+root.PBSB002_Warspite_1941.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSB002_Warspite_1941.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PBUH301_C4_HULL_A.costCR changed in second object (was 0, is 80000)
+root.PJUS211_Suo.costCR changed in second object (was 0, is 20000)
+root.PRGM094_130MM_55_B7.rotationSpeed[1] changed in second object (was 4.0, is 20.0)
+root.PJSA011_Hiryu_1942.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJEP403_Katori.canSell removed in first object
+root.PRUT341_C4_TORP_STOCK.costCR changed in second object (was 0, is 125000)
+root.PJUH632_Hiryu_1942.costCR changed in second object (was 0, is 390000)
+root.PCM029_FireControl_Mod_II_US.type removed in first object
+root.PRUS601_Suo.costCR changed in second object (was 0, is 290000)
+root.PAUS211_Suo.costCR changed in second object (was 0, is 4500)
+root.PCM026_LookoutStation_Mod_I.type removed in first object
+root.PAUH941_MIDWAY_1945.costCR changed in second object (was 0, is 3000000)
+root.PJUE301_D4_ENG_STOCK.costCR changed in second object (was 0, is 43000)
+root.PAUH521_Farragut_1934.costCR changed in second object (was 0, is 240000)
+root.PJUA631_C7_ART_STOCK.costCR changed in second object (was 0, is 500000)
+root.PJUB901_CV10_TB_STOCK.costCR changed in second object (was 0, is 990000)
+root.PJEP313_Amagi_1942.canSell removed in first object
+root.PJUF301_FlightControl_1.costCR changed in second object (was 0, is 32000)
+root.PGUH611_GNEISENAU_A.costCR changed in second object (was 0, is 620000)
+root.PJUE751_CV8_ENG_STOCK.costCR changed in second object (was 0, is 540000)
+root.PGUH101_DRESDEN_A.costCR changed in second object (was 0, is 12500)
+root.PJUE511_C6_ENG_STOCK.costCR changed in second object (was 0, is 180000)
+root.PJEP504_Minekadze_1920.canSell removed in first object
+root.PAUE412_B5_ENG_STOCK.costCR changed in second object (was 0, is 80000)
+root.PGSB107_Gneisenau.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB107_Gneisenau.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PBSC108_Edinburgh.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PAUH442_New_York_1934.costCR changed in second object (was 0, is 240000)
+root.PCEC012_Camo_Basketball_Tile_4.canSell removed in first object
+root.PGSB507_Scharnhorst.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB507_Scharnhorst.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEE029_Songkran.canSell removed in first object
+root.PJUF401_FlightControl_1.costCR changed in second object (was 0, is 110000)
+root.PAUB601_CV7_TB_STOCK.costCR changed in second object (was 0, is 240000)
+root.PCEE034_Scharnhorst.canSell removed in first object
+root.PRUH811_DDONSKOY_A.costCR changed in second object (was 0, is 995000)
+root.PGUA802_D9_ART_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PAUB904_CV10_TB_STOCK.costCR changed in second object (was 0, is 980000)
+root.PJSD107_Akatsuki.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD107_Akatsuki.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD107_Akatsuki.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUS301_Suo.costCR changed in second object (was 0, is 44000)
+root.PREP402_Diana_1905.canSell removed in first object
+root.PGUH721_HIPPER_A.costCR changed in second object (was 0, is 900000)
+root.PAUA903_D10_ART_STOCK.costCR changed in second object (was 0, is 1900000)
+root.PGUS503_D6_SUO_STOCK.costCR changed in second object (was 0, is 200000)
+root.PAUD401_CV5_DB_STOCK.costCR changed in second object (was 0, is 128000)
+root.PCEE998_SecretSanta_2.canSell removed in first object
+root.PCEE026_Sea_Dog.canSell removed in first object
+root.PGSD108_Z_23.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PGSD108_Z_23.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSD108_Z_23.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSD108_Z_23.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUE822_B9_ENG_STOCK.costCR changed in second object (was 0, is 550000)
+root.PJUI901_CV10_F_STOCK.costCR changed in second object (was 0, is 690000)
+root.PBUE401_C5_ENG_STOCK.costCR changed in second object (was 0, is 85000)
+root.PRUS501_Suo.costCR changed in second object (was 0, is 180000)
+root.PCEE065_Shipsmas.canSell removed in first object
+root.PJUD401_CV5_DB_STOCK.costCR changed in second object (was 0, is 85000)
+root.PGUA501_C6_ART_STOCK.costCR changed in second object (was 0, is 215000)
+root.PGUS511_SUO.costCR changed in second object (was 0, is 300000)
+root.PCEE044_Prinz_Eugen.canSell removed in first object
+root.PJUE811_CV9_ENG_STOCK.costCR changed in second object (was 0, is 800000)
+root.PRUA311_D4_ART_STOCK.costCR changed in second object (was 0, is 50000)
+root.PJUT401_C5_TORP_STOCK.costCR changed in second object (was 0, is 120000)
+root.PCEE057_Coinsup_flag.canSell removed in first object
+root.PAUS511_Suo.costCR changed in second object (was 0, is 165000)
+root.PGSC508_Prinz_Eugen.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC508_Prinz_Eugen.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PGSC508_Prinz_Eugen.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUS821_Suo.costCR changed in second object (was 0, is 800000)
+root.PJUH531_Aoba_1942.costCR changed in second object (was 0, is 380000)
+root.PGUH701_BISMARCK_A.costCR changed in second object (was 0, is 1650000)
+root.PJEP426_Iwaki_1944.canSell removed in first object
+root.PCM007_Torpedo_Mod_II.type removed in first object
+root.PJSC007_Aoba_1943.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC007_Aoba_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUA503_D6_ART_STOCK_2.costCR changed in second object (was 0, is 200000)
+root.PAUH821_Fletcher_1942.costCR changed in second object (was 0, is 1400000)
+root.PCEF011_IB3_SignalFlag.canSell removed in first object
+root.PCEE061_Graf_Spee.canSell removed in first object
+root.PGEP303_Koenig_Albert.canSell removed in first object
+root.PGUE802_D9_ENG_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PAEP529_Sims_1941.canSell removed in first object
+root.PCM019_SecondaryGun_Mod_III.type removed in first object
+root.PGUS911_SUO.costCR changed in second object (was 0, is 2000000)
+root.PRUH511_BUDENY_A.costCR changed in second object (was 0, is 450000)
+root.PAUS911_Suo.costCR changed in second object (was 0, is 1600000)
+root.PJUF701_FlightControl_1.costCR changed in second object (was 0, is 495000)
+root.PJUT403_D5_TORP_STOCK.costCR changed in second object (was 0, is 200000)
+root.PAUH111_Sampson_1917.costCR changed in second object (was 0, is 10000)
+root.PBUT701_C8_TORP_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PAEP110_Ranger_1944.canSell removed in first object
+root.PAUH321_Clemson_1920.costCR changed in second object (was 0, is 77000)
+root.PJUT901_D10_TORP_STOCK.costCR changed in second object (was 0, is 2500000)
+root.PJUT708_D8_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PCEC008_Camo_Eco_Tile.canSell removed in first object
+root.PAUS221_Suo.costCR changed in second object (was 0, is 20500)
+root.PGUA821_B9_ART_STOCK.costCR changed in second object (was 0, is 2000000)
+root.PJEP525_True_Kamikaze.canSell removed in first object
+root.PCEE050_Leningrad.canSell removed in first object
+root.PRUE511_C6_ENG_STOCK.costCR changed in second object (was 0, is 170000)
+root.PGUE502_D6_ENG_STOCK.costCR changed in second object (was 0, is 165000)
+root.PCEE047_WaitForMe.canSell removed in first object
+root.PRUS301_SUO.costCR changed in second object (was 0, is 43000)
+root.PGUH501_NURNBERG_A.costCR changed in second object (was 0, is 345000)
+root.PCEP119_Permo_Upgr_9_lvl.canSell removed in first object
+root.PCM006_MainGun_Mod_II.type removed in first object
+root.PAUH711_Lexington_1942.costCR changed in second object (was 0, is 800000)
+root.PJUD601_CV7_DB_STOCK.costCR changed in second object (was 0, is 230000)
+root.PGUS201_SUO.costCR changed in second object (was 0, is 24000)
+root.PCEE038_Olympics_flag.canSell removed in first object
+root.PCEC004_Camo_XP_Boost.canSell removed in first object
+root.PGUH203_D3_HULL_STOCK.costCR changed in second object (was 0, is 37500)
+root.PCEE019_Flag_AT.canSell removed in first object
+root.PCM015_FireControl_Mod_II.type removed in first object
+root.PCEE058_WG_Fest.canSell removed in first object
+root.PAUE802_CV9_ENG_STOCK.costCR changed in second object (was 0, is 810000)
+root.PJUH301_Isokaze_1917.costCR changed in second object (was 0, is 65000)
+root.PRUH501_OGNEVOY_A.costCR changed in second object (was 0, is 380000)
+root.PCEE028_SeasonFlag04.canSell removed in first object
+root.PRUT731_C8_TORP_STOCK.costCR changed in second object (was 0, is 800000)
+root.PJUE303_B4_ENG_STOCK.costCR changed in second object (was 0, is 42000)
+root.PJEP404_Yubari_1944.canSell removed in first object
+root.PJUH352_Hosho_1939.costCR changed in second object (was 0, is 100000)
+root.PJUH613_NAGATO_1933.costCR changed in second object (was 0, is 690000)
+root.PJUS431_Suo.costCR changed in second object (was 0, is 100000)
+root.PJUH221_Tatsuta_1919.costCR changed in second object (was 0, is 48000)
+root.PBUA901_C10_ART_STOCK.costCR changed in second object (was 0, is 1900000)
+root.PCEP108_Permo_Prem_High_lvl_2.canSell removed in first object
+root.PJSB006_Fuso_1943.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB006_Fuso_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUB301_CV4_TB_STOCK.costCR changed in second object (was 0, is 70000)
+root.PBUA511_C6_ART_STOCK.costCR changed in second object (was 0, is 200000)
+root.PCEC003_Camo_Halloween.canSell removed in first object
+root.PRUA801_D9_ART_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PJUS721_Suo.costCR changed in second object (was 0, is 400000)
+root.PAEP414_New_Orlean_1944.canSell removed in first object
+root.PJSD208_Kagero.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD208_Kagero.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD208_Kagero.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUA921_C10_ART_STOCK.costCR changed in second object (was 0, is 2100000)
+root.PJEP517_Kamikaze_1930.canSell removed in first object
+root.PRUT521_C6_TORP_STOCK.costCR changed in second object (was 0, is 250000)
+root.PJUE652_D7_ENG_STOCK_2.costCR changed in second object (was 0, is 370000)
+root.PAUE201_C3_ENG_STOCK.costCR changed in second object (was 0, is 18000)
+root.PCEF005_SM_SignalFlag.canSell removed in first object
+root.PCEP128_Permo_Upgr_8_lvl.canSell removed in first object
+root.PAUS711_Suo.costCR changed in second object (was 0, is 395000)
+root.PAUH501_Cleveland_1943.costCR changed in second object (was 0, is 375000)
+root.PAUA931_B10_ART_STOCK.costCR changed in second object (was 0, is 2200000)
+root.PJUT204_D3_TORP_STOCK.costCR changed in second object (was 0, is 24000)
+root.PAUS701_Suo.costCR changed in second object (was 0, is 550000)
+root.PAUA411_B5_ART_STOCK.costCR changed in second object (was 0, is 190000)
+root.PASA012_Lexington_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASA012_Lexington_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAEP407_Cleveland_1945.canSell removed in first object
+root.PGSB108_Bismarck.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB108_Bismarck.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASA006_Independence_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEC017_Camo_wows_birthday_tile.canSell removed in first object
+root.PAUI601_CV7_F_STOCK.costCR changed in second object (was 0, is 220000)
+root.PJSA017_Hakuryu_1942.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSA017_Hakuryu_1942.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGEP407_Yorck.canSell removed in first object
+root.PRUE441_C5_ENG_STOCK.costCR changed in second object (was 0, is 90000)
+root.PRUH611_SCHORS_A.costCR changed in second object (was 0, is 690000)
+root.PJSD108_Akizuki.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD108_Akizuki.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJEP408_Myoko_1945.canSell removed in first object
+root.PJUE403_B5_ENG_STOCK.costCR changed in second object (was 0, is 110000)
+root.PCEE053_Votes_flag.canSell removed in first object
+root.PJEP501_Tachibana_1912.canSell removed in first object
+root.PGUS403_D5_SUO_STOCK.costCR changed in second object (was 0, is 110000)
+root.PAUA511_D6_ART_STOCK.costCR changed in second object (was 0, is 198500)
+root.PBUE511_C6_ENG_STOCK.costCR changed in second object (was 0, is 200000)
+root.PGUS311_SUO.costCR changed in second object (was 0, is 40000)
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PJSC014_Kitakami_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PBUE801_C9_ENG_STOCK.costCR changed in second object (was 0, is 800000)
+root.PBUA801_C9_ART_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PRUS131_SUO.costCR changed in second object (was 0, is 8000)
+root.PAUH201_StLouis_1906.costCR changed in second object (was 0, is 40000)
+root.PJUT405_D5_TORP_STOCK_2.costCR changed in second object (was 0, is 210000)
+root.PAUS611_Suo.costCR changed in second object (was 0, is 320000)
+root.PCM020_DamageControl_Mod_I.type removed in first object
+root.PCM009_FlightControl_Mod_I.type removed in first object
+root.PCEP107_Permo_Prem_High_lvl.canSell removed in first object
+root.PGUH603_D7_HULL_STOCK.costCR changed in second object (was 0, is 600000)
+root.PCM017_Airplanes_Mod_III.type removed in first object
+root.PAEP313_Arkansas_1912.canSell removed in first object
+root.PCEP117_Permo_Upgr_7_lvl.canSell removed in first object
+root.PGUE602_D7_ENG_STOCK.costCR changed in second object (was 0, is 405000)
+root.PAUE311_D4_ENG_STOCK.costCR changed in second object (was 0, is 48000)
+root.PBUH701_C8_HULL_A.costCR changed in second object (was 0, is 900000)
+root.PJUE533_D6_ENG_STOCK.costCR changed in second object (was 0, is 120000)
+root.PRUT611_C7_TORP_STOCK.costCR changed in second object (was 0, is 480000)
+root.PGUT302_C4_TORP_STOCK.costCR changed in second object (was 0, is 30000)
+root.PJUA402_D5_ART_STOCK.costCR changed in second object (was 0, is 105000)
+root.PCEP109_Permo_Prem_9_lvl.canSell removed in first object
+root.PJUA211_B3_ART_STOCK.costCR changed in second object (was 0, is 34000)
+root.PAUA741_B8_ART_STOCK.costCR changed in second object (was 0, is 1200000)
+root.PGUA511_B6_ART_STOCK.costCR changed in second object (was 0, is 320000)
+root.PCEP118_Permo_Upgr_8_lvl.canSell removed in first object
+root.PAUE301_CV4_ENG_STOCK.costCR changed in second object (was 0, is 20000)
+root.PGUH601_YORK_A.costCR changed in second object (was 0, is 630000)
+root.PAUT202_D3_TORP_STOCK.costCR changed in second object (was 0, is 21000)
+root.PGUE402_D5_ENG_STOCK.costCR changed in second object (was 0, is 125000)
+root.PJUS201_Suo.costCR changed in second object (was 0, is 4000)
+root.PASD008_Benson_1945.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PASD008_Benson_1945.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD008_Benson_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASD008_Benson_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUE301_C4_ENG_STOCK.costCR changed in second object (was 0, is 39000)
+root.PJUA821_C9_ART_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PGEP409_Roon.canSell removed in first object
+root.PCM004_AirDefense_Mod_I.type removed in first object
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PASC014_New_Orlean_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEE049_Jolly_Roger_3.canSell removed in first object
+root.PCEC005_Camo_NY_3.canSell removed in first object
+root.PGSC506_Admiral_Graf_Spee.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC506_Admiral_Graf_Spee.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUH441_Zuiho_1940.costCR changed in second object (was 0, is 118000)
+root.PRUE611_C7_ENG_STOCK.costCR changed in second object (was 0, is 440000)
+root.PAUS101_Suo.costCR changed in second object (was 0, is 5000)
+root.PGUH511_BAYERN_A.costCR changed in second object (was 0, is 440000)
+root.PCEE020_Flag_CBW.canSell removed in first object
+root.PCY012_FighterPremium.PAY623_F4F_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_A6M2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY623_F4F_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY623_F4F_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY623_F4F_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY623_F4F_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY622_F3F_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY622_F3F_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY622_F3F_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY622_F3F_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY622_F3F_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY602_Kawanishi_N1K1_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY602_Kawanishi_N1K1_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY602_Kawanishi_N1K1_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY602_Kawanishi_N1K1_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY602_Kawanishi_N1K1_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY639_FW190A8_Battleship_5_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY624_XP_40S_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY624_XP_40S_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY624_XP_40S_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY624_XP_40S_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY624_XP_40S_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.Battleship_6_Gold.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.Battleship_4_Gold.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY638_BF109G_Battleship_4_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.Battleship_7_Gold.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.Battleship_3_Gold.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.Battleship_5_Gold.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.costCR changed in second object (was 22500, is 7500)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_A6M2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY638_BF109G_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY615_A4N2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY615_A4N2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY615_A4N2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY615_A4N2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY615_A4N2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY835_HD780_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY621_F4B_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY621_F4B_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY621_F4B_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY621_F4B_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY621_F4B_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY630_TA152C_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY616_A5M2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY616_A5M2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY616_A5M2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_A6M2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY616_A5M2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY630_TA152C_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY639_FW190A8_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.costGold changed in second object (was 15, is 5)
+root.PCY012_FighterPremium.PAY637_BF109E_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_A6M2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_A6M2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PJY616_A5M2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY012_FighterPremium.PAY630_TA152C_Battleship_7_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PJUT706_D8_TORP_STOCK_2.costCR changed in second object (was 0, is 1300000)
+root.PGUT601_C7_TORP_STOCK.costCR changed in second object (was 0, is 260000)
+root.PGUE701_B8_ENG_STOCK.costCR changed in second object (was 0, is 380000)
+root.PBUS511_C6_SUO_STOCK.costCR changed in second object (was 0, is 200000)
+root.PJUH524_Mutsuki_1926.costCR changed in second object (was 0, is 115000)
+root.PASC007_Cleveland_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC007_Cleveland_1945.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUD501_CV6_DB_STOCK.costCR changed in second object (was 0, is 146000)
+root.PBUH601_C7_HULL_A.costCR changed in second object (was 0, is 550000)
+root.PJUE503_B6_ENG_STOCK.costCR changed in second object (was 0, is 140000)
+root.PJEP526_Camo_Kamikaze.canSell removed in first object
+root.PJSD005_Mutsuki_1926.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD005_Mutsuki_1926.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEE009_Rank10.canSell removed in first object
+root.PJUF601_FlightControl_1.costCR changed in second object (was 0, is 340000)
+root.PCH081_F_WinALL.enabled changed in second object (was False, is True)
+root.PGUT802_D9_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PRUA521_D6_ART_STOCK.costCR changed in second object (was 0, is 170000)
+root.PGUH504_D6_HULL_STOCK.costCR changed in second object (was 0, is 300000)
+root.PAUF411_FlightControl_1.costCR changed in second object (was 0, is 115000)
+root.PJUA703_D8_ART_STOCK_2.costCR changed in second object (was 0, is 570000)
+root.PGUH801_ROON_A.costCR changed in second object (was 0, is 1300000)
+root.PAUE911_CV10_ENG_STOCK.costCR changed in second object (was 0, is 1400000)
+root.PAUE501_CV6_ENG_STOCK.costCR changed in second object (was 0, is 190000)
+root.PCEE052_Squared_circle.canSell removed in first object
+root.PCEC014_Camo_GNB_May_2016.canSell removed in first object
+root.PCT043_AccountLevel11.premium changed in second object (was 1, is 0)
+root.PCT043_AccountLevel11.credits changed in second object (was 0, is 2000000)
+root.PAUE322_B4_ENG_STOCK.costCR changed in second object (was 0, is 32000)
+root.PZEP508_LoYang.canSell removed in first object
+root.PRUH131_NOVIK_A.costCR changed in second object (was 0, is 18000)
+root.PRUS221_SUO.costCR changed in second object (was 0, is 20000)
+root.PAUF811_FlightControl_1.costCR changed in second object (was 0, is 980000)
+root.PAUE901_B10_ENG_STOCK.costCR changed in second object (was 0, is 550000)
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PRSC110_Pr_66_Moskva.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJUA221_C3_ART_STOCK.costCR changed in second object (was 0, is 18000)
+root.PJUH311_Myogi_1912.costCR changed in second object (was 0, is 105000)
+root.PJUH503_Hatsuharu_1935.costCR changed in second object (was 0, is 245000)
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PBSC107_Fiji.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PAUA201_C3_ART_STOCK.costCR changed in second object (was 0, is 28000)
+root.PAUH401_Omaha_1923.costCR changed in second object (was 0, is 145000)
+root.PJUS631_D7_SUO_STOCK_2.costCR changed in second object (was 0, is 235000)
+root.PJUA404_D5_ART_STOCK_2.costCR changed in second object (was 0, is 100000)
+root.PCEF012_MY6_SignalFlag.canSell removed in first object
+root.PBEP503_Campbeltown.canSell removed in first object
+root.PCEE040_Burning_Man.canSell removed in first object
+root.PGUS601_SUO.costCR changed in second object (was 0, is 380000)
+root.PBUS101_C2_SUO_STOCK.costCR changed in second object (was 0, is 7000)
+root.PCEE056_Project_Oil.canSell removed in first object
+root.PAUH221_Michigan_1916.costCR changed in second object (was 0, is 70000)
+root.PGUS603_D7_SUO_STOCK.costCR changed in second object (was 0, is 350000)
+root.PCEF017_VL_SignalFlag.canSell removed in first object
+root.PAUA451_D5_ART_STOCK.costCR changed in second object (was 0, is 95000)
+root.PCT042_AccountLevel10.storageItems[0][0] changed in second object (was PCEC007_Camo_3_Tile_Double, is PCEC001_Camo_1)
+root.PCT042_AccountLevel10.storageItems[0][1] changed in second object (was 100, is 5)
+root.PCT042_AccountLevel10.storageItems[1] removed in first object
+root.PCT042_AccountLevel10.storageItems[2] removed in first object
+root.PCT042_AccountLevel10.storageItems[3] removed in first object
+root.PCT042_AccountLevel10.storageItems[4] removed in first object
+root.PCT042_AccountLevel10.storageItems[5] removed in first object
+root.PAUH931_Montana_1945.costCR changed in second object (was 0, is 3400000)
+root.PAUE601_C7_ENG_STOCK.costCR changed in second object (was 0, is 390000)
+root.PRUE501_D6_ENG_STOCK.costCR changed in second object (was 0, is 150000)
+root.PJUS321_Suo.costCR changed in second object (was 0, is 60000)
+root.PBUT301_C4_TORP_STOCK.costCR changed in second object (was 0, is 45000)
+root.PGUE211_B3_ENG_STOCK.costCR changed in second object (was 0, is 17000)
+root.PJSB506_Mutsu.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB506_Mutsu.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASC016_Worcester_1948.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC016_Worcester_1948.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PASC016_Worcester_1948.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[4] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot2.abils[5] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot1.abils[0] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot1.abils[1] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PASC016_Worcester_1948.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PRUA211_D3_ART_STOCK.costCR changed in second object (was 0, is 27500)
+root.PRUT201_D3_TORP_STOCK.costCR changed in second object (was 0, is 18000)
+root.PJUH321_Kuma_1920.costCR changed in second object (was 0, is 80000)
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PUSC506_Perth_1942.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PRUH221_BOGATYR_A.costCR changed in second object (was 0, is 43000)
+root.PGUH811_H39_A.costCR changed in second object (was 0, is 2400000)
+root.PJUS661_SUO.costCR changed in second object (was 0, is 310000)
+root.PAUE504_C6_ENG_STOCK.costCR changed in second object (was 0, is 190000)
+root.PJUS921_Suo.costCR changed in second object (was 0, is 1600000)
+root.PRUE211_C3_ENG_STOCK.costCR changed in second object (was 0, is 19000)
+root.PCM031_SecondaryWeapon_Mod_I.type removed in first object
+root.PAUF711_FlightControl_1.costCR changed in second object (was 0, is 660000)
+root.PJUE911_C10_ENG_STOCK.costCR changed in second object (was 0, is 1400000)
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PJSC034_Zao_1944.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGUE202_D3_ENG_STOCK.costCR changed in second object (was 0, is 23000)
+root.PJUB701_CV8_TB_STOCK.costCR changed in second object (was 0, is 320000)
+root.PCM003_Airplanes_Mod_I.type removed in first object
+root.PAUS801_Suo.costCR changed in second object (was 0, is 985000)
+root.PJEP438_Atago_1944.canSell removed in first object
+root.PAUA221_B3_ART_STOCK.costCR changed in second object (was 0, is 36000)
+root.PCEC015_Camo_CN_Special.canSell removed in first object
+root.PGUE712_D8_ENG_STOCK.costCR changed in second object (was 0, is 635000)
+root.PCM034_Guidance_Mod_0.type removed in first object
+root.PCEC007_Camo_3_Tile_Double.canSell removed in first object
+root.PAUH411_Independence_1944.costCR changed in second object (was 0, is 225000)
+root.PRUE311_C4_ENG_STOCK.costCR changed in second object (was 0, is 38000)
+root.PJUH704_D8_HULL_STOCK_2.costCR changed in second object (was 0, is 610000)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_10.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_10.position[0] changed in second object (was 5.75, is 6.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_9.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_8.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_1.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_3.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_3.position[0] changed in second object (was 0.75, is 0.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_2.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_2.position[0] changed in second object (was 0.75, is 0.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_4.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_4.position[0] changed in second object (was 1.75, is 1.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_7.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_6.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_5.shotDelay changed in second object (was 6.67, is 7.0)
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.HP_AGM_5.position[0] changed in second object (was 1.75, is 1.0)
+root.PASC045_Marblehead_1924_Asus.TorpedoesDefault.HP_AGT_1.horizSector[0] changed in second object (was -97.0, is -100.0)
+root.PASC045_Marblehead_1924_Asus.TorpedoesDefault.HP_AGT_1.horizSector[1] changed in second object (was 7.0, is -4.0)
+root.PASC045_Marblehead_1924_Asus.TorpedoesDefault.HP_AGT_2.horizSector[0] changed in second object (was -7.0, is 0.0)
+root.PGUH201_KOLBERG_A.costCR changed in second object (was 0, is 44000)
+root.PRSC106_Pr_94_Budeny.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC106_Pr_94_Budeny.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC106_Pr_94_Budeny.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUA411_B5_ART_STOCK.costCR changed in second object (was 0, is 190000)
+root.PGUA311_B4_ART_STOCK.costCR changed in second object (was 0, is 94000)
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PGSC108_Hipper.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGSB002_Tirpiz_1942.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSB002_Tirpiz_1942.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PBUH511_C6_HULL_A.costCR changed in second object (was 0, is 370000)
+root.PCEE033_Krasnyi_Krim_flag.canSell removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.canSell removed in first object
+root.PCM032_PowderMagazine_Mod_I.type removed in first object
+root.PCY004_Fighter.Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY524_XP_40S_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY524_XP_40S_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY524_XP_40S_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY524_XP_40S_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY524_XP_40S_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY523_F4F_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY523_F4F_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY523_F4F_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY523_F4F_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY523_F4F_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY516_A5M2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY516_A5M2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY516_A5M2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY516_A5M2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY502_Kawanishi_N1K1_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY502_Kawanishi_N1K1_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY502_Kawanishi_N1K1_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY502_Kawanishi_N1K1_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY539_FW190A8_Battleship_5_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY521_F4B_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY521_F4B_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY521_F4B_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY521_F4B_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY521_F4B_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY539_FW190A8_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY530_TA152C_Battleship_7_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY735_HD780_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY516_A5M2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY538_BF109G_Battleship_4_HIDE.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY502_Kawanishi_N1K1_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY515_A4N2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY515_A4N2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY515_A4N2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY515_A4N2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY515_A4N2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY517_Mitsubishi_A6M2_N_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY517_Mitsubishi_A6M2_N_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY517_Mitsubishi_A6M2_N_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY517_Mitsubishi_A6M2_N_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PJY517_Mitsubishi_A6M2_N_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY537_BF109E_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY538_BF109G_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY530_TA152C_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY530_TA152C_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY522_F3F_float_Battleship_3.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY522_F3F_float_Battleship_7.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY522_F3F_float_Battleship_6.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY522_F3F_float_Battleship_5.workTime changed in second object (was 90.0, is 60.0)
+root.PCY004_Fighter.PAY522_F3F_float_Battleship_4.workTime changed in second object (was 90.0, is 60.0)
+root.PRUH901_KHABAROVSK_A.costCR changed in second object (was 0, is 2500000)
+root.PRUT301_D4_TORP_STOCK.costCR changed in second object (was 0, is 18000)
+root.PJUE631_CV7_ENG_STOCK.costCR changed in second object (was 0, is 420000)
+root.PJSB021_Izumo_1938.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PJSB021_Izumo_1938.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PAUT601_D7_TORP_STOCK.costCR changed in second object (was 0, is 575000)
+root.PRUE811_C9_ENG_STOCK.costCR changed in second object (was 0, is 850000)
+root.PRUA711_C8_ART_STOCK.costCR changed in second object (was 0, is 700000)
+root.PGUS303_D4_SUO_STOCK.costCR changed in second object (was 0, is 66000)
+root.PBUE711_C8_ENG_STOCK.costCR changed in second object (was 0, is 500000)
+root.PCEE070_Chinese_New_Year removed in second object
+root.PCEE016_Flag_Developer.canSell removed in first object
+root.PAUE801_C9_ENG_STOCK.costCR changed in second object (was 0, is 875000)
+root.PJUE311_C4_ENG_STOCK.costCR changed in second object (was 0, is 40000)
+root.PAUE604_D7_ENG_STOCK.costCR changed in second object (was 0, is 395000)
+root.PGUT703_D8_TORP_STOCK.costCR changed in second object (was 0, is 800000)
+root.PASB013_Arkansas_1912.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PRSD507_Leningrad_1944.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PRSD507_Leningrad_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PRSD507_Leningrad_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJSA009_Ryujo_1933.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEE071_Korean_Turtle removed in second object
+root.PCEE045_Yokosuka_Marine_School.canSell removed in first object
+root.PGUS203_D3_SUO_STOCK.costCR changed in second object (was 0, is 22500)
+root.PAUS231_Suo.costCR changed in second object (was 0, is 22000)
+root.PCEE015_Jolly_Roger_2.canSell removed in first object
+root.PCEC010_Camo_Basketball_Tile_2.canSell removed in first object
+root.PCEP120_Permo_Upgr_10_lvl.canSell removed in first object
+root.PGUE911_B10_ENG_STOCK.costCR changed in second object (was 0, is 1500000)
+root.PAUT401_C5_TORP_STOCK.costCR changed in second object (was 0, is 56000)
+root.PAUT501_D6_TORP_STOCK.costCR changed in second object (was 0, is 152000)
+root.PREP301_Nikolay_I.canSell removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.canSell removed in first object
+root.PBUE301_C4_ENG_STOCK.costCR changed in second object (was 0, is 40000)
+root.PRUE601_D7_ENG_STOCK.costCR changed in second object (was 0, is 380000)
+root.PAEP406_Atlanta_1942.canSell removed in first object
+root.PCM035_SteeringGear_Mod_III.type removed in first object
+root.PCEF018_IX_SignalFlag.canSell removed in first object
+root.PAUD801_CV9_DB_STOCK.costCR changed in second object (was 0, is 640000)
+root.PGUH311_KAISER_A.costCR changed in second object (was 0, is 128000)
+root.PJUE921_CV10_ENG_STOCK.costCR changed in second object (was 0, is 1200000)
+root.PJUB301_CV4_TB_STOCK.costCR changed in second object (was 0, is 68000)
+root.PCEE022_Flag_WG.canSell removed in first object
+root.PREP408_Kutuzov_1952.canSell removed in first object
+root.PAUT801_D9_TORP_STOCK.costCR changed in second object (was 0, is 1470000)
+root.PRUE301_D4_ENG_STOCK.costCR changed in second object (was 0, is 38000)
+root.PJUI501_CV6_F_STOCK.costCR changed in second object (was 0, is 70000)
+root.PWSD501_Blyskawica.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PWSD501_Blyskawica.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PWSD501_Blyskawica.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUS611_SUO.costCR changed in second object (was 0, is 360000)
+root.PRUA201_C3_ART_STOCK.costCR changed in second object (was 0, is 27000)
+root.PGSC107_Yorck.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSC107_Yorck.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUB501_CV6_TB_STOCK.costCR changed in second object (was 0, is 140000)
+root.PCT039_AccountLevel7.credits changed in second object (was 2000000, is 1000000)
+root.PJUA111_C2_ART_STOCK.costCR changed in second object (was 0, is 7500)
+root.PBUA601_C7_ART_STOCK.costCR changed in second object (was 0, is 360000)
+root.PGUH911_GROSSDEUTSCHLAND_A.costCR changed in second object (was 0, is 3500000)
+root.PASD005_Farragut_1944.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PASD005_Farragut_1944.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD005_Farragut_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEE051_Belfast.canSell removed in first object
+root.PJUH413_Kongo_1913.costCR changed in second object (was 0, is 230000)
+root.PCM018_AirDefense_Mod_III.type removed in first object
+root.PCT088_AccountLevel13.credits changed in second object (was 0, is 3000000)
+root.PCT088_AccountLevel13.storageItems[0] removed in second object
+root.PCT088_AccountLevel13.storageItems[1] removed in second object
+root.PCT088_AccountLevel13.storageItems[2] removed in second object
+root.PCT088_AccountLevel13.storageItems[3] removed in second object
+root.PCT088_AccountLevel13.storageItems[4] removed in second object
+root.PCT088_AccountLevel13.storageItems[5] removed in second object
+root.PCT088_AccountLevel13.storageItems[6] removed in second object
+root.PCT088_AccountLevel13.storageItems[7] removed in second object
+root.PCT088_AccountLevel13.storageItems[8] removed in second object
+root.PCT088_AccountLevel13.storageItems[9] removed in second object
+root.PJUT508_D6_TORP_STOCK.costCR changed in second object (was 0, is 180000)
+root.PCEE060_Oleg_flag.canSell removed in first object
+root.PCEE031_Blue_steel.canSell removed in first object
+root.PGUH303_D4_HULL_STOCK.costCR changed in second object (was 0, is 90000)
+root.PASC006_Atlanta_1942.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASC006_Atlanta_1942.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUS811_Suo.costCR changed in second object (was 0, is 880000)
+root.PJUE131_D2_ENG_STOCK.costCR changed in second object (was 0, is 6000)
+root.PRUA611_D7_ART_STOCK.costCR changed in second object (was 0, is 380000)
+root.PASD021_Fletcher_1943.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD021_Fletcher_1943.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASD021_Fletcher_1943.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASD021_Fletcher_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PCEF019_JW1_SignalFlag.canSell removed in first object
+root.PAEP409_Cleveland_1945.canSell removed in first object
+root.PAUE103_D2_ENG_STOCK.costCR changed in second object (was 0, is 5000)
+root.PCEE023_SeasonFlag00.canSell removed in first object
+root.PGUA914_B10_ART_STOCK.costCR changed in second object (was 0, is 2000000)
+root.PCEC019_Camo_Halloween_16.canSell removed in first object
+root.PREP403_Murmansk_1944.canSell removed in first object
+root.PCM022_SteeringGear_Mod_I.type removed in first object
+root.PRUH121_SM_Storojevoy_1915.costCR changed in second object (was 0, is 12000)
+root.PAUA522_B6_ART_STOCK.costCR changed in second object (was 0, is 340000)
+root.PCEE062_King_of_the_Sea.canSell removed in first object
+root.PAUA801_C9_ART_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PJSD209_Yugumo.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD209_Yugumo.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PJSD209_Yugumo.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PBUT401_C5_TORP_STOCK.costCR changed in second object (was 0, is 150000)
+root.PJEP414_Kitakami_1945.canSell removed in first object
+root.PRSC506_Molotov_1943.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC506_Molotov_1943.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC506_Molotov_1943.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASB708_Alabama.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB708_Alabama.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASB708_Alabama.group changed in second object (was demoWithStats, is demoWithoutStats)
+root.PASB708_Alabama.groupCustom.EU removed in second object
+root.PASB708_Alabama.groupCustom.NA removed in second object
+root.PASB708_Alabama.groupCustom.CN removed in second object
+root.PASB708_Alabama.groupCustom.ASIA removed in second object
+root.PASB708_Alabama.groupCustom.RU removed in second object
+root.PJUH711_Amagi_1941.costCR changed in second object (was 0, is 1100000)
+root.PAEP305_Texas.canSell removed in first object
+root.PAEP320_Alabama_ST.canSell removed in first object
+root.PRUH721_CHAPAEV_A.costCR changed in second object (was 0, is 1100000)
+root.PGUA301_C4_ART_STOCK.costCR changed in second object (was 0, is 48000)
+root.PASA507_Saipan_1946.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUH401_KONIGSBERG_A.costCR changed in second object (was 0, is 165000)
+root.PGEP302_Tirpiz_1942.canSell removed in first object
+root.PAUA811_D9_ART_STOCK.costCR changed in second object (was 0, is 1050000)
+root.PASB017_Montana_1945.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB017_Montana_1945.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PRUS721_SUO.costCR changed in second object (was 0, is 770000)
+root.PJSD106_Fubuki.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PJSD106_Fubuki.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PJSD106_Fubuki.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PAUF611_FlightControl_1.costCR changed in second object (was 0, is 405000)
+root.PJUB501_CV6_TB_STOCK.costCR changed in second object (was 0, is 150000)
+root.PAUH631_Colorado_1921.costCR changed in second object (was 0, is 680000)
+root.PGUH103_D2_HULL_STOCK.costCR changed in second object (was 0, is 11000)
+root.PJUT303_D4_TORP_STOCK.costCR changed in second object (was 0, is 88000)
+root.PAUD703_CV8_DB_STOCK.costCR changed in second object (was 0, is 240000)
+root.PGEP304_Tirpiz_1942_2.canSell removed in first object
+root.PJUH513_FUSO_1919.costCR changed in second object (was 0, is 340000)
+root.PGEP408_Hipper.canSell removed in first object
+root.PRUS421_SUO.costCR changed in second object (was 0, is 82000)
+root.PASB506_Arizona_1941.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASB506_Arizona_1941.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASC012_Pensacola_1944.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASC012_Pensacola_1944.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASD709_Black.A_Hull.Cas.maxHP changed in second object (was 155000.0, is 165000.0)
+root.PASD709_Black.A_Hull.Cas.parentHL changed in second object (was Hull, is None)
+root.PASD709_Black.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PASD709_Black.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PASD709_Black.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASD709_Black.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PASD709_Black.A1_Torpedoes.HP_AGT_1.ammoList[0] changed in second object (was PAPT027_Mk_16_mod_1, is PAPT030_BLACK)
+root.PASD709_Black.A1_Torpedoes.HP_AGT_2.ammoList[0] changed in second object (was PAPT027_Mk_16_mod_1, is PAPT030_BLACK)
+root.PASD709_Black.group changed in second object (was disabled, is demoWithoutStats)
+root.PJEP112_Zuikaku_1944.canSell removed in first object
+root.PJUS311_Suo.costCR changed in second object (was 0, is 32000)
+root.PCM033_Guidance_Mod_I.type removed in first object
+root.PAEP108_Saipan.canSell removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGSD107_Leberecht_Maass.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PGSD107_Leberecht_Maass.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSD107_Leberecht_Maass.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSD107_Leberecht_Maass.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PJUT202_C3_TORP_STOCK.costCR changed in second object (was 0, is 88000)
+root.PAUT102_D2_TORP_STOCK.costCR changed in second object (was 0, is 9500)
+root.PJUA832_D9_ART_STOCK_2.costCR changed in second object (was 0, is 1000000)
+root.PCEE021_Flag_CBT.canSell removed in first object
+root.PCEC020_Camo_New_Year_17.canBuy changed in second object (was False, is True)
+root.PCEC020_Camo_New_Year_17.hidden changed in second object (was True, is False)
+root.PCEC020_Camo_New_Year_17.canSell removed in first object
+root.PAUI501_CV6_F_STOCK.costCR changed in second object (was 0, is 140000)
+root.PJUA511_B6_ART_STOCK.costCR changed in second object (was 0, is 340000)
+root.PGSD110_Z_52.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PGSD110_Z_52.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PGSD110_Z_52.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PGSD110_Z_52.ShipModernization.ModernizationSlot4.mods[3] removed in first object
+root.PGUA401_C5_ART_STOCK.costCR changed in second object (was 0, is 105000)
+root.PGUE902_D10_ENG_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PJUE411_C5_ENG_STOCK.costCR changed in second object (was 0, is 90000)
+root.PGUT101_D2_TORP_STOCK.costCR changed in second object (was 0, is 6500)
+root.PCEE063_Flag_Volunteer_2.canSell removed in first object
+root.PBSC106_Leander.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PBSC106_Leander.ShipModernization.ModernizationSlot2.mods[5] removed in first object
+root.PBSC106_Leander.ShipModernization.ModernizationSlot2.mods[6] removed in first object
+root.PBSC106_Leander.ShipModernization.ModernizationSlot4.mods[2] removed in first object
+root.PJUE111_C2_ENG_STOCK.costCR changed in second object (was 0, is 5000)
+root.PAUF511_FlightControl_1.costCR changed in second object (was 0, is 205000)
+root.PGUE302_D4_ENG_STOCK.costCR changed in second object (was 0, is 52000)
+root.PGUS801_SUO.costCR changed in second object (was 0, is 1000000)
+root.PAEP307_Texas.canSell removed in first object
+root.PREP401_Avrora_1917.canSell removed in first object
+root.PRUS311_SUO.costCR changed in second object (was 0, is 41000)
+root.PAUE903_D10_ENG_STOCK.costCR changed in second object (was 0, is 1750000)
+root.PGEP428_Prinz_Eugen.canSell removed in first object
+root.PCM008_FireControl_Mod_I.type removed in first object
+root.PCH077_F_Safecracker.enabled changed in second object (was False, is True)
+root.PRGM099_130mm_55 removed in first object
+root.PRUT725_D8_TORP_STOCK_3 removed in first object
+root.PRUT514_D6_TORP_TOP_2 removed in first object
+root.PRPA056_130MM_HE_OF_42_SM21 removed in first object
+root.PRUE903_D10_ENG_STOCK_3 removed in first object
+root.PRUE602_D7_ENG_STOCK_2 removed in first object
+root.PRUH705_D8_HULL_STOCK_3 removed in first object
+root.PRPA057_130MM_AP_PB_42_SM21 removed in first object
+root.PRUS913_D10_SUO_STOCK_3 removed in first object
+root.PCM038_Spotter_Mod_I removed in first object
+root.PRUE422_ENG_OHOTNIK removed in first object
+root.PRUS613_D7_SUO_STOCK_2 removed in first object
+root.PCM042_RLSSearch_Mod_I removed in first object
+root.PRPA062_130MM_HE_OF54_OLD_GUNS removed in first object
+root.PCT098_AccountLevel14 removed in first object
+root.PRUE703_D8_ENG_STOCK_3 removed in first object
+root.PRUH603_D7_HULL_STOCK_2 removed in first object
+root.PRUS815_D9_SUO_STOCK_3 removed in first object
+root.PRUS816_D9_SUO_TOP_3 removed in first object
+root.PRSD206_Pr_7 removed in first object
+root.PRUS514_D6_SUO_TOP_2 removed in first object
+root.PRUA422_ART_OHOTNIK removed in first object
+root.PRUH902_D10_HULL_STOCK_2 removed in first object
+root.PRUT904_D10_TORP_TOP_2 removed in first object
+root.PCM036_SpeedBooster_Mod_I removed in first object
+root.PRGM098_130mm_sm2_1 removed in first object
+root.PRUT603_D7_TORP_STOCK_2 removed in first object
+root.PRUE803_D9_ENG_STOCK_3 removed in first object
+root.PRUH703_D8_HULL_STOCK_2 removed in first object
+root.PRUA522_D6_ART_STOCK_2 removed in first object
+root.PRUA722_D8_ART_STOCK_2 removed in first object
+root.PRPA061_130MM_AP_PB_46_B2U_M removed in first object
+root.PRUT903_D10_TORP_STOCK_2 removed in first object
+root.PRUA912_D10_ART_STOCK_2 removed in first object
+root.PCM041_SonarSearch_Mod_I removed in first object
+root.PRUS814_D9_SUO_TOP_2 removed in first object
+root.PRPA063_130MM_AP_PB46_OLD_GUNS removed in first object
+root.PRUA423_D5_ART_STOCK_2 removed in first object
+root.PRUH805_D9_HULL_STOCK_3 removed in first object
+root.PRSD210_Grozovoy_pr_40N removed in first object
+root.PRSD308_Pr_20i removed in first object
+root.PRUA813_D9_ART_TOP_3 removed in first object
+root.PRUA803_D9_ART_STOCK_3 removed in first object
+root.PRUE902_D10_ENG_STOCK_2 removed in first object
+root.PRUH412_OHOTNIK removed in first object
+root.PRUS513_D6_SUO_STOCK_2 removed in first object
+root.PRUA723_D8_ART_STOCK_3 removed in first object
+root.PRUT423_D5_TORP_STOCK_2 removed in first object
+root.PRUS912_D10_SUO_STOCK_2 removed in first object
+root.PRUT806_D9_TORP_TOP_3 removed in first object
+root.PRUH604_D7_HULL_TOP_2 removed in first object
+root.PRUH903_D10_HULL_STOCK_3 removed in first object
+root.PRUH806_D9_HULL_TOP_3 removed in first object
+root.PRUH704_D8_HULL_TOP_2 removed in first object
+root.PRSD309_Pr_48 removed in first object
+root.PRUE423_D5_ENG_STOCK_2 removed in first object
+root.PRSD205_Podvoisky_pr_1929 removed in first object
+root.PRUT906_D10_TORP_TOP_3 removed in first object
+root.PRUH706_D8_HULL_TOP_3 removed in first object
+root.PAPT030_BLACK removed in first object
+root.PRUS813_D9_SUO_STOCK_2 removed in first object
+root.PRPA054_130MM_HE_OHOTNIK removed in first object
+root.PRSD207_Minsk removed in first object
+root.PRPT027_OHOTNIK removed in first object
+root.PRUT726_D8_TORP_TOP_3 removed in first object
+root.PRUA802_D9_ART_STOCK_2 removed in first object
+root.PRUE502_D6_ENG_STOCK_2 removed in first object
+root.PRUS412_SUO_OHOTNIK removed in first object
+root.PRUH423_D5_HULL_STOCK_2 removed in first object
+root.PRUE802_D9_ENG_STOCK_2 removed in first object
+root.PRUT905_D10_TORP_STOCK_3 removed in first object
+root.PRUT424_D5_TORP_TOP_2 removed in first object
+root.PRUH504_D6_HULL_TOP_2 removed in first object
+root.PRUA812_D9_ART_TOP_2 removed in first object
+root.PRSD209_Pr_35 removed in first object
+root.PRPA055_130MM_AP_OHOTNIK removed in first object
+root.PRUH804_D9_HULL_TOP_2 removed in first object
+root.PRUA913_D10_ART_STOCK_3 removed in first object
+root.PRUT805_D9_TORP_STOCK_3 removed in first object
+root.PRPA058_130MM_AP_PB_46_B13_M removed in first object
+root.PRPT029_53_49M removed in first object
+root.PRUT724_D8_TORP_TOP_2 removed in first object
+root.PRUT723_D8_TORP_STOCK_2 removed in first object
+root.PRUT604_D7_TORP_TOP_2 removed in first object
+root.PRPT030_53_49MI removed in first object
+root.PRUS414_D5_SUO_TOP_2 removed in first object
+root.PRUH803_D9_HULL_STOCK_2 removed in first object
+root.PRPA059_130MM_HE_OF_46_B13_M removed in first object
+root.PCM039_CrashCrew_Mod_I removed in first object
+root.PRUS713_D8_SUO_TOP_2 removed in first object
+root.PRUS712_D8_SUO_STOCK_2 removed in first object
+root.PRPA060_130MM_HE_OF_46_B2U_M removed in first object
+root.PRUS715_D8_SUO_TOP_3 removed in first object
+root.PRUS413_D5_SUO_STOCK_2 removed in first object
+root.PRUT804_D9_TORP_TOP_2 removed in first object
+root.PRUT513_D6_TORP_STOCK_2 removed in first object
+root.PRUS614_D7_SUO_TOP_2 removed in first object
+root.PRUS714_D8_SUO_STOCK_3 removed in first object
+root.PRSD505_Okhotnik_1917 removed in first object
+root.PRUT412_TORP_OHOTNIK removed in first object
+root.PRUE702_D8_ENG_STOCK_2 removed in first object
+root.PCM037_SmokeGenerator_Mod_I removed in first object
+root.PRUH503_D6_HULL_STOCK_2 removed in first object
+root.PRPT028_53_49 removed in first object
+root.PRUA612_D7_ART_STOCK_2 removed in first object
+root.PRSD310_Pr_24 removed in first object
+root.PRSD208_Pr_30 removed in first object
+root.PRUH424_D5_HULL_TOP_2 removed in first object
+root.PRUA724_D8_ART_TOP_2 removed in first object
+root.PRUT803_D9_TORP_STOCK_2 removed in first object
+root.PCM040_AirDefenseDisp_Mod_I removed in first object
+>> finished comparing
