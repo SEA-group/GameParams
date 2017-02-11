@@ -409,6 +409,16 @@
         "zh_cn": "\u6b27\u6839\u4eb2\u738b", 
         "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
     }, 
+    "3762239472": {
+        "en": "IDS_PASB508", 
+        "id": 3762239472, 
+        "index": "PASB508", 
+        "level": 8, 
+        "name": "PASB508_Alabama", 
+        "ru": "IDS_PASB508", 
+        "zh_cn": "IDS_PASB508", 
+        "zh_tw": "IDS_PASB508"
+    }, 
     "3763221968": {
         "en": "Leningrad", 
         "id": 3763221968, 
@@ -638,6 +648,16 @@
         "ru": "B\u0142yskawica", 
         "zh_cn": "\u95ea\u7535", 
         "zh_tw": "\u9583\u96fb\u865f"
+    }, 
+    "3865982416": {
+        "en": "IDS_PRSD409", 
+        "id": 3865982416, 
+        "index": "PRSD409", 
+        "level": 9, 
+        "name": "PRSD409_Pr_20i_Tashkent", 
+        "ru": "IDS_PRSD409", 
+        "zh_cn": "IDS_PRSD409", 
+        "zh_tw": "IDS_PRSD409"
     }, 
     "3969791440": {
         "en": "Nakhodka", 

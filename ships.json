@@ -189,6 +189,16 @@
         "zh_cn": "\u4e9a\u5229\u6851\u90a3", 
         "zh_tw": "\u4e9e\u5229\u6851\u90a3\u865f"
     }, 
+    "PASB508": {
+        "en": "IDS_PASB508", 
+        "id": 3762239472, 
+        "index": "PASB508", 
+        "level": 8, 
+        "name": "PASB508_Alabama", 
+        "ru": "IDS_PASB508", 
+        "zh_cn": "IDS_PASB508", 
+        "zh_tw": "IDS_PASB508"
+    }, 
     "PASB509": {
         "en": "Missouri", 
         "id": 3761190896, 
@@ -2288,6 +2298,16 @@
         "ru": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", 
         "zh_cn": "IDS_PRSD310", 
         "zh_tw": "IDS_PRSD310"
+    }, 
+    "PRSD409": {
+        "en": "IDS_PRSD409", 
+        "id": 3865982416, 
+        "index": "PRSD409", 
+        "level": 9, 
+        "name": "PRSD409_Pr_20i_Tashkent", 
+        "ru": "IDS_PRSD409", 
+        "zh_cn": "IDS_PRSD409", 
+        "zh_tw": "IDS_PRSD409"
     }, 
     "PRSD505": {
         "en": "Okhotnik", 
