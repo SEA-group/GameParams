@@ -410,7 +410,7 @@
         "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
     }, 
     "3762239472": {
-        "en": "IDS_PASB508", 
+        "en": "Alabama", 
         "id": 3762239472, 
         "index": "PASB508", 
         "level": 8, 
@@ -650,7 +650,7 @@
         "zh_tw": "\u9583\u96fb\u865f"
     }, 
     "3865982416": {
-        "en": "IDS_PRSD409", 
+        "en": "Tashkent", 
         "id": 3865982416, 
         "index": "PRSD409", 
         "level": 9, 
@@ -670,7 +670,7 @@
         "zh_tw": "IDS_PRSD310"
     }, 
     "3970840016": {
-        "en": "Ashkhabad", 
+        "en": "IDS_PRSD309", 
         "id": 3970840016, 
         "index": "PRSD309", 
         "level": 9, 
@@ -680,7 +680,7 @@
         "zh_tw": "IDS_PRSD309"
     }, 
     "3971888592": {
-        "en": "Yerevan", 
+        "en": "Kiev", 
         "id": 3971888592, 
         "index": "PRSD308", 
         "level": 8, 
@@ -720,7 +720,7 @@
         "zh_tw": "\u5915\u96f2\u578b"
     }, 
     "4076746192": {
-        "en": "Opasny", 
+        "en": "Ognevoi", 
         "id": 4076746192, 
         "index": "PRSD208", 
         "level": 8, 
@@ -760,7 +760,7 @@
         "zh_tw": "\u767d\u9732\u578b"
     }, 
     "4078843344": {
-        "en": "Gordy", 
+        "en": "Gnevny", 
         "id": 4078843344, 
         "index": "PRSD206", 
         "level": 6, 
@@ -850,7 +850,7 @@
         "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
     }, 
     "4180555216": {
-        "en": "Kiev", 
+        "en": "Kiev (< 06.03.2017)", 
         "id": 4180555216, 
         "index": "PRSD109", 
         "level": 7, 
@@ -910,7 +910,7 @@
         "zh_tw": "\u8153\u70c8\u7279\u5927\u5e1d\u7d1a"
     }, 
     "4181603792": {
-        "en": "Tashkent", 
+        "en": "Tashkent (< 06.03.2017)", 
         "id": 4181603792, 
         "index": "PRSD108", 
         "level": 8, 
@@ -1050,7 +1050,7 @@
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
     }, 
     "4183700944": {
-        "en": "Ognevoi", 
+        "en": "Ognevoi (< 06.03.2017)", 
         "id": 4183700944, 
         "index": "PRSD106", 
         "level": 6, 
@@ -1120,7 +1120,7 @@
         "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
     }, 
     "4184749520": {
-        "en": "Gnevny", 
+        "en": "Gnevny (< 06.03.2017)", 
         "id": 4184749520, 
         "index": "PRSD105", 
         "level": 5, 

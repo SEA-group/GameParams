@@ -190,7 +190,7 @@
         "zh_tw": "\u4e9e\u5229\u6851\u90a3\u865f"
     }, 
     "PASB508": {
-        "en": "IDS_PASB508", 
+        "en": "Alabama", 
         "id": 3762239472, 
         "index": "PASB508", 
         "level": 8, 
@@ -2150,7 +2150,7 @@
         "zh_tw": "\u4f0a\u8cc8\u65af\u62c9\u592b\u7d1a"
     }, 
     "PRSD105": {
-        "en": "Gnevny", 
+        "en": "Gnevny (< 06.03.2017)", 
         "id": 4184749520, 
         "index": "PRSD105", 
         "level": 5, 
@@ -2160,7 +2160,7 @@
         "zh_tw": "\u61a4\u6012\u7d1a"
     }, 
     "PRSD106": {
-        "en": "Ognevoi", 
+        "en": "Ognevoi (< 06.03.2017)", 
         "id": 4183700944, 
         "index": "PRSD106", 
         "level": 6, 
@@ -2180,7 +2180,7 @@
         "zh_tw": "\u70cf\u9054\u6d1b\u4f0a\u7d1a"
     }, 
     "PRSD108": {
-        "en": "Tashkent", 
+        "en": "Tashkent (< 06.03.2017)", 
         "id": 4181603792, 
         "index": "PRSD108", 
         "level": 8, 
@@ -2190,7 +2190,7 @@
         "zh_tw": "\u5854\u4ec0\u5e79\u865f"
     }, 
     "PRSD109": {
-        "en": "Kiev", 
+        "en": "Kiev (< 06.03.2017)", 
         "id": 4180555216, 
         "index": "PRSD109", 
         "level": 7, 
@@ -2220,7 +2220,7 @@
         "zh_tw": "IDS_PRSD205"
     }, 
     "PRSD206": {
-        "en": "Gordy", 
+        "en": "Gnevny", 
         "id": 4078843344, 
         "index": "PRSD206", 
         "level": 6, 
@@ -2240,7 +2240,7 @@
         "zh_tw": "IDS_PRSD207"
     }, 
     "PRSD208": {
-        "en": "Opasny", 
+        "en": "Ognevoi", 
         "id": 4076746192, 
         "index": "PRSD208", 
         "level": 8, 
@@ -2270,7 +2270,7 @@
         "zh_tw": "IDS_PRSD210"
     }, 
     "PRSD308": {
-        "en": "Yerevan", 
+        "en": "Kiev", 
         "id": 3971888592, 
         "index": "PRSD308", 
         "level": 8, 
@@ -2280,7 +2280,7 @@
         "zh_tw": "IDS_PRSD308"
     }, 
     "PRSD309": {
-        "en": "Ashkhabad", 
+        "en": "IDS_PRSD309", 
         "id": 3970840016, 
         "index": "PRSD309", 
         "level": 9, 
@@ -2300,7 +2300,7 @@
         "zh_tw": "IDS_PRSD310"
     }, 
     "PRSD409": {
-        "en": "IDS_PRSD409", 
+        "en": "Tashkent", 
         "id": 3865982416, 
         "index": "PRSD409", 
         "level": 9, 
