@@ -516,8 +516,8 @@
         "level": 6, 
         "name": "PJSB506_Mutsu", 
         "ru": "Mutsu", 
-        "zh_cn": "IDS_PJSB506", 
-        "zh_tw": "IDS_PJSB506"
+        "zh_cn": "\u9646\u5965", 
+        "zh_tw": "\u9678\u5967\u865f"
     }, 
     "3764336464": {
         "en": "Dunkerque", 
@@ -546,8 +546,8 @@
         "level": 5, 
         "name": "PRSD505_Okhotnik_1917", 
         "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a", 
-        "zh_cn": "IDS_PRSD505", 
-        "zh_tw": "IDS_PRSD505"
+        "zh_cn": "\u730e\u4eba", 
+        "zh_tw": "\u7375\u4eba\u865f"
     }, 
     "3765351888": {
         "en": "Krasny Krym", 
@@ -666,8 +666,8 @@
         "level": 10, 
         "name": "PRSD310_Pr_24", 
         "ru": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", 
-        "zh_cn": "IDS_PRSD310", 
-        "zh_tw": "IDS_PRSD310"
+        "zh_cn": "\u53d1\u73b0", 
+        "zh_tw": "\u767c\u73fe\u865f"
     }, 
     "3970840016": {
         "en": "IDS_PRSD309", 
@@ -676,8 +676,8 @@
         "level": 9, 
         "name": "PRSD309_Pr_20i", 
         "ru": "\u0410\u0448\u0445\u0430\u0431\u0430\u0434", 
-        "zh_cn": "IDS_PRSD309", 
-        "zh_tw": "IDS_PRSD309"
+        "zh_cn": "\u963f\u4ec0\u54c8\u5df4\u5fb7", 
+        "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
     }, 
     "3971888592": {
         "en": "Kiev", 
@@ -686,8 +686,8 @@
         "level": 8, 
         "name": "PRSD308_Pr_48", 
         "ru": "\u0415\u0440\u0435\u0432\u0430\u043d", 
-        "zh_cn": "IDS_PRSD308", 
-        "zh_tw": "IDS_PRSD308"
+        "zh_cn": "\u57c3\u91cc\u6eab", 
+        "zh_tw": "\u57c3\u91cc\u6eab\u865f"
     }, 
     "4074649040": {
         "en": "Grozovoi", 
@@ -696,8 +696,8 @@
         "level": 10, 
         "name": "PRSD210_Grozovoy_pr_40N", 
         "ru": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
-        "zh_cn": "IDS_PRSD210", 
-        "zh_tw": "IDS_PRSD210"
+        "zh_cn": "\u96f7\u66b4", 
+        "zh_tw": "\u96f7\u66b4\u7d1a"
     }, 
     "4075697616": {
         "en": "Osmotritelny", 
@@ -706,8 +706,8 @@
         "level": 9, 
         "name": "PRSD209_Pr_35", 
         "ru": "\u041e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439", 
-        "zh_cn": "IDS_PRSD209", 
-        "zh_tw": "IDS_PRSD209"
+        "zh_cn": "\u614e\u5bc6", 
+        "zh_tw": "\u614e\u5bc6\u865f"
     }, 
     "4075697872": {
         "en": "Y\u016bgumo", 
@@ -726,8 +726,8 @@
         "level": 8, 
         "name": "PRSD208_Pr_30", 
         "ru": "\u041e\u043f\u0430\u0441\u043d\u044b\u0439", 
-        "zh_cn": "IDS_PRSD208", 
-        "zh_tw": "IDS_PRSD208"
+        "zh_cn": "\u5371\u9669", 
+        "zh_tw": "\u5371\u96aa\u865f"
     }, 
     "4076746448": {
         "en": "Kagero", 
@@ -746,8 +746,8 @@
         "level": 7, 
         "name": "PRSD207_Minsk", 
         "ru": "\u041c\u0438\u043d\u0441\u043a", 
-        "zh_cn": "IDS_PRSD207", 
-        "zh_tw": "IDS_PRSD207"
+        "zh_cn": "\u660e\u65af\u514b", 
+        "zh_tw": "\u660e\u65af\u514b\u7d1a"
     }, 
     "4077795024": {
         "en": "Shiratsuyu", 
@@ -766,8 +766,8 @@
         "level": 6, 
         "name": "PRSD206_Pr_7", 
         "ru": "\u0413\u043e\u0440\u0434\u044b\u0439", 
-        "zh_cn": "IDS_PRSD206", 
-        "zh_tw": "IDS_PRSD206"
+        "zh_cn": "\u81ea\u8c6a", 
+        "zh_tw": "\u81ea\u8c6a\u865f"
     }, 
     "4078843600": {
         "en": "Hatsuharu", 
@@ -786,8 +786,8 @@
         "level": 5, 
         "name": "PRSD205_Podvoisky_pr_1929", 
         "ru": "\u041f\u043e\u0434\u0432\u043e\u0439\u0441\u043a\u0438\u0439", 
-        "zh_cn": "IDS_PRSD205", 
-        "zh_tw": "IDS_PRSD205"
+        "zh_cn": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa", 
+        "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
     }, 
     "4179506640": {
         "en": "Khabarovsk", 
@@ -906,8 +906,8 @@
         "level": 9, 
         "name": "PGSB109_Friedrich_der_Grosse", 
         "ru": "F. der Gro\u00dfe", 
-        "zh_cn": "\u8153\u70c8\u7279\u5927\u5e1d", 
-        "zh_tw": "\u8153\u70c8\u7279\u5927\u5e1d\u7d1a"
+        "zh_cn": "\u8153\u7279\u70c8\u5927\u5e1d", 
+        "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
     }, 
     "4181603792": {
         "en": "Tashkent (< 06.03.2017)", 
