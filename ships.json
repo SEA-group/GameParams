@@ -1,1 +1,2412 @@
-{"PJSB007":{"index":"PJSB007","id":"4287575760","name":"PJSB007_Kongo_1942"},"PRSD105":{"index":"PRSD105","id":"4184749520","name":"PRSD105_Pr_7_Gnevny"},"PBSC102":{"index":"PBSC102","id":"4187928528","name":"PBSC102_Weymouth"},"PJSB705":{"index":"PJSB705","id":"3555669712","name":"PJSB705_Kongou"},"PRSC010":{"index":"PRSC010","id":"4284397008","name":"PRSC010_Diana_1905_Asus"},"PFSB506":{"index":"PFSB506","id":"3764336464","name":"PFSB506_Dunkerque_1940"},"PJSD002":{"index":"PJSD002","id":"4292753104","name":"PJSD002_Umikaze_1925"},"PJSC709":{"index":"PJSC709","id":"3551442640","name":"PJSC709_Haguro"},"PJSD706":{"index":"PJSD706","id":"3554555600","name":"PJSD706_Shinonome"},"PASA002":{"index":"PASA002","id":"4292851696","name":"PASA002_Bogue_1942"},"PASC002":{"index":"PASC002","id":"4292786160","name":"PASC002_Chester_1908"},"PBSC109":{"index":"PBSC109","id":"4180588496","name":"PBSC109_Neptune"},"PJSC035":{"index":"PJSC035","id":"4258182864","name":"PJSC035_Chikuma_1912"},"PASB801":{"index":"PASB801","id":"3455006704","name":"PASB801_False_Michigan_1916"},"PASB034":{"index":"PASB034","id":"4259264496","name":"PASB034_New_Mexico_1941"},"PJSC015":{"index":"PJSC015","id":"4279154384","name":"PJSC015_Tatsuta_1919"},"PRSC108":{"index":"PRSC108","id":"4181636560","name":"PRSC108_Pr_68_Chapaev"},"PGSD104":{"index":"PGSD104","id":"4185798448","name":"PGSD104_V_170"},"PASA015":{"index":"PASA015","id":"4279220208","name":"PASA015_Midway_1945"},"PGSC106":{"index":"PGSC106","id":"4183734064","name":"PGSC106_Nurnberg"},"PJSB011":{"index":"PJSB011","id":"4283381456","name":"PJSB011_Mikasa_1905"},"PASD006":{"index":"PASD006","id":"4288559088","name":"PASD006_Mahan_1936"},"PBSC104":{"index":"PBSC104","id":"4185831376","name":"PBSC104_Danae"},"PJSC717":{"index":"PJSC717","id":"3543054032","name":"PJSC717_Yellow_Dragon"},"PASC005":{"index":"PASC005","id":"4289640432","name":"PASC005_Omaha_1923"},"PASB008":{"index":"PASB008","id":"4286527472","name":"PASB008_Colorado_1945"},"PJSD207":{"index":"PJSD207","id":"4077795024","name":"PJSD207_Shiratsuyu"},"PGSB110":{"index":"PGSB110","id":"4179572528","name":"PGSB110_Grossdeutschland"},"PASD014":{"index":"PASD014","id":"4280170480","name":"PASD014_Leader_1919"},"PJSX701":{"index":"PJSX701","id":"3559143120","name":"PJSX701_Support"},"PRSD001":{"index":"PRSD001","id":"4293801424","name":"PRSD001_Gremyashchy_1942"},"PXSB001":{"index":"PXSB001","id":"4293866768","name":"PXSB001_Mr_Hyde"},"PGSD106":{"index":"PGSD106","id":"4183701296","name":"PGSD106_Ernst_Gaede"},"PGSD103":{"index":"PGSD103","id":"4186847024","name":"PGSD103_G_101"},"PGSD105":{"index":"PGSD105","id":"4184749872","name":"PGSD105_T_22"},"PJSA015":{"index":"PJSA015","id":"4279219920","name":"PJSA015_Taiho_1944"},"PJSC038":{"index":"PJSC038","id":"4255037136","name":"PJSC038_Atago_1944"},"PASD502":{"index":"PASD502","id":"3768465392","name":"PASD502_Smith"},"PASD013":{"index":"PASD013","id":"4281219056","name":"PASD013_Gearing_1945"},"PJSB018":{"index":"PJSB018","id":"4276041424","name":"PJSB018_Yamato_1944"},"PJSD105":{"index":"PJSD105","id":"4184749776","name":"PJSD105_Mutsuki"},"PJSX702":{"index":"PJSX702","id":"3558094544","name":"PJSX702_Support"},"PRSD106":{"index":"PRSD106","id":"4183700944","name":"PRSD106_Pr_30_Ognevoy"},"PJSD206":{"index":"PJSD206","id":"4078843600","name":"PJSD206_Hatsuharu"},"PRSC508":{"index":"PRSC508","id":"3762206160","name":"PRSC508_Kutuzov_1952"},"PJSB708":{"index":"PJSB708","id":"3552523984","name":"PJSB708_Hiei_Arpeggio"},"PJSD026":{"index":"PJSD026","id":"4267587280","name":"PJSD026_Camo_Kamikaze"},"PGSC110":{"index":"PGSC110","id":"4179539760","name":"PGSC110_Hindenburg"},"PASD019":{"index":"PASD019","id":"4274927600","name":"PASD019_Clemson_1920"},"PRSD110":{"index":"PRSD110","id":"4179506640","name":"PRSD110_Pr_24_Khabarovsk"},"PJSC705":{"index":"PJSC705","id":"3555636944","name":"PJSC705_Myoko"},"PASB001":{"index":"PASB001","id":"4293867504","name":"PASB001_Michigan_1916"},"PASC019":{"index":"PASC019","id":"4274960368","name":"PASC019_Burlington_1944"},"PJSC018":{"index":"PJSC018","id":"4276008656","name":"PJSC018_Tone"},"PJSC012":{"index":"PJSC012","id":"4282300112","name":"PJSC012_Ibuki_1944"},"PASC020":{"index":"PASC020","id":"4273911792","name":"PASC020_Des_Moines_1948"},"PJSA002":{"index":"PJSA002","id":"4292851408","name":"PJSA002_Hosho_1939"},"PASC804":{"index":"PASC804","id":"3451828208","name":"PASC804_FALSE_ENEMY_Erie_1936"},"PRSD507":{"index":"PRSD507","id":"3763221968","name":"PRSD507_Leningrad_1944"},"PZSD506":{"index":"PZSD506","id":"3764270288","name":"PZSD506_Anshan"},"PRSB001":{"index":"PRSB001","id":"4293866960","name":"PRSB001_Nikolay_I"},"PJSB801":{"index":"PJSB801","id":"3455006416","name":"PJSB801_False_Kawachi_1912"},"PRSC505":{"index":"PRSC505","id":"3765351888","name":"PRSC505_KrasniKrym"},"PBSC101":{"index":"PBSC101","id":"4188977104","name":"PBSC101_Black_Swan"},"PBSC507":{"index":"PBSC507","id":"3763255248","name":"PBSC507_Belfast_1959"},"PJSD503":{"index":"PJSD503","id":"3767416528","name":"PJSD503_Isokaze"},"PASB004":{"index":"PASB004","id":"4290721776","name":"PASB004_Arkansas_1912"},"PJSD017":{"index":"PJSD017","id":"4277024464","name":"PJSD017_Kamikaze_1930"},"PRSC102":{"index":"PRSC102","id":"4187928016","name":"PRSC102_Novik"},"PJSC037":{"index":"PJSC037","id":"4256085712","name":"PJSC037_Hashidate_1940"},"PJSC503":{"index":"PJSC503","id":"3767449296","name":"PJSC503_Katori"},"PRSD103":{"index":"PRSD103","id":"4186846672","name":"PRSD103_Derzky"},"PJSD010":{"index":"PJSD010","id":"4284364496","name":"PJSD010_Kagero_1943"},"PASC024":{"index":"PASC024","id":"4269717488","name":"PASC024_Phoenix_1917"},"PASB012":{"index":"PASB012","id":"4282333168","name":"PASB012_North_Carolina_1945"},"PZSD508":{"index":"PZSD508","id":"3762173136","name":"PZSD508_LoYang"},"PJSB010":{"index":"PJSB010","id":"4284430032","name":"PJSB010_Nagato_1944"},"PGSB106":{"index":"PGSB106","id":"4183766832","name":"PGSB106_Bayern"},"PASD002":{"index":"PASD002","id":"4292753392","name":"PASD002_Sampson_1917"},"PASC707":{"index":"PASC707","id":"3553540080","name":"PASC707_Flint"},"PJSB013":{"index":"PJSB013","id":"4281284304","name":"PJSB013_Amagi_1942"},"PGSD109":{"index":"PGSD109","id":"4180555568","name":"PGSD109_Z_46"},"PJSC708":{"index":"PJSC708","id":"3552491216","name":"PJSC708_ARP_Takao"},"PASB018":{"index":"PASB018","id":"4276041712","name":"PASB018_Iowa_1944"},"PRSD102":{"index":"PRSD102","id":"4187895248","name":"PRSD102_SM_Storojevoy"},"PJSC999":{"index":"PJSC999","id":"3247355600","name":"PJSC999_Yubari_Special"},"PXSD001":{"index":"PXSD001","id":"4293801232","name":"PXSD001_VanHellsink"},"PASC805":{"index":"PASC805","id":"3450779632","name":"PASC805_FALSE_ENEMY_Erie_1936"},"PRSD107":{"index":"PRSD107","id":"4182652368","name":"PRSD107_Pr_35_Udaloy"},"PRSD109":{"index":"PRSD109","id":"4180555216","name":"PRSD109_Pr_48_Kiev"},"PGSB109":{"index":"PGSB109","id":"4180621104","name":"PGSB109_Friedrich_der_Grosse"},"PJSA012":{"index":"PJSA012","id":"4282365648","name":"PJSA012_Zuikaku_1944"},"PGSC001":{"index":"PGSC001","id":"4293834544","name":"PGSC001_Hermelin_1940"},"PASD029":{"index":"PASD029","id":"4264441840","name":"PASD029_Sims_1941"},"PBSC110":{"index":"PBSC110","id":"4179539920","name":"PBSC110_Minotaur"},"PJSC013":{"index":"PJSC013","id":"4281251536","name":"PJSC013_Kuma_1938"},"PJSC009":{"index":"PJSC009","id":"4285445840","name":"PJSC009_Mogami_1935"},"PRSC002":{"index":"PRSC002","id":"4292785616","name":"PRSC002_Diana_1905"},"PASA013":{"index":"PASA013","id":"4281317360","name":"PASA013_Essex_1945"},"PASA010":{"index":"PASA010","id":"4284463088","name":"PASA010_Ranger_1944"},"PXSC001":{"index":"PXSC001","id":"4293834000","name":"PXSC001_Dr_Frankenship"},"PBSD503":{"index":"PBSD503","id":"3767416784","name":"PBSD503_Campbeltown_1941"},"PJSD803":{"index":"PJSD803","id":"3452843728","name":"PJSD803_False_Isokaze_1917"},"PJSC008":{"index":"PJSC008","id":"4286494416","name":"PJSC008_Myoko_1945"},"PASC507":{"index":"PASC507","id":"3763255280","name":"PASC507_Indianapolis_1945"},"PJSD004":{"index":"PJSD004","id":"4290655952","name":"PJSD004_Minekadze_1920"},"PJSD006":{"index":"PJSD006","id":"4288558800","name":"PJSD006_Hatsuharu_1945"},"PRSD104":{"index":"PRSD104","id":"4185798096","name":"PRSD104_Izyaslav"},"PJSC005":{"index":"PJSC005","id":"4289640144","name":"PJSC005_Furutaka_1926"},"PRSC003":{"index":"PRSC003","id":"4291737040","name":"PRSC003_Murmansk_1944"},"PASC802":{"index":"PASC802","id":"3453925360","name":"PASC802_Cimarron_Target"},"PJSD025":{"index":"PJSD025","id":"4268635856","name":"PJSD025_True_Kamikaze"},"PGSC109":{"index":"PGSC109","id":"4180588336","name":"PGSC109_Roon"},"PRSC105":{"index":"PRSC105","id":"4184782288","name":"PRSC105_Kirov"},"PRSC001":{"index":"PRSC001","id":"4293834192","name":"PRSC001_Avrora_1917"},"PRSD108":{"index":"PRSD108","id":"4181603792","name":"PRSD108_Pr_20i_Tashkent"},"PASC044":{"index":"PASC044","id":"4248745968","name":"PASC044_Marblehead_1924"},"PGSC103":{"index":"PGSC103","id":"4186879792","name":"PGSC103_Kolberg"},"PJSB799":{"index":"PJSB799","id":"3457103568","name":"PJSB799_Kirishima"},"PRSC107":{"index":"PRSC107","id":"4182685136","name":"PRSC107_Schors"},"PJSD007":{"index":"PJSD007","id":"4287510224","name":"PJSD007_Fubuki_1944"},"PJSC837":{"index":"PJSC837","id":"3417224912","name":"PJSC837_False_Hashidate_1940"},"PJSD012":{"index":"PJSD012","id":"4282267344","name":"PJSD012_Shimakaze_1943"},"PASC001":{"index":"PASC001","id":"4293834736","name":"PASC001_Erie_1936"},"PASC017":{"index":"PASC017","id":"4277057520","name":"PASC017_Baltimore_1944"},"PGSB503":{"index":"PGSB503","id":"3767482160","name":"PGSB503_Koenig_Albert"},"PGSC104":{"index":"PGSC104","id":"4185831216","name":"PGSC104_Karlsruhe"},"PASB509":{"index":"PASB509","id":"3761190896","name":"PASB509_Missouri"},"PJSC707":{"index":"PJSC707","id":"3553539792","name":"PJSC707_Ashigara"},"PASX006":{"index":"PASX006","id":"4287903728","name":"PASX006_Cimarron_invisible"},"PJSD024":{"index":"PJSD024","id":"4269684432","name":"PJSD024_Wakatake_1923"},"PBSB002":{"index":"PBSB002","id":"4292818896","name":"PBSB002_Warspite_1941"},"PJSA011":{"index":"PJSA011","id":"4283414224","name":"PJSA011_Hiryu_1942"},"PGSB107":{"index":"PGSB107","id":"4182718256","name":"PGSB107_Gneisenau"},"PGSB103":{"index":"PGSB103","id":"4186912560","name":"PGSB103_Nassau"},"PBSC108":{"index":"PBSC108","id":"4181637072","name":"PBSC108_Edinburgh"},"PGSB507":{"index":"PGSB507","id":"3763287856","name":"PGSB507_Scharnhorst"},"PASX001":{"index":"PASX001","id":"4293146608","name":"PASX001_Cimarron"},"PJSD107":{"index":"PJSD107","id":"4182652624","name":"PJSD107_Akatsuki"},"PGSD108":{"index":"PGSD108","id":"4181604144","name":"PGSD108_Z_23"},"PJSB706":{"index":"PJSB706","id":"3554621136","name":"PJSB706_Kirishima"},"PJSC026":{"index":"PJSC026","id":"4267620048","name":"PJSC026_Iwaki_1944"},"PASB006":{"index":"PASB006","id":"4288624624","name":"PASB006_New_York_1934"},"PASA004":{"index":"PASA004","id":"4290754544","name":"PASA004_Langley_1929"},"PJSC727":{"index":"PJSC727","id":"3532568272","name":"PJSC727_Blue_Dragon"},"PGSC508":{"index":"PGSC508","id":"3762206512","name":"PGSC508_Prinz_Eugen"},"PJSC007":{"index":"PJSC007","id":"4287542992","name":"PJSC007_Aoba_1943"},"PASC907":{"index":"PASC907","id":"3343824880","name":"PASC907_Des_Moines_1948_Halloween"},"PJSC838":{"index":"PJSC838","id":"3416176336","name":"PJSC838_False_Hashidate_1940"},"PXSB003":{"index":"PXSB003","id":"4291769616","name":"PXSB003_Zeekasa"},"PASC003":{"index":"PASC003","id":"4291737584","name":"PASC003_Albany_1898"},"PGSB104":{"index":"PGSB104","id":"4185863984","name":"PGSB104_Kaiser"},"PJSC004":{"index":"PJSC004","id":"4290688720","name":"PJSC004_Yubari_1944"},"PASA905":{"index":"PASA905","id":"3345987568","name":"PASA905_Essex_1945_Halloween"},"PRSC101":{"index":"PRSC101","id":"4188976592","name":"PRSC101_Orlan"},"PJSB006":{"index":"PJSB006","id":"4288624336","name":"PJSB006_Fuso_1943"},"PJSD208":{"index":"PJSD208","id":"4076746448","name":"PJSD208_Kagero"},"PRSC103":{"index":"PRSC103","id":"4186879440","name":"PRSC103_Bogatyr"},"PBSC103":{"index":"PBSC103","id":"4186879952","name":"PBSC103_Caledon"},"PASA012":{"index":"PASA012","id":"4282365936","name":"PASA012_Lexington_1944"},"PGSB108":{"index":"PGSB108","id":"4181669680","name":"PGSB108_Bismarck"},"PASA006":{"index":"PASA006","id":"4288657392","name":"PASA006_Independence_1945"},"PASX904":{"index":"PASX904","id":"3346282480","name":"PASX904_Cimarron"},"PJSA017":{"index":"PJSA017","id":"4277122768","name":"PJSA017_Hakuryu_1942"},"PJSD504":{"index":"PJSD504","id":"3766367952","name":"PJSD504_Minekaze"},"PJSD108":{"index":"PJSD108","id":"4181604048","name":"PJSD108_Akizuki"},"PJSC014":{"index":"PJSC014","id":"4280202960","name":"PJSC014_Kitakami_1945"},"PASD801":{"index":"PASD801","id":"3454941168","name":"PASD801_FALSE_ENEMY_Sampson"},"PXSB002":{"index":"PXSB002","id":"4292818192","name":"PXSB002_Rasputin"},"PRSC503":{"index":"PRSC503","id":"3767449040","name":"PRSC503_Oleg"},"PASD008":{"index":"PASD008","id":"4286461936","name":"PASD008_Benson_1945"},"PJSB707":{"index":"PJSB707","id":"3553572560","name":"PJSB707_Haruna"},"PASC014":{"index":"PASC014","id":"4280203248","name":"PASC014_New_Orlean_1944"},"PGSC506":{"index":"PGSC506","id":"3764303664","name":"PGSC506_Admiral_Graf_Spee"},"PBSC105":{"index":"PBSC105","id":"4184782800","name":"PBSC105_Emerald"},"PASC007":{"index":"PASC007","id":"4287543280","name":"PASC007_Cleveland_1945"},"PJSD005":{"index":"PJSD005","id":"4289607376","name":"PJSD005_Mutsuki_1926"},"PGSC502":{"index":"PGSC502","id":"3768497968","name":"PGSC502_Emden_1908"},"PRSC104":{"index":"PRSC104","id":"4185830864","name":"PRSC104_Svetlana"},"PRSC110":{"index":"PRSC110","id":"4179539408","name":"PRSC110_Pr_66_Moskva"},"PBSC107":{"index":"PBSC107","id":"4182685648","name":"PBSC107_Fiji"},"PRSC999":{"index":"PRSC999","id":"3247355344","name":"PRSC999_Seal"},"PASB705":{"index":"PASB705","id":"3555670000","name":"PASB705_Texas_1944"},"PASC016":{"index":"PASC016","id":"4278106096","name":"PASC016_Worcester_1948"},"PUSC506":{"index":"PUSC506","id":"3764303216","name":"PUSC506_Perth_1942"},"PJSD001":{"index":"PJSD001","id":"4293801680","name":"PJSD001_Tachibana_1912"},"PJSC034":{"index":"PJSC034","id":"4259231440","name":"PJSC034_Zao_1944"},"PASC045":{"index":"PASC045","id":"4247697392","name":"PASC045_Marblehead_1924_Asus"},"PRSC106":{"index":"PRSC106","id":"4183733712","name":"PRSC106_Pr_94_Budeny"},"PGSC108":{"index":"PGSC108","id":"4181636912","name":"PGSC108_Hipper"},"PGSB002":{"index":"PGSB002","id":"4292818736","name":"PGSB002_Tirpiz_1942"},"PJSB021":{"index":"PJSB021","id":"4272895696","name":"PJSB021_Izumo_1938"},"PASB013":{"index":"PASB013","id":"4281284592","name":"PASB013_Arkansas_1912"},"PJSA009":{"index":"PJSA009","id":"4285511376","name":"PJSA009_Ryujo_1933"},"PJSB802":{"index":"PJSB802","id":"3453957840","name":"PJSB802_False_Ally_Kawachi_1912"},"PJSB008":{"index":"PJSB008","id":"4286527184","name":"PJSB008_Ishizuchi_1921"},"PWSD501":{"index":"PWSD501","id":"3769513264","name":"PWSD501_Blyskawica"},"PGSC107":{"index":"PGSC107","id":"4182685488","name":"PGSC107_Yorck"},"PJSC737":{"index":"PJSC737","id":"3522082512","name":"PJSC737_Nachi"},"PASD005":{"index":"PASD005","id":"4289607664","name":"PASD005_Farragut_1944"},"PGSC002":{"index":"PGSC002","id":"4292785968","name":"PGSC002_Drezden_1908"},"PASC803":{"index":"PASC803","id":"3452876784","name":"PASC803_Cimarron_shooter"},"PJSD003":{"index":"PJSD003","id":"4291704528","name":"PJSD003_Isokaze_1917"},"PASC006":{"index":"PASC006","id":"4288591856","name":"PASC006_Atlanta_1942"},"PASD021":{"index":"PASD021","id":"4272830448","name":"PASD021_Fletcher_1943"},"PGSD102":{"index":"PGSD102","id":"4187895600","name":"PGSD102_V_25"},"PJSD209":{"index":"PJSD209","id":"4075697872","name":"PJSD209_Yugumo"},"PJSA006":{"index":"PJSA006","id":"4288657104","name":"PJSA006_Zuiho_1944"},"PRSC506":{"index":"PRSC506","id":"3764303312","name":"PRSC506_Molotov_1943"},"PASB708":{"index":"PASB708","id":"3552524272","name":"PASB708_Alabama"},"PJSD014":{"index":"PJSD014","id":"4280170192","name":"PJSD014_Tachibana_1912_Asus"},"PASA507":{"index":"PASA507","id":"3763320816","name":"PASA507_Saipan_1946"},"PASB017":{"index":"PASB017","id":"4277090288","name":"PASB017_Montana_1945"},"PJSD106":{"index":"PJSD106","id":"4183701200","name":"PJSD106_Fubuki"},"PJSC799":{"index":"PJSC799","id":"3457070800","name":"PJSC799_Takao"},"PXSX001":{"index":"PXSX001","id":"4293145872","name":"PXSX001_Transylvania"},"PASB506":{"index":"PASB506","id":"3764336624","name":"PASB506_Arizona_1941"},"PASC012":{"index":"PASC012","id":"4282300400","name":"PASC012_Pensacola_1944"},"PASD709":{"index":"PASD709","id":"3551410160","name":"PASD709_Black"},"PRSC109":{"index":"PRSC109","id":"4180587984","name":"PRSC109_Dmitry_Donskoy"},"PASB802":{"index":"PASB802","id":"3453958128","name":"PASB802_FALSE_ENEMY_Michigan"},"PGSD107":{"index":"PGSD107","id":"4182652720","name":"PGSD107_Leberecht_Maass"},"PGSC105":{"index":"PGSC105","id":"4184782640","name":"PGSC105_Konigsberg"},"PGSD110":{"index":"PGSD110","id":"4179506992","name":"PGSD110_Z_52"},"PASC004":{"index":"PASC004","id":"4290689008","name":"PASC004_St_Louis_1906"},"PBSC106":{"index":"PBSC106","id":"4183734224","name":"PBSC106_Leander"},"PJSB001":{"index":"PJSB001","id":"4293867216","name":"PJSB001_Kawachi_1912"},"PGSB105":{"index":"PGSB105","id":"4184815408","name":"PGSB105_Koenig"},"PJSB003":{"index":"PJSB003","id":"4291770064","name":"PJSB003_Myogi_1912"},"PASD027":{"index":"PASD027","id":"4266538992","name":"PASD027_Wickes_1918"},}
+{
+    "PASA002": {
+        "en": "Bogue", 
+        "id": 4292851696, 
+        "index": "PASA002", 
+        "level": 5, 
+        "name": "PASA002_Bogue_1942", 
+        "ru": "Bogue", 
+        "zh_cn": "\u535a\u683c", 
+        "zh_tw": "\u535a\u683c\u7d1a"
+    }, 
+    "PASA004": {
+        "en": "Langley", 
+        "id": 4290754544, 
+        "index": "PASA004", 
+        "level": 4, 
+        "name": "PASA004_Langley_1929", 
+        "ru": "Langley", 
+        "zh_cn": "\u5170\u5229", 
+        "zh_tw": "\u862d\u5229\u865f"
+    }, 
+    "PASA006": {
+        "en": "Independence", 
+        "id": 4288657392, 
+        "index": "PASA006", 
+        "level": 6, 
+        "name": "PASA006_Independence_1945", 
+        "ru": "Independence", 
+        "zh_cn": "\u72ec\u7acb", 
+        "zh_tw": "\u7368\u7acb\u7d1a"
+    }, 
+    "PASA010": {
+        "en": "Ranger", 
+        "id": 4284463088, 
+        "index": "PASA010", 
+        "level": 7, 
+        "name": "PASA010_Ranger_1944", 
+        "ru": "Ranger", 
+        "zh_cn": "\u6e38\u9a91\u5175", 
+        "zh_tw": "\u6e38\u9a0e\u5175\u865f"
+    }, 
+    "PASA012": {
+        "en": "Lexington", 
+        "id": 4282365936, 
+        "index": "PASA012", 
+        "level": 8, 
+        "name": "PASA012_Lexington_1944", 
+        "ru": "Lexington", 
+        "zh_cn": "\u5217\u514b\u661f\u6566", 
+        "zh_tw": "\u5217\u514b\u661f\u6566\u7d1a"
+    }, 
+    "PASA013": {
+        "en": "Essex", 
+        "id": 4281317360, 
+        "index": "PASA013", 
+        "level": 9, 
+        "name": "PASA013_Essex_1945", 
+        "ru": "Essex", 
+        "zh_cn": "\u57c3\u585e\u514b\u65af", 
+        "zh_tw": "\u57c3\u585e\u514b\u65af\u7d1a"
+    }, 
+    "PASA015": {
+        "en": "Midway", 
+        "id": 4279220208, 
+        "index": "PASA015", 
+        "level": 10, 
+        "name": "PASA015_Midway_1945", 
+        "ru": "Midway", 
+        "zh_cn": "\u4e2d\u9014\u5c9b", 
+        "zh_tw": "\u4e2d\u9014\u5cf6\u7d1a"
+    }, 
+    "PASA507": {
+        "en": "Saipan", 
+        "id": 3763320816, 
+        "index": "PASA507", 
+        "level": 7, 
+        "name": "PASA507_Saipan_1946", 
+        "ru": "Saipan", 
+        "zh_cn": "\u585e\u73ed", 
+        "zh_tw": "\u585e\u73ed\u865f"
+    }, 
+    "PASA905": {
+        "en": "IDS_PASA905", 
+        "id": 3345987568, 
+        "index": "PASA905", 
+        "level": 5, 
+        "name": "PASA905_Essex_1945_Halloween", 
+        "ru": "IDS_PASA905", 
+        "zh_cn": "\u5e7b\u5f71\u8981\u585e", 
+        "zh_tw": "\u5e7b\u5f71\u8981\u585e"
+    }, 
+    "PASB001": {
+        "en": "S. Carolina", 
+        "id": 4293867504, 
+        "index": "PASB001", 
+        "level": 3, 
+        "name": "PASB001_Michigan_1916", 
+        "ru": "S. Carolina", 
+        "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
+        "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d\u7d1a"
+    }, 
+    "PASB004": {
+        "en": "Wyoming", 
+        "id": 4290721776, 
+        "index": "PASB004", 
+        "level": 4, 
+        "name": "PASB004_Arkansas_1912", 
+        "ru": "Wyoming", 
+        "zh_cn": "\u6000\u4fc4\u660e", 
+        "zh_tw": "\u61f7\u4fc4\u660e\u7d1a"
+    }, 
+    "PASB006": {
+        "en": "New York", 
+        "id": 4288624624, 
+        "index": "PASB006", 
+        "level": 5, 
+        "name": "PASB006_New_York_1934", 
+        "ru": "New York", 
+        "zh_cn": "\u7ebd\u7ea6", 
+        "zh_tw": "\u7d10\u7d04\u7d1a"
+    }, 
+    "PASB008": {
+        "en": "Colorado", 
+        "id": 4286527472, 
+        "index": "PASB008", 
+        "level": 7, 
+        "name": "PASB008_Colorado_1945", 
+        "ru": "Colorado", 
+        "zh_cn": "\u79d1\u7f57\u62c9\u591a", 
+        "zh_tw": "\u79d1\u7f85\u62c9\u591a\u7d1a"
+    }, 
+    "PASB012": {
+        "en": "N. Carolina", 
+        "id": 4282333168, 
+        "index": "PASB012", 
+        "level": 8, 
+        "name": "PASB012_North_Carolina_1945", 
+        "ru": "N. Carolina", 
+        "zh_cn": "\u5317\u5361\u7f57\u83b1\u7eb3", 
+        "zh_tw": "\u5317\u5361\u7f85\u4f86\u7d0d\u7d1a"
+    }, 
+    "PASB013": {
+        "en": "Arkansas B", 
+        "id": 4281284592, 
+        "index": "PASB013", 
+        "level": 4, 
+        "name": "PASB013_Arkansas_1912", 
+        "ru": "Arkansas B", 
+        "zh_cn": "\u963f\u80af\u8272(Beta)", 
+        "zh_tw": "\u963f\u80af\u8272\u865f(Beta)"
+    }, 
+    "PASB017": {
+        "en": "Montana", 
+        "id": 4277090288, 
+        "index": "PASB017", 
+        "level": 10, 
+        "name": "PASB017_Montana_1945", 
+        "ru": "Montana", 
+        "zh_cn": "\u8499\u5927\u62ff", 
+        "zh_tw": "\u8499\u5927\u62ff\u7d1a"
+    }, 
+    "PASB018": {
+        "en": "Iowa", 
+        "id": 4276041712, 
+        "index": "PASB018", 
+        "level": 9, 
+        "name": "PASB018_Iowa_1944", 
+        "ru": "Iowa", 
+        "zh_cn": "\u4f9d\u963f\u534e", 
+        "zh_tw": "\u4f9d\u963f\u83ef\u7d1a"
+    }, 
+    "PASB034": {
+        "en": "New Mexico", 
+        "id": 4259264496, 
+        "index": "PASB034", 
+        "level": 6, 
+        "name": "PASB034_New_Mexico_1941", 
+        "ru": "New Mexico", 
+        "zh_cn": "\u65b0\u58a8\u897f\u54e5", 
+        "zh_tw": "\u65b0\u58a8\u897f\u54e5\u7d1a"
+    }, 
+    "PASB506": {
+        "en": "Arizona", 
+        "id": 3764336624, 
+        "index": "PASB506", 
+        "level": 6, 
+        "name": "PASB506_Arizona_1941", 
+        "ru": "Arizona", 
+        "zh_cn": "\u4e9a\u5229\u6851\u90a3", 
+        "zh_tw": "\u4e9e\u5229\u6851\u90a3\u865f"
+    }, 
+    "PASB509": {
+        "en": "Missouri", 
+        "id": 3761190896, 
+        "index": "PASB509", 
+        "level": 9, 
+        "name": "PASB509_Missouri", 
+        "ru": "Missouri", 
+        "zh_cn": "\u5bc6\u82cf\u91cc", 
+        "zh_tw": "\u5bc6\u8607\u91cc\u865f"
+    }, 
+    "PASB705": {
+        "en": "Texas", 
+        "id": 3555670000, 
+        "index": "PASB705", 
+        "level": 5, 
+        "name": "PASB705_Texas_1944", 
+        "ru": "Texas", 
+        "zh_cn": "\u5fb7\u514b\u8428\u65af", 
+        "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
+    }, 
+    "PASB708": {
+        "en": "Alabama ST", 
+        "id": 3552524272, 
+        "index": "PASB708", 
+        "level": 8, 
+        "name": "PASB708_Alabama", 
+        "ru": "Alabama ST", 
+        "zh_cn": "\u963f\u62c9\u5df4\u9a6c(ST)", 
+        "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865fST"
+    }, 
+    "PASB801": {
+        "en": "South Carolina", 
+        "id": 3455006704, 
+        "index": "PASB801", 
+        "level": 3, 
+        "name": "PASB801_False_Michigan_1916", 
+        "ru": "South Carolina", 
+        "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
+        "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d"
+    }, 
+    "PASB802": {
+        "en": "Michigan", 
+        "id": 3453958128, 
+        "index": "PASB802", 
+        "level": 3, 
+        "name": "PASB802_FALSE_ENEMY_Michigan", 
+        "ru": "Michigan", 
+        "zh_cn": "\u5bc6\u897f\u6839", 
+        "zh_tw": "\u5bc6\u897f\u6839"
+    }, 
+    "PASC001": {
+        "en": "Erie", 
+        "id": 4293834736, 
+        "index": "PASC001", 
+        "level": 1, 
+        "name": "PASC001_Erie_1936", 
+        "ru": "Erie", 
+        "zh_cn": "\u4f0a\u5229", 
+        "zh_tw": "\u4f0a\u5229\u7d1a"
+    }, 
+    "PASC002": {
+        "en": "Chester", 
+        "id": 4292786160, 
+        "index": "PASC002", 
+        "level": 2, 
+        "name": "PASC002_Chester_1908", 
+        "ru": "Chester", 
+        "zh_cn": "\u5207\u65af\u7279", 
+        "zh_tw": "\u5207\u65af\u7279\u7d1a"
+    }, 
+    "PASC003": {
+        "en": "Albany", 
+        "id": 4291737584, 
+        "index": "PASC003", 
+        "level": 2, 
+        "name": "PASC003_Albany_1898", 
+        "ru": "Albany", 
+        "zh_cn": "\u5965\u5c14\u5df4\u5c3c", 
+        "zh_tw": "\u5967\u723e\u5df4\u5c3c\u865f"
+    }, 
+    "PASC004": {
+        "en": "St. Louis", 
+        "id": 4290689008, 
+        "index": "PASC004", 
+        "level": 3, 
+        "name": "PASC004_St_Louis_1906", 
+        "ru": "St. Louis", 
+        "zh_cn": "\u5723\u00b7\u8def\u6613\u65af", 
+        "zh_tw": "\u8056\u00b7\u8def\u6613\u65af\u7d1a"
+    }, 
+    "PASC005": {
+        "en": "Omaha", 
+        "id": 4289640432, 
+        "index": "PASC005", 
+        "level": 5, 
+        "name": "PASC005_Omaha_1923", 
+        "ru": "Omaha", 
+        "zh_cn": "\u5965\u9a6c\u54c8", 
+        "zh_tw": "\u5967\u99ac\u54c8\u7d1a"
+    }, 
+    "PASC006": {
+        "en": "Atlanta", 
+        "id": 4288591856, 
+        "index": "PASC006", 
+        "level": 7, 
+        "name": "PASC006_Atlanta_1942", 
+        "ru": "Atlanta", 
+        "zh_cn": "\u4e9a\u7279\u5170\u5927", 
+        "zh_tw": "\u4e9e\u7279\u862d\u5927\u865f"
+    }, 
+    "PASC007": {
+        "en": "Cleveland", 
+        "id": 4287543280, 
+        "index": "PASC007", 
+        "level": 6, 
+        "name": "PASC007_Cleveland_1945", 
+        "ru": "Cleveland", 
+        "zh_cn": "\u514b\u5229\u592b\u5170", 
+        "zh_tw": "\u514b\u5229\u592b\u862d\u7d1a"
+    }, 
+    "PASC012": {
+        "en": "Pensacola", 
+        "id": 4282300400, 
+        "index": "PASC012", 
+        "level": 7, 
+        "name": "PASC012_Pensacola_1944", 
+        "ru": "Pensacola", 
+        "zh_cn": "\u5f6d\u8428\u79d1\u62c9", 
+        "zh_tw": "\u5f6d\u85a9\u79d1\u62c9\u7d1a"
+    }, 
+    "PASC014": {
+        "en": "New Orleans", 
+        "id": 4280203248, 
+        "index": "PASC014", 
+        "level": 8, 
+        "name": "PASC014_New_Orlean_1944", 
+        "ru": "New Orleans", 
+        "zh_cn": "\u65b0\u5965\u5c14\u826f", 
+        "zh_tw": "\u65b0\u5967\u723e\u826f\u7d1a"
+    }, 
+    "PASC016": {
+        "en": "Worcester", 
+        "id": 4278106096, 
+        "index": "PASC016", 
+        "level": 10, 
+        "name": "PASC016_Worcester_1948", 
+        "ru": "Worcester", 
+        "zh_cn": "\u4f0d\u65af\u7279", 
+        "zh_tw": "\u4f0d\u65af\u7279\u7d1a"
+    }, 
+    "PASC017": {
+        "en": "Baltimore", 
+        "id": 4277057520, 
+        "index": "PASC017", 
+        "level": 9, 
+        "name": "PASC017_Baltimore_1944", 
+        "ru": "Baltimore", 
+        "zh_cn": "\u5df4\u5c14\u7684\u6469", 
+        "zh_tw": "\u5df4\u723e\u7684\u6469\u7d1a"
+    }, 
+    "PASC019": {
+        "en": "Buffalo", 
+        "id": 4274960368, 
+        "index": "PASC019", 
+        "level": 10, 
+        "name": "PASC019_Burlington_1944", 
+        "ru": "Buffalo", 
+        "zh_cn": "\u5e03\u6cd5\u7f57", 
+        "zh_tw": "\u5e03\u6cd5\u7f85\u865f"
+    }, 
+    "PASC020": {
+        "en": "Des Moines", 
+        "id": 4273911792, 
+        "index": "PASC020", 
+        "level": 10, 
+        "name": "PASC020_Des_Moines_1948", 
+        "ru": "Des Moines", 
+        "zh_cn": "\u5fb7\u6885\u56e0", 
+        "zh_tw": "\u5fb7\u6885\u56e0\u7d1a"
+    }, 
+    "PASC024": {
+        "en": "Phoenix", 
+        "id": 4269717488, 
+        "index": "PASC024", 
+        "level": 4, 
+        "name": "PASC024_Phoenix_1917", 
+        "ru": "Phoenix", 
+        "zh_cn": "\u83f2\u5c3c\u514b\u65af", 
+        "zh_tw": "\u83f2\u5c3c\u514b\u65af\u7d1a"
+    }, 
+    "PASC044": {
+        "en": "Marblehead", 
+        "id": 4248745968, 
+        "index": "PASC044", 
+        "level": 5, 
+        "name": "PASC044_Marblehead_1924", 
+        "ru": "Marblehead", 
+        "zh_cn": "\u9a6c\u5e03\u5c14\u9ed1\u5fb7", 
+        "zh_tw": "\u99ac\u5e03\u723e\u9ed1\u5fb7\u865f"
+    }, 
+    "PASC045": {
+        "en": "Marblehead L", 
+        "id": 4247697392, 
+        "index": "PASC045", 
+        "level": 5, 
+        "name": "PASC045_Marblehead_1924_Asus", 
+        "ru": "Marblehead L", 
+        "zh_cn": "\u8f9b\u8f9b\u90a3\u63d0", 
+        "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
+    }, 
+    "PASC507": {
+        "en": "Indianapolis", 
+        "id": 3763255280, 
+        "index": "PASC507", 
+        "level": 7, 
+        "name": "PASC507_Indianapolis_1945", 
+        "ru": "Indianapolis", 
+        "zh_cn": "\u5370\u7b2c\u5b89\u7eb3\u6ce2\u8482\u65af", 
+        "zh_tw": "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u8482\u65af\u865f"
+    }, 
+    "PASC707": {
+        "en": "Flint", 
+        "id": 3553540080, 
+        "index": "PASC707", 
+        "level": 7, 
+        "name": "PASC707_Flint", 
+        "ru": "Flint", 
+        "zh_cn": "\u5f17\u6797\u7279", 
+        "zh_tw": "\u5f17\u6797\u7279\u865f"
+    }, 
+    "PASC802": {
+        "en": "Cimarron", 
+        "id": 3453925360, 
+        "index": "PASC802", 
+        "level": 5, 
+        "name": "PASC802_Cimarron_Target", 
+        "ru": "Cimarron", 
+        "zh_cn": "\u897f\u9a6c\u9686", 
+        "zh_tw": "\u897f\u99ac\u9686"
+    }, 
+    "PASC803": {
+        "en": "Cimarron", 
+        "id": 3452876784, 
+        "index": "PASC803", 
+        "level": 5, 
+        "name": "PASC803_Cimarron_shooter", 
+        "ru": "Cimarron", 
+        "zh_cn": "\u897f\u9a6c\u9686", 
+        "zh_tw": "\u897f\u99ac\u9686"
+    }, 
+    "PASC804": {
+        "en": "Erie", 
+        "id": 3451828208, 
+        "index": "PASC804", 
+        "level": 1, 
+        "name": "PASC804_FALSE_ENEMY_Erie_1936", 
+        "ru": "Erie", 
+        "zh_cn": "\u4f0a\u5229", 
+        "zh_tw": "\u4f0a\u5229"
+    }, 
+    "PASC805": {
+        "en": "Erie", 
+        "id": 3450779632, 
+        "index": "PASC805", 
+        "level": 1, 
+        "name": "PASC805_FALSE_ENEMY_Erie_1936", 
+        "ru": "Erie", 
+        "zh_cn": "\u4f0a\u5229", 
+        "zh_tw": "\u4f0a\u5229"
+    }, 
+    "PASC907": {
+        "en": "IDS_PASC907", 
+        "id": 3343824880, 
+        "index": "PASC907", 
+        "level": 4, 
+        "name": "PASC907_Des_Moines_1948_Halloween", 
+        "ru": "IDS_PASC907", 
+        "zh_cn": "\u8428\u5229\u59c6\u5deb\u5a46", 
+        "zh_tw": "\u8428\u5229\u59c6\u5deb\u5a46"
+    }, 
+    "PASD002": {
+        "en": "Sampson", 
+        "id": 4292753392, 
+        "index": "PASD002", 
+        "level": 2, 
+        "name": "PASD002_Sampson_1917", 
+        "ru": "Sampson", 
+        "zh_cn": "\u6851\u666e\u68ee", 
+        "zh_tw": "\u6851\u666e\u68ee\u7d1a"
+    }, 
+    "PASD005": {
+        "en": "Farragut", 
+        "id": 4289607664, 
+        "index": "PASD005", 
+        "level": 6, 
+        "name": "PASD005_Farragut_1944", 
+        "ru": "Farragut", 
+        "zh_cn": "\u6cd5\u62c9\u683c\u7279", 
+        "zh_tw": "\u6cd5\u62c9\u683c\u7279\u7d1a"
+    }, 
+    "PASD006": {
+        "en": "Mahan", 
+        "id": 4288559088, 
+        "index": "PASD006", 
+        "level": 7, 
+        "name": "PASD006_Mahan_1936", 
+        "ru": "Mahan", 
+        "zh_cn": "\u9a6c\u6c49", 
+        "zh_tw": "\u99ac\u6f22\u7d1a"
+    }, 
+    "PASD008": {
+        "en": "Benson", 
+        "id": 4286461936, 
+        "index": "PASD008", 
+        "level": 8, 
+        "name": "PASD008_Benson_1945", 
+        "ru": "Benson", 
+        "zh_cn": "\u672c\u68ee", 
+        "zh_tw": "\u672c\u68ee\u7d1a"
+    }, 
+    "PASD013": {
+        "en": "Gearing", 
+        "id": 4281219056, 
+        "index": "PASD013", 
+        "level": 10, 
+        "name": "PASD013_Gearing_1945", 
+        "ru": "Gearing", 
+        "zh_cn": "\u57fa\u6797", 
+        "zh_tw": "\u57fa\u6797\u7d1a"
+    }, 
+    "PASD014": {
+        "en": "Nicholas", 
+        "id": 4280170480, 
+        "index": "PASD014", 
+        "level": 5, 
+        "name": "PASD014_Leader_1919", 
+        "ru": "Nicholas", 
+        "zh_cn": "\u5c3c\u53e4\u62c9\u65af", 
+        "zh_tw": "\u5c3c\u53e4\u62c9\u65af\u7d1a"
+    }, 
+    "PASD019": {
+        "en": "Clemson", 
+        "id": 4274927600, 
+        "index": "PASD019", 
+        "level": 4, 
+        "name": "PASD019_Clemson_1920", 
+        "ru": "Clemson", 
+        "zh_cn": "\u514b\u83b1\u8499\u68ee", 
+        "zh_tw": "\u514b\u840a\u8499\u68ee\u7d1a"
+    }, 
+    "PASD021": {
+        "en": "Fletcher", 
+        "id": 4272830448, 
+        "index": "PASD021", 
+        "level": 9, 
+        "name": "PASD021_Fletcher_1943", 
+        "ru": "Fletcher", 
+        "zh_cn": "\u5f17\u83b1\u5f7b", 
+        "zh_tw": "\u5f17\u840a\u5fb9\u7d1a"
+    }, 
+    "PASD027": {
+        "en": "Wickes", 
+        "id": 4266538992, 
+        "index": "PASD027", 
+        "level": 3, 
+        "name": "PASD027_Wickes_1918", 
+        "ru": "Wickes", 
+        "zh_cn": "\u7ef4\u514b\u65af", 
+        "zh_tw": "\u7dad\u514b\u65af\u7d1a"
+    }, 
+    "PASD029": {
+        "en": "Sims", 
+        "id": 4264441840, 
+        "index": "PASD029", 
+        "level": 7, 
+        "name": "PASD029_Sims_1941", 
+        "ru": "Sims", 
+        "zh_cn": "\u897f\u59c6\u65af", 
+        "zh_tw": "\u897f\u59c6\u65af\u865f"
+    }, 
+    "PASD502": {
+        "en": "Smith", 
+        "id": 3768465392, 
+        "index": "PASD502", 
+        "level": 2, 
+        "name": "PASD502_Smith", 
+        "ru": "Smith", 
+        "zh_cn": "\u53f2\u5bc6\u65af", 
+        "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
+    }, 
+    "PASD709": {
+        "en": "Black", 
+        "id": 3551410160, 
+        "index": "PASD709", 
+        "level": 9, 
+        "name": "PASD709_Black", 
+        "ru": "Black", 
+        "zh_cn": "\u5e03\u83b1\u514b", 
+        "zh_tw": "\u5e03\u840a\u514b\u865f"
+    }, 
+    "PASD801": {
+        "en": "Sampson", 
+        "id": 3454941168, 
+        "index": "PASD801", 
+        "level": 4, 
+        "name": "PASD801_FALSE_ENEMY_Sampson", 
+        "ru": "Sampson", 
+        "zh_cn": "\u6851\u666e\u68ee", 
+        "zh_tw": "\u6851\u666e\u68ee"
+    }, 
+    "PASX001": {
+        "en": "Cimarron", 
+        "id": 4293146608, 
+        "index": "PASX001", 
+        "level": 5, 
+        "name": "PASX001_Cimarron", 
+        "ru": "Cimarron", 
+        "zh_cn": "\u897f\u9a6c\u9686", 
+        "zh_tw": "\u897f\u99ac\u9686\u7d1a"
+    }, 
+    "PASX006": {
+        "en": "Cimarron", 
+        "id": 4287903728, 
+        "index": "PASX006", 
+        "level": 5, 
+        "name": "PASX006_Cimarron_invisible", 
+        "ru": "Cimarron", 
+        "zh_cn": "\u897f\u9a6c\u9686", 
+        "zh_tw": "\u897f\u99ac\u9686"
+    }, 
+    "PASX904": {
+        "en": "IDS_PASX904", 
+        "id": 3346282480, 
+        "index": "PASX904", 
+        "level": 5, 
+        "name": "PASX904_Cimarron", 
+        "ru": "IDS_PASX904", 
+        "zh_cn": "IDS_PASX904", 
+        "zh_tw": "IDS_PASX904"
+    }, 
+    "PBSB002": {
+        "en": "Warspite", 
+        "id": 4292818896, 
+        "index": "PBSB002", 
+        "level": 6, 
+        "name": "PBSB002_Warspite_1941", 
+        "ru": "Warspite", 
+        "zh_cn": "\u538c\u6218", 
+        "zh_tw": "\u53ad\u6230\u865f"
+    }, 
+    "PBSC101": {
+        "en": "Black Swan", 
+        "id": 4188977104, 
+        "index": "PBSC101", 
+        "level": 1, 
+        "name": "PBSC101_Black_Swan", 
+        "ru": "Black Swan", 
+        "zh_cn": "\u9ed1\u5929\u9e45", 
+        "zh_tw": "\u9ed1\u5929\u9d5d\u7d1a"
+    }, 
+    "PBSC102": {
+        "en": "Weymouth", 
+        "id": 4187928528, 
+        "index": "PBSC102", 
+        "level": 2, 
+        "name": "PBSC102_Weymouth", 
+        "ru": "Weymouth", 
+        "zh_cn": "\u97e6\u8305\u65af", 
+        "zh_tw": "\u97cb\u8305\u65af\u7d1a"
+    }, 
+    "PBSC103": {
+        "en": "Caledon", 
+        "id": 4186879952, 
+        "index": "PBSC103", 
+        "level": 3, 
+        "name": "PBSC103_Caledon", 
+        "ru": "Caledon", 
+        "zh_cn": "\u5361\u5229\u767b", 
+        "zh_tw": "\u5361\u5229\u767b\u7d1a"
+    }, 
+    "PBSC104": {
+        "en": "Danae", 
+        "id": 4185831376, 
+        "index": "PBSC104", 
+        "level": 4, 
+        "name": "PBSC104_Danae", 
+        "ru": "Danae", 
+        "zh_cn": "\u9edb\u5a1c\u8036", 
+        "zh_tw": "\u9edb\u5a1c\u8036\u7d1a"
+    }, 
+    "PBSC105": {
+        "en": "Emerald", 
+        "id": 4184782800, 
+        "index": "PBSC105", 
+        "level": 5, 
+        "name": "PBSC105_Emerald", 
+        "ru": "Emerald", 
+        "zh_cn": "\u7fe1\u7fe0", 
+        "zh_tw": "\u7fe1\u7fe0\u7d1a"
+    }, 
+    "PBSC106": {
+        "en": "Leander", 
+        "id": 4183734224, 
+        "index": "PBSC106", 
+        "level": 6, 
+        "name": "PBSC106_Leander", 
+        "ru": "Leander", 
+        "zh_cn": "\u5229\u5b89\u5fb7", 
+        "zh_tw": "\u5229\u5b89\u5fb7\u7d1a"
+    }, 
+    "PBSC107": {
+        "en": "Fiji", 
+        "id": 4182685648, 
+        "index": "PBSC107", 
+        "level": 7, 
+        "name": "PBSC107_Fiji", 
+        "ru": "Fiji", 
+        "zh_cn": "\u6590\u6d4e", 
+        "zh_tw": "\u6590\u6fdf\u7d1a"
+    }, 
+    "PBSC108": {
+        "en": "Edinburgh", 
+        "id": 4181637072, 
+        "index": "PBSC108", 
+        "level": 8, 
+        "name": "PBSC108_Edinburgh", 
+        "ru": "Edinburgh", 
+        "zh_cn": "\u7231\u4e01\u5821", 
+        "zh_tw": "\u611b\u4e01\u5821\u7d1a"
+    }, 
+    "PBSC109": {
+        "en": "Neptune", 
+        "id": 4180588496, 
+        "index": "PBSC109", 
+        "level": 9, 
+        "name": "PBSC109_Neptune", 
+        "ru": "Neptune", 
+        "zh_cn": "\u6d77\u738b\u661f", 
+        "zh_tw": "\u6d77\u738b\u661f\u7d1a"
+    }, 
+    "PBSC110": {
+        "en": "Minotaur", 
+        "id": 4179539920, 
+        "index": "PBSC110", 
+        "level": 10, 
+        "name": "PBSC110_Minotaur", 
+        "ru": "Minotaur", 
+        "zh_cn": "\u7c73\u8bfa\u9676", 
+        "zh_tw": "\u7c73\u8afe\u9676\u7d1a"
+    }, 
+    "PBSC507": {
+        "en": "Belfast", 
+        "id": 3763255248, 
+        "index": "PBSC507", 
+        "level": 7, 
+        "name": "PBSC507_Belfast_1959", 
+        "ru": "Belfast", 
+        "zh_cn": "\u8d1d\u5c14\u6cd5\u65af\u7279", 
+        "zh_tw": "\u8c9d\u723e\u6cd5\u65af\u7279\u865f"
+    }, 
+    "PBSD503": {
+        "en": "Campbeltown", 
+        "id": 3767416784, 
+        "index": "PBSD503", 
+        "level": 3, 
+        "name": "PBSD503_Campbeltown_1941", 
+        "ru": "Campbeltown", 
+        "zh_cn": "\u574e\u8d1d\u5c14\u6566", 
+        "zh_tw": "\u574e\u8c9d\u723e\u6566\u865f"
+    }, 
+    "PFSB506": {
+        "en": "Dunkerque", 
+        "id": 3764336464, 
+        "index": "PFSB506", 
+        "level": 6, 
+        "name": "PFSB506_Dunkerque_1940", 
+        "ru": "Dunkerque", 
+        "zh_cn": "\u6566\u523b\u5c14\u514b", 
+        "zh_tw": "\u6566\u523b\u723e\u514b\u865f"
+    }, 
+    "PGSB002": {
+        "en": "Tirpitz", 
+        "id": 4292818736, 
+        "index": "PGSB002", 
+        "level": 8, 
+        "name": "PGSB002_Tirpiz_1942", 
+        "ru": "Tirpitz", 
+        "zh_cn": "\u63d0\u5c14\u6bd4\u8328", 
+        "zh_tw": "\u63d0\u723e\u6bd4\u8328\u865f"
+    }, 
+    "PGSB103": {
+        "en": "Nassau", 
+        "id": 4186912560, 
+        "index": "PGSB103", 
+        "level": 3, 
+        "name": "PGSB103_Nassau", 
+        "ru": "Nassau", 
+        "zh_cn": "\u62ff\u9a9a", 
+        "zh_tw": "\u62ff\u9a37\u7d1a"
+    }, 
+    "PGSB104": {
+        "en": "Kaiser", 
+        "id": 4185863984, 
+        "index": "PGSB104", 
+        "level": 4, 
+        "name": "PGSB104_Kaiser", 
+        "ru": "Kaiser", 
+        "zh_cn": "\u51ef\u6492", 
+        "zh_tw": "\u51f1\u6492\u7d1a"
+    }, 
+    "PGSB105": {
+        "en": "K\u00f6nig", 
+        "id": 4184815408, 
+        "index": "PGSB105", 
+        "level": 5, 
+        "name": "PGSB105_Koenig", 
+        "ru": "K\u00f6nig", 
+        "zh_cn": "\u56fd\u738b", 
+        "zh_tw": "\u570b\u738b\u7d1a"
+    }, 
+    "PGSB106": {
+        "en": "Bayern", 
+        "id": 4183766832, 
+        "index": "PGSB106", 
+        "level": 6, 
+        "name": "PGSB106_Bayern", 
+        "ru": "Bayern", 
+        "zh_cn": "\u5df4\u4f10\u5229\u4e9a", 
+        "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
+    }, 
+    "PGSB107": {
+        "en": "Gneisenau", 
+        "id": 4182718256, 
+        "index": "PGSB107", 
+        "level": 7, 
+        "name": "PGSB107_Gneisenau", 
+        "ru": "Gneisenau", 
+        "zh_cn": "\u683c\u5948\u68ee\u7459", 
+        "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
+    }, 
+    "PGSB108": {
+        "en": "Bismarck", 
+        "id": 4181669680, 
+        "index": "PGSB108", 
+        "level": 8, 
+        "name": "PGSB108_Bismarck", 
+        "ru": "Bismarck", 
+        "zh_cn": "\u4ffe\u65af\u9ea6", 
+        "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
+    }, 
+    "PGSB109": {
+        "en": "F. der Gro\u00dfe", 
+        "id": 4180621104, 
+        "index": "PGSB109", 
+        "level": 9, 
+        "name": "PGSB109_Friedrich_der_Grosse", 
+        "ru": "F. der Gro\u00dfe", 
+        "zh_cn": "\u8153\u7279\u70c8\u5927\u5e1d", 
+        "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
+    }, 
+    "PGSB110": {
+        "en": "G. Kurf\u00fcrst", 
+        "id": 4179572528, 
+        "index": "PGSB110", 
+        "level": 10, 
+        "name": "PGSB110_Grossdeutschland", 
+        "ru": "G. Kurf\u00fcrst", 
+        "zh_cn": "\u5927\u9009\u5e1d\u4faf", 
+        "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
+    }, 
+    "PGSB503": {
+        "en": "K. Albert", 
+        "id": 3767482160, 
+        "index": "PGSB503", 
+        "level": 3, 
+        "name": "PGSB503_Koenig_Albert", 
+        "ru": "K. Albert", 
+        "zh_cn": "\u56fd\u738b\u963f\u5c14\u4f2f\u7279", 
+        "zh_tw": "\u570b\u738b\u963f\u723e\u4f2f\u7279\u865f"
+    }, 
+    "PGSB507": {
+        "en": "Scharnhorst", 
+        "id": 3763287856, 
+        "index": "PGSB507", 
+        "level": 7, 
+        "name": "PGSB507_Scharnhorst", 
+        "ru": "Scharnhorst", 
+        "zh_cn": "\u6c99\u6069\u970d\u65af\u7279", 
+        "zh_tw": "\u6c99\u6069\u970d\u65af\u7279\u865f"
+    }, 
+    "PGSC001": {
+        "en": "Hermelin", 
+        "id": 4293834544, 
+        "index": "PGSC001", 
+        "level": 1, 
+        "name": "PGSC001_Hermelin_1940", 
+        "ru": "Hermelin", 
+        "zh_cn": "\u6d77\u6885\u8335", 
+        "zh_tw": "\u6d77\u6885\u8335\u865f"
+    }, 
+    "PGSC002": {
+        "en": "Dresden", 
+        "id": 4292785968, 
+        "index": "PGSC002", 
+        "level": 2, 
+        "name": "PGSC002_Drezden_1908", 
+        "ru": "Dresden", 
+        "zh_cn": "\u5fb7\u7d2f\u65af\u987f", 
+        "zh_tw": "\u5fb7\u7d2f\u65af\u9813\u7d1a"
+    }, 
+    "PGSC103": {
+        "en": "Kolberg", 
+        "id": 4186879792, 
+        "index": "PGSC103", 
+        "level": 3, 
+        "name": "PGSC103_Kolberg", 
+        "ru": "Kolberg", 
+        "zh_cn": "\u79d1\u5c14\u8d1d\u683c", 
+        "zh_tw": "\u79d1\u723e\u8c9d\u683c\u7d1a"
+    }, 
+    "PGSC104": {
+        "en": "Karlsruhe", 
+        "id": 4185831216, 
+        "index": "PGSC104", 
+        "level": 4, 
+        "name": "PGSC104_Karlsruhe", 
+        "ru": "Karlsruhe", 
+        "zh_cn": "\u5361\u5c14\u65af\u9c81\u5384", 
+        "zh_tw": "\u5361\u723e\u65af\u9b6f\u5384\u7d1a"
+    }, 
+    "PGSC105": {
+        "en": "K\u00f6nigsberg", 
+        "id": 4184782640, 
+        "index": "PGSC105", 
+        "level": 5, 
+        "name": "PGSC105_Konigsberg", 
+        "ru": "K\u00f6nigsberg", 
+        "zh_cn": "\u67ef\u5c3c\u65af\u5821", 
+        "zh_tw": "\u67ef\u5c3c\u65af\u5821\u7d1a"
+    }, 
+    "PGSC106": {
+        "en": "N\u00fcrnberg", 
+        "id": 4183734064, 
+        "index": "PGSC106", 
+        "level": 6, 
+        "name": "PGSC106_Nurnberg", 
+        "ru": "N\u00fcrnberg", 
+        "zh_cn": "\u7ebd\u4f26\u5821", 
+        "zh_tw": "\u7d10\u502b\u5821\u865f"
+    }, 
+    "PGSC107": {
+        "en": "Yorck", 
+        "id": 4182685488, 
+        "index": "PGSC107", 
+        "level": 7, 
+        "name": "PGSC107_Yorck", 
+        "ru": "Yorck", 
+        "zh_cn": "\u7ea6\u514b", 
+        "zh_tw": "\u7d04\u514b\u7d1a"
+    }, 
+    "PGSC108": {
+        "en": "Hipper", 
+        "id": 4181636912, 
+        "index": "PGSC108", 
+        "level": 8, 
+        "name": "PGSC108_Hipper", 
+        "ru": "Hipper", 
+        "zh_cn": "\u5e0c\u4f69\u5c14\u6d77\u519b\u4e0a\u5c06", 
+        "zh_tw": "\u5e0c\u4f69\u723e\u6d77\u8ecd\u4e0a\u5c07\u7d1a"
+    }, 
+    "PGSC109": {
+        "en": "Roon", 
+        "id": 4180588336, 
+        "index": "PGSC109", 
+        "level": 9, 
+        "name": "PGSC109_Roon", 
+        "ru": "Roon", 
+        "zh_cn": "\u9c81\u6069", 
+        "zh_tw": "\u9b6f\u6069\u7d1a"
+    }, 
+    "PGSC110": {
+        "en": "Hindenburg", 
+        "id": 4179539760, 
+        "index": "PGSC110", 
+        "level": 10, 
+        "name": "PGSC110_Hindenburg", 
+        "ru": "Hindenburg", 
+        "zh_cn": "\u5174\u767b\u5821", 
+        "zh_tw": "\u8208\u767b\u5821\u7d1a"
+    }, 
+    "PGSC502": {
+        "en": "Emden", 
+        "id": 3768497968, 
+        "index": "PGSC502", 
+        "level": 2, 
+        "name": "PGSC502_Emden_1908", 
+        "ru": "Emden", 
+        "zh_cn": "\u57c3\u59c6\u767b", 
+        "zh_tw": "\u57c3\u59c6\u767b\u865f"
+    }, 
+    "PGSC506": {
+        "en": "Graf Spee", 
+        "id": 3764303664, 
+        "index": "PGSC506", 
+        "level": 6, 
+        "name": "PGSC506_Admiral_Graf_Spee", 
+        "ru": "Graf Spee", 
+        "zh_cn": "\u65bd\u4f69\u4f2f\u7235\u6d77\u519b\u4e0a\u5c06", 
+        "zh_tw": "\u65bd\u4f69\u4f2f\u7235\u6d77\u8ecd\u4e0a\u5c07\u865f"
+    }, 
+    "PGSC508": {
+        "en": "Prinz Eugen", 
+        "id": 3762206512, 
+        "index": "PGSC508", 
+        "level": 8, 
+        "name": "PGSC508_Prinz_Eugen", 
+        "ru": "Prinz Eugen", 
+        "zh_cn": "\u6b27\u6839\u4eb2\u738b", 
+        "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
+    }, 
+    "PGSD102": {
+        "en": "V-25", 
+        "id": 4187895600, 
+        "index": "PGSD102", 
+        "level": 2, 
+        "name": "PGSD102_V_25", 
+        "ru": "V-25", 
+        "zh_cn": "V-25", 
+        "zh_tw": "V-25"
+    }, 
+    "PGSD103": {
+        "en": "G-101", 
+        "id": 4186847024, 
+        "index": "PGSD103", 
+        "level": 3, 
+        "name": "PGSD103_G_101", 
+        "ru": "G-101", 
+        "zh_cn": "G-101", 
+        "zh_tw": "G-101"
+    }, 
+    "PGSD104": {
+        "en": "V-170", 
+        "id": 4185798448, 
+        "index": "PGSD104", 
+        "level": 4, 
+        "name": "PGSD104_V_170", 
+        "ru": "V-170", 
+        "zh_cn": "V-170", 
+        "zh_tw": "V-170"
+    }, 
+    "PGSD105": {
+        "en": "T-22", 
+        "id": 4184749872, 
+        "index": "PGSD105", 
+        "level": 5, 
+        "name": "PGSD105_T_22", 
+        "ru": "T-22", 
+        "zh_cn": "T-22", 
+        "zh_tw": "T-22"
+    }, 
+    "PGSD106": {
+        "en": "Gaede", 
+        "id": 4183701296, 
+        "index": "PGSD106", 
+        "level": 6, 
+        "name": "PGSD106_Ernst_Gaede", 
+        "ru": "Gaede", 
+        "zh_cn": "SK-22", 
+        "zh_tw": "SK-22"
+    }, 
+    "PGSD107": {
+        "en": "Maass", 
+        "id": 4182652720, 
+        "index": "PGSD107", 
+        "level": 7, 
+        "name": "PGSD107_Leberecht_Maass", 
+        "ru": "Maass", 
+        "zh_cn": "Z-1", 
+        "zh_tw": "Z-1"
+    }, 
+    "PGSD108": {
+        "en": "Z-23", 
+        "id": 4181604144, 
+        "index": "PGSD108", 
+        "level": 8, 
+        "name": "PGSD108_Z_23", 
+        "ru": "Z-23", 
+        "zh_cn": "Z-23", 
+        "zh_tw": "Z-23"
+    }, 
+    "PGSD109": {
+        "en": "Z-46", 
+        "id": 4180555568, 
+        "index": "PGSD109", 
+        "level": 9, 
+        "name": "PGSD109_Z_46", 
+        "ru": "Z-46", 
+        "zh_cn": "Z-46", 
+        "zh_tw": "Z-46"
+    }, 
+    "PGSD110": {
+        "en": "Z-52", 
+        "id": 4179506992, 
+        "index": "PGSD110", 
+        "level": 10, 
+        "name": "PGSD110_Z_52", 
+        "ru": "Z-52", 
+        "zh_cn": "Z-52", 
+        "zh_tw": "Z-52"
+    }, 
+    "PJSA002": {
+        "en": "Hosho", 
+        "id": 4292851408, 
+        "index": "PJSA002", 
+        "level": 4, 
+        "name": "PJSA002_Hosho_1939", 
+        "ru": "Hosho", 
+        "zh_cn": "\u51e4\u7fd4", 
+        "zh_tw": "\u9cf3\u7fd4\u865f"
+    }, 
+    "PJSA006": {
+        "en": "Zuiho", 
+        "id": 4288657104, 
+        "index": "PJSA006", 
+        "level": 5, 
+        "name": "PJSA006_Zuiho_1944", 
+        "ru": "Zuiho", 
+        "zh_cn": "\u745e\u51e4", 
+        "zh_tw": "\u745e\u9cf3\u578b"
+    }, 
+    "PJSA009": {
+        "en": "Ryujo", 
+        "id": 4285511376, 
+        "index": "PJSA009", 
+        "level": 6, 
+        "name": "PJSA009_Ryujo_1933", 
+        "ru": "Ryujo", 
+        "zh_cn": "\u9f99\u9aa7", 
+        "zh_tw": "\u9f8d\u9a64\u865f"
+    }, 
+    "PJSA011": {
+        "en": "Hiryu", 
+        "id": 4283414224, 
+        "index": "PJSA011", 
+        "level": 7, 
+        "name": "PJSA011_Hiryu_1942", 
+        "ru": "Hiryu", 
+        "zh_cn": "\u98de\u9f99", 
+        "zh_tw": "\u98db\u9f8d\u865f"
+    }, 
+    "PJSA012": {
+        "en": "Shokaku", 
+        "id": 4282365648, 
+        "index": "PJSA012", 
+        "level": 8, 
+        "name": "PJSA012_Zuikaku_1944", 
+        "ru": "Shokaku", 
+        "zh_cn": "\u7fd4\u9e64", 
+        "zh_tw": "\u7fd4\u9db4\u578b"
+    }, 
+    "PJSA015": {
+        "en": "Taiho", 
+        "id": 4279219920, 
+        "index": "PJSA015", 
+        "level": 9, 
+        "name": "PJSA015_Taiho_1944", 
+        "ru": "Taiho", 
+        "zh_cn": "\u5927\u51e4", 
+        "zh_tw": "\u5927\u9cf3\u865f"
+    }, 
+    "PJSA017": {
+        "en": "Hakuryu", 
+        "id": 4277122768, 
+        "index": "PJSA017", 
+        "level": 10, 
+        "name": "PJSA017_Hakuryu_1942", 
+        "ru": "Hakuryu", 
+        "zh_cn": "\u767d\u9f99", 
+        "zh_tw": "\u767d\u9f8d\u578b"
+    }, 
+    "PJSB001": {
+        "en": "Kawachi", 
+        "id": 4293867216, 
+        "index": "PJSB001", 
+        "level": 3, 
+        "name": "PJSB001_Kawachi_1912", 
+        "ru": "Kawachi", 
+        "zh_cn": "\u6cb3\u5185", 
+        "zh_tw": "\u6cb3\u5167\u578b"
+    }, 
+    "PJSB003": {
+        "en": "Myogi", 
+        "id": 4291770064, 
+        "index": "PJSB003", 
+        "level": 4, 
+        "name": "PJSB003_Myogi_1912", 
+        "ru": "Myogi", 
+        "zh_cn": "\u5999\u4e49", 
+        "zh_tw": "\u5999\u7fa9\u578b"
+    }, 
+    "PJSB006": {
+        "en": "Fuso", 
+        "id": 4288624336, 
+        "index": "PJSB006", 
+        "level": 6, 
+        "name": "PJSB006_Fuso_1943", 
+        "ru": "Fuso", 
+        "zh_cn": "\u6276\u6851", 
+        "zh_tw": "\u6276\u6851\u578b"
+    }, 
+    "PJSB007": {
+        "en": "Kongo", 
+        "id": 4287575760, 
+        "index": "PJSB007", 
+        "level": 5, 
+        "name": "PJSB007_Kongo_1942", 
+        "ru": "Kongo", 
+        "zh_cn": "\u91d1\u521a", 
+        "zh_tw": "\u91d1\u525b\u578b"
+    }, 
+    "PJSB008": {
+        "en": "Ishizuchi", 
+        "id": 4286527184, 
+        "index": "PJSB008", 
+        "level": 4, 
+        "name": "PJSB008_Ishizuchi_1921", 
+        "ru": "Ishizuchi", 
+        "zh_cn": "\u77f3\u9524", 
+        "zh_tw": "\u77f3\u9318\u578b"
+    }, 
+    "PJSB010": {
+        "en": "Nagato", 
+        "id": 4284430032, 
+        "index": "PJSB010", 
+        "level": 7, 
+        "name": "PJSB010_Nagato_1944", 
+        "ru": "Nagato", 
+        "zh_cn": "\u957f\u95e8", 
+        "zh_tw": "\u9577\u9580\u578b"
+    }, 
+    "PJSB011": {
+        "en": "Mikasa", 
+        "id": 4283381456, 
+        "index": "PJSB011", 
+        "level": 2, 
+        "name": "PJSB011_Mikasa_1905", 
+        "ru": "Mikasa", 
+        "zh_cn": "\u4e09\u7b20", 
+        "zh_tw": "\u4e09\u7b20\u865f"
+    }, 
+    "PJSB013": {
+        "en": "Amagi", 
+        "id": 4281284304, 
+        "index": "PJSB013", 
+        "level": 8, 
+        "name": "PJSB013_Amagi_1942", 
+        "ru": "Amagi", 
+        "zh_cn": "\u5929\u57ce", 
+        "zh_tw": "\u5929\u57ce\u578b"
+    }, 
+    "PJSB018": {
+        "en": "Yamato", 
+        "id": 4276041424, 
+        "index": "PJSB018", 
+        "level": 10, 
+        "name": "PJSB018_Yamato_1944", 
+        "ru": "Yamato", 
+        "zh_cn": "\u5927\u548c", 
+        "zh_tw": "\u5927\u548c\u578b"
+    }, 
+    "PJSB021": {
+        "en": "Izumo", 
+        "id": 4272895696, 
+        "index": "PJSB021", 
+        "level": 9, 
+        "name": "PJSB021_Izumo_1938", 
+        "ru": "Izumo", 
+        "zh_cn": "\u51fa\u4e91", 
+        "zh_tw": "\u51fa\u96f2\u578b"
+    }, 
+    "PJSB506": {
+        "en": "Mutsu", 
+        "id": 3764336336, 
+        "index": "PJSB506", 
+        "level": 6, 
+        "name": "PJSB506_Mutsu", 
+        "ru": "Mutsu", 
+        "zh_cn": "\u9646\u5965", 
+        "zh_tw": "\u9678\u5967\u865f"
+    }, 
+    "PJSB705": {
+        "en": "ARP Kong\u014d", 
+        "id": 3555669712, 
+        "index": "PJSB705", 
+        "level": 5, 
+        "name": "PJSB705_Kongou", 
+        "ru": "ARP Kong\u014d", 
+        "zh_cn": "\u6d77\u96fe-\u91d1\u521a", 
+        "zh_tw": "\u6d77\u9727-\u91d1\u525b"
+    }, 
+    "PJSB706": {
+        "en": "ARP Kirishima", 
+        "id": 3554621136, 
+        "index": "PJSB706", 
+        "level": 5, 
+        "name": "PJSB706_Kirishima", 
+        "ru": "ARP Kirishima", 
+        "zh_cn": "\u6d77\u96fe-\u96fe\u5c9b", 
+        "zh_tw": "\u6d77\u9727-\u9727\u5cf6"
+    }, 
+    "PJSB707": {
+        "en": "ARP Haruna", 
+        "id": 3553572560, 
+        "index": "PJSB707", 
+        "level": 5, 
+        "name": "PJSB707_Haruna", 
+        "ru": "ARP Haruna", 
+        "zh_cn": "\u6d77\u96fe-\u699b\u540d", 
+        "zh_tw": "\u6d77\u9727-\u699b\u540d"
+    }, 
+    "PJSB708": {
+        "en": "ARP Hiei", 
+        "id": 3552523984, 
+        "index": "PJSB708", 
+        "level": 5, 
+        "name": "PJSB708_Hiei_Arpeggio", 
+        "ru": "ARP Hiei", 
+        "zh_cn": "\u6d77\u96fe-\u6bd4\u53e1", 
+        "zh_tw": "\u6d77\u9727-\u6bd4\u53e1"
+    }, 
+    "PJSB799": {
+        "en": "ARP Kirishima", 
+        "id": 3457103568, 
+        "index": "PJSB799", 
+        "level": 5, 
+        "name": "PJSB799_Kirishima", 
+        "ru": "ARP Kirishima", 
+        "zh_cn": "\u6d77\u96fe-\u96fe\u5c9b", 
+        "zh_tw": "\u6d77\u9727-\u9727\u5cf6"
+    }, 
+    "PJSB801": {
+        "en": "Kawachi", 
+        "id": 3455006416, 
+        "index": "PJSB801", 
+        "level": 3, 
+        "name": "PJSB801_False_Kawachi_1912", 
+        "ru": "Kawachi", 
+        "zh_cn": "\u6cb3\u5185", 
+        "zh_tw": "\u6cb3\u5167"
+    }, 
+    "PJSB802": {
+        "en": "Kawachi", 
+        "id": 3453957840, 
+        "index": "PJSB802", 
+        "level": 3, 
+        "name": "PJSB802_False_Ally_Kawachi_1912", 
+        "ru": "Kawachi", 
+        "zh_cn": "\u6cb3\u5185", 
+        "zh_tw": "\u6cb3\u5167"
+    }, 
+    "PJSC004": {
+        "en": "Y\u016bbari", 
+        "id": 4290688720, 
+        "index": "PJSC004", 
+        "level": 4, 
+        "name": "PJSC004_Yubari_1944", 
+        "ru": "Y\u016bbari", 
+        "zh_cn": "\u5915\u5f20", 
+        "zh_tw": "\u5915\u5f35\u865f"
+    }, 
+    "PJSC005": {
+        "en": "Furutaka", 
+        "id": 4289640144, 
+        "index": "PJSC005", 
+        "level": 5, 
+        "name": "PJSC005_Furutaka_1926", 
+        "ru": "Furutaka", 
+        "zh_cn": "\u53e4\u9e70", 
+        "zh_tw": "\u53e4\u9df9\u578b"
+    }, 
+    "PJSC007": {
+        "en": "Aoba", 
+        "id": 4287542992, 
+        "index": "PJSC007", 
+        "level": 6, 
+        "name": "PJSC007_Aoba_1943", 
+        "ru": "Aoba", 
+        "zh_cn": "\u9752\u53f6", 
+        "zh_tw": "\u9752\u8449\u578b"
+    }, 
+    "PJSC008": {
+        "en": "Myoko", 
+        "id": 4286494416, 
+        "index": "PJSC008", 
+        "level": 7, 
+        "name": "PJSC008_Myoko_1945", 
+        "ru": "Myoko", 
+        "zh_cn": "\u5999\u9ad8", 
+        "zh_tw": "\u5999\u9ad8\u578b"
+    }, 
+    "PJSC009": {
+        "en": "Mogami", 
+        "id": 4285445840, 
+        "index": "PJSC009", 
+        "level": 8, 
+        "name": "PJSC009_Mogami_1935", 
+        "ru": "Mogami", 
+        "zh_cn": "\u6700\u4e0a", 
+        "zh_tw": "\u6700\u4e0a\u578b"
+    }, 
+    "PJSC012": {
+        "en": "Ibuki", 
+        "id": 4282300112, 
+        "index": "PJSC012", 
+        "level": 9, 
+        "name": "PJSC012_Ibuki_1944", 
+        "ru": "Ibuki", 
+        "zh_cn": "\u4f0a\u5439", 
+        "zh_tw": "\u4f0a\u5439\u578b"
+    }, 
+    "PJSC013": {
+        "en": "Kuma", 
+        "id": 4281251536, 
+        "index": "PJSC013", 
+        "level": 4, 
+        "name": "PJSC013_Kuma_1938", 
+        "ru": "Kuma", 
+        "zh_cn": "\u7403\u78e8", 
+        "zh_tw": "\u7403\u78e8\u578b"
+    }, 
+    "PJSC014": {
+        "en": "Kitakami", 
+        "id": 4280202960, 
+        "index": "PJSC014", 
+        "level": 8, 
+        "name": "PJSC014_Kitakami_1945", 
+        "ru": "Kitakami", 
+        "zh_cn": "\u5317\u4e0a", 
+        "zh_tw": "\u5317\u4e0a\u865f"
+    }, 
+    "PJSC015": {
+        "en": "Tenryu", 
+        "id": 4279154384, 
+        "index": "PJSC015", 
+        "level": 3, 
+        "name": "PJSC015_Tatsuta_1919", 
+        "ru": "Tenryu", 
+        "zh_cn": "\u5929\u9f99", 
+        "zh_tw": "\u5929\u9f8d\u578b"
+    }, 
+    "PJSC018": {
+        "en": "Tone", 
+        "id": 4276008656, 
+        "index": "PJSC018", 
+        "level": 7, 
+        "name": "PJSC018_Tone", 
+        "ru": "Tone", 
+        "zh_cn": "\u5229\u6839", 
+        "zh_tw": "\u5229\u6839\u578b"
+    }, 
+    "PJSC026": {
+        "en": "Iwaki A", 
+        "id": 4267620048, 
+        "index": "PJSC026", 
+        "level": 4, 
+        "name": "PJSC026_Iwaki_1944", 
+        "ru": "Iwaki A", 
+        "zh_cn": "\u5ca9\u6728(Alpha)", 
+        "zh_tw": "\u5ca9\u6728\u578b(Alpha)"
+    }, 
+    "PJSC034": {
+        "en": "Zao", 
+        "id": 4259231440, 
+        "index": "PJSC034", 
+        "level": 10, 
+        "name": "PJSC034_Zao_1944", 
+        "ru": "Zao", 
+        "zh_cn": "\u85cf\u738b", 
+        "zh_tw": "\u85cf\u738b\u578b"
+    }, 
+    "PJSC035": {
+        "en": "Chikuma", 
+        "id": 4258182864, 
+        "index": "PJSC035", 
+        "level": 2, 
+        "name": "PJSC035_Chikuma_1912", 
+        "ru": "Chikuma", 
+        "zh_cn": "\u7b51\u6469", 
+        "zh_tw": "\u7b51\u6469\u578b"
+    }, 
+    "PJSC037": {
+        "en": "Hashidate", 
+        "id": 4256085712, 
+        "index": "PJSC037", 
+        "level": 1, 
+        "name": "PJSC037_Hashidate_1940", 
+        "ru": "Hashidate", 
+        "zh_cn": "\u6865\u7acb", 
+        "zh_tw": "\u6a4b\u7acb\u578b"
+    }, 
+    "PJSC038": {
+        "en": "Atago", 
+        "id": 4255037136, 
+        "index": "PJSC038", 
+        "level": 8, 
+        "name": "PJSC038_Atago_1944", 
+        "ru": "Atago", 
+        "zh_cn": "\u7231\u5b95", 
+        "zh_tw": "\u611b\u5b95\u865f"
+    }, 
+    "PJSC503": {
+        "en": "Katori", 
+        "id": 3767449296, 
+        "index": "PJSC503", 
+        "level": 3, 
+        "name": "PJSC503_Katori", 
+        "ru": "Katori", 
+        "zh_cn": "\u9999\u53d6", 
+        "zh_tw": "\u9999\u53d6\u578b"
+    }, 
+    "PJSC705": {
+        "en": "ARP Myoko", 
+        "id": 3555636944, 
+        "index": "PJSC705", 
+        "level": 7, 
+        "name": "PJSC705_Myoko", 
+        "ru": "ARP Myoko", 
+        "zh_cn": "\u6d77\u96fe-\u5999\u9ad8", 
+        "zh_tw": "\u6d77\u9727-\u5999\u9ad8"
+    }, 
+    "PJSC707": {
+        "en": "ARP Ashigara", 
+        "id": 3553539792, 
+        "index": "PJSC707", 
+        "level": 7, 
+        "name": "PJSC707_Ashigara", 
+        "ru": "ARP Ashigara", 
+        "zh_cn": "\u6d77\u96fe-\u8db3\u67c4", 
+        "zh_tw": "\u6d77\u9727-\u8db3\u67c4"
+    }, 
+    "PJSC708": {
+        "en": "ARP Takao", 
+        "id": 3552491216, 
+        "index": "PJSC708", 
+        "level": 8, 
+        "name": "PJSC708_ARP_Takao", 
+        "ru": "ARP Takao", 
+        "zh_cn": "\u82cd\u84dd-\u9ad8\u96c4", 
+        "zh_tw": "\u84bc\u85cd-\u9ad8\u96c4"
+    }, 
+    "PJSC709": {
+        "en": "ARP Haguro", 
+        "id": 3551442640, 
+        "index": "PJSC709", 
+        "level": 7, 
+        "name": "PJSC709_Haguro", 
+        "ru": "ARP Haguro", 
+        "zh_cn": "\u6d77\u96fe-\u7fbd\u9ed1", 
+        "zh_tw": "\u6d77\u9727-\u7fbd\u9ed1"
+    }, 
+    "PJSC717": {
+        "en": "S. Dragon", 
+        "id": 3543054032, 
+        "index": "PJSC717", 
+        "level": 7, 
+        "name": "PJSC717_Yellow_Dragon", 
+        "ru": "S. Dragon", 
+        "zh_cn": "\u6731\u96c0", 
+        "zh_tw": "\u6731\u96c0"
+    }, 
+    "PJSC727": {
+        "en": "E. Dragon", 
+        "id": 3532568272, 
+        "index": "PJSC727", 
+        "level": 7, 
+        "name": "PJSC727_Blue_Dragon", 
+        "ru": "E. Dragon", 
+        "zh_cn": "\u9752\u9f99", 
+        "zh_tw": "\u9752\u9f8d"
+    }, 
+    "PJSC737": {
+        "en": "ARP Nachi", 
+        "id": 3522082512, 
+        "index": "PJSC737", 
+        "level": 7, 
+        "name": "PJSC737_Nachi", 
+        "ru": "ARP Nachi", 
+        "zh_cn": "\u6d77\u96fe-\u90a3\u667a", 
+        "zh_tw": "\u6d77\u96fe-\u90a3\u667a"
+    }, 
+    "PJSC799": {
+        "en": "ARP Takao", 
+        "id": 3457070800, 
+        "index": "PJSC799", 
+        "level": 8, 
+        "name": "PJSC799_Takao", 
+        "ru": "ARP Takao", 
+        "zh_cn": "\u6d77\u96fe-\u9ad8\u96c4", 
+        "zh_tw": "\u6d77\u96fe-\u9ad8\u96c4"
+    }, 
+    "PJSC837": {
+        "en": "Hashidate", 
+        "id": 3417224912, 
+        "index": "PJSC837", 
+        "level": 1, 
+        "name": "PJSC837_False_Hashidate_1940", 
+        "ru": "Hashidate", 
+        "zh_cn": "\u6865\u7acb", 
+        "zh_tw": "\u6a4b\u7acb"
+    }, 
+    "PJSC838": {
+        "en": "Hashidate", 
+        "id": 3416176336, 
+        "index": "PJSC838", 
+        "level": 1, 
+        "name": "PJSC838_False_Hashidate_1940", 
+        "ru": "Hashidate", 
+        "zh_cn": "\u6865\u7acb", 
+        "zh_tw": "\u6a4b\u7acb"
+    }, 
+    "PJSC999": {
+        "en": "IDS_PJSC999", 
+        "id": 3247355600, 
+        "index": "PJSC999", 
+        "level": 10, 
+        "name": "PJSC999_Yubari_Special", 
+        "ru": "IDS_PJSC999", 
+        "zh_cn": "TestShip", 
+        "zh_tw": "TestShip"
+    }, 
+    "PJSD001": {
+        "en": "Tachibana", 
+        "id": 4293801680, 
+        "index": "PJSD001", 
+        "level": 2, 
+        "name": "PJSD001_Tachibana_1912", 
+        "ru": "Tachibana", 
+        "zh_cn": "\u6a58", 
+        "zh_tw": "\u6a58\u865f"
+    }, 
+    "PJSD002": {
+        "en": "Umikaze", 
+        "id": 4292753104, 
+        "index": "PJSD002", 
+        "level": 2, 
+        "name": "PJSD002_Umikaze_1925", 
+        "ru": "Umikaze", 
+        "zh_cn": "\u6d77\u98ce", 
+        "zh_tw": "\u6d77\u98a8\u578b"
+    }, 
+    "PJSD003": {
+        "en": "Isokaze", 
+        "id": 4291704528, 
+        "index": "PJSD003", 
+        "level": 4, 
+        "name": "PJSD003_Isokaze_1917", 
+        "ru": "Isokaze", 
+        "zh_cn": "\u77f6\u98ce", 
+        "zh_tw": "\u78ef\u98a8\u578b"
+    }, 
+    "PJSD004": {
+        "en": "Minekaze", 
+        "id": 4290655952, 
+        "index": "PJSD004", 
+        "level": 5, 
+        "name": "PJSD004_Minekadze_1920", 
+        "ru": "Minekaze", 
+        "zh_cn": "\u5cf0\u98ce", 
+        "zh_tw": "\u5cef\u98a8\u578b"
+    }, 
+    "PJSD005": {
+        "en": "Mutsuki", 
+        "id": 4289607376, 
+        "index": "PJSD005", 
+        "level": 6, 
+        "name": "PJSD005_Mutsuki_1926", 
+        "ru": "Mutsuki", 
+        "zh_cn": "\u5f25\u751f", 
+        "zh_tw": "\u5f4c\u751f\u865f"
+    }, 
+    "PJSD006": {
+        "en": "Hatsuharu", 
+        "id": 4288558800, 
+        "index": "PJSD006", 
+        "level": 7, 
+        "name": "PJSD006_Hatsuharu_1945", 
+        "ru": "Hatsuharu", 
+        "zh_cn": "\u82e5\u53f6", 
+        "zh_tw": "\u82e5\u8449\u865f"
+    }, 
+    "PJSD007": {
+        "en": "Fubuki", 
+        "id": 4287510224, 
+        "index": "PJSD007", 
+        "level": 8, 
+        "name": "PJSD007_Fubuki_1944", 
+        "ru": "Fubuki", 
+        "zh_cn": "\u7eeb\u6ce2", 
+        "zh_tw": "\u7eeb\u6ce2\u865f"
+    }, 
+    "PJSD010": {
+        "en": "Kagero", 
+        "id": 4284364496, 
+        "index": "PJSD010", 
+        "level": 9, 
+        "name": "PJSD010_Kagero_1943", 
+        "ru": "Kagero", 
+        "zh_cn": "\u91ce\u5206", 
+        "zh_tw": "\u91ce\u5206\u865f"
+    }, 
+    "PJSD012": {
+        "en": "Shimakaze", 
+        "id": 4282267344, 
+        "index": "PJSD012", 
+        "level": 10, 
+        "name": "PJSD012_Shimakaze_1943", 
+        "ru": "Shimakaze", 
+        "zh_cn": "\u5c9b\u98ce", 
+        "zh_tw": "\u5cf6\u98a8\u578b"
+    }, 
+    "PJSD014": {
+        "en": "Tachibana L", 
+        "id": 4280170192, 
+        "index": "PJSD014", 
+        "level": 2, 
+        "name": "PJSD014_Tachibana_1912_Asus", 
+        "ru": "Tachibana L", 
+        "zh_cn": "\u6a31", 
+        "zh_tw": "\u6afb\u865f"
+    }, 
+    "PJSD017": {
+        "en": "F\u016bjin", 
+        "id": 4277024464, 
+        "index": "PJSD017", 
+        "level": 5, 
+        "name": "PJSD017_Kamikaze_1930", 
+        "ru": "F\u016bjin", 
+        "zh_cn": "\u795e\u98ce H", 
+        "zh_tw": "\u795e\u98a8\u578b H"
+    }, 
+    "PJSD024": {
+        "en": "Wakatake", 
+        "id": 4269684432, 
+        "index": "PJSD024", 
+        "level": 3, 
+        "name": "PJSD024_Wakatake_1923", 
+        "ru": "Wakatake", 
+        "zh_cn": "\u82e5\u7af9", 
+        "zh_tw": "\u82e5\u7af9\u578b"
+    }, 
+    "PJSD025": {
+        "en": "Kamikaze", 
+        "id": 4268635856, 
+        "index": "PJSD025", 
+        "level": 5, 
+        "name": "PJSD025_True_Kamikaze", 
+        "ru": "Kamikaze", 
+        "zh_cn": "\u795e\u98ce", 
+        "zh_tw": "\u795e\u98a8\u578b"
+    }, 
+    "PJSD026": {
+        "en": "Kamikaze R", 
+        "id": 4267587280, 
+        "index": "PJSD026", 
+        "level": 5, 
+        "name": "PJSD026_Camo_Kamikaze", 
+        "ru": "Kamikaze R", 
+        "zh_cn": "\u795e\u98ce R", 
+        "zh_tw": "\u795e\u98a8\u578b R"
+    }, 
+    "PJSD105": {
+        "en": "Mutsuki", 
+        "id": 4184749776, 
+        "index": "PJSD105", 
+        "level": 5, 
+        "name": "PJSD105_Mutsuki", 
+        "ru": "Mutsuki", 
+        "zh_cn": "\u7766\u6708", 
+        "zh_tw": "\u7766\u6708\u578b"
+    }, 
+    "PJSD106": {
+        "en": "Fubuki", 
+        "id": 4183701200, 
+        "index": "PJSD106", 
+        "level": 6, 
+        "name": "PJSD106_Fubuki", 
+        "ru": "Fubuki", 
+        "zh_cn": "\u5439\u96ea", 
+        "zh_tw": "\u5439\u96ea\u578b"
+    }, 
+    "PJSD107": {
+        "en": "Akatsuki", 
+        "id": 4182652624, 
+        "index": "PJSD107", 
+        "level": 7, 
+        "name": "PJSD107_Akatsuki", 
+        "ru": "Akatsuki", 
+        "zh_cn": "\u6653", 
+        "zh_tw": "\u66c9\u578b"
+    }, 
+    "PJSD108": {
+        "en": "Akizuki", 
+        "id": 4181604048, 
+        "index": "PJSD108", 
+        "level": 8, 
+        "name": "PJSD108_Akizuki", 
+        "ru": "Akizuki", 
+        "zh_cn": "\u79cb\u6708", 
+        "zh_tw": "\u79cb\u6708\u578b"
+    }, 
+    "PJSD206": {
+        "en": "Hatsuharu", 
+        "id": 4078843600, 
+        "index": "PJSD206", 
+        "level": 6, 
+        "name": "PJSD206_Hatsuharu", 
+        "ru": "Hatsuharu", 
+        "zh_cn": "\u521d\u6625", 
+        "zh_tw": "\u521d\u6625\u578b"
+    }, 
+    "PJSD207": {
+        "en": "Shiratsuyu", 
+        "id": 4077795024, 
+        "index": "PJSD207", 
+        "level": 7, 
+        "name": "PJSD207_Shiratsuyu", 
+        "ru": "Shiratsuyu", 
+        "zh_cn": "\u767d\u9732", 
+        "zh_tw": "\u767d\u9732\u578b"
+    }, 
+    "PJSD208": {
+        "en": "Kagero", 
+        "id": 4076746448, 
+        "index": "PJSD208", 
+        "level": 8, 
+        "name": "PJSD208_Kagero", 
+        "ru": "Kagero", 
+        "zh_cn": "\u9633\u708e", 
+        "zh_tw": "\u967d\u708e\u578b"
+    }, 
+    "PJSD209": {
+        "en": "Y\u016bgumo", 
+        "id": 4075697872, 
+        "index": "PJSD209", 
+        "level": 9, 
+        "name": "PJSD209_Yugumo", 
+        "ru": "Y\u016bgumo", 
+        "zh_cn": "\u5915\u4e91", 
+        "zh_tw": "\u5915\u96f2\u578b"
+    }, 
+    "PJSD503": {
+        "en": "Disabled: Isokaze", 
+        "id": 3767416528, 
+        "index": "PJSD503", 
+        "level": 4, 
+        "name": "PJSD503_Isokaze", 
+        "ru": "Disabled: Isokaze", 
+        "zh_cn": "\u5929\u6d25\u98ce", 
+        "zh_tw": "\u5929\u6d25\u98a8\u865f"
+    }, 
+    "PJSD504": {
+        "en": "Disabled: Minekaze", 
+        "id": 3766367952, 
+        "index": "PJSD504", 
+        "level": 5, 
+        "name": "PJSD504_Minekaze", 
+        "ru": "Disabled: Minekaze", 
+        "zh_cn": "\u51b2\u98ce", 
+        "zh_tw": "\u6c96\u98a8\u865f"
+    }, 
+    "PJSD706": {
+        "en": "Shinonome", 
+        "id": 3554555600, 
+        "index": "PJSD706", 
+        "level": 6, 
+        "name": "PJSD706_Shinonome", 
+        "ru": "Shinonome", 
+        "zh_cn": "\u4e1c\u4e91\u53f7", 
+        "zh_tw": "\u6771\u96f2\u865f"
+    }, 
+    "PJSD803": {
+        "en": "Isokaze", 
+        "id": 3452843728, 
+        "index": "PJSD803", 
+        "level": 4, 
+        "name": "PJSD803_False_Isokaze_1917", 
+        "ru": "Isokaze", 
+        "zh_cn": "\u77f6\u98ce", 
+        "zh_tw": "\u78ef\u98a8"
+    }, 
+    "PJSX701": {
+        "en": "ARP I-401", 
+        "id": 3559143120, 
+        "index": "PJSX701", 
+        "level": 11, 
+        "name": "PJSX701_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
+    "PJSX702": {
+        "en": "ARP I-401", 
+        "id": 3558094544, 
+        "index": "PJSX702", 
+        "level": 11, 
+        "name": "PJSX702_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
+    "PRSB001": {
+        "en": "Nikolai I", 
+        "id": 4293866960, 
+        "index": "PRSB001", 
+        "level": 4, 
+        "name": "PRSB001_Nikolay_I", 
+        "ru": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 I", 
+        "zh_cn": "\u6c99\u7687\u5c3c\u53e4\u62c9\u4e00\u4e16", 
+        "zh_tw": "\u6c99\u7687\u5c3c\u53e4\u62c9\u4e00\u4e16\u865f"
+    }, 
+    "PRSC001": {
+        "en": "Aurora", 
+        "id": 4293834192, 
+        "index": "PRSC001", 
+        "level": 3, 
+        "name": "PRSC001_Avrora_1917", 
+        "ru": "\u0410\u0432\u0440\u043e\u0440\u0430", 
+        "zh_cn": "\u963f\u8299\u4e50\u5c14", 
+        "zh_tw": "\u963f\u8299\u6a02\u723e\u865f"
+    }, 
+    "PRSC002": {
+        "en": "Diana", 
+        "id": 4292785616, 
+        "index": "PRSC002", 
+        "level": 2, 
+        "name": "PRSC002_Diana_1905", 
+        "ru": "\u0414\u0438\u0430\u043d\u0430", 
+        "zh_cn": "\u72c4\u5b89\u5a1c", 
+        "zh_tw": "\u72c4\u5b89\u5a1c\u865f"
+    }, 
+    "PRSC003": {
+        "en": "Murmansk", 
+        "id": 4291737040, 
+        "index": "PRSC003", 
+        "level": 5, 
+        "name": "PRSC003_Murmansk_1944", 
+        "ru": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
+        "zh_cn": "\u6469\u5c14\u66fc\u65af\u514b", 
+        "zh_tw": "\u6469\u723e\u66fc\u65af\u514b\u865f"
+    }, 
+    "PRSC010": {
+        "en": "Diana L", 
+        "id": 4284397008, 
+        "index": "PRSC010", 
+        "level": 2, 
+        "name": "PRSC010_Diana_1905_Asus", 
+        "ru": "\u0414\u0438\u0430\u043d\u0430 L", 
+        "zh_cn": "\u5e15\u62c9\u8fbe", 
+        "zh_tw": "\u5e15\u62c9\u9054\u865f"
+    }, 
+    "PRSC101": {
+        "en": "Orlan", 
+        "id": 4188976592, 
+        "index": "PRSC101", 
+        "level": 1, 
+        "name": "PRSC101_Orlan", 
+        "ru": "\u041e\u0440\u043b\u0430\u043d", 
+        "zh_cn": "\u5965\u5c14\u5170", 
+        "zh_tw": "\u5967\u723e\u862d\u7d1a"
+    }, 
+    "PRSC102": {
+        "en": "Novik", 
+        "id": 4187928016, 
+        "index": "PRSC102", 
+        "level": 2, 
+        "name": "PRSC102_Novik", 
+        "ru": "\u041d\u043e\u0432\u0438\u043a", 
+        "zh_cn": "\u8bfa\u7ef4\u514b", 
+        "zh_tw": "\u8afe\u7dad\u514b\u7d1a"
+    }, 
+    "PRSC103": {
+        "en": "Bogatyr", 
+        "id": 4186879440, 
+        "index": "PRSC103", 
+        "level": 3, 
+        "name": "PRSC103_Bogatyr", 
+        "ru": "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u044c", 
+        "zh_cn": "\u82f1\u96c4", 
+        "zh_tw": "\u82f1\u96c4\u7d1a"
+    }, 
+    "PRSC104": {
+        "en": "Svietlana", 
+        "id": 4185830864, 
+        "index": "PRSC104", 
+        "level": 4, 
+        "name": "PRSC104_Svetlana", 
+        "ru": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430", 
+        "zh_cn": "\u65af\u7ef4\u7279\u62c9\u5a1c", 
+        "zh_tw": "\u65af\u7dad\u7279\u62c9\u5a1c\u7d1a"
+    }, 
+    "PRSC105": {
+        "en": "Kirov", 
+        "id": 4184782288, 
+        "index": "PRSC105", 
+        "level": 5, 
+        "name": "PRSC105_Kirov", 
+        "ru": "\u041a\u0438\u0440\u043e\u0432", 
+        "zh_cn": "\u57fa\u6d1b\u592b", 
+        "zh_tw": "\u57fa\u6d1b\u592b\u7d1a"
+    }, 
+    "PRSC106": {
+        "en": "Budyonny", 
+        "id": 4183733712, 
+        "index": "PRSC106", 
+        "level": 6, 
+        "name": "PRSC106_Pr_94_Budeny", 
+        "ru": "\u0411\u0443\u0434\u0451\u043d\u043d\u044b\u0439", 
+        "zh_cn": "\u5e03\u743c\u5c3c", 
+        "zh_tw": "\u5e03\u74ca\u5c3c\u7d1a"
+    }, 
+    "PRSC107": {
+        "en": "Shchors", 
+        "id": 4182685136, 
+        "index": "PRSC107", 
+        "level": 7, 
+        "name": "PRSC107_Schors", 
+        "ru": "\u0429\u043e\u0440\u0441", 
+        "zh_cn": "\u8096\u5c14\u65af", 
+        "zh_tw": "\u8096\u723e\u65af\u7d1a"
+    }, 
+    "PRSC108": {
+        "en": "Chapayev", 
+        "id": 4181636560, 
+        "index": "PRSC108", 
+        "level": 8, 
+        "name": "PRSC108_Pr_68_Chapaev", 
+        "ru": "\u0427\u0430\u043f\u0430\u0435\u0432", 
+        "zh_cn": "\u6070\u5df4\u8036\u592b", 
+        "zh_tw": "\u6070\u5df4\u8036\u592b\u7d1a"
+    }, 
+    "PRSC109": {
+        "en": "Dm. Donskoi", 
+        "id": 4180587984, 
+        "index": "PRSC109", 
+        "level": 9, 
+        "name": "PRSC109_Dmitry_Donskoy", 
+        "ru": "\u0414\u043c. \u0414\u043e\u043d\u0441\u043a\u043e\u0439", 
+        "zh_cn": "\u8fea\u7c73\u7279\u91cc\u00b7\u987f\u65af\u79d1\u4f0a", 
+        "zh_tw": "\u8fea\u7c73\u7279\u88e1\u00b7\u9813\u65af\u79d1\u4f0a\u7d1a"
+    }, 
+    "PRSC110": {
+        "en": "Moskva", 
+        "id": 4179539408, 
+        "index": "PRSC110", 
+        "level": 10, 
+        "name": "PRSC110_Pr_66_Moskva", 
+        "ru": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+        "zh_cn": "\u83ab\u65af\u79d1", 
+        "zh_tw": "\u83ab\u65af\u79d1\u7d1a"
+    }, 
+    "PRSC503": {
+        "en": "Oleg", 
+        "id": 3767449040, 
+        "index": "PRSC503", 
+        "level": 3, 
+        "name": "PRSC503_Oleg", 
+        "ru": "\u041e\u043b\u0435\u0433", 
+        "zh_cn": "\u5965\u5217\u683c", 
+        "zh_tw": "\u5967\u5217\u683c\u865f"
+    }, 
+    "PRSC505": {
+        "en": "Krasny Krym", 
+        "id": 3765351888, 
+        "index": "PRSC505", 
+        "level": 5, 
+        "name": "PRSC505_KrasniKrym", 
+        "ru": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0440\u044b\u043c", 
+        "zh_cn": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9a", 
+        "zh_tw": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9e\u865f"
+    }, 
+    "PRSC506": {
+        "en": "Molotov", 
+        "id": 3764303312, 
+        "index": "PRSC506", 
+        "level": 6, 
+        "name": "PRSC506_Molotov_1943", 
+        "ru": "\u041c\u043e\u043b\u043e\u0442\u043e\u0432", 
+        "zh_cn": "\u83ab\u6d1b\u6258\u592b", 
+        "zh_tw": "\u83ab\u6d1b\u6258\u592b\u865f"
+    }, 
+    "PRSC508": {
+        "en": "Kutuzov", 
+        "id": 3762206160, 
+        "index": "PRSC508", 
+        "level": 8, 
+        "name": "PRSC508_Kutuzov_1952", 
+        "ru": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432", 
+        "zh_cn": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u5e93\u56fe\u4f50\u592b", 
+        "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
+    }, 
+    "PRSC999": {
+        "en": "Test Ship", 
+        "id": 3247355344, 
+        "index": "PRSC999", 
+        "level": 10, 
+        "name": "PRSC999_Seal", 
+        "ru": "Test Ship", 
+        "zh_cn": "Test Ship", 
+        "zh_tw": "Test Ship"
+    }, 
+    "PRSD001": {
+        "en": "Gremyashchy", 
+        "id": 4293801424, 
+        "index": "PRSD001", 
+        "level": 5, 
+        "name": "PRSD001_Gremyashchy_1942", 
+        "ru": "\u0413\u0440\u0435\u043c\u044f\u0449\u0438\u0439", 
+        "zh_cn": "\u96f7\u9e23", 
+        "zh_tw": "\u96f7\u9cf4\u865f"
+    }, 
+    "PRSD102": {
+        "en": "Storozhevoi", 
+        "id": 4187895248, 
+        "index": "PRSD102", 
+        "level": 2, 
+        "name": "PRSD102_SM_Storojevoy", 
+        "ru": "\u0421\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u043e\u0439", 
+        "zh_cn": "\u5b88\u62a4", 
+        "zh_tw": "\u5b88\u8b77\u7d1a"
+    }, 
+    "PRSD103": {
+        "en": "Derzki", 
+        "id": 4186846672, 
+        "index": "PRSD103", 
+        "level": 3, 
+        "name": "PRSD103_Derzky", 
+        "ru": "\u0414\u0435\u0440\u0437\u043a\u0438\u0439", 
+        "zh_cn": "\u65e0\u7406", 
+        "zh_tw": "\u7121\u7406\u7d1a"
+    }, 
+    "PRSD104": {
+        "en": "Izyaslav", 
+        "id": 4185798096, 
+        "index": "PRSD104", 
+        "level": 4, 
+        "name": "PRSD104_Izyaslav", 
+        "ru": "\u0418\u0437\u044f\u0441\u043b\u0430\u0432", 
+        "zh_cn": "\u4f0a\u8d3e\u65af\u62c9\u592b", 
+        "zh_tw": "\u4f0a\u8cc8\u65af\u62c9\u592b\u7d1a"
+    }, 
+    "PRSD105": {
+        "en": "Gnevny (< 06.03.2017)", 
+        "id": 4184749520, 
+        "index": "PRSD105", 
+        "level": 5, 
+        "name": "PRSD105_Pr_7_Gnevny", 
+        "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439 (< 06.03.2017)", 
+        "zh_cn": "\u6124\u6012", 
+        "zh_tw": "\u61a4\u6012\u7d1a"
+    }, 
+    "PRSD106": {
+        "en": "Ognevoi (< 06.03.2017)", 
+        "id": 4183700944, 
+        "index": "PRSD106", 
+        "level": 6, 
+        "name": "PRSD106_Pr_30_Ognevoy", 
+        "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439 (< 06.03.2017)", 
+        "zh_cn": "\u706b\u529b", 
+        "zh_tw": "\u706b\u529b\u7d1a"
+    }, 
+    "PRSD107": {
+        "en": "Udaloi", 
+        "id": 4182652368, 
+        "index": "PRSD107", 
+        "level": 9, 
+        "name": "PRSD107_Pr_35_Udaloy", 
+        "ru": "\u0423\u0434\u0430\u043b\u043e\u0439", 
+        "zh_cn": "\u4e4c\u8fbe\u6d1b\u4f0a", 
+        "zh_tw": "\u70cf\u9054\u6d1b\u4f0a\u7d1a"
+    }, 
+    "PRSD108": {
+        "en": "Tashkent (< 06.03.2017)", 
+        "id": 4181603792, 
+        "index": "PRSD108", 
+        "level": 8, 
+        "name": "PRSD108_Pr_20i_Tashkent", 
+        "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 (< 06.03.2017)", 
+        "zh_cn": "\u5854\u4ec0\u5e72", 
+        "zh_tw": "\u5854\u4ec0\u5e79\u865f"
+    }, 
+    "PRSD109": {
+        "en": "Kiev (< 06.03.2017)", 
+        "id": 4180555216, 
+        "index": "PRSD109", 
+        "level": 7, 
+        "name": "PRSD109_Pr_48_Kiev", 
+        "ru": "\u041a\u0438\u0435\u0432 (< 06.03.2017)", 
+        "zh_cn": "\u57fa\u8f85", 
+        "zh_tw": "\u57fa\u8f14\u7d1a"
+    }, 
+    "PRSD110": {
+        "en": "Khabarovsk", 
+        "id": 4179506640, 
+        "index": "PRSD110", 
+        "level": 10, 
+        "name": "PRSD110_Pr_24_Khabarovsk", 
+        "ru": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
+        "zh_cn": "\u54c8\u5df4\u7f57\u592b\u65af\u514b", 
+        "zh_tw": "\u54c8\u5df4\u7f85\u592b\u65af\u514b\u7d1a"
+    }, 
+    "PRSD205": {
+        "en": "Podvoisky", 
+        "id": 4079891920, 
+        "index": "PRSD205", 
+        "level": 5, 
+        "name": "PRSD205_Podvoisky_pr_1929", 
+        "ru": "\u041f\u043e\u0434\u0432\u043e\u0439\u0441\u043a\u0438\u0439", 
+        "zh_cn": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa", 
+        "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
+    }, 
+    "PRSD206": {
+        "en": "Gnevny", 
+        "id": 4078843344, 
+        "index": "PRSD206", 
+        "level": 6, 
+        "name": "PRSD206_Pr_7", 
+        "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439", 
+        "zh_cn": "\u81ea\u8c6a", 
+        "zh_tw": "\u81ea\u8c6a\u865f"
+    }, 
+    "PRSD207": {
+        "en": "Minsk", 
+        "id": 4077794768, 
+        "index": "PRSD207", 
+        "level": 7, 
+        "name": "PRSD207_Minsk", 
+        "ru": "\u041c\u0438\u043d\u0441\u043a", 
+        "zh_cn": "\u660e\u65af\u514b", 
+        "zh_tw": "\u660e\u65af\u514b\u7d1a"
+    }, 
+    "PRSD208": {
+        "en": "Ognevoi", 
+        "id": 4076746192, 
+        "index": "PRSD208", 
+        "level": 8, 
+        "name": "PRSD208_Pr_30", 
+        "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439", 
+        "zh_cn": "\u5371\u9669", 
+        "zh_tw": "\u5371\u96aa\u865f"
+    }, 
+    "PRSD209": {
+        "en": "Osmotritelny", 
+        "id": 4075697616, 
+        "index": "PRSD209", 
+        "level": 9, 
+        "name": "PRSD209_Pr_35", 
+        "ru": "\u041e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439", 
+        "zh_cn": "\u614e\u5bc6", 
+        "zh_tw": "\u614e\u5bc6\u865f"
+    }, 
+    "PRSD210": {
+        "en": "Grozovoi", 
+        "id": 4074649040, 
+        "index": "PRSD210", 
+        "level": 10, 
+        "name": "PRSD210_Grozovoy_pr_40N", 
+        "ru": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
+        "zh_cn": "\u96f7\u66b4", 
+        "zh_tw": "\u96f7\u66b4\u7d1a"
+    }, 
+    "PRSD308": {
+        "en": "Kiev", 
+        "id": 3971888592, 
+        "index": "PRSD308", 
+        "level": 8, 
+        "name": "PRSD308_Pr_48", 
+        "ru": "\u041a\u0438\u0435\u0432", 
+        "zh_cn": "\u57c3\u91cc\u6eab", 
+        "zh_tw": "\u57c3\u91cc\u6eab\u865f"
+    }, 
+    "PRSD309": {
+        "en": "IDS_PRSD309", 
+        "id": 3970840016, 
+        "index": "PRSD309", 
+        "level": 9, 
+        "name": "PRSD309_Pr_20i", 
+        "ru": "IDS_PRSD309", 
+        "zh_cn": "\u963f\u4ec0\u54c8\u5df4\u5fb7", 
+        "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
+    }, 
+    "PRSD310": {
+        "en": "Nakhodka", 
+        "id": 3969791440, 
+        "index": "PRSD310", 
+        "level": 10, 
+        "name": "PRSD310_Pr_24", 
+        "ru": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", 
+        "zh_cn": "\u53d1\u73b0", 
+        "zh_tw": "\u767c\u73fe\u865f"
+    }, 
+    "PRSD505": {
+        "en": "Okhotnik", 
+        "id": 3765319120, 
+        "index": "PRSD505", 
+        "level": 5, 
+        "name": "PRSD505_Okhotnik_1917", 
+        "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a", 
+        "zh_cn": "\u730e\u4eba", 
+        "zh_tw": "\u7375\u4eba\u865f"
+    }, 
+    "PRSD507": {
+        "en": "Leningrad", 
+        "id": 3763221968, 
+        "index": "PRSD507", 
+        "level": 7, 
+        "name": "PRSD507_Leningrad_1944", 
+        "ru": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
+        "zh_cn": "\u5217\u5b81\u683c\u52d2", 
+        "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
+    }, 
+    "PUSC506": {
+        "en": "Perth", 
+        "id": 3764303216, 
+        "index": "PUSC506", 
+        "level": 6, 
+        "name": "PUSC506_Perth_1942", 
+        "ru": "Perth", 
+        "zh_cn": "\u73c0\u65af", 
+        "zh_tw": "\u73c0\u65af\u865f"
+    }, 
+    "PWSD501": {
+        "en": "B\u0142yskawica", 
+        "id": 3769513264, 
+        "index": "PWSD501", 
+        "level": 7, 
+        "name": "PWSD501_Blyskawica", 
+        "ru": "B\u0142yskawica", 
+        "zh_cn": "\u95ea\u7535", 
+        "zh_tw": "\u9583\u96fb\u865f"
+    }, 
+    "PXSB001": {
+        "en": "Jackal", 
+        "id": 4293866768, 
+        "index": "PXSB001", 
+        "level": 2, 
+        "name": "PXSB001_Mr_Hyde", 
+        "ru": "Jackal", 
+        "zh_cn": "Jackal", 
+        "zh_tw": "Jackal"
+    }, 
+    "PXSB002": {
+        "en": "Rasputin", 
+        "id": 4292818192, 
+        "index": "PXSB002", 
+        "level": 2, 
+        "name": "PXSB002_Rasputin", 
+        "ru": "\u0420\u0430\u0441\u043f\u0443\u0442\u0438\u043d", 
+        "zh_cn": "Rasputin", 
+        "zh_tw": "Rasputin"
+    }, 
+    "PXSB003": {
+        "en": "Zikasa", 
+        "id": 4291769616, 
+        "index": "PXSB003", 
+        "level": 2, 
+        "name": "PXSB003_Zeekasa", 
+        "ru": "Zikasa", 
+        "zh_cn": "Zikasa", 
+        "zh_tw": "Zikasa"
+    }, 
+    "PXSC001": {
+        "en": "Igor", 
+        "id": 4293834000, 
+        "index": "PXSC001", 
+        "level": 2, 
+        "name": "PXSC001_Dr_Frankenship", 
+        "ru": "Igor", 
+        "zh_cn": "Igor", 
+        "zh_tw": "Igor"
+    }, 
+    "PXSD001": {
+        "en": "Blade", 
+        "id": 4293801232, 
+        "index": "PXSD001", 
+        "level": 2, 
+        "name": "PXSD001_VanHellsink", 
+        "ru": "Blade", 
+        "zh_cn": "Blade", 
+        "zh_tw": "Blade"
+    }, 
+    "PXSX001": {
+        "en": "Transylvania", 
+        "id": 4293145872, 
+        "index": "PXSX001", 
+        "level": 2, 
+        "name": "PXSX001_Transylvania", 
+        "ru": "\u0422\u0440\u0430\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", 
+        "zh_cn": "Transilvania", 
+        "zh_tw": "Transilvania"
+    }, 
+    "PZSD506": {
+        "en": "Anshan", 
+        "id": 3764270288, 
+        "index": "PZSD506", 
+        "level": 6, 
+        "name": "PZSD506_Anshan", 
+        "ru": "Anshan", 
+        "zh_cn": "\u978d\u5c71", 
+        "zh_tw": "\u978d\u5c71\u865f"
+    }, 
+    "PZSD508": {
+        "en": "Lo Yang", 
+        "id": 3762173136, 
+        "index": "PZSD508", 
+        "level": 8, 
+        "name": "PZSD508_LoYang", 
+        "ru": "Lo Yang", 
+        "zh_cn": "\u6d1b\u9633", 
+        "zh_tw": "\u6d1b\u967d\u865f"
+    }
+}
