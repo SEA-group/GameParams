@@ -19,26 +19,6 @@
         "zh_cn": "TestShip", 
         "zh_tw": "TestShip"
     }, 
-    "3343824880": {
-        "en": "IDS_PASC907", 
-        "id": 3343824880, 
-        "index": "PASC907", 
-        "level": 4, 
-        "name": "PASC907_Des_Moines_1948_Halloween", 
-        "ru": "IDS_PASC907", 
-        "zh_cn": "\u8428\u5229\u59c6\u5deb\u5a46", 
-        "zh_tw": "\u8428\u5229\u59c6\u5deb\u5a46"
-    }, 
-    "3345987568": {
-        "en": "IDS_PASA905", 
-        "id": 3345987568, 
-        "index": "PASA905", 
-        "level": 5, 
-        "name": "PASA905_Essex_1945_Halloween", 
-        "ru": "IDS_PASA905", 
-        "zh_cn": "\u5e7b\u5f71\u8981\u585e", 
-        "zh_tw": "\u5e7b\u5f71\u8981\u585e"
-    }, 
     "3346282480": {
         "en": "IDS_PASX904", 
         "id": 3346282480, 
@@ -499,6 +479,16 @@
         "zh_cn": "\u83ab\u6d1b\u6258\u592b", 
         "zh_tw": "\u83ab\u6d1b\u6258\u592b\u865f"
     }, 
+    "3764303600": {
+        "en": "Duca d'Aosta", 
+        "id": 3764303600, 
+        "index": "PISC506", 
+        "level": 6, 
+        "name": "PISC506_DucadAosta", 
+        "ru": "Duca d'Aosta", 
+        "zh_cn": "IDS_PISC506", 
+        "zh_tw": "IDS_PISC506"
+    }, 
     "3764303664": {
         "en": "Graf Spee", 
         "id": 3764303664, 
@@ -558,26 +548,6 @@
         "ru": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0440\u044b\u043c", 
         "zh_cn": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9a", 
         "zh_tw": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9e\u865f"
-    }, 
-    "3766367952": {
-        "en": "Disabled: Minekaze", 
-        "id": 3766367952, 
-        "index": "PJSD504", 
-        "level": 5, 
-        "name": "PJSD504_Minekaze", 
-        "ru": "Disabled: Minekaze", 
-        "zh_cn": "\u51b2\u98ce", 
-        "zh_tw": "\u6c96\u98a8\u865f"
-    }, 
-    "3767416528": {
-        "en": "Disabled: Isokaze", 
-        "id": 3767416528, 
-        "index": "PJSD503", 
-        "level": 4, 
-        "name": "PJSD503_Isokaze", 
-        "ru": "Disabled: Isokaze", 
-        "zh_cn": "\u5929\u6d25\u98ce", 
-        "zh_tw": "\u5929\u6d25\u98a8\u865f"
     }, 
     "3767416784": {
         "en": "Campbeltown", 
@@ -659,26 +629,6 @@
         "zh_cn": "\u5854\u4ec0\u5e72", 
         "zh_tw": "\u5854\u4ec0\u5e79\u865f"
     }, 
-    "3969791440": {
-        "en": "Nakhodka", 
-        "id": 3969791440, 
-        "index": "PRSD310", 
-        "level": 10, 
-        "name": "PRSD310_Pr_24", 
-        "ru": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", 
-        "zh_cn": "\u53d1\u73b0", 
-        "zh_tw": "\u767c\u73fe\u865f"
-    }, 
-    "3970840016": {
-        "en": "IDS_PRSD309", 
-        "id": 3970840016, 
-        "index": "PRSD309", 
-        "level": 9, 
-        "name": "PRSD309_Pr_20i", 
-        "ru": "IDS_PRSD309", 
-        "zh_cn": "IDS_PRSD309", 
-        "zh_tw": "IDS_PRSD309"
-    }, 
     "3971888592": {
         "en": "Kiev", 
         "id": 3971888592, 
@@ -698,16 +648,6 @@
         "ru": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
         "zh_cn": "\u96f7\u66b4", 
         "zh_tw": "\u96f7\u66b4\u7d1a"
-    }, 
-    "4075697616": {
-        "en": "Osmotritelny", 
-        "id": 4075697616, 
-        "index": "PRSD209", 
-        "level": 9, 
-        "name": "PRSD209_Pr_35", 
-        "ru": "\u041e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439", 
-        "zh_cn": "\u614e\u5bc6", 
-        "zh_tw": "\u614e\u5bc6\u865f"
     }, 
     "4075697872": {
         "en": "Y\u016bgumo", 
@@ -829,6 +769,16 @@
         "zh_cn": "\u5174\u767b\u5821", 
         "zh_tw": "\u8208\u767b\u5821\u7d1a"
     }, 
+    "4179539792": {
+        "en": "Henri IV", 
+        "id": 4179539792, 
+        "index": "PFSC110", 
+        "level": 10, 
+        "name": "PFSC110_Henri_IV", 
+        "ru": "Henri IV", 
+        "zh_cn": "IDS_PFSC110", 
+        "zh_tw": "IDS_PFSC110"
+    }, 
     "4179539920": {
         "en": "Minotaur", 
         "id": 4179539920, 
@@ -888,6 +838,16 @@
         "ru": "Roon", 
         "zh_cn": "\u9c81\u6069", 
         "zh_tw": "\u9b6f\u6069\u7d1a"
+    }, 
+    "4180588368": {
+        "en": "Saint-Louis", 
+        "id": 4180588368, 
+        "index": "PFSC109", 
+        "level": 9, 
+        "name": "PFSC109_Saint_Louis", 
+        "ru": "Saint-Louis", 
+        "zh_cn": "IDS_PFSC109", 
+        "zh_tw": "IDS_PFSC109"
     }, 
     "4180588496": {
         "en": "Neptune", 
@@ -959,6 +919,16 @@
         "zh_cn": "\u5e0c\u4f69\u5c14\u6d77\u519b\u4e0a\u5c06", 
         "zh_tw": "\u5e0c\u4f69\u723e\u6d77\u8ecd\u4e0a\u5c07\u7d1a"
     }, 
+    "4181636944": {
+        "en": "Charles Martel", 
+        "id": 4181636944, 
+        "index": "PFSC108", 
+        "level": 8, 
+        "name": "PFSC108_Charles_Martel", 
+        "ru": "Charles Martel", 
+        "zh_cn": "IDS_PFSC108", 
+        "zh_tw": "IDS_PFSC108"
+    }, 
     "4181637072": {
         "en": "Edinburgh", 
         "id": 4181637072, 
@@ -1028,6 +998,16 @@
         "ru": "Yorck", 
         "zh_cn": "\u7ea6\u514b", 
         "zh_tw": "\u7d04\u514b\u7d1a"
+    }, 
+    "4182685520": {
+        "en": "Alg\u00e9rie", 
+        "id": 4182685520, 
+        "index": "PFSC107", 
+        "level": 7, 
+        "name": "PFSC107_Algerie", 
+        "ru": "Alg\u00e9rie", 
+        "zh_cn": "IDS_PFSC107", 
+        "zh_tw": "IDS_PFSC107"
     }, 
     "4182685648": {
         "en": "Fiji", 
@@ -1099,6 +1079,16 @@
         "zh_cn": "\u7ebd\u4f26\u5821", 
         "zh_tw": "\u7d10\u502b\u5821\u865f"
     }, 
+    "4183734096": {
+        "en": "La Galissonni\u00e8re", 
+        "id": 4183734096, 
+        "index": "PFSC106", 
+        "level": 6, 
+        "name": "PFSC106_La_Galissonniere", 
+        "ru": "La Galissonni\u00e8re", 
+        "zh_cn": "IDS_PFSC106", 
+        "zh_tw": "IDS_PFSC106"
+    }, 
     "4183734224": {
         "en": "Leander", 
         "id": 4183734224, 
@@ -1169,6 +1159,16 @@
         "zh_cn": "\u67ef\u5c3c\u65af\u5821", 
         "zh_tw": "\u67ef\u5c3c\u65af\u5821\u7d1a"
     }, 
+    "4184782672": {
+        "en": "\u00c9mile Bertin", 
+        "id": 4184782672, 
+        "index": "PFSC105", 
+        "level": 5, 
+        "name": "PFSC105_Emile_Bertin", 
+        "ru": "\u00c9mile Bertin", 
+        "zh_cn": "IDS_PFSC105", 
+        "zh_tw": "IDS_PFSC105"
+    }, 
     "4184782800": {
         "en": "Emerald", 
         "id": 4184782800, 
@@ -1228,6 +1228,16 @@
         "ru": "Karlsruhe", 
         "zh_cn": "\u5361\u5c14\u65af\u9c81\u5384", 
         "zh_tw": "\u5361\u723e\u65af\u9b6f\u5384\u7d1a"
+    }, 
+    "4185831248": {
+        "en": "Duguay-Trouin", 
+        "id": 4185831248, 
+        "index": "PFSC104", 
+        "level": 4, 
+        "name": "PFSC104_Duguay_Trouin", 
+        "ru": "Duguay-Trouin", 
+        "zh_cn": "IDS_PFSC104", 
+        "zh_tw": "IDS_PFSC104"
     }, 
     "4185831376": {
         "en": "Danae", 
@@ -1289,6 +1299,16 @@
         "zh_cn": "\u79d1\u5c14\u8d1d\u683c", 
         "zh_tw": "\u79d1\u723e\u8c9d\u683c\u7d1a"
     }, 
+    "4186879824": {
+        "en": "Friant", 
+        "id": 4186879824, 
+        "index": "PFSC103", 
+        "level": 3, 
+        "name": "PFSC103_Friant", 
+        "ru": "Friant", 
+        "zh_cn": "IDS_PFSC103", 
+        "zh_tw": "IDS_PFSC103"
+    }, 
     "4186879952": {
         "en": "Caledon", 
         "id": 4186879952, 
@@ -1339,6 +1359,16 @@
         "zh_cn": "\u8bfa\u7ef4\u514b", 
         "zh_tw": "\u8afe\u7dad\u514b\u7d1a"
     }, 
+    "4187928400": {
+        "en": "Jurien", 
+        "id": 4187928400, 
+        "index": "PFSC102", 
+        "level": 2, 
+        "name": "PFSC102_Jurien", 
+        "ru": "Jurien", 
+        "zh_cn": "IDS_PFSC102", 
+        "zh_tw": "IDS_PFSC102"
+    }, 
     "4187928528": {
         "en": "Weymouth", 
         "id": 4187928528, 
@@ -1358,6 +1388,16 @@
         "ru": "\u041e\u0440\u043b\u0430\u043d", 
         "zh_cn": "\u5965\u5c14\u5170", 
         "zh_tw": "\u5967\u723e\u862d\u7d1a"
+    }, 
+    "4188976976": {
+        "en": "Bougainville", 
+        "id": 4188976976, 
+        "index": "PFSC101", 
+        "level": 1, 
+        "name": "PFSC101_Bougainville", 
+        "ru": "Bougainville", 
+        "zh_cn": "IDS_PFSC101", 
+        "zh_tw": "IDS_PFSC101"
     }, 
     "4188977104": {
         "en": "Black Swan", 
@@ -1638,6 +1678,16 @@
         "ru": "Worcester", 
         "zh_cn": "\u4f0d\u65af\u7279", 
         "zh_tw": "\u4f0d\u65af\u7279\u7d1a"
+    }, 
+    "4278465808": {
+        "en": "IDS_PXSX015", 
+        "id": 4278465808, 
+        "index": "PXSX015", 
+        "level": 11, 
+        "name": "PXSX015_Schuka", 
+        "ru": "IDS_PXSX015", 
+        "zh_cn": "IDS_PXSX015", 
+        "zh_tw": "IDS_PXSX015"
     }, 
     "4279154384": {
         "en": "Tenryu", 

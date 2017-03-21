@@ -1,0 +1,1766 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFAF001_HD780.vitalityTimeAir changed in second object (was 11.8, is 13.5)
+root.PFAF001_HD780.level changed in second object (was 6, is 7)
+root.PFAF001_HD780.vitalityTime changed in second object (was 11.8, is 13.5)
+root.PFAF001_HD780.activeAntiAirAura changed in second object (was 0.45, is 0.51)
+root.PFAF001_HD780.outOfAttackPlanePenalty removed in first object
+root.PFAF001_HD780.outOfAttackTime removed in first object
+root.PJSB007_Kongo_1942.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB007_Kongo_1942.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD105_Pr_7_Gnevny.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD105_Pr_7_Gnevny.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC102_Weymouth.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC102_Weymouth.AB1_Artillery.maxDist changed in second object (was 9763.0, is 10580.0)
+root.PBSC102_Weymouth.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAD008_Douglas_AD2.outOfAttackPlanePenalty removed in first object
+root.PAAD008_Douglas_AD2.outOfAttackTime removed in first object
+root.PCEE012_SeasonFlag02.canBuyCustom removed in first object
+root.PCEE012_SeasonFlag02.hiddenCustom removed in first object
+root.PJSB705_Kongou.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB705_Kongou.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF006_HY_SignalFlag.canBuyCustom removed in first object
+root.PCEF006_HY_SignalFlag.hiddenCustom removed in first object
+root.PAAD002_Curtiss_SBC4.outOfAttackPlanePenalty removed in first object
+root.PAAD002_Curtiss_SBC4.outOfAttackTime removed in first object
+root.PFSB506_Dunkerque_1940.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PFSB506_Dunkerque_1940.Cameras.Obstacle.InnerTrajectory.semiAxisH changed in second object (was 0.75, is 1.103)
+root.PFSB506_Dunkerque_1940.Cameras.Obstacle.InnerTrajectory.posCenter[2] changed in second object (was -1.25, is -2.403)
+root.PFSB506_Dunkerque_1940.Cameras.Obstacle.InnerTrajectory.semiAxisV changed in second object (was 2.22, is 3.258)
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_1.miscFilter[0] removed in first object
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_1.miscFilter[1] removed in first object
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_2.miscFilter[0] removed in first object
+root.PFSB506_Dunkerque_1940.A1_Artillery.HP_FGM_2.miscFilter[1] removed in first object
+root.PJEP308_Ishizuchi_1921.canBuyCustom removed in first object
+root.PJEP308_Ishizuchi_1921.hiddenCustom removed in first object
+root.PCEC006_Tile_Supertest.canBuyCustom removed in first object
+root.PCEC006_Tile_Supertest.hiddenCustom removed in first object
+root.PGEP507_Scharnhorst.canBuyCustom removed in first object
+root.PGEP507_Scharnhorst.hiddenCustom removed in first object
+root.PCEE008_Rank20.canBuyCustom removed in first object
+root.PCEE008_Rank20.hiddenCustom removed in first object
+root.PGEP418_Prinz_Eugen.canBuyCustom removed in first object
+root.PGEP418_Prinz_Eugen.hiddenCustom removed in first object
+root.PCEE074_Oscar_awards.canBuyCustom removed in first object
+root.PCEE074_Oscar_awards.hiddenCustom removed in first object
+root.PJSD002_Umikaze_1925.A1_120_40.maxDist changed in second object (was 6720.0, is 8030.0)
+root.PJSD002_Umikaze_1925.A_Hull_1911.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD002_Umikaze_1925.B1_120_40.maxDist changed in second object (was 6720.0, is 8030.0)
+root.PJSD002_Umikaze_1925.B_Hull_1918.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP409_Mogami_1935.canBuyCustom removed in first object
+root.PJEP409_Mogami_1935.hiddenCustom removed in first object
+root.PCY016_SonarSearchPremium.canBuyCustom removed in first object
+root.PAAB051_Douglas_BTD_1.bombingAttackPointDistance changed in second object (was 46.0, is 37.0)
+root.PAAB051_Douglas_BTD_1.bombingStartPointDistance changed in second object (was 62.7, is 52.7)
+root.PAAB051_Douglas_BTD_1.outOfAttackPlanePenalty removed in first object
+root.PAAB051_Douglas_BTD_1.outOfAttackTime removed in first object
+root.PJSC709_Haguro.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC709_Haguro.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC709_Haguro.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD706_Shinonome.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY020_RLSSearchPremium.canBuyCustom removed in first object
+root.PAAB007_Douglas_XTB2D.outOfAttackPlanePenalty removed in first object
+root.PAAB007_Douglas_XTB2D.outOfAttackTime removed in first object
+root.PAAS001_Vought_OS2U.outOfAttackPlanePenalty removed in first object
+root.PAAS001_Vought_OS2U.outOfAttackTime removed in first object
+root.PASA002_Bogue_1942.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA002_Bogue_1942.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA002_Bogue_1942.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA002_Bogue_1942.AB2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA002_Bogue_1942.AB2F_FlightControl.isGroundAttackEnabled removed in first object
+root.PCEE032_Arizona_memorial.canBuyCustom removed in first object
+root.PCEE032_Arizona_memorial.hiddenCustom removed in first object
+root.PAAD010_Douglas_BTD_1.outOfAttackPlanePenalty removed in first object
+root.PAAD010_Douglas_BTD_1.outOfAttackTime removed in first object
+root.PRAS006_KOR_3_VK_107.outOfAttackPlanePenalty removed in first object
+root.PRAS006_KOR_3_VK_107.outOfAttackTime removed in first object
+root.PCH079_F_500Leagues.enabledCustom removed in first object
+root.PASC002_Chester_1908.B2_152_50.maxDist changed in second object (was 8418.0, is 9240.0)
+root.PASC002_Chester_1908.A_Hull_1908.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC002_Chester_1908.B1_127_50.maxDist changed in second object (was 8418.0, is 9240.0)
+root.PASC002_Chester_1908.B_Hull_1917.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC002_Chester_1908.A1_127_50.maxDist changed in second object (was 8418.0, is 9240.0)
+root.PREP505_Pr_7_Gnevny.canBuyCustom removed in first object
+root.PREP505_Pr_7_Gnevny.hiddenCustom removed in first object
+root.PBSC109_Neptune.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC109_Neptune.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF014_Curtiss_TS1_float.outOfAttackPlanePenalty removed in first object
+root.PAAF014_Curtiss_TS1_float.outOfAttackTime removed in first object
+root.PAAB903_XP67_HALLOWEEN.outOfAttackPlanePenalty removed in first object
+root.PAAB903_XP67_HALLOWEEN.outOfAttackTime removed in first object
+root.PJAB009_Nakajima_B3N.outOfAttackPlanePenalty removed in first object
+root.PJAB009_Nakajima_B3N.outOfAttackTime removed in first object
+root.PAAF004_Vought_VE7.outOfAttackPlanePenalty removed in first object
+root.PAAF004_Vought_VE7.outOfAttackTime removed in first object
+root.PAAF001_Grumman_F3F.outOfAttackPlanePenalty removed in first object
+root.PAAF001_Grumman_F3F.outOfAttackTime removed in first object
+root.PGAF905_FW190A8_HIDE.outOfAttackPlanePenalty removed in first object
+root.PGAF905_FW190A8_HIDE.outOfAttackTime removed in first object
+root.PCH074_F_DressTheTree.enabledCustom removed in first object
+root.PCH080_F_BreakTheBank.enabledCustom removed in first object
+root.PJSC035_Chikuma_1912.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC035_Chikuma_1912.B_Hull_1918.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAD009_Aichi_B7A.outOfAttackPlanePenalty removed in first object
+root.PJAD009_Aichi_B7A.outOfAttackTime removed in first object
+root.PASB801_False_Michigan_1916.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH068_F_2016.enabledCustom removed in first object
+root.PCH034_ScienceOfWinning1.enabledCustom removed in first object
+root.PASB034_New_Mexico_1941.A1_Artillery.maxDist changed in second object (was 13580.0, is 14620.0)
+root.PASB034_New_Mexico_1941.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB034_New_Mexico_1941.B1_Artillery.maxDist changed in second object (was 13580.0, is 14620.0)
+root.PASB034_New_Mexico_1941.A_Hull_1936.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH014_Headbutt.enabledCustom removed in first object
+root.PAAB008_Douglas_DT.outOfAttackPlanePenalty removed in first object
+root.PAAB008_Douglas_DT.outOfAttackTime removed in first object
+root.PJSC015_Tatsuta_1919.ArtilleryDefault.maxDist changed in second object (was 9981.0, is 11240.0)
+root.PJSC015_Tatsuta_1919.A_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC015_Tatsuta_1919.B_Hull_1937.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC108_Pr_68_Chapaev.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC108_Pr_68_Chapaev.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE999_SecretSanta.canBuyCustom removed in first object
+root.PCEE999_SecretSanta.hiddenCustom removed in first object
+root.PGSD104_V_170.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD104_V_170.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAEP319_Alabama.canBuyCustom removed in first object
+root.PAEP319_Alabama.hiddenCustom removed in first object
+root.PCH012_Arsonist.enabledCustom removed in first object
+root.PCY018_TorpedoReloaderPremium.canBuyCustom removed in first object
+root.PAAS011_Curtiss_SC2.outOfAttackPlanePenalty removed in first object
+root.PAAS011_Curtiss_SC2.outOfAttackTime removed in first object
+root.PASA015_Midway_1945.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA015_Midway_1945.A1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA015_Midway_1945.A2B_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA015_Midway_1945.A2F_FlightControl.isGroundAttackEnabled removed in first object
+root.PCH041_TaskPerforming2.enabledCustom removed in first object
+root.PCEE014_Flag_Supertest.canBuyCustom removed in first object
+root.PCEE014_Flag_Supertest.hiddenCustom removed in first object
+root.PCEF010_JC_SignalFlag.canBuyCustom removed in first object
+root.PCEF010_JC_SignalFlag.hiddenCustom removed in first object
+root.PGSC106_Nurnberg.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC106_Nurnberg.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC106_Nurnberg.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB011_Mikasa_1905.ArtilleryDefault.maxDist changed in second object (was 9510.0, is 11820.0)
+root.PJSB011_Mikasa_1905.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF005_Loening_M8.outOfAttackPlanePenalty removed in first object
+root.PAAF005_Loening_M8.outOfAttackTime removed in first object
+root.PAAF008_F2A.outOfAttackPlanePenalty removed in first object
+root.PAAF008_F2A.outOfAttackTime removed in first object
+root.PASD006_Mahan_1936.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD006_Mahan_1936.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD006_Mahan_1936.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH072_CampaignSBCompleted.enabledCustom removed in first object
+root.PAAF003_Boeing_XF7B.outOfAttackPlanePenalty removed in first object
+root.PAAF003_Boeing_XF7B.outOfAttackTime removed in first object
+root.PGAS003_HE42.outOfAttackPlanePenalty removed in first object
+root.PGAS003_HE42.outOfAttackTime removed in first object
+root.PCH015_SilentKiller.enabledCustom removed in first object
+root.PCEC013_Camo_MGT.canBuyCustom removed in first object
+root.PCEC013_Camo_MGT.hiddenCustom removed in first object
+root.PRAS002_KOR_1.outOfAttackPlanePenalty removed in first object
+root.PRAS002_KOR_1.outOfAttackTime removed in first object
+root.PBSC104_Danae.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC104_Danae.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC717_Yellow_Dragon.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC717_Yellow_Dragon.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC717_Yellow_Dragon.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF014_NF_SignalFlag.canBuyCustom removed in first object
+root.PCEF014_NF_SignalFlag.hiddenCustom removed in first object
+root.PREP509_Pr_48_Kiev.canBuyCustom removed in first object
+root.PREP509_Pr_48_Kiev.hiddenCustom removed in first object
+root.PJAB001_B5N2.outOfAttackPlanePenalty removed in first object
+root.PJAB001_B5N2.outOfAttackTime removed in first object
+root.PCH044_Researching1.enabledCustom removed in first object
+root.PASC005_Omaha_1923.B2_152_53.maxDist changed in second object (was 11500.0, is 13830.0)
+root.PASC005_Omaha_1923.B1_152_53.maxDist changed in second object (was 11500.0, is 13830.0)
+root.PASC005_Omaha_1923.A_Hull_1923.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC005_Omaha_1923.A1_152_53.maxDist changed in second object (was 11500.0, is 13830.0)
+root.PASC005_Omaha_1923.B_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC005_Omaha_1923.C_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC005_Omaha_1923.C1_152_53.maxDist changed in second object (was 13465.0, is 13830.0)
+root.PASC005_Omaha_1923.C2_152_53.maxDist changed in second object (was 13465.0, is 13830.0)
+root.PCY003_AirDefenseDisp.canBuyCustom removed in first object
+root.PUAS001_Walrus.outOfAttackPlanePenalty removed in first object
+root.PUAS001_Walrus.outOfAttackTime removed in first object
+root.PJEP321_Izumo_1938.canBuyCustom removed in first object
+root.PJEP321_Izumo_1938.hiddenCustom removed in first object
+root.PCQC003_NewYear2017BasicCampaign.enabledCustom removed in first object
+root.PCEC002_Camo_2.canBuyCustom removed in first object
+root.PCEC002_Camo_2.hiddenCustom removed in first object
+root.PAEP445_Marblehead_1924_Asus.canBuyCustom removed in first object
+root.PAEP445_Marblehead_1924_Asus.hiddenCustom removed in first object
+root.PREP409_Dmitry_Donskoy.canBuyCustom removed in first object
+root.PREP409_Dmitry_Donskoy.hiddenCustom removed in first object
+root.PCEE059_Pearl_Harbor.canBuyCustom removed in first object
+root.PCEE059_Pearl_Harbor.hiddenCustom removed in first object
+root.PCY001_CrashCrew.canBuyCustom removed in first object
+root.PCEE042_Birthday_flag.canBuyCustom removed in first object
+root.PCEE042_Birthday_flag.hiddenCustom removed in first object
+root.PASB008_Colorado_1945.A1_Artillery.maxDist changed in second object (was 15180.0, is 17120.0)
+root.PASB008_Colorado_1945.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB008_Colorado_1945.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB008_Colorado_1945.B1_Artillery.maxDist changed in second object (was 15180.0, is 17120.0)
+root.PAAF023_F4F_float.outOfAttackPlanePenalty removed in first object
+root.PAAF023_F4F_float.outOfAttackTime removed in first object
+root.PCEF001_Zulu_SignalFlag.canBuyCustom removed in first object
+root.PCEF001_Zulu_SignalFlag.hiddenCustom removed in first object
+root.PJSD207_Shiratsuyu.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD207_Shiratsuyu.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBAS001_Walrus.outOfAttackPlanePenalty removed in first object
+root.PBAS001_Walrus.outOfAttackTime removed in first object
+root.PGSB110_Grossdeutschland.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAD006_Vought_SBU.outOfAttackPlanePenalty removed in first object
+root.PAAD006_Vought_SBU.outOfAttackTime removed in first object
+root.PRSD308_Pr_48.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD308_Pr_48.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD308_Pr_48.groupCustom.PT removed in second object
+root.PASD014_Leader_1919.B_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD014_Leader_1919.A_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAD007_D4Y3.outOfAttackPlanePenalty removed in first object
+root.PJAD007_D4Y3.outOfAttackTime removed in first object
+root.PCEE067_Supremacy_League_Participant.canBuyCustom removed in first object
+root.PCEE067_Supremacy_League_Participant.hiddenCustom removed in first object
+root.PAAD508_Douglas_AD2_S.outOfAttackPlanePenalty removed in first object
+root.PAAD508_Douglas_AD2_S.outOfAttackTime removed in first object
+root.PRSD001_Gremyashchy_1942.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE066_Supremacy_League_Winner.canBuyCustom removed in first object
+root.PCEE066_Supremacy_League_Winner.hiddenCustom removed in first object
+root.PXSB001_Mr_Hyde.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF002_Grumman_F6F.outOfAttackPlanePenalty removed in first object
+root.PAAF002_Grumman_F6F.outOfAttackTime removed in first object
+root.PRSD206_Pr_7.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD206_Pr_7.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD206_Pr_7.groupCustom.PT removed in second object
+root.PCEE068_Community_Contest.canBuyCustom removed in first object
+root.PCEE068_Community_Contest.hiddenCustom removed in first object
+root.PGSD106_Ernst_Gaede.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD106_Ernst_Gaede.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH020_ATBACaliber.enabledCustom removed in first object
+root.PCH048_CBTPartisipant.enabledCustom removed in first object
+root.PAEP509_Black.canBuyCustom removed in first object
+root.PAEP509_Black.hiddenCustom removed in first object
+root.PGSD103_G_101.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD103_G_101.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD004_Minekadze_1920.A1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD004_Minekadze_1920.B1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD004_Minekadze_1920.A_Hull_1920.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD004_Minekadze_1920.B_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD004_Minekadze_1920.B2_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PBAS005_FAIREY_S.outOfAttackPlanePenalty removed in first object
+root.PBAS005_FAIREY_S.outOfAttackTime removed in first object
+root.PCH086_WGFest2016.enabledCustom removed in first object
+root.PAAF006_Loening_M8_float.outOfAttackPlanePenalty removed in first object
+root.PAAF006_Loening_M8_float.outOfAttackTime removed in first object
+root.PCH076_F_Aiming.enabledCustom removed in first object
+root.PAAS006_N3N.outOfAttackPlanePenalty removed in first object
+root.PAAS006_N3N.outOfAttackTime removed in first object
+root.PAEP112_Lexington_1944.canBuyCustom removed in first object
+root.PAEP112_Lexington_1944.hiddenCustom removed in first object
+root.PGSD105_T_22.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD105_T_22.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAS009_Nakajima_E8N.outOfAttackPlanePenalty removed in first object
+root.PJAS009_Nakajima_E8N.outOfAttackTime removed in first object
+root.PJSA015_Taiho_1944.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA015_Taiho_1944.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA015_Taiho_1944.AB2U_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA015_Taiho_1944.AB2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA015_Taiho_1944.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJEP311_Mikasa_1905.canBuyCustom removed in first object
+root.PJEP311_Mikasa_1905.hiddenCustom removed in first object
+root.PJAS003_Yokosuka_K5Y2.outOfAttackPlanePenalty removed in first object
+root.PJAS003_Yokosuka_K5Y2.outOfAttackTime removed in first object
+root.PJEP506_Hatsuharu_1945.canBuyCustom removed in first object
+root.PJEP506_Hatsuharu_1945.hiddenCustom removed in first object
+root.PCH003_MainCaliber.enabledCustom removed in first object
+root.PGEP402_Emden_1908.canBuyCustom removed in first object
+root.PGEP402_Emden_1908.hiddenCustom removed in first object
+root.PCH013_Liquidator.enabledCustom removed in first object
+root.PJAF004_J7W1_A.outOfAttackPlanePenalty removed in first object
+root.PJAF004_J7W1_A.outOfAttackTime removed in first object
+root.PAEP312_North_Carolina_1945.canBuyCustom removed in first object
+root.PAEP312_North_Carolina_1945.hiddenCustom removed in first object
+root.PCH047_OBTPartisipant.enabledCustom removed in first object
+root.PCEE037_Veterans_flag.canBuyCustom removed in first object
+root.PCEE037_Veterans_flag.hiddenCustom removed in first object
+root.PJSC038_Atago_1944.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAB002_Nakajima_B6N.outOfAttackPlanePenalty removed in first object
+root.PJAB002_Nakajima_B6N.outOfAttackTime removed in first object
+root.PCEE055_Perth_flag.canBuyCustom removed in first object
+root.PCEE055_Perth_flag.hiddenCustom removed in first object
+root.PCH052_WGStaff.enabledCustom removed in first object
+root.PCEF009_JY2_SignalFlag.canBuyCustom removed in first object
+root.PCEF009_JY2_SignalFlag.hiddenCustom removed in first object
+root.PASD502_Smith.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE054_Buffed_de.canBuyCustom removed in first object
+root.PCEE054_Buffed_de.hiddenCustom removed in first object
+root.PASD013_Gearing_1945.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH022_Shadow.enabledCustom removed in first object
+root.PJAS002_Yokosuka_E1Y.outOfAttackPlanePenalty removed in first object
+root.PJAS002_Yokosuka_E1Y.outOfAttackTime removed in first object
+root.PCEE035_Dunkerque.canBuyCustom removed in first object
+root.PCEE035_Dunkerque.hiddenCustom removed in first object
+root.PJSB018_Yamato_1944.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAB053_Douglas_XSB2D.bombingAttackPointDistance changed in second object (was 46.0, is 37.0)
+root.PAAB053_Douglas_XSB2D.bombingStartPointDistance changed in second object (was 62.8, is 52.8)
+root.PAAB053_Douglas_XSB2D.outOfAttackPlanePenalty removed in first object
+root.PAAB053_Douglas_XSB2D.outOfAttackTime removed in first object
+root.PAAD011_Kaiser_Fleetwings_XBTK.outOfAttackPlanePenalty removed in first object
+root.PAAD011_Kaiser_Fleetwings_XBTK.outOfAttackTime removed in first object
+root.PJSD105_Mutsuki.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD105_Mutsuki.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD105_Mutsuki.AB1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD105_Mutsuki.B2_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJAD006_D1A1.outOfAttackPlanePenalty removed in first object
+root.PJAD006_D1A1.outOfAttackTime removed in first object
+root.PJSX702_Support.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAF008_Mitsubishi_A8M.outOfAttackPlanePenalty removed in first object
+root.PJAF008_Mitsubishi_A8M.outOfAttackTime removed in first object
+root.PRSD106_Pr_30_Ognevoy.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD106_Pr_30_Ognevoy.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD206_Hatsuharu.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD206_Hatsuharu.B1_127_50.maxDist changed in second object (was 8436.0, is 9850.0)
+root.PJSD206_Hatsuharu.A1_127_50.maxDist changed in second object (was 8436.0, is 9850.0)
+root.PJSD206_Hatsuharu.A_Hull_1935.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC508_Kutuzov_1952.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH039_ScienceOfWinning6.enabledCustom removed in first object
+root.PCEP301_Permo_NY.canBuyCustom removed in first object
+root.PCEP301_Permo_NY.hiddenCustom removed in first object
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC107_Schors.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC107_Schors.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH040_TaskPerforming1.enabledCustom removed in first object
+root.PJSD026_Camo_Kamikaze.ArtilleryDefault.maxDist changed in second object (was 7620.0, is 8680.0)
+root.PJSD026_Camo_Kamikaze.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC110_Hindenburg.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRGM098_130mm_sm2_1.shotDelay changed in second object (was 5.0, is 4.2)
+root.PCY006_SmokeGenerator.canBuyCustom removed in first object
+root.PAAD004_Douglas_SBD2.outOfAttackPlanePenalty removed in first object
+root.PAAD004_Douglas_SBD2.outOfAttackTime removed in first object
+root.PCH036_ScienceOfWinning3.enabledCustom removed in first object
+root.PAEP309_New_York_Scull.canBuyCustom removed in first object
+root.PAEP309_New_York_Scull.hiddenCustom removed in first object
+root.PRAF011_I_15_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF011_I_15_FLOAT.outOfAttackTime removed in first object
+root.PCEF007_ID_SignalFlag.canBuyCustom removed in first object
+root.PCEF007_ID_SignalFlag.hiddenCustom removed in first object
+root.PASD019_Clemson_1920.A_Hull_1920.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD019_Clemson_1920.B_Hull_1930.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD110_Pr_24_Khabarovsk.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD110_Pr_24_Khabarovsk.groupCustom.PT removed in second object
+root.PCY009_CrashCrewPremium.canBuyCustom removed in first object
+root.PJSC705_Myoko.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC705_Myoko.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC705_Myoko.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB001_Michigan_1916.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB001_Michigan_1916.A1_Artillery.maxDist changed in second object (was 10218.0, is 14240.0)
+root.PASB001_Michigan_1916.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB001_Michigan_1916.B1_Artillery.maxDist changed in second object (was 10218.0, is 14240.0)
+root.PGAS002_HE1.outOfAttackPlanePenalty removed in first object
+root.PGAS002_HE1.outOfAttackTime removed in first object
+root.PJEP507_Fubuki_1944.canBuyCustom removed in first object
+root.PJEP507_Fubuki_1944.hiddenCustom removed in first object
+root.PRAS008_KL_145.outOfAttackPlanePenalty removed in first object
+root.PRAS008_KL_145.outOfAttackTime removed in first object
+root.PGSB507_Scharnhorst.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF028_Grumman_F6F_3.outOfAttackPlanePenalty removed in first object
+root.PAAF028_Grumman_F6F_3.outOfAttackTime removed in first object
+root.PCEF013_PP_SignalFlag.canBuyCustom removed in first object
+root.PCEF013_PP_SignalFlag.hiddenCustom removed in first object
+root.PRAF015_LA_126_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF015_LA_126_FLOAT.outOfAttackTime removed in first object
+root.PAAB052_Grumman_TBM3.bombingAttackPointDistance changed in second object (was 46.0, is 35.0)
+root.PAAB052_Grumman_TBM3.bombingStartPointDistance changed in second object (was 60.7, is 48.7)
+root.PAAB052_Grumman_TBM3.outOfAttackPlanePenalty removed in first object
+root.PAAB052_Grumman_TBM3.outOfAttackTime removed in first object
+root.PAAF024_XP_40S.outOfAttackPlanePenalty removed in first object
+root.PAAF024_XP_40S.outOfAttackTime removed in first object
+root.PCH016_FirstBlood.enabledCustom removed in first object
+root.PASC019_Burlington_1944.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC018_Tone.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEC021_Valentine_Tile.canBuyCustom removed in first object
+root.PCEC021_Valentine_Tile.hiddenCustom removed in first object
+root.PCH067_LootboxOpening4.enabledCustom removed in first object
+root.PBAS006_ROC_S.outOfAttackPlanePenalty removed in first object
+root.PBAS006_ROC_S.outOfAttackTime removed in first object
+root.PCEE017_Flag_Volunteer.canBuyCustom removed in first object
+root.PCEE017_Flag_Volunteer.hiddenCustom removed in first object
+root.PAEP408_Flint.canBuyCustom removed in first object
+root.PAEP408_Flint.hiddenCustom removed in first object
+root.PFAS001_LOIRE130.outOfAttackPlanePenalty removed in first object
+root.PFAS001_LOIRE130.outOfAttackTime removed in first object
+root.PCQC001_Campaign1.enabledCustom removed in first object
+root.PASC020_Des_Moines_1948.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE010_Rank1.canBuyCustom removed in first object
+root.PCEE010_Rank1.hiddenCustom removed in first object
+root.PJSA002_Hosho_1939.ABC1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA002_Hosho_1939.ABC2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA002_Hosho_1939.B_Hull_1939.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA002_Hosho_1939.C_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAD001_D1A2.outOfAttackPlanePenalty removed in first object
+root.PJAD001_D1A2.outOfAttackTime removed in first object
+root.PGAF001_HE51.outOfAttackPlanePenalty removed in first object
+root.PGAF001_HE51.outOfAttackTime removed in first object
+root.PJAB004_Yokosuka_B4Y.outOfAttackPlanePenalty removed in first object
+root.PJAB004_Yokosuka_B4Y.outOfAttackTime removed in first object
+root.PCH054_F_Manners.enabledCustom removed in first object
+root.PREP501_Gremyashchy_1942.canBuyCustom removed in first object
+root.PREP501_Gremyashchy_1942.hiddenCustom removed in first object
+root.PRAS005_KOR_2_M_62.outOfAttackPlanePenalty removed in first object
+root.PRAS005_KOR_2_M_62.outOfAttackTime removed in first object
+root.PCH037_ScienceOfWinning4.enabledCustom removed in first object
+root.PCH018_Unsinkable.enabledCustom removed in first object
+root.PZSD506_Anshan.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH058_F_PartyCheckIn.enabledCustom removed in first object
+root.PRSB001_Nikolay_I.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Battleship_3 removed in second object
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Battleship_5 removed in second object
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Battleship_7 removed in second object
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Battleship_6 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Cruiser_3 removed in second object
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Battleship_4 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Battleship_6 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Battleship_7 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Battleship_5 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Battleship_3 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Cruiser_3 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Battleship_4 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Battleship_5 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Battleship_6 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Battleship_7 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Battleship_3 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Cruiser_3 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Battleship_6 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Battleship_7 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Battleship_4 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Battleship_5 removed in second object
+root.PCY013_SpotterPremium.PAY107_O2U_Battleship_3 removed in second object
+root.PCY013_SpotterPremium.PAY104_Curtiss_SO3C_Cruiser_3 removed in second object
+root.PCY013_SpotterPremium.PAY102_Curtiss_SOC_Battleship_4 removed in second object
+root.PCY013_SpotterPremium.PJY102_Yokosuka_E1Y_Cruiser_3 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Battleship_5 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Battleship_4 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Battleship_7 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Battleship_6 removed in second object
+root.PCY013_SpotterPremium.PJY103_Yokosuka_K5Y2_Battleship_3 removed in second object
+root.PCY013_SpotterPremium.PFY109_Breguet790_Cruiser_3 removed in first object
+root.PCY013_SpotterPremium.PFY101_Loire130_Cruiser_3 removed in first object
+root.PCY013_SpotterPremium.canBuyCustom removed in first object
+root.PCY013_SpotterPremium.PIY101_IMAM_RO43_Cruiser_3 removed in first object
+root.PJSB801_False_Kawachi_1912.B_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEP103_Permo_Prem_Low_lvl.canBuyCustom removed in first object
+root.PCEP103_Permo_Prem_Low_lvl.hiddenCustom removed in first object
+root.PRSC505_KrasniKrym.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC505_KrasniKrym.A1_Artillery.maxDist changed in second object (was 13510.0, is 14040.0)
+root.PCH082_F_WinAtLeastOne.enabledCustom removed in first object
+root.PAEP508_Benson_1945.canBuyCustom removed in first object
+root.PAEP508_Benson_1945.hiddenCustom removed in first object
+root.PAAB006_Martin_T4M_float.outOfAttackPlanePenalty removed in first object
+root.PAAB006_Martin_T4M_float.outOfAttackTime removed in first object
+root.PGSC002_Drezden_1908.A1_Artillery.maxDist changed in second object (was 8110.0, is 9920.0)
+root.PGSC002_Drezden_1908.A_Hull_1908.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC002_Drezden_1908.B1_Artillery.maxDist changed in second object (was 8110.0, is 9920.0)
+root.PGSC002_Drezden_1908.B_Hull_1916.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF020_Blue_Dragon_Flag.canBuyCustom removed in first object
+root.PCEF020_Blue_Dragon_Flag.hiddenCustom removed in first object
+root.PBSC101_Black_Swan.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH001_DoubleKill.enabledCustom removed in first object
+root.PCH010_Retribution.enabledCustom removed in first object
+root.PBSC507_Belfast_1959.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD503_Isokaze removed in second object
+root.PCEC016_Camo_Gamescom_2016.canBuyCustom removed in first object
+root.PCEC016_Camo_Gamescom_2016.hiddenCustom removed in first object
+root.PJAF009_Kawanishi_N1K5_A.outOfAttackPlanePenalty removed in first object
+root.PJAF009_Kawanishi_N1K5_A.outOfAttackTime removed in first object
+root.PGSB002_Tirpiz_1942.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB004_Arkansas_1912.A1_Artillery.maxDist changed in second object (was 10965.0, is 14380.0)
+root.PASB004_Arkansas_1912.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB004_Arkansas_1912.B1_Artillery.maxDist changed in second object (was 12790.0, is 14380.0)
+root.PASB004_Arkansas_1912.A_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE048_SeasonFlag05.canBuyCustom removed in first object
+root.PCEE048_SeasonFlag05.hiddenCustom removed in first object
+root.PGAF006_TA152C.outOfAttackPlanePenalty removed in first object
+root.PGAF006_TA152C.outOfAttackTime removed in first object
+root.PJSD017_Kamikaze_1930.ArtilleryDefault.maxDist changed in second object (was 7620.0, is 8680.0)
+root.PJSD017_Kamikaze_1930.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC102_Novik.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC102_Novik.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC037_Hashidate_1940.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC503_Katori.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD103_Derzky.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD103_Derzky.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH061_F_FestivSoup.enabledCustom removed in first object
+root.PJSD010_Kagero_1943.A_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD010_Kagero_1943.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD010_Kagero_1943.C1_127_50.maxDist changed in second object (was 8554.0, is 9980.0)
+root.PJSD010_Kagero_1943.C_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD010_Kagero_1943.AB1_127_50.maxDist changed in second object (was 8554.0, is 9980.0)
+root.PASC024_Phoenix_1917.A1_152_50.maxDist changed in second object (was 12463.0, is 13880.0)
+root.PASC024_Phoenix_1917.B2_152_53.maxDist changed in second object (was 12463.0, is 13880.0)
+root.PASC024_Phoenix_1917.B1_152_50.maxDist changed in second object (was 12463.0, is 13880.0)
+root.PASC024_Phoenix_1917.C_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC024_Phoenix_1917.B_Hull_1924.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC024_Phoenix_1917.A_Hull_1917.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC024_Phoenix_1917.C1_152_50.maxDist changed in second object (was 12463.0, is 13880.0)
+root.PASC024_Phoenix_1917.C2_152_53.maxDist changed in second object (was 12463.0, is 13880.0)
+root.PWEP501_Blyskawica.canBuyCustom removed in first object
+root.PWEP501_Blyskawica.hiddenCustom removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB012_North_Carolina_1945.C_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAEP318_Iowa_1944.canBuyCustom removed in first object
+root.PAEP318_Iowa_1944.hiddenCustom removed in first object
+root.PZSD508_LoYang.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB010_Nagato_1944.A_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB010_Nagato_1944.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD002_Sampson_1917.A_Hull_1917.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD002_Sampson_1917.B_Hull_1931.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAD003_Vought_SB2U.outOfAttackPlanePenalty removed in first object
+root.PAAD003_Vought_SB2U.outOfAttackTime removed in first object
+root.PASC707_Flint.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH031_EarningMoney1.enabledCustom removed in first object
+root.PAAF013_Curtiss_F6C_1.outOfAttackPlanePenalty removed in first object
+root.PAAF013_Curtiss_F6C_1.outOfAttackTime removed in first object
+root.PAGM033_14in50_3Gun_Turret removed in second object
+root.PZEP506_Anshan.canBuyCustom removed in first object
+root.PZEP506_Anshan.hiddenCustom removed in first object
+root.PREP410_Diana_1905_Asus.canBuyCustom removed in first object
+root.PREP410_Diana_1905_Asus.hiddenCustom removed in first object
+root.PCH049_ATPartisipant.enabledCustom removed in first object
+root.PJAD004_J5N.outOfAttackPlanePenalty removed in first object
+root.PJAD004_J5N.outOfAttackTime removed in first object
+root.PBEP302_Warspite_1941.canBuyCustom removed in first object
+root.PBEP302_Warspite_1941.hiddenCustom removed in first object
+root.PBAF016_FAIREY_F.outOfAttackPlanePenalty removed in first object
+root.PBAF016_FAIREY_F.outOfAttackTime removed in first object
+root.PRSD210_Grozovoy_pr_40N.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD210_Grozovoy_pr_40N.A1_Artillery.maxDist changed in second object (was 10330.0, is 10970.0)
+root.PRSD210_Grozovoy_pr_40N.A1_Artillery.HP_RGM_2.shotDelay changed in second object (was 5.0, is 4.2)
+root.PRSD210_Grozovoy_pr_40N.A1_Artillery.HP_RGM_3.shotDelay changed in second object (was 5.0, is 4.2)
+root.PRSD210_Grozovoy_pr_40N.A1_Artillery.HP_RGM_1.shotDelay changed in second object (was 5.0, is 4.2)
+root.PRSD210_Grozovoy_pr_40N.groupCustom.PT removed in second object
+root.PJSB013_Amagi_1942.A_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB013_Amagi_1942.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF029_Vought_F4U_1A.outOfAttackPlanePenalty removed in first object
+root.PAAF029_Vought_F4U_1A.outOfAttackTime removed in first object
+root.PGSD109_Z_46.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD109_Z_46.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC708_ARP_Takao.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB018_Iowa_1944.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB018_Iowa_1944.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB018_Iowa_1944.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD102_SM_Storojevoy.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD102_SM_Storojevoy.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAS002_Curtiss_SOC.outOfAttackPlanePenalty removed in first object
+root.PAAS002_Curtiss_SOC.outOfAttackTime removed in first object
+root.PAAB002_Grumman_TBF.bombingAttackPointDistance changed in second object (was 46.0, is 34.0)
+root.PAAB002_Grumman_TBF.bombingStartPointDistance changed in second object (was 60.5, is 47.5)
+root.PAAB002_Grumman_TBF.outOfAttackPlanePenalty removed in first object
+root.PAAB002_Grumman_TBF.outOfAttackTime removed in first object
+root.PJSC999_Yubari_Special.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAD005_D3A2.outOfAttackPlanePenalty removed in first object
+root.PJAD005_D3A2.outOfAttackTime removed in first object
+root.PAAS014_VOUGHT_OS2U_ARIZONA.outOfAttackPlanePenalty removed in first object
+root.PAAS014_VOUGHT_OS2U_ARIZONA.outOfAttackTime removed in first object
+root.PCEE030_Battle_of_Jutland.canBuyCustom removed in first object
+root.PCEE030_Battle_of_Jutland.hiddenCustom removed in first object
+root.PAEP306_Arizona.canBuyCustom removed in first object
+root.PAEP306_Arizona.hiddenCustom removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.canBuyCustom removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.hiddenCustom removed in first object
+root.PAEP444_Marblehead_1924.canBuyCustom removed in first object
+root.PAEP444_Marblehead_1924.hiddenCustom removed in first object
+root.PJAF003_Nikajima_A4N.outOfAttackPlanePenalty removed in first object
+root.PJAF003_Nikajima_A4N.outOfAttackTime removed in first object
+root.PAAB010_Douglas_DT_float.outOfAttackPlanePenalty removed in first object
+root.PAAB010_Douglas_DT_float.outOfAttackTime removed in first object
+root.PAAB009_Douglas_AD1.bombingAttackPointDistance changed in second object (was 46.0, is 36.0)
+root.PAAB009_Douglas_AD1.bombingStartPointDistance changed in second object (was 59.3, is 50.7)
+root.PAAB009_Douglas_AD1.outOfAttackPlanePenalty removed in first object
+root.PAAB009_Douglas_AD1.outOfAttackTime removed in first object
+root.PJAB005_Mitsubishi_1MT.outOfAttackPlanePenalty removed in first object
+root.PJAB005_Mitsubishi_1MT.outOfAttackTime removed in first object
+root.PXSD001_VanHellsink.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PREP508_Pr_20i_Tashkent.canBuyCustom removed in first object
+root.PREP508_Pr_20i_Tashkent.hiddenCustom removed in first object
+root.PCEE018_Flag_Val_Player.canBuyCustom removed in first object
+root.PCEE018_Flag_Val_Player.hiddenCustom removed in first object
+root.PAAF009_Grumman_F4F.outOfAttackPlanePenalty removed in first object
+root.PAAF009_Grumman_F4F.outOfAttackTime removed in first object
+root.PGEP406_Nurnberg.canBuyCustom removed in first object
+root.PGEP406_Nurnberg.hiddenCustom removed in first object
+root.PCEE069_Fire_Rooster.canBuyCustom removed in first object
+root.PCEE069_Fire_Rooster.hiddenCustom removed in first object
+root.PCH051_STPartisipant.enabledCustom removed in first object
+root.PFEP306_Dunkerque_1940.canBuyCustom removed in first object
+root.PFEP306_Dunkerque_1940.hiddenCustom removed in first object
+root.PRSD107_Pr_35_Udaloy.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD107_Pr_35_Udaloy.ShipModernization.ModernizationSlot2.mods[4] removed in first object
+root.PRSD107_Pr_35_Udaloy.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD107_Pr_35_Udaloy.groupCustom.PT removed in second object
+root.PCH065_LootboxOpening2.enabledCustom removed in first object
+root.PRSD109_Pr_48_Kiev.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD109_Pr_48_Kiev.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRPA051_HE_LGD.alphaDamage changed in second object (was 1600.0, is 1900.0)
+root.PGAF005_FW190A8.outOfAttackPlanePenalty removed in first object
+root.PGAF005_FW190A8.outOfAttackTime removed in first object
+root.PCH011_InstantKill.enabledCustom removed in first object
+root.PAAD009_Douglas_XTB2D.outOfAttackPlanePenalty removed in first object
+root.PAAD009_Douglas_XTB2D.outOfAttackTime removed in first object
+root.PGSB109_Friedrich_der_Grosse.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB109_Friedrich_der_Grosse.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJGM097_356mm45 removed in second object
+root.PJSA012_Zuikaku_1944.A_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA012_Zuikaku_1944.A1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA012_Zuikaku_1944.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA012_Zuikaku_1944.A2U_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA012_Zuikaku_1944.A2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA012_Zuikaku_1944.C_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PREP407_Schors.canBuyCustom removed in first object
+root.PREP407_Schors.hiddenCustom removed in first object
+root.PGSC001_Hermelin_1940.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC001_Hermelin_1940.A_Artillery.maxDist changed in second object (was 7790.0, is 8960.0)
+root.PASD029_Sims_1941.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC110_Minotaur.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE064_Flag_Volunteer_3.canBuyCustom removed in first object
+root.PCEE064_Flag_Volunteer_3.hiddenCustom removed in first object
+root.PJSC013_Kuma_1938.AB1_Artillery.maxDist changed in second object (was 11235.0, is 11670.0)
+root.PJSC013_Kuma_1938.A_Hull_1920.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC013_Kuma_1938.B_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE041_Player_Gathering.canBuyCustom removed in first object
+root.PCEE041_Player_Gathering.hiddenCustom removed in first object
+root.PJSC009_Mogami_1935.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC009_Mogami_1935.C_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC009_Mogami_1935.A_Hull_1935.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH075_F_ToTheBottom.enabledCustom removed in first object
+root.PRAS004_VOUGHT_OS2U.outOfAttackPlanePenalty removed in first object
+root.PRAS004_VOUGHT_OS2U.outOfAttackTime removed in first object
+root.PCQC004_NewYear2017EliteCampaign.enabledCustom removed in first object
+root.PRSC002_Diana_1905.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE013_SeasonFlag03.canBuyCustom removed in first object
+root.PCEE013_SeasonFlag03.hiddenCustom removed in first object
+root.PASA013_Essex_1945.A_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA013_Essex_1945.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA013_Essex_1945.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA013_Essex_1945.AB3_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA013_Essex_1945.AB2_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA010_Ranger_1944.A_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA010_Ranger_1944.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA010_Ranger_1944.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA010_Ranger_1944.AB3_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA010_Ranger_1944.AB2_FlightControl.isGroundAttackEnabled removed in first object
+root.PXSC001_Dr_Frankenship.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAS012_Vought_OS2U_2.outOfAttackPlanePenalty removed in first object
+root.PAAS012_Vought_OS2U_2.outOfAttackTime removed in first object
+root.PCEF008_IY_SignalFlag.canBuyCustom removed in first object
+root.PCEF008_IY_SignalFlag.hiddenCustom removed in first object
+root.PCEE046_Pirate_Day_flag.canBuyCustom removed in first object
+root.PCEE046_Pirate_Day_flag.hiddenCustom removed in first object
+root.PAGM059_16in45_Mk1 removed in second object
+root.PBSD503_Campbeltown_1941.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP418_Tone.canBuyCustom removed in first object
+root.PJEP418_Tone.hiddenCustom removed in first object
+root.PCH064_LootboxOpening1.enabledCustom removed in first object
+root.PJSC008_Myoko_1945.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC008_Myoko_1945.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC008_Myoko_1945.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEP115_Permo_Upgr_5_lvl.canBuyCustom removed in first object
+root.PCEP115_Permo_Upgr_5_lvl.hiddenCustom removed in first object
+root.PCH059_F_RunForest.enabledCustom removed in first object
+root.PCEC001_Camo_1.canBuyCustom removed in first object
+root.PCEC001_Camo_1.hiddenCustom removed in first object
+root.PCH007_ClearSky.enabledCustom removed in first object
+root.PCH033_EarningMoney3.enabledCustom removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC507_Indianapolis_1945.A_Directors.HP_AD_12.gunNode changed in second object (was , is HP_AGM_3)
+root.PASC507_Indianapolis_1945.A_Directors.HP_AD_1.gunNode changed in second object (was , is HP_AGM_1)
+root.PJSD006_Hatsuharu_1945.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD006_Hatsuharu_1945.B1_127_50.maxDist changed in second object (was 8436.0, is 9850.0)
+root.PJSD006_Hatsuharu_1945.A1_127_50.maxDist changed in second object (was 8436.0, is 9850.0)
+root.PJSD006_Hatsuharu_1945.A_Hull_1935.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE039_Gamescom_2016.canBuyCustom removed in first object
+root.PCEE039_Gamescom_2016.hiddenCustom removed in first object
+root.PAAF030_F4F_4.outOfAttackPlanePenalty removed in first object
+root.PAAF030_F4F_4.outOfAttackTime removed in first object
+root.PRSD104_Izyaslav.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD104_Izyaslav.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAD005_Douglas_XSB2D.outOfAttackPlanePenalty removed in first object
+root.PAAD005_Douglas_XSB2D.outOfAttackTime removed in first object
+root.PREP406_Molotov.canBuyCustom removed in first object
+root.PREP406_Molotov.hiddenCustom removed in first object
+root.PJSC005_Furutaka_1926.AB1_Artillery.maxDist changed in second object (was 11790.0, is 12620.0)
+root.PJSC005_Furutaka_1926.AB2_Artillery.maxDist changed in second object (was 11790.0, is 12620.0)
+root.PJSC005_Furutaka_1926.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC005_Furutaka_1926.A_Hull_1929.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC005_Furutaka_1926.C2_Artillery.maxDist changed in second object (was 11790.0, is 12620.0)
+root.PJSC005_Furutaka_1926.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC005_Furutaka_1926.C1_Artillery.maxDist changed in second object (was 11790.0, is 12620.0)
+root.PRSC003_Murmansk_1944.Hull_A.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD025_True_Kamikaze.ArtilleryDefault.maxDist changed in second object (was 7620.0, is 8680.0)
+root.PJSD025_True_Kamikaze.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC109_Roon.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC109_Roon.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH024_Destroyers.enabledCustom removed in first object
+root.PAAF018_Grumman_F4F_5.outOfAttackPlanePenalty removed in first object
+root.PAAF018_Grumman_F4F_5.outOfAttackTime removed in first object
+root.PRSC105_Kirov.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC105_Kirov.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF031_FM_2.outOfAttackPlanePenalty removed in first object
+root.PAAF031_FM_2.outOfAttackTime removed in first object
+root.PRSD205_Podvoisky_pr_1929.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD205_Podvoisky_pr_1929.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD205_Podvoisky_pr_1929.groupCustom.PT removed in second object
+root.PJAS005_Aichi_E13A1b.outOfAttackPlanePenalty removed in first object
+root.PJAS005_Aichi_E13A1b.outOfAttackTime removed in first object
+root.PGSB104_Kaiser.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB104_Kaiser.A1_Artillery.maxDist changed in second object (was 13308.0, is 14540.0)
+root.PGSB104_Kaiser.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB104_Kaiser.B1_Artillery.maxDist changed in second object (was 13308.0, is 14540.0)
+root.PCH066_LootboxOpening3.enabledCustom removed in first object
+root.PRSC001_Avrora_1917.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Cruiser_3 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Cruiser_3 removed in second object
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Battleship_3 removed in second object
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Battleship_6 removed in second object
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Battleship_7 removed in second object
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Battleship_4 removed in second object
+root.PCY005_Spotter.PJY003_Yokosuka_K5Y2_Battleship_5 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Cruiser_3 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Battleship_3 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Battleship_5 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Battleship_4 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Battleship_7 removed in second object
+root.PCY005_Spotter.PAY004_Curtiss_SO3C_Battleship_6 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Battleship_5 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Battleship_4 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Battleship_7 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Battleship_6 removed in second object
+root.PCY005_Spotter.PAY002_Curtiss_SOC_Battleship_3 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Cruiser_3 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Battleship_3 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Battleship_4 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Battleship_5 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Battleship_6 removed in second object
+root.PCY005_Spotter.PJY002_Yokosuka_E1Y_Battleship_7 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Cruiser_3 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Battleship_6 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Battleship_5 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Battleship_4 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Battleship_7 removed in second object
+root.PCY005_Spotter.PAY007_O2U_Battleship_3 removed in second object
+root.PCY005_Spotter.PIY001_IMAM_RO43_Cruiser_3 removed in first object
+root.PCY005_Spotter.PFY009_Breguet790_Cruiser_3 removed in first object
+root.PCY005_Spotter.PFY001_Loire130_Cruiser_3 removed in first object
+root.PCY005_Spotter.canBuyCustom removed in first object
+root.PCH060_F_FireShow.enabledCustom removed in first object
+root.PRSD108_Pr_20i_Tashkent.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD108_Pr_20i_Tashkent.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC044_Marblehead_1924.ArtilleryDefault.maxDist changed in second object (was 12650.0, is 13880.0)
+root.PASC044_Marblehead_1924.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE075_SeasonFlag06.canBuyCustom removed in first object
+root.PCEE075_SeasonFlag06.hiddenCustom removed in first object
+root.PAEP403_Albany_1898.canBuyCustom removed in first object
+root.PAEP403_Albany_1898.hiddenCustom removed in first object
+root.PCEE036_Taiwan_Navy.canBuyCustom removed in first object
+root.PCEE036_Taiwan_Navy.hiddenCustom removed in first object
+root.PAAB004_Martin_T3M_float.outOfAttackPlanePenalty removed in first object
+root.PAAB004_Martin_T3M_float.outOfAttackTime removed in first object
+root.PGSC103_Kolberg.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC103_Kolberg.ArtilleryDefault.maxDist changed in second object (was 8272.0, is 10080.0)
+root.PGSC103_Kolberg.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB799_Kirishima.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PREP405_KrasniKrym.canBuyCustom removed in first object
+root.PREP405_KrasniKrym.hiddenCustom removed in first object
+root.PCEE024_MGT_20.canBuyCustom removed in first object
+root.PCEE024_MGT_20.hiddenCustom removed in first object
+root.PCEE027_Sea_Lion.canBuyCustom removed in first object
+root.PCEE027_Sea_Lion.hiddenCustom removed in first object
+root.PAAS010_Curtiss_SC1.outOfAttackPlanePenalty removed in first object
+root.PAAS010_Curtiss_SC1.outOfAttackTime removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.canBuyCustom removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.hiddenCustom removed in first object
+root.PCEE025_Military_Month_Contributor_Flag.canBuyCustom removed in first object
+root.PCEE025_Military_Month_Contributor_Flag.hiddenCustom removed in first object
+root.PCH045_Researching2.enabledCustom removed in first object
+root.PJEP111_Hiryu_1942.canBuyCustom removed in first object
+root.PJEP111_Hiryu_1942.hiddenCustom removed in first object
+root.PAAD012_Douglas_SBD3.outOfAttackPlanePenalty removed in first object
+root.PAAD012_Douglas_SBD3.outOfAttackTime removed in first object
+root.PJAB010_Nakajima_C6N5_1b.outOfAttackPlanePenalty removed in first object
+root.PJAB010_Nakajima_C6N5_1b.outOfAttackTime removed in first object
+root.PCY011_AirDefenseDispPremium.canBuyCustom removed in first object
+root.PCEC018_Restless_Fire.canBuyCustom removed in first object
+root.PCEC018_Restless_Fire.hiddenCustom removed in first object
+root.PCH026_EarningAchievement2.enabledCustom removed in first object
+root.PAEP107_Indianapolis.canBuyCustom removed in first object
+root.PAEP107_Indianapolis.hiddenCustom removed in first object
+root.PCEF016_NE7_SignalFlag.canBuyCustom removed in first object
+root.PCEF016_NE7_SignalFlag.hiddenCustom removed in first object
+root.PJAS006_Aichi_E16A1.outOfAttackPlanePenalty removed in first object
+root.PJAS006_Aichi_E16A1.outOfAttackTime removed in first object
+root.PCEE072_Valentines.canBuyCustom removed in first object
+root.PCEE072_Valentines.hiddenCustom removed in first object
+root.PCH029_Winning2.enabledCustom removed in first object
+root.PAEP521_Fletcher_1943.canBuyCustom removed in first object
+root.PAEP521_Fletcher_1943.hiddenCustom removed in first object
+root.PCEP139_Permo_Prem_9_lvl.canBuyCustom removed in first object
+root.PCEP139_Permo_Prem_9_lvl.hiddenCustom removed in first object
+root.PAAF021_F4B_float.outOfAttackPlanePenalty removed in first object
+root.PAAF021_F4B_float.outOfAttackTime removed in first object
+root.PCQC002_CampaignSB.enabledCustom removed in first object
+root.PJSD007_Fubuki_1944.B2_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSD007_Fubuki_1944.A1_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSD007_Fubuki_1944.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD007_Fubuki_1944.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD007_Fubuki_1944.C2_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSD007_Fubuki_1944.C1_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSD007_Fubuki_1944.B1_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSD007_Fubuki_1944.C_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAF006_Mitsubishi_A7M1.outOfAttackPlanePenalty removed in first object
+root.PJAF006_Mitsubishi_A7M1.outOfAttackTime removed in first object
+root.PRSD207_Minsk.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD207_Minsk.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD207_Minsk.groupCustom.PT removed in second object
+root.PAEP502_Smith.canBuyCustom removed in first object
+root.PAEP502_Smith.hiddenCustom removed in first object
+root.PJEP514_Tachibana_1912_Asus.canBuyCustom removed in first object
+root.PJEP514_Tachibana_1912_Asus.hiddenCustom removed in first object
+root.PAAF015_Curtiss_F6C_float.outOfAttackPlanePenalty removed in first object
+root.PAAF015_Curtiss_F6C_float.outOfAttackTime removed in first object
+root.PJSD012_Shimakaze_1943.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD012_Shimakaze_1943.AB_127_50.maxDist changed in second object (was 9810.0, is 11370.0)
+root.PCH071_Campaign1CompletedExcellent.enabledCustom removed in first object
+root.PAAF022_F3F_float.outOfAttackPlanePenalty removed in first object
+root.PAAF022_F3F_float.outOfAttackTime removed in first object
+root.PAEP308_New_York_1934.canBuyCustom removed in first object
+root.PAEP308_New_York_1934.hiddenCustom removed in first object
+root.PASC001_Erie_1936.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC017_Baltimore_1944.B_Hull_1948.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC017_Baltimore_1944.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB503_Koenig_Albert.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB503_Koenig_Albert.A1_Artillery.maxDist changed in second object (was 10840.0, is 11860.0)
+root.PGSC104_Karlsruhe.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC104_Karlsruhe.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB509_Missouri.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC707_Ashigara.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC707_Ashigara.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC707_Ashigara.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF015_ZH_SignalFlag.canBuyCustom removed in first object
+root.PCEF015_ZH_SignalFlag.hiddenCustom removed in first object
+root.PAAF010_F8F_Bearcat.outOfAttackPlanePenalty removed in first object
+root.PAAF010_F8F_Bearcat.outOfAttackTime removed in first object
+root.PCEE011_SeasonFlag01.canBuyCustom removed in first object
+root.PCEE011_SeasonFlag01.hiddenCustom removed in first object
+root.PCEE043_Restless_Fire.canBuyCustom removed in first object
+root.PCEE043_Restless_Fire.hiddenCustom removed in first object
+root.PJAF018_Mitsubishi_A5M4.outOfAttackPlanePenalty removed in first object
+root.PJAF018_Mitsubishi_A5M4.outOfAttackTime removed in first object
+root.PCEP129_Permo_Upgr_9_lvl.canBuyCustom removed in first object
+root.PCEP129_Permo_Upgr_9_lvl.hiddenCustom removed in first object
+root.PCEP302_Permo_NY_2.canBuyCustom removed in first object
+root.PCEP302_Permo_NY_2.hiddenCustom removed in first object
+root.PCY010_RegenCrewPremium.canBuyCustom removed in first object
+root.PJSD024_Wakatake_1923.A_Hull_1923.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD024_Wakatake_1923.B_Hull_1925.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAF002_Kawanishi_N1K1.outOfAttackPlanePenalty removed in first object
+root.PJAF002_Kawanishi_N1K1.outOfAttackTime removed in first object
+root.PBSB002_Warspite_1941.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB508_Alabama.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB508_Alabama.groupCustom.CN removed in first object
+root.PJSA011_Hiryu_1942.ABC1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA011_Hiryu_1942.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA011_Hiryu_1942.ABC2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA011_Hiryu_1942.ABC2U_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA011_Hiryu_1942.C_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAB003_Aichi_B7A.outOfAttackPlanePenalty removed in first object
+root.PJAB003_Aichi_B7A.outOfAttackTime removed in first object
+root.PJEP403_Katori.canBuyCustom removed in first object
+root.PJEP403_Katori.hiddenCustom removed in first object
+root.PJEP313_Amagi_1942.canBuyCustom removed in first object
+root.PJEP313_Amagi_1942.hiddenCustom removed in first object
+root.PBAF018_SEA_G.outOfAttackPlanePenalty removed in first object
+root.PBAF018_SEA_G.outOfAttackTime removed in first object
+root.PGAS006_FW62.outOfAttackPlanePenalty removed in first object
+root.PGAS006_FW62.outOfAttackTime removed in first object
+root.PAAB013_A2D_Skyshark.outOfAttackPlanePenalty removed in first object
+root.PAAB013_A2D_Skyshark.outOfAttackTime removed in first object
+root.PAAB005_Martin_T4M.bombingAttackPointDistance changed in second object (was 47.0, is 32.0)
+root.PAAB005_Martin_T4M.bombingStartPointDistance changed in second object (was 60.2, is 45.2)
+root.PAAB005_Martin_T4M.outOfAttackPlanePenalty removed in first object
+root.PAAB005_Martin_T4M.outOfAttackTime removed in first object
+root.PJEP504_Minekadze_1920.canBuyCustom removed in first object
+root.PJEP504_Minekadze_1920.hiddenCustom removed in first object
+root.PJAF019_Mitsubishi_A6M5_C.outOfAttackPlanePenalty removed in first object
+root.PJAF019_Mitsubishi_A6M5_C.outOfAttackTime removed in first object
+root.PGSB107_Gneisenau.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB107_Gneisenau.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB103_Nassau.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB103_Nassau.AB1_Artillery.maxDist changed in second object (was 9208.0, is 10820.0)
+root.PGSB103_Nassau.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC108_Edinburgh.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC108_Edinburgh.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEC012_Camo_Basketball_Tile_4.canBuyCustom removed in first object
+root.PCEC012_Camo_Basketball_Tile_4.hiddenCustom removed in first object
+root.PASX001_Cimarron.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE029_Songkran.canBuyCustom removed in first object
+root.PCEE029_Songkran.hiddenCustom removed in first object
+root.PCH009_DecisiveContributuion.enabledCustom removed in first object
+root.PAAF017_Boeing_F4B.outOfAttackPlanePenalty removed in first object
+root.PAAF017_Boeing_F4B.outOfAttackTime removed in first object
+root.PCEE034_Scharnhorst.canBuyCustom removed in first object
+root.PCEE034_Scharnhorst.hiddenCustom removed in first object
+root.PJAS010_Kawanishi_E7k.outOfAttackPlanePenalty removed in first object
+root.PJAS010_Kawanishi_E7k.outOfAttackTime removed in first object
+root.PJSD107_Akatsuki.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD107_Akatsuki.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PREP402_Diana_1905.canBuyCustom removed in first object
+root.PREP402_Diana_1905.hiddenCustom removed in first object
+root.PAAF902_XP54_HALLOWEEN.outOfAttackPlanePenalty removed in first object
+root.PAAF902_XP54_HALLOWEEN.outOfAttackTime removed in first object
+root.PCEE998_SecretSanta_2.canBuyCustom removed in first object
+root.PCEE998_SecretSanta_2.hiddenCustom removed in first object
+root.PCEE026_Sea_Dog.canBuyCustom removed in first object
+root.PCEE026_Sea_Dog.hiddenCustom removed in first object
+root.PRAS003_KR_1.outOfAttackPlanePenalty removed in first object
+root.PRAS003_KR_1.outOfAttackTime removed in first object
+root.PGSD108_Z_23.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD108_Z_23.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB706_Kirishima.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB706_Kirishima.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAD901_X5FU_HALLOWEEN.outOfAttackPlanePenalty removed in first object
+root.PAAD901_X5FU_HALLOWEEN.outOfAttackTime removed in first object
+root.PJAB006_MT1_Float.outOfAttackPlanePenalty removed in first object
+root.PJAB006_MT1_Float.outOfAttackTime removed in first object
+root.PCH005_Support.enabledCustom removed in first object
+root.PJAD008_Wakusei.outOfAttackPlanePenalty removed in first object
+root.PJAD008_Wakusei.outOfAttackTime removed in first object
+root.PCEE065_Shipsmas.canBuyCustom removed in first object
+root.PCEE065_Shipsmas.hiddenCustom removed in first object
+root.PJSC026_Iwaki_1944.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB006_New_York_1934.B1_Artillery.maxDist changed in second object (was 14162.0, is 16400.0)
+root.PASB006_New_York_1934.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB006_New_York_1934.B_Hull_1934.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB006_New_York_1934.C1_Artillery.maxDist changed in second object (was 14162.0, is 16400.0)
+root.PASA004_Langley_1929.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA004_Langley_1929.A_Hull_1929.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA004_Langley_1929.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PCH063_F_KingOfParty.enabledCustom removed in first object
+root.PAAS005_Vought_UO1.outOfAttackPlanePenalty removed in first object
+root.PAAS005_Vought_UO1.outOfAttackTime removed in first object
+root.PCEE044_Prinz_Eugen.canBuyCustom removed in first object
+root.PCEE044_Prinz_Eugen.hiddenCustom removed in first object
+root.PCY017_TorpedoReloader.canBuyCustom removed in first object
+root.PJSC727_Blue_Dragon.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC727_Blue_Dragon.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC727_Blue_Dragon.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE057_Coinsup_flag.canBuyCustom removed in first object
+root.PCEE057_Coinsup_flag.hiddenCustom removed in first object
+root.PGSC508_Prinz_Eugen.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAD002_D3A1.outOfAttackPlanePenalty removed in first object
+root.PJAD002_D3A1.outOfAttackTime removed in first object
+root.PJEP426_Iwaki_1944.canBuyCustom removed in first object
+root.PJEP426_Iwaki_1944.hiddenCustom removed in first object
+root.PJSC007_Aoba_1943.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC007_Aoba_1943.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF011_IB3_SignalFlag.canBuyCustom removed in first object
+root.PCEF011_IB3_SignalFlag.hiddenCustom removed in first object
+root.PCH008_BrothersInArms.enabledCustom removed in first object
+root.PCEE061_Graf_Spee.canBuyCustom removed in first object
+root.PCEE061_Graf_Spee.hiddenCustom removed in first object
+root.PGEP303_Koenig_Albert.canBuyCustom removed in first object
+root.PGEP303_Koenig_Albert.hiddenCustom removed in first object
+root.PAEP529_Sims_1941.canBuyCustom removed in first object
+root.PAEP529_Sims_1941.hiddenCustom removed in first object
+root.PASC907_Des_Moines_1948_Halloween removed in second object
+root.PAEP110_Ranger_1944.canBuyCustom removed in first object
+root.PAEP110_Ranger_1944.hiddenCustom removed in first object
+root.PCH017_Fireproof.enabledCustom removed in first object
+root.PCY002_RegenCrew.canBuyCustom removed in first object
+root.PCEC008_Camo_Eco_Tile.canBuyCustom removed in first object
+root.PCEC008_Camo_Eco_Tile.hiddenCustom removed in first object
+root.PXSB003_Zeekasa.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP525_True_Kamikaze.canBuyCustom removed in first object
+root.PJEP525_True_Kamikaze.hiddenCustom removed in first object
+root.PCH053_WGSPbStaff.enabledCustom removed in first object
+root.PCEE050_Leningrad.canBuyCustom removed in first object
+root.PCEE050_Leningrad.hiddenCustom removed in first object
+root.PJAF010_Nakajima_J8N1.outOfAttackPlanePenalty removed in first object
+root.PJAF010_Nakajima_J8N1.outOfAttackTime removed in first object
+root.PCEE047_WaitForMe.canBuyCustom removed in first object
+root.PCEE047_WaitForMe.hiddenCustom removed in first object
+root.PAAF512_Vought_F4U_S.outOfAttackPlanePenalty removed in first object
+root.PAAF512_Vought_F4U_S.outOfAttackTime removed in first object
+root.PRSD209_Pr_35 removed in second object
+root.PCEP119_Permo_Upgr_9_lvl.canBuyCustom removed in first object
+root.PCEP119_Permo_Upgr_9_lvl.hiddenCustom removed in first object
+root.PCEE038_Olympics_flag.canBuyCustom removed in first object
+root.PCEE038_Olympics_flag.hiddenCustom removed in first object
+root.PASC003_Albany_1898.ArtilleryDefault.maxDist changed in second object (was 8470.0, is 9170.0)
+root.PASC003_Albany_1898.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY014_SmokeGeneratorPremium.canBuyCustom removed in first object
+root.PCEC004_Camo_XP_Boost.canBuyCustom removed in first object
+root.PCEC004_Camo_XP_Boost.hiddenCustom removed in first object
+root.PJAS008_Nakajima_E4N.outOfAttackPlanePenalty removed in first object
+root.PJAS008_Nakajima_E4N.outOfAttackTime removed in first object
+root.PRAS009_KOR_2_VK_105.outOfAttackPlanePenalty removed in first object
+root.PRAS009_KOR_2_VK_105.outOfAttackTime removed in first object
+root.PCEE019_Flag_AT.canBuyCustom removed in first object
+root.PCEE019_Flag_AT.hiddenCustom removed in first object
+root.PJAF007_Mitsubishi_A7M2.outOfAttackPlanePenalty removed in first object
+root.PJAF007_Mitsubishi_A7M2.outOfAttackTime removed in first object
+root.PCEE058_WG_Fest.canBuyCustom removed in first object
+root.PCEE058_WG_Fest.hiddenCustom removed in first object
+root.PCH006_Withering.enabledCustom removed in first object
+root.PCH002_OneSoldierInTheField.enabledCustom removed in first object
+root.PCEE028_SeasonFlag04.canBuyCustom removed in first object
+root.PCEE028_SeasonFlag04.hiddenCustom removed in first object
+root.PJSC004_Yubari_1944.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY007_SpeedBooster.FR_CR removed in first object
+root.PCY007_SpeedBooster.canBuyCustom removed in first object
+root.PJEP404_Yubari_1944.canBuyCustom removed in first object
+root.PJEP404_Yubari_1944.hiddenCustom removed in first object
+root.PASA905_Essex_1945_Halloween removed in second object
+root.PRSC101_Orlan.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEP108_Permo_Prem_High_lvl_2.canBuyCustom removed in first object
+root.PCEP108_Permo_Prem_High_lvl_2.hiddenCustom removed in first object
+root.PJSB006_Fuso_1943.A_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB006_Fuso_1943.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRAF014_YAK_9U_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF014_YAK_9U_FLOAT.outOfAttackTime removed in first object
+root.PJAF014_Mitsubishi_1MF.outOfAttackPlanePenalty removed in first object
+root.PJAF014_Mitsubishi_1MF.outOfAttackTime removed in first object
+root.PCEC003_Camo_Halloween.canBuyCustom removed in first object
+root.PCEC003_Camo_Halloween.hiddenCustom removed in first object
+root.PCH073_CampaignSBCompletedExcellent.enabledCustom removed in first object
+root.PAEP414_New_Orlean_1944.canBuyCustom removed in first object
+root.PAEP414_New_Orlean_1944.hiddenCustom removed in first object
+root.PCH062_F_PartyAnimal.enabledCustom removed in first object
+root.PJSD208_Kagero.A_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD208_Kagero.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP517_Kamikaze_1930.canBuyCustom removed in first object
+root.PJEP517_Kamikaze_1930.hiddenCustom removed in first object
+root.PRSC103_Bogatyr.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC103_Bogatyr.A1_Artillery.maxDist changed in second object (was 10335.0, is 10340.0)
+root.PRSC103_Bogatyr.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC103_Bogatyr.B2_Artillery.maxDist changed in second object (was 10335.0, is 10340.0)
+root.PRSC103_Bogatyr.B1_Artillery.maxDist changed in second object (was 10335.0, is 10340.0)
+root.PCH038_ScienceOfWinning5.enabledCustom removed in first object
+root.PCEF005_SM_SignalFlag.canBuyCustom removed in first object
+root.PCEF005_SM_SignalFlag.hiddenCustom removed in first object
+root.PCEP128_Permo_Upgr_8_lvl.canBuyCustom removed in first object
+root.PCEP128_Permo_Upgr_8_lvl.hiddenCustom removed in first object
+root.PBSC103_Caledon.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC103_Caledon.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA012_Lexington_1944.B2_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA012_Lexington_1944.B3_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA012_Lexington_1944.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA012_Lexington_1944.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA012_Lexington_1944.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PAEP407_Cleveland_1945.canBuyCustom removed in first object
+root.PAEP407_Cleveland_1945.hiddenCustom removed in first object
+root.PGSB108_Bismarck.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB108_Bismarck.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH055_F_WrongSow.enabledCustom removed in first object
+root.PASA006_Independence_1945.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA006_Independence_1945.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA006_Independence_1945.AB1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA006_Independence_1945.AB3_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA006_Independence_1945.AB2_FlightControl.isGroundAttackEnabled removed in first object
+root.PASX904_Cimarron.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEC017_Camo_wows_birthday_tile.canBuyCustom removed in first object
+root.PCEC017_Camo_wows_birthday_tile.hiddenCustom removed in first object
+root.PJSA017_Hakuryu_1942.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA017_Hakuryu_1942.A1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA017_Hakuryu_1942.A2U_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA017_Hakuryu_1942.A2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJAF011_Mitsubishi_A6M5.outOfAttackPlanePenalty removed in first object
+root.PJAF011_Mitsubishi_A6M5.outOfAttackTime removed in first object
+root.PGEP407_Yorck.canBuyCustom removed in first object
+root.PGEP407_Yorck.hiddenCustom removed in first object
+root.PJSD504_Minekaze removed in second object
+root.PJSD108_Akizuki.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD108_Akizuki.AB1_Artillery.maxDist changed in second object (was 9236.0, is 11330.0)
+root.PJSD108_Akizuki.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC012_Ibuki_1944.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC012_Ibuki_1944.A_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP408_Myoko_1945.canBuyCustom removed in first object
+root.PJEP408_Myoko_1945.hiddenCustom removed in first object
+root.PCEE053_Votes_flag.canBuyCustom removed in first object
+root.PCEE053_Votes_flag.hiddenCustom removed in first object
+root.PJEP501_Tachibana_1912.canBuyCustom removed in first object
+root.PJEP501_Tachibana_1912.hiddenCustom removed in first object
+root.PJSC014_Kitakami_1945.ArtilleryDefault.maxDist changed in second object (was 13840.0, is 13560.0)
+root.PJSC014_Kitakami_1945.HullDefault.visibilityFactor changed in second object (was 11.34, is 10.44)
+root.PJSC014_Kitakami_1945.HullDefault.visibilityFactorByPlane changed in second object (was 7.44, is 6.69)
+root.PJSC014_Kitakami_1945.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY015_SpeedBoosterPremium.FR_CR_PREM removed in first object
+root.PCY015_SpeedBoosterPremium.canBuyCustom removed in first object
+root.PJAB007_R2Y1_Keiun.outOfAttackPlanePenalty removed in first object
+root.PJAB007_R2Y1_Keiun.outOfAttackTime removed in first object
+root.PCEP107_Permo_Prem_High_lvl.canBuyCustom removed in first object
+root.PCEP107_Permo_Prem_High_lvl.hiddenCustom removed in first object
+root.PAEP313_Arkansas_1912.canBuyCustom removed in first object
+root.PAEP313_Arkansas_1912.hiddenCustom removed in first object
+root.PCH019_Detonated.enabledCustom removed in first object
+root.PCEP117_Permo_Upgr_7_lvl.canBuyCustom removed in first object
+root.PCEP117_Permo_Upgr_7_lvl.hiddenCustom removed in first object
+root.PCY019_RLSSearch.Black.numConsumables changed in second object (was -1, is 2)
+root.PCY019_RLSSearch.canBuyCustom removed in first object
+root.PCEP109_Permo_Prem_9_lvl.canBuyCustom removed in first object
+root.PCEP109_Permo_Prem_9_lvl.hiddenCustom removed in first object
+root.PAAB509_Douglas_AD1_S.outOfAttackPlanePenalty removed in first object
+root.PAAB509_Douglas_AD1_S.outOfAttackTime removed in first object
+root.PXSB002_Rasputin.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEP118_Permo_Upgr_8_lvl.canBuyCustom removed in first object
+root.PCEP118_Permo_Upgr_8_lvl.hiddenCustom removed in first object
+root.PRSC503_Oleg.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD008_Benson_1945.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD008_Benson_1945.A_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD008_Benson_1945.C_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGEP409_Roon.canBuyCustom removed in first object
+root.PGEP409_Roon.hiddenCustom removed in first object
+root.PJSB707_Haruna.B_Hull_1941.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB707_Haruna.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC014_New_Orlean_1944.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC014_New_Orlean_1944.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCBC004.artillery.HP_GUN_2.deadMesh changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1_dead.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1_dead.model)
+root.PCBC004.artillery.HP_GUN_2.id changed in second object (was 4232701936, is 4130990064)
+root.PCBC004.artillery.HP_GUN_2.index changed in second object (was PAGM059, is PAGM156)
+root.PCBC004.artillery.HP_GUN_2.ammoList[0] changed in second object (was PAPA060_406mm_HE_HE_Mk_2, is PAPA010_Shell_406mm_HE_HC_Mk_13)
+root.PCBC004.artillery.HP_GUN_2.ammoList[1] changed in second object (was PAPA009_Shell_406mm_AP_AP_Mk_3, is PAPA059_Shell_406mm_AP_AP_Mk_5)
+root.PCBC004.artillery.HP_GUN_2.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PCBC004.artillery.HP_GUN_2.name changed in second object (was PAGM059_16in45_Mk1, is PAGM156_16in45_Mk1)
+root.PCBC004.artillery.HP_GUN_2.model changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1.model)
+root.PCBC004.artillery.HP_GUN_3.deadMesh changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1_dead.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1_dead.model)
+root.PCBC004.artillery.HP_GUN_3.id changed in second object (was 4232701936, is 4130990064)
+root.PCBC004.artillery.HP_GUN_3.index changed in second object (was PAGM059, is PAGM156)
+root.PCBC004.artillery.HP_GUN_3.ammoList[0] changed in second object (was PAPA060_406mm_HE_HE_Mk_2, is PAPA010_Shell_406mm_HE_HC_Mk_13)
+root.PCBC004.artillery.HP_GUN_3.ammoList[1] changed in second object (was PAPA009_Shell_406mm_AP_AP_Mk_3, is PAPA059_Shell_406mm_AP_AP_Mk_5)
+root.PCBC004.artillery.HP_GUN_3.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PCBC004.artillery.HP_GUN_3.name changed in second object (was PAGM059_16in45_Mk1, is PAGM156_16in45_Mk1)
+root.PCBC004.artillery.HP_GUN_3.model changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1.model)
+root.PCBC004.artillery.HP_GUN_1.deadMesh changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1_dead.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1_dead.model)
+root.PCBC004.artillery.HP_GUN_1.id changed in second object (was 4232701936, is 4130990064)
+root.PCBC004.artillery.HP_GUN_1.index changed in second object (was PAGM059, is PAGM156)
+root.PCBC004.artillery.HP_GUN_1.ammoList[0] changed in second object (was PAPA060_406mm_HE_HE_Mk_2, is PAPA010_Shell_406mm_HE_HC_Mk_13)
+root.PCBC004.artillery.HP_GUN_1.ammoList[1] changed in second object (was PAPA009_Shell_406mm_AP_AP_Mk_3, is PAPA059_Shell_406mm_AP_AP_Mk_5)
+root.PCBC004.artillery.HP_GUN_1.armor.65635 changed in second object (was 100.0, is 65.0)
+root.PCBC004.artillery.HP_GUN_1.name changed in second object (was PAGM059_16in45_Mk1, is PAGM156_16in45_Mk1)
+root.PCBC004.artillery.HP_GUN_1.model changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1.model)
+root.PCEE049_Jolly_Roger_3.canBuyCustom removed in first object
+root.PCEE049_Jolly_Roger_3.hiddenCustom removed in first object
+root.PGAF906_TA152C_HIDE.outOfAttackPlanePenalty removed in first object
+root.PGAF906_TA152C_HIDE.outOfAttackTime removed in first object
+root.PCEC005_Camo_NY_3.canBuyCustom removed in first object
+root.PCEC005_Camo_NY_3.hiddenCustom removed in first object
+root.PGSC506_Admiral_Graf_Spee.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE020_Flag_CBW.canBuyCustom removed in first object
+root.PCEE020_Flag_CBW.hiddenCustom removed in first object
+root.PCY012_FighterPremium.PAY401_LOIRE210_Cruiser_3 removed in first object
+root.PCY012_FighterPremium.PAY301_RomanoR90_Cruiser_3 removed in first object
+root.PCY012_FighterPremium.canBuyCustom removed in first object
+root.PCY012_FighterPremium.PAY601_BLOCH157_Cruiser_3 removed in first object
+root.PCY012_FighterPremium.PAY701_VG_39_Cruiser_3 removed in first object
+root.PCY012_FighterPremium.PAY635_HD780_Cruiser_3 removed in first object
+root.PBSC105_Emerald.permoflages[0] removed in first object
+root.PBSC105_Emerald.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC105_Emerald.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC007_Cleveland_1945.A_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC007_Cleveland_1945.B_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH083_CampaignNY17BCompletedExcellent.enabledCustom removed in first object
+root.PRPA059_130MM_HE_OF_46_B13_M.alphaDamage changed in second object (was 1600.0, is 1900.0)
+root.PJEP526_Camo_Kamikaze.canBuyCustom removed in first object
+root.PJEP526_Camo_Kamikaze.hiddenCustom removed in first object
+root.PRSD409_Pr_20i_Tashkent.A_Hull.floodParams[1] changed in second object (was 0.458, is 0.667)
+root.PRSD409_Pr_20i_Tashkent.A_Hull.floodParams[2] changed in second object (was 120.0, is 90.0)
+root.PRSD409_Pr_20i_Tashkent.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD409_Pr_20i_Tashkent.AB1_Artillery.maxDist changed in second object (was 10528.0, is 11528.0)
+root.PRSD409_Pr_20i_Tashkent.B_Hull.floodParams[1] changed in second object (was 0.458, is 0.667)
+root.PRSD409_Pr_20i_Tashkent.B_Hull.floodParams[2] changed in second object (was 120.0, is 90.0)
+root.PRSD409_Pr_20i_Tashkent.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD409_Pr_20i_Tashkent.EngineDefault.forwardSpeedOnFlood changed in second object (was -0.2, is -0.15)
+root.PRSD409_Pr_20i_Tashkent.groupCustom.PT removed in second object
+root.PJSD005_Mutsuki_1926.B1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD005_Mutsuki_1926.C1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD005_Mutsuki_1926.A1_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD005_Mutsuki_1926.C2_120_45.maxDist changed in second object (was 6927.0, is 8110.0)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD005_Mutsuki_1926.C_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE009_Rank10.canBuyCustom removed in first object
+root.PCEE009_Rank10.hiddenCustom removed in first object
+root.PCH081_F_WinALL.enabledCustom removed in first object
+root.PGSC502_Emden_1908.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC502_Emden_1908.A1_Artillery.maxDist changed in second object (was 8920.0, is 9930.0)
+root.PRSC104_Svetlana.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC104_Svetlana.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE052_Squared_circle.canBuyCustom removed in first object
+root.PCEE052_Squared_circle.hiddenCustom removed in first object
+root.PCEC014_Camo_GNB_May_2016.canBuyCustom removed in first object
+root.PCEC014_Camo_GNB_May_2016.hiddenCustom removed in first object
+root.PZEP508_LoYang.canBuyCustom removed in first object
+root.PZEP508_LoYang.hiddenCustom removed in first object
+root.PRSC110_Pr_66_Moskva.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH056_F_Snatch.enabledCustom removed in first object
+root.PCH030_Winning3.enabledCustom removed in first object
+root.PJAB008_Mitsubishi_B1M.outOfAttackPlanePenalty removed in first object
+root.PJAB008_Mitsubishi_B1M.outOfAttackTime removed in first object
+root.PBSC107_Fiji.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC107_Fiji.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH035_ScienceOfWinning2.enabledCustom removed in first object
+root.PCEF012_MY6_SignalFlag.canBuyCustom removed in first object
+root.PCEF012_MY6_SignalFlag.hiddenCustom removed in first object
+root.PBEP503_Campbeltown.canBuyCustom removed in first object
+root.PBEP503_Campbeltown.hiddenCustom removed in first object
+root.PCEE040_Burning_Man.canBuyCustom removed in first object
+root.PCEE040_Burning_Man.hiddenCustom removed in first object
+root.PRSC999_Seal.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCY008_SonarSearch.canBuyCustom removed in first object
+root.PCEE056_Project_Oil.canBuyCustom removed in first object
+root.PCEE056_Project_Oil.hiddenCustom removed in first object
+root.PCEF017_VL_SignalFlag.canBuyCustom removed in first object
+root.PCEF017_VL_SignalFlag.hiddenCustom removed in first object
+root.PASB705_Texas_1944.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB705_Texas_1944.A_Hull.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PASB705_Texas_1944.A_Hull.SG.splashBoxes[1] changed in second object (was CM_SB_ruder_2, is CM_SB_ruder1_2)
+root.PASB705_Texas_1944.A1_Artillery.maxDist changed in second object (was 15580.0, is 16420.0)
+root.PJAF013_Nakajima_A2N2.outOfAttackPlanePenalty removed in first object
+root.PJAF013_Nakajima_A2N2.outOfAttackTime removed in first object
+root.PJAF015_A4N2_N.outOfAttackPlanePenalty removed in first object
+root.PJAF015_A4N2_N.outOfAttackTime removed in first object
+root.PRPA060_130MM_HE_OF_46_B2U_M.alphaDamage changed in second object (was 1600.0, is 1900.0)
+root.PJSB506_Mutsu.A_Hull_1933.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGAS001_Ar196.outOfAttackPlanePenalty removed in first object
+root.PGAS001_Ar196.outOfAttackTime removed in first object
+root.PASC016_Worcester_1948.FlightControlDefault.isGroundAttackEnabled removed in first object
+root.PASC016_Worcester_1948.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH078_CampaignNY17BCompleted.enabledCustom removed in first object
+root.PUSC506_Perth_1942.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD001_Tachibana_1912.ArtilleryDefault.maxDist changed in second object (was 6720.0, is 8030.0)
+root.PJSD001_Tachibana_1912.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAF005_Mitsubishi_A5M2.outOfAttackPlanePenalty removed in first object
+root.PJAF005_Mitsubishi_A5M2.outOfAttackTime removed in first object
+root.PJSC034_Zao_1944.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRAF012_I_153_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF012_I_153_FLOAT.outOfAttackTime removed in first object
+root.PJEP438_Atago_1944.canBuyCustom removed in first object
+root.PJEP438_Atago_1944.hiddenCustom removed in first object
+root.PAAB011_Grumman_TBM2.outOfAttackPlanePenalty removed in first object
+root.PAAB011_Grumman_TBM2.outOfAttackTime removed in first object
+root.PRAS007_KOR_3_M_87.outOfAttackPlanePenalty removed in first object
+root.PRAS007_KOR_3_M_87.outOfAttackTime removed in first object
+root.PCEC015_Camo_CN_Special.canBuyCustom removed in first object
+root.PCEC015_Camo_CN_Special.hiddenCustom removed in first object
+root.PAAB012_Consolidated_TBY_1.outOfAttackPlanePenalty removed in first object
+root.PAAB012_Consolidated_TBY_1.outOfAttackTime removed in first object
+root.PCEC007_Camo_3_Tile_Double.canBuyCustom removed in first object
+root.PCEC007_Camo_3_Tile_Double.hiddenCustom removed in first object
+root.PRSD309_Pr_20i removed in second object
+root.PASC045_Marblehead_1924_Asus.ArtilleryDefault.maxDist changed in second object (was 12650.0, is 13880.0)
+root.PASC045_Marblehead_1924_Asus.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC106_Pr_94_Budeny.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC106_Pr_94_Budeny.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC108_Hipper.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC108_Hipper.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC108_Hipper.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGAS007_AR196C.outOfAttackPlanePenalty removed in first object
+root.PGAS007_AR196C.outOfAttackTime removed in first object
+root.PCEE033_Krasnyi_Krim_flag.canBuyCustom removed in first object
+root.PCEE033_Krasnyi_Krim_flag.hiddenCustom removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.canBuyCustom removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.hiddenCustom removed in first object
+root.PCY004_Fighter.PAY501_LOIRE210_Cruiser_3 removed in first object
+root.PCY004_Fighter.canBuyCustom removed in first object
+root.PCY004_Fighter.PAY401_RomanoR90_Cruiser_3 removed in first object
+root.PCY004_Fighter.PAY735_HD780_Cruiser_3 removed in first object
+root.PCY004_Fighter.PAY801_VG_39_Cruiser_3 removed in first object
+root.PCY004_Fighter.PAY701_BLOCH157_Cruiser_3 removed in first object
+root.PGAS005_HE9.outOfAttackPlanePenalty removed in first object
+root.PGAS005_HE9.outOfAttackTime removed in first object
+root.PJSB021_Izumo_1938.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB021_Izumo_1938.A_Hull_1938.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB021_Izumo_1938.C_Hull_1945.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSX701_Support.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD505_Okhotnik_1917.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD505_Okhotnik_1917.group changed in second object (was demoWithoutStats, is special)
+root.PRSD505_Okhotnik_1917.ShipUpgradeInfo.costGold changed in second object (was 2400, is 2700)
+root.PAAF016_McDonnell_F2H.outOfAttackPlanePenalty removed in first object
+root.PAAF016_McDonnell_F2H.outOfAttackTime removed in first object
+root.PGAS004_HE60.outOfAttackPlanePenalty removed in first object
+root.PGAS004_HE60.outOfAttackTime removed in first object
+root.PCEE070_Chinese_New_Year.canBuyCustom removed in first object
+root.PCEE070_Chinese_New_Year.hiddenCustom removed in first object
+root.PCEE016_Flag_Developer.canBuyCustom removed in first object
+root.PCEE016_Flag_Developer.hiddenCustom removed in first object
+root.PAAD001_Curtiss_SB2C.outOfAttackPlanePenalty removed in first object
+root.PAAD001_Curtiss_SB2C.outOfAttackTime removed in first object
+root.PCH032_EarningMoney2.enabledCustom removed in first object
+root.PJAS004_Aichi_E13A1.outOfAttackPlanePenalty removed in first object
+root.PJAS004_Aichi_E13A1.outOfAttackTime removed in first object
+root.PAAS015_CURTISS_SC1_ALABAMA.outOfAttackPlanePenalty removed in first object
+root.PAAS015_CURTISS_SC1_ALABAMA.outOfAttackTime removed in first object
+root.PASB013_Arkansas_1912.ArtilleryDefault.maxDist changed in second object (was 12060.0, is 14380.0)
+root.PASB013_Arkansas_1912.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD507_Leningrad_1944.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA009_Ryujo_1933.permoflages[0] removed in first object
+root.PJSA009_Ryujo_1933.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA009_Ryujo_1933.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA009_Ryujo_1933.ABC1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA009_Ryujo_1933.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA009_Ryujo_1933.ABC2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA009_Ryujo_1933.ABC2U_FlightControl.isGroundAttackEnabled removed in first object
+root.PAAB001_Douglas_TBD.bombingAttackPointDistance changed in second object (was 46.0, is 33.0)
+root.PAAB001_Douglas_TBD.bombingStartPointDistance changed in second object (was 58.5, is 44.5)
+root.PAAB001_Douglas_TBD.outOfAttackPlanePenalty removed in first object
+root.PAAB001_Douglas_TBD.outOfAttackTime removed in first object
+root.PGAF003_BF109E.outOfAttackPlanePenalty removed in first object
+root.PGAF003_BF109E.outOfAttackTime removed in first object
+root.PCEE071_Korean_Turtle.canBuyCustom removed in first object
+root.PCEE071_Korean_Turtle.hiddenCustom removed in first object
+root.PCEE045_Yokosuka_Marine_School.canBuyCustom removed in first object
+root.PCEE045_Yokosuka_Marine_School.hiddenCustom removed in first object
+root.PCEE015_Jolly_Roger_2.canBuyCustom removed in first object
+root.PCEE015_Jolly_Roger_2.hiddenCustom removed in first object
+root.PCEC010_Camo_Basketball_Tile_2.canBuyCustom removed in first object
+root.PCEC010_Camo_Basketball_Tile_2.hiddenCustom removed in first object
+root.PGAF002_AR197.outOfAttackPlanePenalty removed in first object
+root.PGAF002_AR197.outOfAttackTime removed in first object
+root.PCEP120_Permo_Upgr_10_lvl.canBuyCustom removed in first object
+root.PCEP120_Permo_Upgr_10_lvl.hiddenCustom removed in first object
+root.PCH050_BWPartisipant.enabledCustom removed in first object
+root.PCEE073_Mutsu_flag.canBuyCustom removed in first object
+root.PCEE073_Mutsu_flag.hiddenCustom removed in first object
+root.PJSB802_False_Ally_Kawachi_1912.B_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PREP301_Nikolay_I.canBuyCustom removed in first object
+root.PREP301_Nikolay_I.hiddenCustom removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.canBuyCustom removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.hiddenCustom removed in first object
+root.PAEP406_Atlanta_1942.canBuyCustom removed in first object
+root.PAEP406_Atlanta_1942.hiddenCustom removed in first object
+root.PCEF018_IX_SignalFlag.canBuyCustom removed in first object
+root.PCEF018_IX_SignalFlag.hiddenCustom removed in first object
+root.PCH027_EarningAchievement3.enabledCustom removed in first object
+root.PJAF017_Mitsubishi_A6M2_N.outOfAttackPlanePenalty removed in first object
+root.PJAF017_Mitsubishi_A6M2_N.outOfAttackTime removed in first object
+root.PCEE022_Flag_WG.canBuyCustom removed in first object
+root.PCEE022_Flag_WG.hiddenCustom removed in first object
+root.PREP408_Kutuzov_1952.canBuyCustom removed in first object
+root.PREP408_Kutuzov_1952.hiddenCustom removed in first object
+root.PJSB008_Ishizuchi_1921.ArtilleryDefault.maxDist changed in second object (was 12900.0, is 15300.0)
+root.PJSB008_Ishizuchi_1921.HullDefault.Cas.splashBoxes[2] removed in first object
+root.PJSB008_Ishizuchi_1921.HullDefault.visibilityFactor changed in second object (was 16.56, is 15.2)
+root.PJSB008_Ishizuchi_1921.HullDefault.Cit.splashBoxes[3] removed in first object
+root.PJSB008_Ishizuchi_1921.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRAF016_LA_9_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF016_LA_9_FLOAT.outOfAttackTime removed in first object
+root.PCH021_Unarmed.enabledCustom removed in first object
+root.PAAF007_Grumman_FF1.outOfAttackPlanePenalty removed in first object
+root.PAAF007_Grumman_FF1.outOfAttackTime removed in first object
+root.PCH028_Winning1.enabledCustom removed in first object
+root.PWSD501_Blyskawica.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PWSD501_Blyskawica.EngineDefault.HitLocationEngine.splashBoxes[1] removed in first object
+root.PGSC107_Yorck.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC107_Yorck.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCGM059_16in45_Mk1.deadMesh changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1_dead.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1_dead.model)
+root.PCGM059_16in45_Mk1.model changed in second object (was content/gameplay/usa/gun/main/AGM059_16in45_Mk1/AGM059_16in45_Mk1.model, is content/gameplay/usa/gun/main/AGM156_16in45_Mk1/AGM156_16in45_Mk1.model)
+root.PCH084_CampaignNY17ECompleted.enabledCustom removed in first object
+root.PJAF001_A6M2.outOfAttackPlanePenalty removed in first object
+root.PJAF001_A6M2.outOfAttackTime removed in first object
+root.PRSD310_Pr_24 removed in second object
+root.PJSC737_Nachi.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC737_Nachi.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSC737_Nachi.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD005_Farragut_1944.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD005_Farragut_1944.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD005_Farragut_1944.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE051_Belfast.canBuyCustom removed in first object
+root.PCEE051_Belfast.hiddenCustom removed in first object
+root.PGAS901_AR196_HIDE.outOfAttackPlanePenalty removed in first object
+root.PGAS901_AR196_HIDE.outOfAttackTime removed in first object
+root.PRSC010_Diana_1905_Asus.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJAS007_Kawanishi_E15K1.outOfAttackPlanePenalty removed in first object
+root.PJAS007_Kawanishi_E15K1.outOfAttackTime removed in first object
+root.PBAS004_SEAFOX.outOfAttackPlanePenalty removed in first object
+root.PBAS004_SEAFOX.outOfAttackTime removed in first object
+root.PCEE060_Oleg_flag.canBuyCustom removed in first object
+root.PCEE060_Oleg_flag.hiddenCustom removed in first object
+root.PCEE031_Blue_steel.canBuyCustom removed in first object
+root.PCEE031_Blue_steel.hiddenCustom removed in first object
+root.PCH070_Campaign1Completed.enabledCustom removed in first object
+root.PAAB003_Martin_T3M.bombingAttackPointDistance changed in second object (was 47.0, is 32.0)
+root.PAAB003_Martin_T3M.bombingStartPointDistance changed in second object (was 61.9, is 46.9)
+root.PAAB003_Martin_T3M.outOfAttackPlanePenalty removed in first object
+root.PAAB003_Martin_T3M.outOfAttackTime removed in first object
+root.PGAF904_BF109G_HIDE.outOfAttackPlanePenalty removed in first object
+root.PGAF904_BF109G_HIDE.outOfAttackTime removed in first object
+root.PJSD003_Isokaze_1917.B_Hull_1925.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD003_Isokaze_1917.A1_120_40.maxDist changed in second object (was 8309.0, is 9730.0)
+root.PJSD003_Isokaze_1917.A1_120_40.HP_JGM_2.vertSector[0] changed in second object (was -4.0, is -2.0)
+root.PJSD003_Isokaze_1917.A1_120_40.HP_JGM_2.vertSector[1] changed in second object (was 13.0, is 20.0)
+root.PJSD003_Isokaze_1917.B1_120_40.maxDist changed in second object (was 8309.0, is 9730.0)
+root.PJSD003_Isokaze_1917.A_Hull_1917.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH085_CampaignNY17ECompletedExcellent.enabledCustom removed in first object
+root.PASC006_Atlanta_1942.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAS007_O2U.outOfAttackPlanePenalty removed in first object
+root.PAAS007_O2U.outOfAttackTime removed in first object
+root.PAAS004_Curtiss_SO3C.outOfAttackPlanePenalty removed in first object
+root.PAAS004_Curtiss_SO3C.outOfAttackTime removed in first object
+root.PGSB106_Bayern.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB106_Bayern.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD208_Pr_30.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD208_Pr_30.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSD208_Pr_30.groupCustom.PT removed in second object
+root.PCH046_Researching3.enabledCustom removed in first object
+root.PCH057_F_RiseOfTheMachines.enabledCustom removed in first object
+root.PASD021_Fletcher_1943.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD021_Fletcher_1943.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEF019_JW1_SignalFlag.canBuyCustom removed in first object
+root.PCEF019_JW1_SignalFlag.hiddenCustom removed in first object
+root.PAEP409_Cleveland_1945.canBuyCustom removed in first object
+root.PAEP409_Cleveland_1945.hiddenCustom removed in first object
+root.PCEE023_SeasonFlag00.canBuyCustom removed in first object
+root.PCEE023_SeasonFlag00.hiddenCustom removed in first object
+root.PCEC019_Camo_Halloween_16.canBuyCustom removed in first object
+root.PCEC019_Camo_Halloween_16.hiddenCustom removed in first object
+root.PREP403_Murmansk_1944.canBuyCustom removed in first object
+root.PREP403_Murmansk_1944.hiddenCustom removed in first object
+root.PGSD102_V_25.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD102_V_25.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCH042_TaskPerforming3.enabledCustom removed in first object
+root.PCEE062_King_of_the_Sea.canBuyCustom removed in first object
+root.PCEE062_King_of_the_Sea.hiddenCustom removed in first object
+root.PJSD209_Yugumo.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD209_Yugumo.AB1_Artillery.maxDist changed in second object (was 10135.0, is 10950.0)
+root.PJSD209_Yugumo.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA006_Zuiho_1944.ABC1_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA006_Zuiho_1944.A_Hull_1940.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA006_Zuiho_1944.B_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSA006_Zuiho_1944.ABC2A_FlightControl.isGroundAttackEnabled removed in first object
+root.PJSA006_Zuiho_1944.C_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJEP414_Kitakami_1945.canBuyCustom removed in first object
+root.PJEP414_Kitakami_1945.hiddenCustom removed in first object
+root.PRSC506_Molotov_1943.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB708_Alabama.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASB708_Alabama.groupCustom.CN changed in second object (was demoWithStats, is disabled)
+root.PJSD014_Tachibana_1912_Asus.ArtilleryDefault.maxDist changed in second object (was 6720.0, is 8030.0)
+root.PJSD014_Tachibana_1912_Asus.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAEP305_Texas.canBuyCustom removed in first object
+root.PAEP305_Texas.hiddenCustom removed in first object
+root.PCH023_Warrior.enabledCustom removed in first object
+root.PAGM035_8in55_Mk14 removed in second object
+root.PAAD007_Martin_BM2.outOfAttackPlanePenalty removed in first object
+root.PAAD007_Martin_BM2.outOfAttackTime removed in first object
+root.PAEP320_Alabama_ST.canBuyCustom removed in first object
+root.PAEP320_Alabama_ST.hiddenCustom removed in first object
+root.PJAD003_D4Y2.outOfAttackPlanePenalty removed in first object
+root.PJAD003_D4Y2.outOfAttackTime removed in first object
+root.PASA507_Saipan_1946.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASA507_Saipan_1946.A1_FlightControl.isGroundAttackEnabled removed in first object
+root.PASA507_Saipan_1946.A2_FlightControl.isGroundAttackEnabled removed in first object
+root.PGEP302_Tirpiz_1942.canBuyCustom removed in first object
+root.PGEP302_Tirpiz_1942.hiddenCustom removed in first object
+root.PJAF016_A5M2_N.outOfAttackPlanePenalty removed in first object
+root.PJAF016_A5M2_N.outOfAttackTime removed in first object
+root.PASB017_Montana_1945.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD106_Fubuki.A_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD106_Fubuki.B_Hull_1943.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSD106_Fubuki.AB1_127_50.maxDist changed in second object (was 9054.0, is 10470.0)
+root.PJSC799_Takao.HullDefault.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF011_Curtiss_TS1.outOfAttackPlanePenalty removed in first object
+root.PAAF011_Curtiss_TS1.outOfAttackTime removed in first object
+root.PXSX001_Transylvania.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBAF017_HAWKER_O.outOfAttackPlanePenalty removed in first object
+root.PBAF017_HAWKER_O.outOfAttackTime removed in first object
+root.PGEP304_Tirpiz_1942_2.canBuyCustom removed in first object
+root.PGEP304_Tirpiz_1942_2.hiddenCustom removed in first object
+root.PGEP408_Hipper.canBuyCustom removed in first object
+root.PGEP408_Hipper.hiddenCustom removed in first object
+root.PGAF004_BF109G.outOfAttackPlanePenalty removed in first object
+root.PGAF004_BF109G.outOfAttackTime removed in first object
+root.PASB506_Arizona_1941.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC012_Pensacola_1944.B_Hull_1944.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC012_Pensacola_1944.A_Hull_1942.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD709_Black.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD709_Black.group changed in second object (was demoWithoutStats, is demoWithStats)
+root.PASD709_Black.groupCustom.EU removed in first object
+root.PASD709_Black.groupCustom.NA removed in first object
+root.PASD709_Black.groupCustom.CN removed in first object
+root.PASD709_Black.groupCustom.ASIA removed in first object
+root.PASD709_Black.groupCustom.RU removed in first object
+root.PJEP112_Zuikaku_1944.canBuyCustom removed in first object
+root.PJEP112_Zuikaku_1944.hiddenCustom removed in first object
+root.PAEP108_Saipan.canBuyCustom removed in first object
+root.PAEP108_Saipan.hiddenCustom removed in first object
+root.PRSC109_Dmitry_Donskoy.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC109_Dmitry_Donskoy.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PRSC109_Dmitry_Donskoy.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PAAF012_Vought_F4U.outOfAttackPlanePenalty removed in first object
+root.PAAF012_Vought_F4U.outOfAttackTime removed in first object
+root.PGSD107_Leberecht_Maass.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD107_Leberecht_Maass.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE021_Flag_CBT.canBuyCustom removed in first object
+root.PCEE021_Flag_CBT.hiddenCustom removed in first object
+root.PCH004_Dreadnought.enabledCustom removed in first object
+root.PCEC020_Camo_New_Year_17.canBuyCustom removed in first object
+root.PCEC020_Camo_New_Year_17.hiddenCustom removed in first object
+root.PJAS001_F1M2.outOfAttackPlanePenalty removed in first object
+root.PJAS001_F1M2.outOfAttackTime removed in first object
+root.PCH025_EarningAchievement1.enabledCustom removed in first object
+root.PAAD013_Douglas_SBD5.outOfAttackPlanePenalty removed in first object
+root.PAAD013_Douglas_SBD5.outOfAttackTime removed in first object
+root.PGSC105_Konigsberg.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSC105_Konigsberg.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSD110_Z_52.A_Hull.visibilityFactor changed in second object (was 8.1, is 7.74)
+root.PGSD110_Z_52.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC004_St_Louis_1906.A1_152_50.maxDist changed in second object (was 9500.0, is 11320.0)
+root.PASC004_St_Louis_1906.B2_152_50.maxDist changed in second object (was 9500.0, is 11320.0)
+root.PASC004_St_Louis_1906.B1_152_50.maxDist changed in second object (was 9500.0, is 11320.0)
+root.PASC004_St_Louis_1906.A_Hull_1906.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASC004_St_Louis_1906.B_Hull_1924.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PCEE063_Flag_Volunteer_2.canBuyCustom removed in first object
+root.PCEE063_Flag_Volunteer_2.hiddenCustom removed in first object
+root.PBSC106_Leander.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PBSC106_Leander.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB001_Kawachi_1912.A1_305_45.maxDist changed in second object (was 8872.0, is 9880.0)
+root.PJSB001_Kawachi_1912.A_Hull_1912.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB001_Kawachi_1912.B_Hull_1919.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB001_Kawachi_1912.B2_305_50.maxDist changed in second object (was 8872.0, is 9880.0)
+root.PGSB105_Koenig.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB105_Koenig.A1_Artillery.maxDist changed in second object (was 14544.0, is 14990.0)
+root.PGSB105_Koenig.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB105_Koenig.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGSB105_Koenig.BC1_Artillery.maxDist changed in second object (was 14544.0, is 14990.0)
+root.PGAS907_AR196C_HIDE.outOfAttackPlanePenalty removed in first object
+root.PGAS907_AR196C_HIDE.outOfAttackTime removed in first object
+root.PRAF013_YAK_1_FLOAT.outOfAttackPlanePenalty removed in first object
+root.PRAF013_YAK_1_FLOAT.outOfAttackTime removed in first object
+root.PJSB003_Myogi_1912.A_Hull.visibilityFactor changed in second object (was 17.1, is 16.56)
+root.PJSB003_Myogi_1912.A_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB003_Myogi_1912.B_Hull.visibilityFactor changed in second object (was 17.1, is 16.56)
+root.PJSB003_Myogi_1912.B_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB003_Myogi_1912.C_Hull.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PJSB003_Myogi_1912.AB1_356_45.maxDist changed in second object (was 13880.0, is 16950.0)
+root.PJSB003_Myogi_1912.C1_356_45.maxDist changed in second object (was 16864.0, is 16950.0)
+root.PBAF019_SEA_H.outOfAttackPlanePenalty removed in first object
+root.PBAF019_SEA_H.outOfAttackTime removed in first object
+root.PAEP307_Texas.canBuyCustom removed in first object
+root.PAEP307_Texas.hiddenCustom removed in first object
+root.PRAS001_KOR_2.outOfAttackPlanePenalty removed in first object
+root.PRAS001_KOR_2.outOfAttackTime removed in first object
+root.PREP401_Avrora_1917.canBuyCustom removed in first object
+root.PREP401_Avrora_1917.hiddenCustom removed in first object
+root.PASD027_Wickes_1918.B_Hull_1925.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PASD027_Wickes_1918.A_Hull_1918.visibilityCoefATBA changed in second object (was 1.3, is 1e-06)
+root.PGEP428_Prinz_Eugen.canBuyCustom removed in first object
+root.PGEP428_Prinz_Eugen.hiddenCustom removed in first object
+root.PCH077_F_Safecracker.enabledCustom removed in first object
+root.PCH043_TaskPerforming4.enabledCustom removed in first object
+root.PFUE001_C1_ENG_STOCK removed in first object
+root.PIW001_DefaultCrew removed in first object
+root.PFUH901_C10_HULL_A removed in first object
+root.PIGM002_152mm53 removed in first object
+root.PFGM038_139_55_Mle_1921_Twin removed in first object
+root.PFRS012_Radar_SA removed in first object
+root.PIPT001_533_SI270_DUCA removed in first object
+root.PFUS301_C4_SUO_STOCK removed in first object
+root.PFD008_DCT_SOM_1930 removed in first object
+root.PFUS101_C2_SUO_STOCK removed in first object
+root.PFGM017_155_50_Mle_1921_Twin removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR removed in first object
+root.PFUA511_C6_ART_STOCK removed in first object
+root.PFUE401_C5_ENG_STOCK removed in first object
+root.PFPA025_165MM_45_1893_45KG_HE removed in first object
+root.PFPA022_203MM_55_1931_HE removed in first object
+root.PFRS023_DRBV_20A removed in first object
+root.PFGM011_152_55_Mle_1930_RF removed in first object
+root.PID002_Director_3m removed in first object
+root.PFF009_Rangefinder_1m removed in first object
+root.PFPA006_165MM_45_1893_AP removed in first object
+root.PFSC110_Henri_IV removed in first object
+root.PIGA004_Breda_37mm_double removed in first object
+root.PFGA026_8mm_Hotchkiss_Mle_1914 removed in first object
+root.PFC002_Catapult removed in first object
+root.PID003_Director_3_2m removed in first object
+root.PFUH702_C8_HULL_B removed in first object
+root.PFUH402_C5_HULL_B removed in first object
+root.PFPA011_155MM_50_1920_AP removed in first object
+root.PFUS602_C7_SUO_TOP removed in first object
+root.PFGS013_2_100_55_Mle_1945 removed in first object
+root.PFUS512_C6_SUO_TOP removed in first object
+root.PFGA027_37_50_ACAD removed in first object
+root.PFPA018_127MM_54_1948_HE removed in first object
+root.PFUH301_C4_HULL_A removed in first object
+root.PFUS102_C2_SUO_TOP removed in first object
+root.PFUE801_C9_ENG_STOCK removed in first object
+root.PFGA037_57mm_60_2_25_1951 removed in first object
+root.PFD029_OPL_8_metre_SRF_330mm removed in first object
+root.PFUS601_C7_SUO_STOCK removed in first object
+root.PFGM040_203_55mm_Mle_1931_Triple removed in first object
+root.PFPA017_100MM_55_1930_HE removed in first object
+root.PCEE077_Martoboi removed in first object
+root.PFRS030_A_B_M removed in first object
+root.PFGS024_100mm_45_Mle_1930 removed in first object
+root.PFUA702_C8_ART_TOP removed in first object
+root.PFAF004_VG_39_Bis_float removed in first object
+root.PCEE076_St_Patrick removed in first object
+root.PFF016_4m_Rangefinder removed in first object
+root.PFD018_Dir_HA_RF_2m_ACAD removed in first object
+root.PFD020_Secondary_Battery_dir_6m removed in first object
+root.PFGT028_550mm_Mle_1923_D removed in first object
+root.PFPA019_203MM_50_1924_AP removed in first object
+root.PFRS024_DRBN_32 removed in first object
+root.PFAF005_BLOCH157 removed in first object
+root.PFPT001_550_19V removed in first object
+root.PFUS401_C5_SUO_STOCK removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT removed in first object
+root.PFPT002_550_19D removed in first object
+root.PFUH601_C7_HULL_A removed in first object
+root.PFUT801_C9_TORP_STOCK removed in first object
+root.PXSX015_Schuka removed in first object
+root.PIUA501_ART_DUCA removed in first object
+root.PFGA033_25mm_Hotchkiss_Mle_1940 removed in first object
+root.PFSC103_Friant removed in first object
+root.PFF011_8m_Rangefinder removed in first object
+root.PFGA015_40mm_Bofors_Mk3 removed in first object
+root.PFGA041_20mm_Oerlikon_MK20_Twin removed in first object
+root.PFGS036_127mm_54_5_1948 removed in first object
+root.PFUS001_C1_SUO_STOCK removed in first object
+root.PIUS501_SUO_DUCA removed in first object
+root.PFUE701_C8_ENG_STOCK removed in first object
+root.PFUH202_C3_HULL_B removed in first object
+root.PFUA701_C8_ART_STOCK removed in first object
+root.PFUA401_C5_ART_STOCK removed in first object
+root.PFGM010_152_55_Mle_1930 removed in first object
+root.PFUH101_C2_HULL_A removed in first object
+root.PFRS013_Radar_SF removed in first object
+root.PFAF003_Romano_R90 removed in first object
+root.PFGA014_20mm_Oerlikon_MK4 removed in first object
+root.PFUH701_C8_HULL_A removed in first object
+root.PFUE511_C6_ENG_STOCK removed in first object
+root.PCEC022_Camo_Arirang removed in first object
+root.PFUH401_C5_HULL_A removed in first object
+root.PFGA030_40mm_Bofors_Mk1 removed in first object
+root.PFPT005_550_44V removed in first object
+root.PFPA021_203MM_55_1931_AP removed in first object
+root.PFSC106_La_Galissonniere removed in first object
+root.PFUS702_C8_SUO_TOP removed in first object
+root.PFD007_Director_Mk51 removed in first object
+root.PFUT501_C6_TORP_STOCK removed in first object
+root.PFPA010_90MM_50_1926_HE removed in first object
+root.PIUT501_TORP_DUCA removed in first object
+root.PFSC109_Saint_Louis removed in first object
+root.PIPA002_152MM_53_HE_DUCA removed in first object
+root.PFUE901_C10_ENG_STOCK removed in first object
+root.PIPA004_152MM_53_AP_EARLY_DUCA removed in first object
+root.PFPT004_550_24V removed in first object
+root.PFPA016_100MM_45_1930_HE removed in first object
+root.PIC001_Catapult removed in first object
+root.PFGM018_203mm50_Mle_1924_Algerie removed in first object
+root.PFGT042_550mm_3tube_Mle_1928T removed in first object
+root.PFPA008_139MM_55_1923_AP removed in first object
+root.PFGM025_138_6mm_40_Mle_1927 removed in first object
+root.PFF010_4m_Rangefinder removed in first object
+root.PXGT001_Torpedo_Tube removed in first object
+root.PIPA003_100MM_47_HE removed in first object
+root.PFUS701_C8_SUO_STOCK removed in first object
+root.PFUA201_C3_ART_STOCK removed in first object
+root.PFUE201_C3_ENG_STOCK removed in first object
+root.PFUA801_C9_ART_STOCK removed in first object
+root.PFUH801_C9_HULL_A removed in first object
+root.PFGM044_152_55_Mle_1930_RF removed in first object
+root.PFD026_Tele_57 removed in first object
+root.PIGT006_533_mm_3_tubes removed in first object
+root.PFUE301_C4_ENG_STOCK removed in first object
+root.PFPA024_240MM_55_HE removed in first object
+root.PIUE501_ENGINE_DUCA removed in first object
+root.PFGA005_13_2_76_Hotchkiss_CAQ_Mle_1929_twin removed in first object
+root.PID001_Director_5m removed in first object
+root.PIGA007_13_2mm_2barrels_Breda_MG removed in first object
+root.PFAF002_LOIRE210 removed in first object
+root.PFPA020_203MM_50_1924_HE removed in first object
+root.PXUT002_TORP_SCHUKA removed in first object
+root.PFUH001_C1_HULL_A removed in first object
+root.PFUH102_C2_HULL_B removed in first object
+root.PFD021_Main_battery_dir_8m removed in first object
+root.PFUH511_C6_HULL_A removed in first object
+root.PFC003_Catapult removed in first object
+root.PFC004_Catapult removed in first object
+root.PXW104_SubCommander removed in first object
+root.PFGM009_240_55_Mle removed in first object
+root.PFD027_Tele_127 removed in first object
+root.PIAS001_IMAM_RO43 removed in first object
+root.PFRS022_Radar_Sadir_ME140_MR126 removed in first object
+root.PCEE078_Okhotnik removed in first object
+root.PFPA012_155MM_50_1920_HE removed in first object
+root.PFPA015_152MM_55_1930_AP_1937 removed in first object
+root.PFGA023_75_50_Mle_1922 removed in first object
+root.PIUH501_DUCA removed in first object
+root.PFGA035_13_mm76_Hotchkiss_Mle_1930 removed in first object
+root.PFSC101_Bougainville removed in first object
+root.PFUS802_C9_SUO_TOP removed in first object
+root.PFUT201_C3_TORP_STOCK removed in first object
+root.PFUH602_C7_HULL_B removed in first object
+root.PFUS201_C3_SUO_STOCK removed in first object
+root.PFD028_Jean_Bart removed in first object
+root.PFPA013_152MM_55_1930_AP_1931 removed in first object
+root.PFUT901_C10_TORP_STOCK removed in first object
+root.PFUA001_C1_ART_STOCK removed in first object
+root.PFUS202_C3_SUO_TOP removed in first object
+root.PFPA014_152MM_55_1930_HE_1936 removed in first object
+root.PFUS002_C1_SUO_TOP removed in first object
+root.PFUH802_C9_HULL_B removed in first object
+root.PFUT301_C4_TORP_STOCK removed in first object
+root.PXUH101_HULL_SCHUKA removed in first object
+root.PFUA901_C10_ART_STOCK removed in first object
+root.PFUS511_C6_SUO_STOCK removed in first object
+root.PXUE101_ENG_SCHUKA removed in first object
+root.PIGM001_152mm53_F removed in first object
+root.PFUA301_C4_ART_STOCK removed in first object
+root.PFUT601_C7_TORP_STOCK removed in first object
+root.PFUA601_C7_ART_STOCK removed in first object
+root.PFUE101_C2_ENG_STOCK removed in first object
+root.PFUA101_C2_ART_STOCK removed in first object
+root.PFPA005_138MM_40_1923_HE removed in first object
+root.PFUS801_C9_SUO_STOCK removed in first object
+root.PFGM029_203_50mm_Mle_1924_Triple removed in first object
+root.PISC506_DucadAosta removed in first object
+root.PFUH512_C6_HULL_B removed in first object
+root.PFSC108_Charles_Martel removed in first object
+root.PFPT003_550_23DT removed in first object
+root.PFGM020_164mm_Ernest_Renan removed in first object
+root.PFPA007_165MM_45_1893_HE removed in first object
+root.PFRS025_DRBC_11 removed in first object
+root.PFGA022_37_50_Mle_1925 removed in first object
+root.PFSC107_Algerie removed in first object
+root.PFUH302_C4_HULL_B removed in first object
+root.PCEE079_Scavenger removed in first object
+root.PCEP305_Permo_Emerald_Edition removed in first object
+root.PFSC102_Jurien removed in first object
+root.PFGA034_13_2mm_76_Browning_CAS removed in first object
+root.PFPA004_138MM_40_1923_AP removed in first object
+root.PFUH201_C3_HULL_A removed in first object
+root.PFGA019_40mm_Bofors_Mk2 removed in first object
+root.PFUS402_C5_SUO_TOP removed in first object
+root.PFAS005_Breguet_Br790 removed in first object
+root.PFUT401_C5_TORP_STOCK removed in first object
+root.PFGM045_152_55_Mle_1930 removed in first object
+root.PFUT701_C8_TORP_STOCK removed in first object
+root.PFUS901_C10_SUO_STOCK removed in first object
+root.PFSC104_Duguay_Trouin removed in first object
+root.PFGS012_90_50_Mle_1930 removed in first object
+root.PFSC105_Emile_Bertin removed in first object
+root.PFPA009_139MM_55_1923_HE removed in first object
+root.PFF031_3m_Rangefinder removed in first object
+root.PFRS014_Peeling_antenna removed in first object
+root.PFGT032_550mm_3tube_Mle_1924 removed in first object
+root.PFGM039_152_55_Mle_1930_RF2 removed in first object
+root.PFUS302_C4_SUO_TOP removed in first object
+root.PFUE601_C7_ENG_STOCK removed in first object
+root.PIGS003_100mm_50_Mod_OTO removed in first object
+root.PFD019_Searchlight_control_positions removed in first object
+root.PFPA023_240MM_55_AP removed in first object
+root.PCEC023_Camo_St_Patrick removed in first object
+root.PFGS027_90mm_50_Mle_1926 removed in first object
+root.PFD017_Dir_HA_RF_3m_Mle_1933 removed in first object
+root.PFF015_3m_Rangefinder removed in first object
+>> finished comparing
