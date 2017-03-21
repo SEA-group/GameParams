@@ -189,16 +189,6 @@
         "zh_cn": "\u4e9a\u5229\u6851\u90a3", 
         "zh_tw": "\u4e9e\u5229\u6851\u90a3\u865f"
     }, 
-    "PASB508": {
-        "en": "Alabama", 
-        "id": 3762239472, 
-        "index": "PASB508", 
-        "level": 8, 
-        "name": "PASB508_Alabama", 
-        "ru": "Alabama", 
-        "zh_cn": "IDS_PASB508", 
-        "zh_tw": "IDS_PASB508"
-    }, 
     "PASB509": {
         "en": "Missouri", 
         "id": 3761190896, 
@@ -218,16 +208,6 @@
         "ru": "Texas", 
         "zh_cn": "\u5fb7\u514b\u8428\u65af", 
         "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
-    }, 
-    "PASB708": {
-        "en": "Alabama ST", 
-        "id": 3552524272, 
-        "index": "PASB708", 
-        "level": 8, 
-        "name": "PASB708_Alabama", 
-        "ru": "Alabama ST", 
-        "zh_cn": "\u963f\u62c9\u5df4\u9a6c(ST)", 
-        "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865fST"
     }, 
     "PASB801": {
         "en": "South Carolina", 
@@ -1279,16 +1259,6 @@
         "zh_cn": "\u51fa\u4e91", 
         "zh_tw": "\u51fa\u96f2\u578b"
     }, 
-    "PJSB506": {
-        "en": "Mutsu", 
-        "id": 3764336336, 
-        "index": "PJSB506", 
-        "level": 6, 
-        "name": "PJSB506_Mutsu", 
-        "ru": "Mutsu", 
-        "zh_cn": "\u9646\u5965", 
-        "zh_tw": "\u9678\u5967\u865f"
-    }, 
     "PJSB705": {
         "en": "ARP Kong\u014d", 
         "id": 3555669712, 
@@ -1670,42 +1640,42 @@
         "zh_tw": "\u5cef\u98a8\u578b"
     }, 
     "PJSD005": {
-        "en": "Mutsuki", 
+        "en": "Mutsuki (old)", 
         "id": 4289607376, 
         "index": "PJSD005", 
         "level": 6, 
         "name": "PJSD005_Mutsuki_1926", 
-        "ru": "Mutsuki", 
+        "ru": "Mutsuki (old)", 
         "zh_cn": "\u5f25\u751f", 
         "zh_tw": "\u5f4c\u751f\u865f"
     }, 
     "PJSD006": {
-        "en": "Hatsuharu", 
+        "en": "Hatsuharu (old)", 
         "id": 4288558800, 
         "index": "PJSD006", 
         "level": 7, 
         "name": "PJSD006_Hatsuharu_1945", 
-        "ru": "Hatsuharu", 
+        "ru": "Hatsuharu (old)", 
         "zh_cn": "\u82e5\u53f6", 
         "zh_tw": "\u82e5\u8449\u865f"
     }, 
     "PJSD007": {
-        "en": "Fubuki", 
+        "en": "Fubuki (old)", 
         "id": 4287510224, 
         "index": "PJSD007", 
         "level": 8, 
         "name": "PJSD007_Fubuki_1944", 
-        "ru": "Fubuki", 
+        "ru": "Fubuki (old)", 
         "zh_cn": "\u7eeb\u6ce2", 
         "zh_tw": "\u7eeb\u6ce2\u865f"
     }, 
     "PJSD010": {
-        "en": "Kagero", 
+        "en": "Kagero (old)", 
         "id": 4284364496, 
         "index": "PJSD010", 
         "level": 9, 
         "name": "PJSD010_Kagero_1943", 
-        "ru": "Kagero", 
+        "ru": "Kagero (old)", 
         "zh_cn": "\u91ce\u5206", 
         "zh_tw": "\u91ce\u5206\u865f"
     }, 
@@ -2156,8 +2126,8 @@
         "level": 5, 
         "name": "PRSD105_Pr_7_Gnevny", 
         "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439 (< 06.03.2017)", 
-        "zh_cn": "\u6124\u6012", 
-        "zh_tw": "\u61a4\u6012\u7d1a"
+        "zh_cn": "\u81ea\u8c6a", 
+        "zh_tw": "\u81ea\u8c6a\u865f"
     }, 
     "PRSD106": {
         "en": "Ognevoi (< 06.03.2017)", 
@@ -2166,8 +2136,8 @@
         "level": 6, 
         "name": "PRSD106_Pr_30_Ognevoy", 
         "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439 (< 06.03.2017)", 
-        "zh_cn": "\u706b\u529b", 
-        "zh_tw": "\u706b\u529b\u7d1a"
+        "zh_cn": "\u5371\u9669", 
+        "zh_tw": "\u5371\u96aa\u865f"
     }, 
     "PRSD107": {
         "en": "Udaloi", 
@@ -2186,8 +2156,8 @@
         "level": 8, 
         "name": "PRSD108_Pr_20i_Tashkent", 
         "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 (< 06.03.2017)", 
-        "zh_cn": "\u5854\u4ec0\u5e72", 
-        "zh_tw": "\u5854\u4ec0\u5e79\u865f"
+        "zh_cn": "\u963f\u4ec0\u54c8\u5df4\u5fb7", 
+        "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
     }, 
     "PRSD109": {
         "en": "Kiev (< 06.03.2017)", 
@@ -2196,8 +2166,8 @@
         "level": 7, 
         "name": "PRSD109_Pr_48_Kiev", 
         "ru": "\u041a\u0438\u0435\u0432 (< 06.03.2017)", 
-        "zh_cn": "\u57fa\u8f85", 
-        "zh_tw": "\u57fa\u8f14\u7d1a"
+        "zh_cn": "\u57c3\u91cc\u6e29", 
+        "zh_tw": "\u57c3\u91cc\u6eab\u865f (Yerevan)"
     }, 
     "PRSD110": {
         "en": "Khabarovsk", 
@@ -2208,116 +2178,6 @@
         "ru": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
         "zh_cn": "\u54c8\u5df4\u7f57\u592b\u65af\u514b", 
         "zh_tw": "\u54c8\u5df4\u7f85\u592b\u65af\u514b\u7d1a"
-    }, 
-    "PRSD205": {
-        "en": "Podvoisky", 
-        "id": 4079891920, 
-        "index": "PRSD205", 
-        "level": 5, 
-        "name": "PRSD205_Podvoisky_pr_1929", 
-        "ru": "\u041f\u043e\u0434\u0432\u043e\u0439\u0441\u043a\u0438\u0439", 
-        "zh_cn": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa", 
-        "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
-    }, 
-    "PRSD206": {
-        "en": "Gnevny", 
-        "id": 4078843344, 
-        "index": "PRSD206", 
-        "level": 6, 
-        "name": "PRSD206_Pr_7", 
-        "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439", 
-        "zh_cn": "\u81ea\u8c6a", 
-        "zh_tw": "\u81ea\u8c6a\u865f"
-    }, 
-    "PRSD207": {
-        "en": "Minsk", 
-        "id": 4077794768, 
-        "index": "PRSD207", 
-        "level": 7, 
-        "name": "PRSD207_Minsk", 
-        "ru": "\u041c\u0438\u043d\u0441\u043a", 
-        "zh_cn": "\u660e\u65af\u514b", 
-        "zh_tw": "\u660e\u65af\u514b\u7d1a"
-    }, 
-    "PRSD208": {
-        "en": "Ognevoi", 
-        "id": 4076746192, 
-        "index": "PRSD208", 
-        "level": 8, 
-        "name": "PRSD208_Pr_30", 
-        "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439", 
-        "zh_cn": "\u5371\u9669", 
-        "zh_tw": "\u5371\u96aa\u865f"
-    }, 
-    "PRSD209": {
-        "en": "Osmotritelny", 
-        "id": 4075697616, 
-        "index": "PRSD209", 
-        "level": 9, 
-        "name": "PRSD209_Pr_35", 
-        "ru": "\u041e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439", 
-        "zh_cn": "\u614e\u5bc6", 
-        "zh_tw": "\u614e\u5bc6\u865f"
-    }, 
-    "PRSD210": {
-        "en": "Grozovoi", 
-        "id": 4074649040, 
-        "index": "PRSD210", 
-        "level": 10, 
-        "name": "PRSD210_Grozovoy_pr_40N", 
-        "ru": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
-        "zh_cn": "\u96f7\u66b4", 
-        "zh_tw": "\u96f7\u66b4\u7d1a"
-    }, 
-    "PRSD308": {
-        "en": "Kiev", 
-        "id": 3971888592, 
-        "index": "PRSD308", 
-        "level": 8, 
-        "name": "PRSD308_Pr_48", 
-        "ru": "\u041a\u0438\u0435\u0432", 
-        "zh_cn": "\u57c3\u91cc\u6eab", 
-        "zh_tw": "\u57c3\u91cc\u6eab\u865f"
-    }, 
-    "PRSD309": {
-        "en": "IDS_PRSD309", 
-        "id": 3970840016, 
-        "index": "PRSD309", 
-        "level": 9, 
-        "name": "PRSD309_Pr_20i", 
-        "ru": "IDS_PRSD309", 
-        "zh_cn": "\u963f\u4ec0\u54c8\u5df4\u5fb7", 
-        "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
-    }, 
-    "PRSD310": {
-        "en": "Nakhodka", 
-        "id": 3969791440, 
-        "index": "PRSD310", 
-        "level": 10, 
-        "name": "PRSD310_Pr_24", 
-        "ru": "\u041d\u0430\u0445\u043e\u0434\u043a\u0430", 
-        "zh_cn": "\u53d1\u73b0", 
-        "zh_tw": "\u767c\u73fe\u865f"
-    }, 
-    "PRSD409": {
-        "en": "Tashkent", 
-        "id": 3865982416, 
-        "index": "PRSD409", 
-        "level": 9, 
-        "name": "PRSD409_Pr_20i_Tashkent", 
-        "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442", 
-        "zh_cn": "IDS_PRSD409", 
-        "zh_tw": "IDS_PRSD409"
-    }, 
-    "PRSD505": {
-        "en": "Okhotnik", 
-        "id": 3765319120, 
-        "index": "PRSD505", 
-        "level": 5, 
-        "name": "PRSD505_Okhotnik_1917", 
-        "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a", 
-        "zh_cn": "\u730e\u4eba", 
-        "zh_tw": "\u7375\u4eba\u865f"
     }, 
     "PRSD507": {
         "en": "Leningrad", 
@@ -2353,7 +2213,7 @@
         "en": "Jackal", 
         "id": 4293866768, 
         "index": "PXSB001", 
-        "level": 2, 
+        "level": 11, 
         "name": "PXSB001_Mr_Hyde", 
         "ru": "Jackal", 
         "zh_cn": "Jackal", 
@@ -2363,7 +2223,7 @@
         "en": "Rasputin", 
         "id": 4292818192, 
         "index": "PXSB002", 
-        "level": 2, 
+        "level": 4, 
         "name": "PXSB002_Rasputin", 
         "ru": "\u0420\u0430\u0441\u043f\u0443\u0442\u0438\u043d", 
         "zh_cn": "Rasputin", 
@@ -2383,7 +2243,7 @@
         "en": "Igor", 
         "id": 4293834000, 
         "index": "PXSC001", 
-        "level": 2, 
+        "level": 11, 
         "name": "PXSC001_Dr_Frankenship", 
         "ru": "Igor", 
         "zh_cn": "Igor", 
@@ -2393,7 +2253,7 @@
         "en": "Blade", 
         "id": 4293801232, 
         "index": "PXSD001", 
-        "level": 2, 
+        "level": 11, 
         "name": "PXSD001_VanHellsink", 
         "ru": "Blade", 
         "zh_cn": "Blade", 
@@ -2403,11 +2263,11 @@
         "en": "Transylvania", 
         "id": 4293145872, 
         "index": "PXSX001", 
-        "level": 2, 
+        "level": 5, 
         "name": "PXSX001_Transylvania", 
         "ru": "\u0422\u0440\u0430\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", 
-        "zh_cn": "Transilvania", 
-        "zh_tw": "Transilvania"
+        "zh_cn": "Transylvania", 
+        "zh_tw": "Transylvania"
     }, 
     "PZSD506": {
         "en": "Anshan", 
