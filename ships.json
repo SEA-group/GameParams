@@ -629,6 +629,16 @@
         "zh_cn": "\u538c\u6218", 
         "zh_tw": "\u53ad\u6230\u865f"
     }, 
+    "PBSB507": {
+        "en": "IDS_PBSB507", 
+        "id": 3763288016, 
+        "index": "PBSB507", 
+        "level": 7, 
+        "name": "PBSB507_Hood", 
+        "ru": "IDS_PBSB507", 
+        "zh_cn": "IDS_PBSB507", 
+        "zh_tw": "IDS_PBSB507"
+    }, 
     "PBSC101": {
         "en": "Black Swan", 
         "id": 4188977104, 
@@ -1268,6 +1278,16 @@
         "ru": "Hakuryu", 
         "zh_cn": "\u767d\u9f99", 
         "zh_tw": "\u767d\u9f8d\u578b"
+    }, 
+    "PJSA507": {
+        "en": "IDS_PJSA507", 
+        "id": 3763320528, 
+        "index": "PJSA507", 
+        "level": 7, 
+        "name": "PJSA507_Kaga", 
+        "ru": "IDS_PJSA507", 
+        "zh_cn": "IDS_PJSA507", 
+        "zh_tw": "IDS_PJSA507"
     }, 
     "PJSB001": {
         "en": "Kawachi", 

@@ -439,6 +439,26 @@
         "zh_cn": "\u6c99\u6069\u970d\u65af\u7279", 
         "zh_tw": "\u6c99\u6069\u970d\u65af\u7279\u865f"
     }, 
+    "3763288016": {
+        "en": "IDS_PBSB507", 
+        "id": 3763288016, 
+        "index": "PBSB507", 
+        "level": 7, 
+        "name": "PBSB507_Hood", 
+        "ru": "IDS_PBSB507", 
+        "zh_cn": "IDS_PBSB507", 
+        "zh_tw": "IDS_PBSB507"
+    }, 
+    "3763320528": {
+        "en": "IDS_PJSA507", 
+        "id": 3763320528, 
+        "index": "PJSA507", 
+        "level": 7, 
+        "name": "PJSA507_Kaga", 
+        "ru": "IDS_PJSA507", 
+        "zh_cn": "IDS_PJSA507", 
+        "zh_tw": "IDS_PJSA507"
+    }, 
     "3763320816": {
         "en": "Saipan", 
         "id": 3763320816, 
