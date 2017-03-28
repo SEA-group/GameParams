@@ -1,0 +1,63 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASB508_Alabama.A_Hull.Cas.maxHP changed in second object (was 4800.0, is 7800.0)
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[2] removed in first object
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[3] removed in first object
+root.PASB508_Alabama.A_Hull.Cas.volume changed in second object (was 2.89, is 5.87)
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[2] removed in second object
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[3] removed in second object
+root.PASB508_Alabama.A_Hull.Cit.volume changed in second object (was 8.48, is 5.47)
+root.PASB508_Alabama.A_Hull.armor.131137 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131175 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131131 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65597 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65599 changed in second object (was 184.0, is 274.0)
+root.PASB508_Alabama.A_Hull.armor.65600 changed in second object (was 154.0, is 38.0)
+root.PASB508_Alabama.A_Hull.armor.65601 changed in second object (was 287.0, is 156.0)
+root.PASB508_Alabama.A_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB508_Alabama.A_Hull.armor.65639 changed in second object (was 16.0, is 154.0)
+root.PASB508_Alabama.A_Hull.armor.196711 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131136 removed in first object
+root.PASB508_Alabama.A_Hull.armor.196672 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131128 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131130 removed in first object
+root.PASB508_Alabama.A_Hull.armor.196671 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131127 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131135 removed in first object
+root.PASB508_Alabama.A_Hull.Bow.maxHP changed in second object (was 3600.0, is 2900.0)
+root.PASB508_Alabama.A_Hull.St.maxHP changed in second object (was 6000.0, is 4800.0)
+root.PASB508_Alabama.A_Hull.SS.maxHP changed in second object (was 4500.0, is 3600.0)
+root.PASB708_Alabama.A_Hull.armor.131137 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131175 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131131 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65597 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65599 changed in second object (was 184.0, is 274.0)
+root.PASB708_Alabama.A_Hull.armor.65600 changed in second object (was 154.0, is 38.0)
+root.PASB708_Alabama.A_Hull.armor.65601 changed in second object (was 287.0, is 156.0)
+root.PASB708_Alabama.A_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB708_Alabama.A_Hull.armor.65639 changed in second object (was 16.0, is 154.0)
+root.PASB708_Alabama.A_Hull.armor.196711 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131136 removed in first object
+root.PASB708_Alabama.A_Hull.armor.196672 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131128 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131130 removed in first object
+root.PASB708_Alabama.A_Hull.armor.196671 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131127 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131135 removed in first object
+root.PASB708_Alabama.A_Hull.Cas.maxHP changed in second object (was 4800.0, is 7800.0)
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[2] removed in first object
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[3] removed in first object
+root.PASB708_Alabama.A_Hull.Cas.volume changed in second object (was 2.89, is 5.87)
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[2] removed in second object
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[3] removed in second object
+root.PASB708_Alabama.A_Hull.Cit.volume changed in second object (was 8.48, is 5.47)
+root.PASB708_Alabama.A_Hull.St.maxHP changed in second object (was 6000.0, is 4800.0)
+root.PASB708_Alabama.A_Hull.SS.maxHP changed in second object (was 4500.0, is 3600.0)
+root.PASB708_Alabama.A_Hull.Bow.maxHP changed in second object (was 3600.0, is 2900.0)
+root.PCEE081_Collectioner removed in first object
+root.PCEE080_Elements removed in first object
+root.PCEE083_Easter_2017 removed in first object
+root.PCEE082_Blue_Mermaid removed in first object
+root.PCEE084_Alabama removed in first object
+>> finished comparing
