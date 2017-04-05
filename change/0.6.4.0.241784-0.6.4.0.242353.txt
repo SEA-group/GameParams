@@ -1,0 +1,225 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJAB012_B5N2_Kaga.formationSpinAround[0][0] changed in second object (was LineAbreast, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.formationEscortShip[0][0] changed in second object (was LineAbreast, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.formationMove[0][0] changed in second object (was LineAbreast, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.formationAttackMove[0][0] changed in second object (was JapTorpedoMove, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.torpedoSpreading changed in second object (was 26.0, is 30.0)
+root.PJAB012_B5N2_Kaga.formationEscortPlane[0][0] changed in second object (was LineAbreast, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.formationMoveToTarget[0][0] changed in second object (was JapTorpedoMove, is JapTorpedoMoveKaga)
+root.PJAB012_B5N2_Kaga.formationAttack[0][0] changed in second object (was JapTorpedoMove, is JapTorpedoMoveKaga)
+root.PIGM002_152mm53.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFGM038_139_55_Mle_1921_Twin.shotDelay changed in second object (was 7.0, is 12.0)
+root.PFSB506_Dunkerque_1940.A_Hull.armor.65645 changed in second object (was 100.0, is 150.0)
+root.PFSB506_Dunkerque_1940.A_Hull.armor.131180 removed in first object
+root.PFSB506_Dunkerque_1940.groupCustom.NA removed in first object
+root.PIPT001_533_SI270_DUCA.speed changed in second object (was 66.0, is 51.0)
+root.PIPT001_533_SI270_DUCA.visibilityFactor changed in second object (was 1.4, is 1.0)
+root.PIPT001_533_SI270_DUCA.maxDist changed in second object (was 150.0, is 400.0)
+root.PFGM017_155_50_Mle_1921_Twin.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFGM017_155_50_Mle_1921_Twin.rotationSpeed[0] changed in second object (was 6.4, is 8.0)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY007_SpeedBooster)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was C, is FR_CR)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY015_SpeedBoosterPremium)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was C_Gold, is FR_CR_PREM)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY002_RegenCrew)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was FR_CR, is C)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY010_RegenCrewPremium)
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was FR_CR_PREM, is C_Gold)
+root.PFGM040_203_55mm_Mle_1931_Triple.shotDelay changed in second object (was 12.0, is 10.0)
+root.PJSC038_Atago_1944.groupCustom.CN removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.CN removed in first object
+root.PJSD026_Camo_Kamikaze.permoflages[1] removed in first object
+root.PXSX015_Schuka.group changed in second object (was event, is disabled)
+root.PFSC103_Friant.AB1_Artillery.HP_FGM_4.shotDelay changed in second object (was 7.0, is 12.0)
+root.PFSC103_Friant.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 7.0, is 12.0)
+root.PFSC103_Friant.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 7.0, is 12.0)
+root.PFSC103_Friant.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 7.0, is 12.0)
+root.PGSB507_Scharnhorst.groupCustom.CN removed in first object
+root.PASB705_Texas_1944.groupCustom.CN removed in first object
+root.PBSC507_Belfast_1959.groupCustom.CN removed in first object
+root.PRSC102_Novik.A_Hull.visibilityFactor changed in second object (was 9.72, is 9.03)
+root.PRSC102_Novik.B_Hull.visibilityFactor changed in second object (was 9.72, is 9.03)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 7.5, is 10.0)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 7.5, is 10.0)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 7.5, is 10.0)
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFGM018_203mm50_Mle_1924_Algerie.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFGM025_138_6mm_40_Mle_1927.shotDelay changed in second object (was 8.0, is 6.0)
+root.PASC507_Indianapolis_1945.groupCustom.CN removed in first object
+root.PFGM044_152_55_Mle_1930_RF.shotDelay changed in second object (was 7.5, is 12.0)
+root.PASB508_Alabama.A_Hull.Cas.maxHP changed in second object (was 4800.0, is 7800.0)
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[2] removed in first object
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[3] removed in first object
+root.PASB508_Alabama.A_Hull.Cas.volume changed in second object (was 2.89, is 5.87)
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[2] removed in second object
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[3] removed in second object
+root.PASB508_Alabama.A_Hull.Cit.volume changed in second object (was 8.48, is 5.47)
+root.PASB508_Alabama.A_Hull.armor.131137 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131175 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131131 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65597 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65599 changed in second object (was 184.0, is 274.0)
+root.PASB508_Alabama.A_Hull.armor.65600 changed in second object (was 154.0, is 38.0)
+root.PASB508_Alabama.A_Hull.armor.65601 changed in second object (was 287.0, is 156.0)
+root.PASB508_Alabama.A_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB508_Alabama.A_Hull.armor.65639 changed in second object (was 16.0, is 154.0)
+root.PASB508_Alabama.A_Hull.armor.196711 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131136 removed in first object
+root.PASB508_Alabama.A_Hull.armor.196672 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131128 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131130 removed in first object
+root.PASB508_Alabama.A_Hull.armor.196671 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131127 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131135 removed in first object
+root.PASB508_Alabama.A_Hull.Bow.maxHP changed in second object (was 3600.0, is 2900.0)
+root.PASB508_Alabama.A_Hull.St.maxHP changed in second object (was 6000.0, is 4800.0)
+root.PASB508_Alabama.A_Hull.SS.maxHP changed in second object (was 4500.0, is 3600.0)
+root.PASB508_Alabama.group changed in second object (was demoWithoutStats, is special)
+root.PASB508_Alabama.groupCustom.CN removed in second object
+root.PASB508_Alabama.groupCustom.EU removed in first object
+root.PGSB103_Nassau.A_Hull.armor.65583 removed in first object
+root.PGSB103_Nassau.A_Hull.armor.65598 removed in first object
+root.PGSB103_Nassau.A_Hull.armor.65628 removed in first object
+root.PGSB103_Nassau.B_Hull.armor.65583 removed in first object
+root.PGSB103_Nassau.B_Hull.armor.65598 removed in first object
+root.PGSB103_Nassau.B_Hull.armor.65628 removed in first object
+root.PJSC026_Iwaki_1944.A_Hull.visibilityFactor changed in second object (was 10.8, is 10.1)
+root.PGSC508_Prinz_Eugen.groupCustom.CN removed in first object
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_3.shotDelay changed in second object (was 8.0, is 6.0)
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 8.0, is 6.0)
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 8.0, is 6.0)
+root.PCY007_SpeedBooster.FR_CR.reloadTime changed in second object (was 180.0, is 120.0)
+root.PCY007_SpeedBooster.FR_CR.boostCoeff changed in second object (was 0.1, is 0.15)
+root.PIGM001_152mm53_F.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PCY015_SpeedBoosterPremium.FR_CR_PREM.backwardEngineForsag changed in second object (was 2.5, is 4.0)
+root.PCY015_SpeedBoosterPremium.FR_CR_PREM.reloadTime changed in second object (was 120.0, is 90.0)
+root.PCY015_SpeedBoosterPremium.FR_CR_PREM.backwardEngineForsagMaxSpeed changed in second object (was 10.0, is 12.0)
+root.PCY015_SpeedBoosterPremium.FR_CR_PREM.boostCoeff changed in second object (was 0.08, is 0.15)
+root.PRSC503_Oleg.groupCustom.PT removed in second object
+root.PRSC503_Oleg.groupCustom.ST removed in second object
+root.PRSC503_Oleg.groupCustom.RU removed in first object
+root.PISC506_DucadAosta.A_Hull.rudderTime changed in second object (was 10.9, is 8.7)
+root.PISC506_DucadAosta.A_Hull.SG.armorCoeff changed in second object (was 0.6, is 0.4)
+root.PISC506_DucadAosta.A1_Artillery.HP_IGM_1.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PISC506_DucadAosta.A1_Artillery.HP_IGM_3.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PISC506_DucadAosta.A1_Artillery.HP_IGM_2.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PISC506_DucadAosta.A1_Artillery.HP_IGM_4.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY005_Spotter, is PCY003_AirDefenseDisp)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PIY001_IMAM_RO43_Cruiser_3, is Default)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY013_SpotterPremium, is PCY011_AirDefenseDispPremium)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PIY101_IMAM_RO43_Cruiser_3, is Default_Gold)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY008_SonarSearch)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Default, is C_6)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY016_SonarSearchPremium)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Default_Gold, is C_6_Premium)
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PISC506_DucadAosta.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.PT removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ST removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.RU removed in first object
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_3.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_1.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_2.shotDelay changed in second object (was 12.0, is 10.0)
+root.PFGM020_164mm_Ernest_Renan.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC107_Algerie.AB1_Artillery.HP_FGM_4.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFSC107_Algerie.AB1_Artillery.HP_FGM_3.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFSC107_Algerie.AB1_Artillery.HP_FGM_1.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFSC107_Algerie.AB1_Artillery.HP_FGM_2.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_7.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_4.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_5.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_8.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.A1_Artillery.HP_FGM_6.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_7.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_4.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_5.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_8.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC102_Jurien.B1_Artillery.HP_FGM_6.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFGM045_152_55_Mle_1930.shotDelay changed in second object (was 7.5, is 12.0)
+root.PRSD507_Leningrad_1944.groupCustom.CN removed in first object
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_4.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_4.rotationSpeed[0] changed in second object (was 6.4, is 8.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_3.rotationSpeed[0] changed in second object (was 6.4, is 8.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_1.rotationSpeed[0] changed in second object (was 6.4, is 8.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC104_Duguay_Trouin.AB1_Artillery.HP_FGM_2.rotationSpeed[0] changed in second object (was 6.4, is 8.0)
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_3.shotDelay changed in second object (was 7.5, is 12.0)
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 7.5, is 12.0)
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 7.5, is 12.0)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_3.shotDelay changed in second object (was 7.5, is 12.0)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_1.shotDelay changed in second object (was 7.5, is 12.0)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_2.shotDelay changed in second object (was 7.5, is 12.0)
+root.PJSA507_Kaga.A1_FlightControl.planesReserveAssignment.Dive changed in second object (was 3, is 5)
+root.PJSA507_Kaga.A1_FlightControl.planesReserveAssignment.Fighter changed in second object (was 0, is 1)
+root.PJSA507_Kaga.A1_FlightControl.planesReserveAssignment.Bomber changed in second object (was 1, is 2)
+root.PJSA507_Kaga.A1_FlightControl.squadrons[0][0] changed in second object (was Bomber, is Fighter)
+root.PJSA507_Kaga.A1_FlightControl.squadrons[1][1] changed in second object (was 4, is 6)
+root.PJSA507_Kaga.A1_FlightControl.squadrons[5] removed in second object
+root.PJSA507_Kaga.A2_FlightControl.planesReserveAssignment.Dive changed in second object (was 0, is 1)
+root.PJSA507_Kaga.A2_FlightControl.planesReserveAssignment.Fighter changed in second object (was 1, is 2)
+root.PJSA507_Kaga.A2_FlightControl.planesReserveAssignment.Bomber changed in second object (was 1, is 3)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[2][0] changed in second object (was Fighter, is Bomber)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[2][1] changed in second object (was 4, is 6)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[3][1] changed in second object (was 2, is 6)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[4][0] changed in second object (was Bomber, is Dive)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[4][1] changed in second object (was 2, is 6)
+root.PJSA507_Kaga.A2_FlightControl.squadrons[5] removed in second object
+root.PJSA507_Kaga.A2_FlightControl.squadrons[6] removed in second object
+root.PJSA507_Kaga.A2_FlightControl.squadrons[7] removed in second object
+root.PRSC506_Molotov_1943.groupCustom.CN removed in first object
+root.PASB708_Alabama.A_Hull.armor.131137 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131175 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131131 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65597 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65599 changed in second object (was 184.0, is 274.0)
+root.PASB708_Alabama.A_Hull.armor.65600 changed in second object (was 154.0, is 38.0)
+root.PASB708_Alabama.A_Hull.armor.65601 changed in second object (was 287.0, is 156.0)
+root.PASB708_Alabama.A_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB708_Alabama.A_Hull.armor.65639 changed in second object (was 16.0, is 154.0)
+root.PASB708_Alabama.A_Hull.armor.196711 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131136 removed in first object
+root.PASB708_Alabama.A_Hull.armor.196672 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131128 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131130 removed in first object
+root.PASB708_Alabama.A_Hull.armor.196671 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131127 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131135 removed in first object
+root.PASB708_Alabama.A_Hull.Cas.maxHP changed in second object (was 4800.0, is 7800.0)
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[2] removed in first object
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[3] removed in first object
+root.PASB708_Alabama.A_Hull.Cas.volume changed in second object (was 2.89, is 5.87)
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[2] removed in second object
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[3] removed in second object
+root.PASB708_Alabama.A_Hull.Cit.volume changed in second object (was 8.48, is 5.47)
+root.PASB708_Alabama.A_Hull.St.maxHP changed in second object (was 6000.0, is 4800.0)
+root.PASB708_Alabama.A_Hull.SS.maxHP changed in second object (was 4500.0, is 3600.0)
+root.PASB708_Alabama.A_Hull.Bow.maxHP changed in second object (was 3600.0, is 2900.0)
+root.PASA507_Saipan_1946.groupCustom.CN removed in first object
+root.PFPA023_240MM_55_AP.bulletAirDrag changed in second object (was 0.3376, is 0.2764)
+root.PFPA023_240MM_55_AP.bulletKrupp changed in second object (was 2282.0, is 2882.0)
+root.PASB506_Arizona_1941.groupCustom.CN removed in first object
+root.PCEE081_Collectioner removed in first object
+root.PCEC027_Players_Birthday removed in first object
+root.PCEC024_Battle_Hardened removed in first object
+root.PCEC025_CoE_Team_Water removed in first object
+root.PCEC026_CoE_Team_Fire removed in first object
+root.PCEE080_Elements removed in first object
+root.PCEE083_Easter_2017 removed in first object
+root.PJEP626_CoE_Kamikaze_R removed in first object
+root.PCEE082_Blue_Mermaid removed in first object
+root.PCEE084_Alabama removed in first object
+>> finished comparing
