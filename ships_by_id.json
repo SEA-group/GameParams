@@ -9,16 +9,6 @@
         "zh_cn": "Test Ship", 
         "zh_tw": "Test Ship"
     }, 
-    "3247355600": {
-        "en": "IDS_PJSC999", 
-        "id": 3247355600, 
-        "index": "PJSC999", 
-        "level": 10, 
-        "name": "PJSC999_Yubari_Special", 
-        "ru": "IDS_PJSC999", 
-        "zh_cn": "TestShip", 
-        "zh_tw": "TestShip"
-    }, 
     "3346282480": {
         "en": "IDS_PASX904", 
         "id": 3346282480, 
@@ -1703,7 +1693,7 @@
         "en": "IDS_PXSX015", 
         "id": 4278465808, 
         "index": "PXSX015", 
-        "level": 11, 
+        "level": 2, 
         "name": "PXSX015_Schuka", 
         "ru": "IDS_PXSX015", 
         "zh_cn": "IDS_PXSX015", 
