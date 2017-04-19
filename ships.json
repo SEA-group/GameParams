@@ -569,6 +569,16 @@
         "zh_cn": "\u53f2\u5bc6\u65af", 
         "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
     }, 
+    "PASD508": {
+        "en": "IDS_PASD508", 
+        "id": 3762173936, 
+        "index": "PASD508", 
+        "level": 8, 
+        "name": "PASD508_Kidd", 
+        "ru": "IDS_PASD508", 
+        "zh_cn": "IDS_PASD508", 
+        "zh_tw": "IDS_PASD508"
+    }, 
     "PASD709": {
         "en": "Black", 
         "id": 3551410160, 
@@ -868,6 +878,16 @@
         "ru": "Henri IV", 
         "zh_cn": "IDS_PFSC110", 
         "zh_tw": "IDS_PFSC110"
+    }, 
+    "PFSC506": {
+        "en": "IDS_PFSC506", 
+        "id": 3764303696, 
+        "index": "PFSC506", 
+        "level": 6, 
+        "name": "PFSC506_De_Grasse", 
+        "ru": "IDS_PFSC506", 
+        "zh_cn": "IDS_PFSC506", 
+        "zh_tw": "IDS_PFSC506"
     }, 
     "PGSB002": {
         "en": "Tirpitz", 
@@ -1699,16 +1719,6 @@
         "zh_cn": "\u6d77\u96fe-\u90a3\u667a", 
         "zh_tw": "\u6d77\u96fe-\u90a3\u667a"
     }, 
-    "PJSC799": {
-        "en": "ARP Takao", 
-        "id": 3457070800, 
-        "index": "PJSC799", 
-        "level": 8, 
-        "name": "PJSC799_Takao", 
-        "ru": "ARP Takao", 
-        "zh_cn": "\u6d77\u96fe-\u9ad8\u96c4", 
-        "zh_tw": "\u6d77\u96fe-\u9ad8\u96c4"
-    }, 
     "PJSC837": {
         "en": "Hashidate", 
         "id": 3417224912, 
@@ -1968,26 +1978,6 @@
         "ru": "Isokaze", 
         "zh_cn": "\u77f6\u98ce", 
         "zh_tw": "\u78ef\u98a8"
-    }, 
-    "PJSX701": {
-        "en": "ARP I-401", 
-        "id": 3559143120, 
-        "index": "PJSX701", 
-        "level": 11, 
-        "name": "PJSX701_Support", 
-        "ru": "ARP I-401", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
-    }, 
-    "PJSX702": {
-        "en": "ARP I-401", 
-        "id": 3558094544, 
-        "index": "PJSX702", 
-        "level": 11, 
-        "name": "PJSX702_Support", 
-        "ru": "ARP I-401", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
     }, 
     "PRSB001": {
         "en": "Nikolai I", 
@@ -2398,76 +2388,6 @@
         "ru": "B\u0142yskawica", 
         "zh_cn": "\u95ea\u7535", 
         "zh_tw": "\u9583\u96fb\u865f"
-    }, 
-    "PXSB001": {
-        "en": "Jackal", 
-        "id": 4293866768, 
-        "index": "PXSB001", 
-        "level": 2, 
-        "name": "PXSB001_Mr_Hyde", 
-        "ru": "Jackal", 
-        "zh_cn": "Jackal", 
-        "zh_tw": "Jackal"
-    }, 
-    "PXSB002": {
-        "en": "Rasputin", 
-        "id": 4292818192, 
-        "index": "PXSB002", 
-        "level": 2, 
-        "name": "PXSB002_Rasputin", 
-        "ru": "\u0420\u0430\u0441\u043f\u0443\u0442\u0438\u043d", 
-        "zh_cn": "Rasputin", 
-        "zh_tw": "Rasputin"
-    }, 
-    "PXSB003": {
-        "en": "Zikasa", 
-        "id": 4291769616, 
-        "index": "PXSB003", 
-        "level": 2, 
-        "name": "PXSB003_Zeekasa", 
-        "ru": "Zikasa", 
-        "zh_cn": "Zikasa", 
-        "zh_tw": "Zikasa"
-    }, 
-    "PXSC001": {
-        "en": "Igor", 
-        "id": 4293834000, 
-        "index": "PXSC001", 
-        "level": 2, 
-        "name": "PXSC001_Dr_Frankenship", 
-        "ru": "Igor", 
-        "zh_cn": "Igor", 
-        "zh_tw": "Igor"
-    }, 
-    "PXSD001": {
-        "en": "Blade", 
-        "id": 4293801232, 
-        "index": "PXSD001", 
-        "level": 2, 
-        "name": "PXSD001_VanHellsink", 
-        "ru": "Blade", 
-        "zh_cn": "Blade", 
-        "zh_tw": "Blade"
-    }, 
-    "PXSX001": {
-        "en": "Transylvania", 
-        "id": 4293145872, 
-        "index": "PXSX001", 
-        "level": 2, 
-        "name": "PXSX001_Transylvania", 
-        "ru": "\u0422\u0440\u0430\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", 
-        "zh_cn": "Transylvania", 
-        "zh_tw": "Transylvania"
-    }, 
-    "PXSX015": {
-        "en": "IDS_PXSX015", 
-        "id": 4278465808, 
-        "index": "PXSX015", 
-        "level": 2, 
-        "name": "PXSX015_Schuka", 
-        "ru": "IDS_PXSX015", 
-        "zh_cn": "IDS_PXSX015", 
-        "zh_tw": "IDS_PXSX015"
     }, 
     "PZSD506": {
         "en": "Anshan", 

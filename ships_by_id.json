@@ -139,16 +139,6 @@
         "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
         "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d"
     }, 
-    "3457070800": {
-        "en": "ARP Takao", 
-        "id": 3457070800, 
-        "index": "PJSC799", 
-        "level": 8, 
-        "name": "PJSC799_Takao", 
-        "ru": "ARP Takao", 
-        "zh_cn": "\u6d77\u96fe-\u9ad8\u96c4", 
-        "zh_tw": "\u6d77\u96fe-\u9ad8\u96c4"
-    }, 
     "3457103568": {
         "en": "ARP Kirishima", 
         "id": 3457103568, 
@@ -319,26 +309,6 @@
         "zh_cn": "\u5fb7\u514b\u8428\u65af", 
         "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
     }, 
-    "3558094544": {
-        "en": "ARP I-401", 
-        "id": 3558094544, 
-        "index": "PJSX702", 
-        "level": 11, 
-        "name": "PJSX702_Support", 
-        "ru": "ARP I-401", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
-    }, 
-    "3559143120": {
-        "en": "ARP I-401", 
-        "id": 3559143120, 
-        "index": "PJSX701", 
-        "level": 11, 
-        "name": "PJSX701_Support", 
-        "ru": "ARP I-401", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
-    }, 
     "3761190896": {
         "en": "Missouri", 
         "id": 3761190896, 
@@ -358,6 +328,16 @@
         "ru": "Lo Yang", 
         "zh_cn": "\u6d1b\u9633", 
         "zh_tw": "\u6d1b\u967d\u865f"
+    }, 
+    "3762173936": {
+        "en": "IDS_PASD508", 
+        "id": 3762173936, 
+        "index": "PASD508", 
+        "level": 8, 
+        "name": "PASD508_Kidd", 
+        "ru": "IDS_PASD508", 
+        "zh_cn": "IDS_PASD508", 
+        "zh_tw": "IDS_PASD508"
     }, 
     "3762206160": {
         "en": "Kutuzov", 
@@ -508,6 +488,16 @@
         "ru": "Graf Spee", 
         "zh_cn": "\u65bd\u4f69\u4f2f\u7235\u6d77\u519b\u4e0a\u5c06", 
         "zh_tw": "\u65bd\u4f69\u4f2f\u7235\u6d77\u8ecd\u4e0a\u5c07\u865f"
+    }, 
+    "3764303696": {
+        "en": "IDS_PFSC506", 
+        "id": 3764303696, 
+        "index": "PFSC506", 
+        "level": 6, 
+        "name": "PFSC506_De_Grasse", 
+        "ru": "IDS_PFSC506", 
+        "zh_cn": "IDS_PFSC506", 
+        "zh_tw": "IDS_PFSC506"
     }, 
     "3764336336": {
         "en": "Mutsu", 
@@ -1689,16 +1679,6 @@
         "zh_cn": "\u4f0d\u65af\u7279", 
         "zh_tw": "\u4f0d\u65af\u7279\u7d1a"
     }, 
-    "4278465808": {
-        "en": "IDS_PXSX015", 
-        "id": 4278465808, 
-        "index": "PXSX015", 
-        "level": 2, 
-        "name": "PXSX015_Schuka", 
-        "ru": "IDS_PXSX015", 
-        "zh_cn": "IDS_PXSX015", 
-        "zh_tw": "IDS_PXSX015"
-    }, 
     "4279154384": {
         "en": "Tenryu", 
         "id": 4279154384, 
@@ -2239,16 +2219,6 @@
         "zh_cn": "\u5965\u5c14\u5df4\u5c3c", 
         "zh_tw": "\u5967\u723e\u5df4\u5c3c\u865f"
     }, 
-    "4291769616": {
-        "en": "Zikasa", 
-        "id": 4291769616, 
-        "index": "PXSB003", 
-        "level": 2, 
-        "name": "PXSB003_Zeekasa", 
-        "ru": "Zikasa", 
-        "zh_cn": "Zikasa", 
-        "zh_tw": "Zikasa"
-    }, 
     "4291770064": {
         "en": "Myogi", 
         "id": 4291770064, 
@@ -2309,16 +2279,6 @@
         "zh_cn": "\u5207\u65af\u7279", 
         "zh_tw": "\u5207\u65af\u7279\u7d1a"
     }, 
-    "4292818192": {
-        "en": "Rasputin", 
-        "id": 4292818192, 
-        "index": "PXSB002", 
-        "level": 2, 
-        "name": "PXSB002_Rasputin", 
-        "ru": "\u0420\u0430\u0441\u043f\u0443\u0442\u0438\u043d", 
-        "zh_cn": "Rasputin", 
-        "zh_tw": "Rasputin"
-    }, 
     "4292818736": {
         "en": "Tirpitz", 
         "id": 4292818736, 
@@ -2359,16 +2319,6 @@
         "zh_cn": "\u535a\u683c", 
         "zh_tw": "\u535a\u683c\u7d1a"
     }, 
-    "4293145872": {
-        "en": "Transylvania", 
-        "id": 4293145872, 
-        "index": "PXSX001", 
-        "level": 2, 
-        "name": "PXSX001_Transylvania", 
-        "ru": "\u0422\u0440\u0430\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", 
-        "zh_cn": "Transylvania", 
-        "zh_tw": "Transylvania"
-    }, 
     "4293146608": {
         "en": "Cimarron", 
         "id": 4293146608, 
@@ -2378,16 +2328,6 @@
         "ru": "Cimarron", 
         "zh_cn": "\u897f\u9a6c\u9686", 
         "zh_tw": "\u897f\u99ac\u9686\u7d1a"
-    }, 
-    "4293801232": {
-        "en": "Blade", 
-        "id": 4293801232, 
-        "index": "PXSD001", 
-        "level": 2, 
-        "name": "PXSD001_VanHellsink", 
-        "ru": "Blade", 
-        "zh_cn": "Blade", 
-        "zh_tw": "Blade"
     }, 
     "4293801424": {
         "en": "Gremyashchy", 
@@ -2408,16 +2348,6 @@
         "ru": "Tachibana", 
         "zh_cn": "\u6a58", 
         "zh_tw": "\u6a58\u865f"
-    }, 
-    "4293834000": {
-        "en": "Igor", 
-        "id": 4293834000, 
-        "index": "PXSC001", 
-        "level": 2, 
-        "name": "PXSC001_Dr_Frankenship", 
-        "ru": "Igor", 
-        "zh_cn": "Igor", 
-        "zh_tw": "Igor"
     }, 
     "4293834192": {
         "en": "Aurora", 
@@ -2448,16 +2378,6 @@
         "ru": "Erie", 
         "zh_cn": "\u4f0a\u5229", 
         "zh_tw": "\u4f0a\u5229\u7d1a"
-    }, 
-    "4293866768": {
-        "en": "Jackal", 
-        "id": 4293866768, 
-        "index": "PXSB001", 
-        "level": 2, 
-        "name": "PXSB001_Mr_Hyde", 
-        "ru": "Jackal", 
-        "zh_cn": "Jackal", 
-        "zh_tw": "Jackal"
     }, 
     "4293866960": {
         "en": "Nikolai I", 
