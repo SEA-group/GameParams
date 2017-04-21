@@ -570,7 +570,7 @@
         "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
     }, 
     "PASD508": {
-        "en": "IDS_PASD508", 
+        "en": "Kidd", 
         "id": 3762173936, 
         "index": "PASD508", 
         "level": 8, 
@@ -620,14 +620,14 @@
         "zh_tw": "\u897f\u99ac\u9686"
     }, 
     "PASX904": {
-        "en": "IDS_PASX904", 
+        "en": "Cimarron Test", 
         "id": 3346282480, 
         "index": "PASX904", 
         "level": 5, 
         "name": "PASX904_Cimarron", 
         "ru": "IDS_PASX904", 
-        "zh_cn": "IDS_PASX904", 
-        "zh_tw": "IDS_PASX904"
+        "zh_cn": "\u897f\u99ac\u9686Test", 
+        "zh_tw": "\u897f\u99ac\u9686Test"
     }, 
     "PBSB002": {
         "en": "Warspite", 
@@ -640,14 +640,14 @@
         "zh_tw": "\u53ad\u6230\u865f"
     }, 
     "PBSB507": {
-        "en": "IDS_PBSB507", 
+        "en": "Hood", 
         "id": 3763288016, 
         "index": "PBSB507", 
         "level": 7, 
         "name": "PBSB507_Hood", 
         "ru": "IDS_PBSB507", 
-        "zh_cn": "IDS_PBSB507", 
-        "zh_tw": "IDS_PBSB507"
+        "zh_cn": "\u80e1\u5fb7", 
+        "zh_tw": "\u80e1\u5fb7\u865f"
     }, 
     "PBSC101": {
         "en": "Black Swan", 
@@ -786,8 +786,8 @@
         "level": 1, 
         "name": "PFSC101_Bougainville", 
         "ru": "Bougainville", 
-        "zh_cn": "IDS_PFSC101", 
-        "zh_tw": "IDS_PFSC101"
+        "zh_cn": "\u5e03\u5e72\u7ef4\u5c14", 
+        "zh_tw": "\u5e03\u5e72\u7dad\u723e\u7d1a"
     }, 
     "PFSC102": {
         "en": "Jurien", 
@@ -796,8 +796,8 @@
         "level": 2, 
         "name": "PFSC102_Jurien", 
         "ru": "Jurien", 
-        "zh_cn": "IDS_PFSC102", 
-        "zh_tw": "IDS_PFSC102"
+        "zh_cn": "\u5c24\u91cc\u5b89\u00b7\u683c\u62c9\u7ef4", 
+        "zh_tw": "\u5c24\u91cc\u5b89\u00b7\u683c\u62c9\u7dad\u7d1a"
     }, 
     "PFSC103": {
         "en": "Friant", 
@@ -806,8 +806,8 @@
         "level": 3, 
         "name": "PFSC103_Friant", 
         "ru": "Friant", 
-        "zh_cn": "IDS_PFSC103", 
-        "zh_tw": "IDS_PFSC103"
+        "zh_cn": "\u5f17\u5229\u6602", 
+        "zh_tw": "\u5f17\u5229\u6602\u7d1a"
     }, 
     "PFSC104": {
         "en": "Duguay-Trouin", 
@@ -816,8 +816,8 @@
         "level": 4, 
         "name": "PFSC104_Duguay_Trouin", 
         "ru": "Duguay-Trouin", 
-        "zh_cn": "IDS_PFSC104", 
-        "zh_tw": "IDS_PFSC104"
+        "zh_cn": "\u8fea\u76d6\u00b7\u7279\u9c81\u5b89", 
+        "zh_tw": "\u8fea\u84cb\u00b7\u7279\u9b6f\u5b89\u7d1a"
     }, 
     "PFSC105": {
         "en": "\u00c9mile Bertin", 
@@ -826,8 +826,8 @@
         "level": 5, 
         "name": "PFSC105_Emile_Bertin", 
         "ru": "\u00c9mile Bertin", 
-        "zh_cn": "IDS_PFSC105", 
-        "zh_tw": "IDS_PFSC105"
+        "zh_cn": "\u767d\u52b3\u6613", 
+        "zh_tw": "\u767d\u52de\u6613\u865f"
     }, 
     "PFSC106": {
         "en": "La Galissonni\u00e8re", 
@@ -836,8 +836,8 @@
         "level": 6, 
         "name": "PFSC106_La_Galissonniere", 
         "ru": "La Galissonni\u00e8re", 
-        "zh_cn": "IDS_PFSC106", 
-        "zh_tw": "IDS_PFSC106"
+        "zh_cn": "\u52a0\u5229\u7d22\u5c3c\u57c3", 
+        "zh_tw": "\u52a0\u5229\u7d22\u5c3c\u57c3\u7d1a"
     }, 
     "PFSC107": {
         "en": "Alg\u00e9rie", 
@@ -846,8 +846,8 @@
         "level": 7, 
         "name": "PFSC107_Algerie", 
         "ru": "Alg\u00e9rie", 
-        "zh_cn": "IDS_PFSC107", 
-        "zh_tw": "IDS_PFSC107"
+        "zh_cn": "\u963f\u5c14\u53ca\u5229\u4e9a", 
+        "zh_tw": "\u963f\u723e\u53ca\u5229\u4e9e\u865f"
     }, 
     "PFSC108": {
         "en": "Charles Martel", 
@@ -856,8 +856,8 @@
         "level": 8, 
         "name": "PFSC108_Charles_Martel", 
         "ru": "Charles Martel", 
-        "zh_cn": "IDS_PFSC108", 
-        "zh_tw": "IDS_PFSC108"
+        "zh_cn": "\u67e5\u7406\u00b7\u9a6c\u7279", 
+        "zh_tw": "\u67e5\u7406\u00b7\u99ac\u7279\u7d1a"
     }, 
     "PFSC109": {
         "en": "Saint-Louis", 
@@ -866,8 +866,8 @@
         "level": 9, 
         "name": "PFSC109_Saint_Louis", 
         "ru": "Saint-Louis", 
-        "zh_cn": "IDS_PFSC109", 
-        "zh_tw": "IDS_PFSC109"
+        "zh_cn": "\u8def\u6613\u4e5d\u4e16", 
+        "zh_tw": "\u8def\u6613\u4e5d\u4e16\u7d1a"
     }, 
     "PFSC110": {
         "en": "Henri IV", 
@@ -876,11 +876,11 @@
         "level": 10, 
         "name": "PFSC110_Henri_IV", 
         "ru": "Henri IV", 
-        "zh_cn": "IDS_PFSC110", 
-        "zh_tw": "IDS_PFSC110"
+        "zh_cn": "\u4ea8\u5229\u56db\u4e16", 
+        "zh_tw": "\u4ea8\u5229\u56db\u4e16\u7d1a"
     }, 
     "PFSC506": {
-        "en": "IDS_PFSC506", 
+        "en": "De Grasse", 
         "id": 3764303696, 
         "index": "PFSC506", 
         "level": 6, 
@@ -1226,8 +1226,8 @@
         "level": 6, 
         "name": "PISC506_DucadAosta", 
         "ru": "Duca d'Aosta", 
-        "zh_cn": "IDS_PISC506", 
-        "zh_tw": "IDS_PISC506"
+        "zh_cn": "\u5965\u65af\u5854\u516c\u7235", 
+        "zh_tw": "\u5967\u65af\u5854\u516c\u7235\u865f"
     }, 
     "PJSA002": {
         "en": "Hosho", 
@@ -1300,14 +1300,14 @@
         "zh_tw": "\u767d\u9f8d\u578b"
     }, 
     "PJSA507": {
-        "en": "IDS_PJSA507", 
+        "en": "Kaga", 
         "id": 3763320528, 
         "index": "PJSA507", 
         "level": 7, 
         "name": "PJSA507_Kaga", 
         "ru": "IDS_PJSA507", 
-        "zh_cn": "IDS_PJSA507", 
-        "zh_tw": "IDS_PJSA507"
+        "zh_cn": "\u52a0\u8d3a", 
+        "zh_tw": "\u52a0\u8cc0\u865f"
     }, 
     "PJSB001": {
         "en": "Kawachi", 
@@ -2220,7 +2220,7 @@
         "zh_tw": "\u4f0a\u8cc8\u65af\u62c9\u592b\u7d1a"
     }, 
     "PRSD105": {
-        "en": "Gnevny (< 06.03.2017)", 
+        "en": "Gnevny (OLD)", 
         "id": 4184749520, 
         "index": "PRSD105", 
         "level": 5, 
@@ -2230,7 +2230,7 @@
         "zh_tw": "\u81ea\u8c6a\u865f"
     }, 
     "PRSD106": {
-        "en": "Ognevoi (< 06.03.2017)", 
+        "en": "Ognevoi (OLD)", 
         "id": 4183700944, 
         "index": "PRSD106", 
         "level": 6, 
@@ -2250,7 +2250,7 @@
         "zh_tw": "\u70cf\u9054\u6d1b\u4f0a\u7d1a"
     }, 
     "PRSD108": {
-        "en": "Tashkent (< 06.03.2017)", 
+        "en": "Tashkent (OLD)", 
         "id": 4181603792, 
         "index": "PRSD108", 
         "level": 8, 
@@ -2260,14 +2260,14 @@
         "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
     }, 
     "PRSD109": {
-        "en": "Kiev (< 06.03.2017)", 
+        "en": "Kiev (OLD)", 
         "id": 4180555216, 
         "index": "PRSD109", 
         "level": 7, 
         "name": "PRSD109_Pr_48_Kiev", 
         "ru": "\u041a\u0438\u0435\u0432 (< 06.03.2017)", 
         "zh_cn": "\u57c3\u91cc\u6e29", 
-        "zh_tw": "\u57c3\u91cc\u6eab\u865f (Yerevan)"
+        "zh_tw": "\u57c3\u91cc\u6eab\u865f"
     }, 
     "PRSD110": {
         "en": "Khabarovsk", 
@@ -2347,7 +2347,7 @@
         "name": "PRSD409_Pr_20i_Tashkent", 
         "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442", 
         "zh_cn": "\u5854\u4ec0\u5e72", 
-        "zh_tw": "\u5854\u4ec0\u5e79\u865f"
+        "zh_tw": "\u5854\u4ec0\u5e72\u865f"
     }, 
     "PRSD505": {
         "en": "Okhotnik", 
