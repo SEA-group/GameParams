@@ -79,6 +79,26 @@
         "zh_cn": "\u585e\u73ed", 
         "zh_tw": "\u585e\u73ed\u865f"
     }, 
+    "PASA508": {
+        "en": "IDS_PASA508", 
+        "id": 3762272240, 
+        "index": "PASA508", 
+        "level": 8, 
+        "name": "PASA508_Enterprise", 
+        "ru": "IDS_PASA508", 
+        "zh_cn": "IDS_PASA508", 
+        "zh_tw": "IDS_PASA508"
+    }, 
+    "PASA906": {
+        "en": "IDS_PASA906", 
+        "id": 3344938992, 
+        "index": "PASA906", 
+        "level": 7, 
+        "name": "PASA906_Ranger_1944", 
+        "ru": "IDS_PASA906", 
+        "zh_cn": "IDS_PASA906", 
+        "zh_tw": "IDS_PASA906"
+    }, 
     "PASB001": {
         "en": "S. Carolina", 
         "id": 4293867504, 
@@ -609,6 +629,26 @@
         "zh_cn": "\u897f\u9a6c\u9686", 
         "zh_tw": "\u897f\u99ac\u9686\u7d1a"
     }, 
+    "PASX003": {
+        "en": "IDS_PASX003", 
+        "id": 4291049456, 
+        "index": "PASX003", 
+        "level": 5, 
+        "name": "PASX003_Liberty", 
+        "ru": "IDS_PASX003", 
+        "zh_cn": "IDS_PASX003", 
+        "zh_tw": "IDS_PASX003"
+    }, 
+    "PASX005": {
+        "en": "Cimarron", 
+        "id": 4288952304, 
+        "index": "PASX005", 
+        "level": 5, 
+        "name": "PASX005_St_Clair", 
+        "ru": "Cimarron", 
+        "zh_cn": "Cimarron", 
+        "zh_tw": "Cimarron"
+    }, 
     "PASX006": {
         "en": "Cimarron", 
         "id": 4287903728, 
@@ -618,6 +658,16 @@
         "ru": "Cimarron", 
         "zh_cn": "\u897f\u9a6c\u9686", 
         "zh_tw": "\u897f\u99ac\u9686"
+    }, 
+    "PASX815": {
+        "en": "IDS_PASX815", 
+        "id": 3439605744, 
+        "index": "PASX815", 
+        "level": 5, 
+        "name": "PASX815_Bogue_Clone", 
+        "ru": "IDS_PASX815", 
+        "zh_cn": "IDS_PASX815", 
+        "zh_tw": "IDS_PASX815"
     }, 
     "PASX904": {
         "en": "Cimarron Test", 
@@ -768,6 +818,16 @@
         "ru": "Campbeltown", 
         "zh_cn": "\u574e\u8d1d\u5c14\u6566", 
         "zh_tw": "\u574e\u8c9d\u723e\u6566\u865f"
+    }, 
+    "PBSD506": {
+        "en": "IDS_PBSD506", 
+        "id": 3764271056, 
+        "index": "PBSD506", 
+        "level": 6, 
+        "name": "PBSD506_Gallant", 
+        "ru": "IDS_PBSD506", 
+        "zh_cn": "IDS_PBSD506", 
+        "zh_tw": "IDS_PBSD506"
     }, 
     "PFSB506": {
         "en": "Dunkerque", 
@@ -1128,6 +1188,16 @@
         "ru": "Prinz Eugen", 
         "zh_cn": "\u6b27\u6839\u4eb2\u738b", 
         "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
+    }, 
+    "PGSC706": {
+        "en": "HSF Graf Spee", 
+        "id": 3554588464, 
+        "index": "PGSC706", 
+        "level": 6, 
+        "name": "PGSC706_HSF_Graf_Spee", 
+        "ru": "IDS_PGSC706", 
+        "zh_cn": "IDS_PGSC706", 
+        "zh_tw": "IDS_PGSC706"
     }, 
     "PGSD102": {
         "en": "V-25", 
@@ -1969,6 +2039,16 @@
         "zh_cn": "\u4e1c\u4e91\u53f7", 
         "zh_tw": "\u6771\u96f2\u865f"
     }, 
+    "PJSD708": {
+        "en": "IDS_PJSD708", 
+        "id": 3552458448, 
+        "index": "PJSD708", 
+        "level": 8, 
+        "name": "PJSD708_HSF_Harekaze", 
+        "ru": "IDS_PJSD708", 
+        "zh_cn": "IDS_PJSD708", 
+        "zh_tw": "IDS_PJSD708"
+    }, 
     "PJSD803": {
         "en": "Isokaze", 
         "id": 3452843728, 
@@ -2168,6 +2248,16 @@
         "ru": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432", 
         "zh_cn": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u5e93\u56fe\u4f50\u592b", 
         "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
+    }, 
+    "PRSC606": {
+        "en": "IDS_PRSC606", 
+        "id": 3659445712, 
+        "index": "PRSC606", 
+        "level": 6, 
+        "name": "PRSC606_Admiral_Makarov", 
+        "ru": "IDS_PRSC606", 
+        "zh_cn": "IDS_PRSC606", 
+        "zh_tw": "IDS_PRSC606"
     }, 
     "PRSC999": {
         "en": "Test Ship", 

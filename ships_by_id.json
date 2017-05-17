@@ -9,6 +9,16 @@
         "zh_cn": "Test Ship", 
         "zh_tw": "Test Ship"
     }, 
+    "3344938992": {
+        "en": "IDS_PASA906", 
+        "id": 3344938992, 
+        "index": "PASA906", 
+        "level": 7, 
+        "name": "PASA906_Ranger_1944", 
+        "ru": "IDS_PASA906", 
+        "zh_cn": "IDS_PASA906", 
+        "zh_tw": "IDS_PASA906"
+    }, 
     "3346282480": {
         "en": "Cimarron Test", 
         "id": 3346282480, 
@@ -38,6 +48,16 @@
         "ru": "Hashidate", 
         "zh_cn": "\u6865\u7acb", 
         "zh_tw": "\u6a4b\u7acb"
+    }, 
+    "3439605744": {
+        "en": "IDS_PASX815", 
+        "id": 3439605744, 
+        "index": "PASX815", 
+        "level": 5, 
+        "name": "PASX815_Bogue_Clone", 
+        "ru": "IDS_PASX815", 
+        "zh_cn": "IDS_PASX815", 
+        "zh_tw": "IDS_PASX815"
     }, 
     "3450779632": {
         "en": "Erie", 
@@ -199,6 +219,16 @@
         "zh_cn": "\u6d77\u96fe-\u7fbd\u9ed1", 
         "zh_tw": "\u6d77\u9727-\u7fbd\u9ed1"
     }, 
+    "3552458448": {
+        "en": "IDS_PJSD708", 
+        "id": 3552458448, 
+        "index": "PJSD708", 
+        "level": 8, 
+        "name": "PJSD708_HSF_Harekaze", 
+        "ru": "IDS_PJSD708", 
+        "zh_cn": "IDS_PJSD708", 
+        "zh_tw": "IDS_PJSD708"
+    }, 
     "3552491216": {
         "en": "ARP Takao", 
         "id": 3552491216, 
@@ -269,6 +299,16 @@
         "zh_cn": "\u4e1c\u4e91\u53f7", 
         "zh_tw": "\u6771\u96f2\u865f"
     }, 
+    "3554588464": {
+        "en": "HSF Graf Spee", 
+        "id": 3554588464, 
+        "index": "PGSC706", 
+        "level": 6, 
+        "name": "PGSC706_HSF_Graf_Spee", 
+        "ru": "IDS_PGSC706", 
+        "zh_cn": "IDS_PGSC706", 
+        "zh_tw": "IDS_PGSC706"
+    }, 
     "3554621136": {
         "en": "ARP Kirishima", 
         "id": 3554621136, 
@@ -308,6 +348,16 @@
         "ru": "Texas", 
         "zh_cn": "\u5fb7\u514b\u8428\u65af", 
         "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
+    }, 
+    "3659445712": {
+        "en": "IDS_PRSC606", 
+        "id": 3659445712, 
+        "index": "PRSC606", 
+        "level": 6, 
+        "name": "PRSC606_Admiral_Makarov", 
+        "ru": "IDS_PRSC606", 
+        "zh_cn": "IDS_PRSC606", 
+        "zh_tw": "IDS_PRSC606"
     }, 
     "3761190896": {
         "en": "Missouri", 
@@ -368,6 +418,16 @@
         "ru": "Alabama", 
         "zh_cn": "\u963f\u62c9\u5df4\u9a6c", 
         "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865f"
+    }, 
+    "3762272240": {
+        "en": "IDS_PASA508", 
+        "id": 3762272240, 
+        "index": "PASA508", 
+        "level": 8, 
+        "name": "PASA508_Enterprise", 
+        "ru": "IDS_PASA508", 
+        "zh_cn": "IDS_PASA508", 
+        "zh_tw": "IDS_PASA508"
     }, 
     "3763221968": {
         "en": "Leningrad", 
@@ -448,6 +508,16 @@
         "ru": "Anshan", 
         "zh_cn": "\u978d\u5c71", 
         "zh_tw": "\u978d\u5c71\u865f"
+    }, 
+    "3764271056": {
+        "en": "IDS_PBSD506", 
+        "id": 3764271056, 
+        "index": "PBSD506", 
+        "level": 6, 
+        "name": "PBSD506_Gallant", 
+        "ru": "IDS_PBSD506", 
+        "zh_cn": "IDS_PBSD506", 
+        "zh_tw": "IDS_PBSD506"
     }, 
     "3764303216": {
         "en": "Perth", 
@@ -2099,6 +2169,16 @@
         "zh_cn": "\u72ec\u7acb", 
         "zh_tw": "\u7368\u7acb\u7d1a"
     }, 
+    "4288952304": {
+        "en": "Cimarron", 
+        "id": 4288952304, 
+        "index": "PASX005", 
+        "level": 5, 
+        "name": "PASX005_St_Clair", 
+        "ru": "Cimarron", 
+        "zh_cn": "Cimarron", 
+        "zh_tw": "Cimarron"
+    }, 
     "4289607376": {
         "en": "Mutsuki (old)", 
         "id": 4289607376, 
@@ -2188,6 +2268,16 @@
         "ru": "Langley", 
         "zh_cn": "\u5170\u5229", 
         "zh_tw": "\u862d\u5229\u865f"
+    }, 
+    "4291049456": {
+        "en": "IDS_PASX003", 
+        "id": 4291049456, 
+        "index": "PASX003", 
+        "level": 5, 
+        "name": "PASX003_Liberty", 
+        "ru": "IDS_PASX003", 
+        "zh_cn": "IDS_PASX003", 
+        "zh_tw": "IDS_PASX003"
     }, 
     "4291704528": {
         "en": "Isokaze", 
