@@ -2059,6 +2059,26 @@
         "zh_cn": "\u77f6\u98ce", 
         "zh_tw": "\u78ef\u98a8"
     }, 
+    "PJSX701": {
+        "en": "ARP I-401", 
+        "id": 3559143120, 
+        "index": "PJSX701", 
+        "level": 11, 
+        "name": "PJSX701_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
+    "PJSX702": {
+        "en": "ARP I-401", 
+        "id": 3558094544, 
+        "index": "PJSX702", 
+        "level": 11, 
+        "name": "PJSX702_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
     "PRSB001": {
         "en": "Nikolai I", 
         "id": 4293866960, 

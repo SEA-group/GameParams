@@ -349,6 +349,26 @@
         "zh_cn": "\u5fb7\u514b\u8428\u65af", 
         "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
     }, 
+    "3558094544": {
+        "en": "ARP I-401", 
+        "id": 3558094544, 
+        "index": "PJSX702", 
+        "level": 11, 
+        "name": "PJSX702_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
+    "3559143120": {
+        "en": "ARP I-401", 
+        "id": 3559143120, 
+        "index": "PJSX701", 
+        "level": 11, 
+        "name": "PJSX701_Support", 
+        "ru": "ARP I-401", 
+        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
+        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+    }, 
     "3659445712": {
         "en": "IDS_PRSC606", 
         "id": 3659445712, 

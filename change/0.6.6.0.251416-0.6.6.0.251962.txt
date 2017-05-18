@@ -1,0 +1,121 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCVO002_OP_01_02_s01_NavalBase.restrictions.filters.Cruiser[1] changed in second object (was 7, is 4)
+root.PCVO002_OP_01_02_s01_NavalBase.restrictions.filters.Battleship[1] changed in second object (was 7, is 3)
+root.PCVO002_OP_01_02_s01_NavalBase.restrictions.filters.Destroyer[1] changed in second object (was 7, is 3)
+root.PASB018_Iowa_1944.B_Hull.Cas.maxHP changed in second object (was 6500.0, is 9600.0)
+root.PASB018_Iowa_1944.B_Hull.Cas.volume changed in second object (was 3.86, is 7.06)
+root.PASB018_Iowa_1944.B_Hull.Cit.volume changed in second object (was 9.63, is 6.99)
+root.PASB018_Iowa_1944.B_Hull.armor.131137 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.65597 changed in second object (was 307.0, is 297.0)
+root.PASB018_Iowa_1944.B_Hull.armor.131131 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131133 changed in second object (was 297.0, is 163.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65600 changed in second object (was 152.0, is 16.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65601 changed in second object (was 287.0, is 216.0)
+root.PASB018_Iowa_1944.B_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB018_Iowa_1944.B_Hull.armor.131175 changed in second object (was 16.0, is 152.0)
+root.PASB018_Iowa_1944.B_Hull.armor.196711 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.196669 removed in second object
+root.PASB018_Iowa_1944.B_Hull.armor.131136 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.131127 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.131128 removed in first object
+root.PASB018_Iowa_1944.B_Hull.armor.131130 removed in first object
+root.PASB018_Iowa_1944.B_Hull.Bow.maxHP changed in second object (was 4900.0, is 4000.0)
+root.PASB018_Iowa_1944.B_Hull.St.maxHP changed in second object (was 6000.0, is 4900.0)
+root.PASB018_Iowa_1944.B_Hull.SS.maxHP changed in second object (was 6400.0, is 5200.0)
+root.PASB018_Iowa_1944.C_Hull.Cas.maxHP changed in second object (was 6500.0, is 9600.0)
+root.PASB018_Iowa_1944.C_Hull.Cas.volume changed in second object (was 3.86, is 7.06)
+root.PASB018_Iowa_1944.C_Hull.Cit.volume changed in second object (was 9.63, is 6.99)
+root.PASB018_Iowa_1944.C_Hull.armor.131137 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.65597 changed in second object (was 307.0, is 297.0)
+root.PASB018_Iowa_1944.C_Hull.armor.131131 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131133 changed in second object (was 297.0, is 163.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65600 changed in second object (was 152.0, is 16.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65601 changed in second object (was 287.0, is 216.0)
+root.PASB018_Iowa_1944.C_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB018_Iowa_1944.C_Hull.armor.131175 changed in second object (was 16.0, is 152.0)
+root.PASB018_Iowa_1944.C_Hull.armor.196711 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.196669 removed in second object
+root.PASB018_Iowa_1944.C_Hull.armor.131136 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.131127 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.131128 removed in first object
+root.PASB018_Iowa_1944.C_Hull.armor.131130 removed in first object
+root.PASB018_Iowa_1944.C_Hull.Bow.maxHP changed in second object (was 4900.0, is 4000.0)
+root.PASB018_Iowa_1944.C_Hull.St.maxHP changed in second object (was 6000.0, is 4900.0)
+root.PASB018_Iowa_1944.C_Hull.SS.maxHP changed in second object (was 6400.0, is 5200.0)
+root.PASB018_Iowa_1944.A_Hull.Cas.maxHP changed in second object (was 5600.0, is 8300.0)
+root.PASB018_Iowa_1944.A_Hull.Cas.volume changed in second object (was 3.85, is 7.06)
+root.PASB018_Iowa_1944.A_Hull.Cit.volume changed in second object (was 9.63, is 7.0)
+root.PASB018_Iowa_1944.A_Hull.armor.131137 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.65597 changed in second object (was 307.0, is 297.0)
+root.PASB018_Iowa_1944.A_Hull.armor.131131 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131133 changed in second object (was 297.0, is 163.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65600 changed in second object (was 152.0, is 16.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65601 changed in second object (was 287.0, is 216.0)
+root.PASB018_Iowa_1944.A_Hull.armor.65595 changed in second object (was 287.0, is 16.0)
+root.PASB018_Iowa_1944.A_Hull.armor.196711 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131175 changed in second object (was 16.0, is 152.0)
+root.PASB018_Iowa_1944.A_Hull.armor.196669 removed in second object
+root.PASB018_Iowa_1944.A_Hull.armor.131136 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.131128 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.131130 removed in first object
+root.PASB018_Iowa_1944.A_Hull.armor.131127 removed in first object
+root.PASB018_Iowa_1944.A_Hull.Bow.maxHP changed in second object (was 4200.0, is 3400.0)
+root.PASB018_Iowa_1944.A_Hull.St.maxHP changed in second object (was 5200.0, is 4200.0)
+root.PASB018_Iowa_1944.A_Hull.SS.maxHP changed in second object (was 5500.0, is 4500.0)
+root.PCVO001_OP_01_01_37_Ridge.restrictions.filters.Cruiser[1] changed in second object (was 7, is 4)
+root.PCVO001_OP_01_01_37_Ridge.restrictions.filters.Battleship[1] changed in second object (was 7, is 3)
+root.PCVO001_OP_01_01_37_Ridge.restrictions.filters.Destroyer[1] changed in second object (was 7, is 3)
+root.PASB509_Missouri.A_Hull.Cas.maxHP changed in second object (was 6400.0, is 9600.0)
+root.PASB509_Missouri.A_Hull.Cas.volume changed in second object (was 3.86, is 7.06)
+root.PASB509_Missouri.A_Hull.Cit.volume changed in second object (was 9.63, is 6.99)
+root.PASB509_Missouri.A_Hull.armor.131137 removed in second object
+root.PASB509_Missouri.A_Hull.armor.65597 changed in second object (was 307.0, is 297.0)
+root.PASB509_Missouri.A_Hull.armor.131131 removed in second object
+root.PASB509_Missouri.A_Hull.armor.131133 changed in second object (was 297.0, is 163.0)
+root.PASB509_Missouri.A_Hull.armor.65600 changed in second object (was 152.0, is 16.0)
+root.PASB509_Missouri.A_Hull.armor.65601 changed in second object (was 368.0, is 297.0)
+root.PASB509_Missouri.A_Hull.armor.65595 changed in second object (was 368.0, is 16.0)
+root.PASB509_Missouri.A_Hull.armor.131175 changed in second object (was 16.0, is 152.0)
+root.PASB509_Missouri.A_Hull.armor.196711 removed in second object
+root.PASB509_Missouri.A_Hull.armor.196669 removed in second object
+root.PASB509_Missouri.A_Hull.armor.131136 removed in first object
+root.PASB509_Missouri.A_Hull.armor.131127 removed in first object
+root.PASB509_Missouri.A_Hull.armor.131128 removed in first object
+root.PASB509_Missouri.A_Hull.armor.131130 removed in first object
+root.PASB509_Missouri.A_Hull.Bow.maxHP changed in second object (was 4800.0, is 3900.0)
+root.PASB509_Missouri.A_Hull.St.maxHP changed in second object (was 5900.0, is 4800.0)
+root.PASB509_Missouri.A_Hull.SS.maxHP changed in second object (was 6300.0, is 5200.0)
+root.PASB509_Missouri.ShipUpgradeInfo.PAUA822_ART_MISSOURI.distance[0] changed in second object (was 23350, is 0)
+root.PASB509_Missouri.ShipUpgradeInfo.PAUA822_ART_MISSOURI.distance[1] changed in second object (was 23350, is 0)
+root.PASB509_Missouri.ShipUpgradeInfo.PAUA822_ART_MISSOURI.rotationSpeed[0] changed in second object (was 4.0, is 0.0)
+root.PASB509_Missouri.ShipUpgradeInfo.PAUA822_ART_MISSOURI.rotationSpeed[1] changed in second object (was 12.0, is 0.0)
+root.PASB509_Missouri.ShipUpgradeInfo.PAUA822_ART_MISSOURI.shotDelay changed in second object (was 30.0, is 0)
+root.PCVO004_OP_01_04_s02_Naval_Defense.restrictions.filters.Cruiser[1] changed in second object (was 7, is 4)
+root.PCVO004_OP_01_04_s02_Naval_Defense.restrictions.filters.Battleship[1] changed in second object (was 7, is 3)
+root.PCVO004_OP_01_04_s02_Naval_Defense.restrictions.filters.Destroyer[1] changed in second object (was 7, is 3)
+root.PCVO003_OP_01_03_s03_Labyrinth.restrictions.filters.Cruiser[1] changed in second object (was 7, is 4)
+root.PCVO003_OP_01_03_s03_Labyrinth.restrictions.filters.Battleship[1] changed in second object (was 7, is 3)
+root.PCVO003_OP_01_03_s03_Labyrinth.restrictions.filters.Destroyer[1] changed in second object (was 7, is 3)
+root.PASB017_Montana_1945.HullDefault.armor.65639 changed in second object (was 19.0, is 150.0)
+root.PASB017_Montana_1945.HullDefault.armor.65600 changed in second object (was 150.0, is 19.0)
+root.PASB017_Montana_1945.HullDefault.armor.65593 changed in second object (was 38.0, is 29.0)
+root.PASB017_Montana_1945.HullDefault.armor.65599 changed in second object (was 45.0, is 110.0)
+root.PASB017_Montana_1945.HullDefault.armor.131127 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131128 removed in first object
+root.PASB017_Montana_1945.HullDefault.armor.131130 removed in first object
+root.PASB017_Montana_1945.HullDefault.Cas.maxHP changed in second object (was 8200.0, is 13200.0)
+root.PASB017_Montana_1945.HullDefault.Cas.volume changed in second object (was 4.14, is 8.76)
+root.PASB017_Montana_1945.HullDefault.Cit.volume changed in second object (was 15.39, is 11.05)
+root.PASB017_Montana_1945.HullDefault.St.maxHP changed in second object (was 8800.0, is 6700.0)
+root.PASB017_Montana_1945.HullDefault.SS.maxHP changed in second object (was 5300.0, is 4000.0)
+root.PASB017_Montana_1945.HullDefault.Bow.maxHP changed in second object (was 6600.0, is 5000.0)
+root.PASB017_Montana_1945.ShipUpgradeInfo.PAUA931_B10_ART_STOCK.distance[0] changed in second object (was 23650, is 0)
+root.PASB017_Montana_1945.ShipUpgradeInfo.PAUA931_B10_ART_STOCK.distance[1] changed in second object (was 23650, is 0)
+root.PASB017_Montana_1945.ShipUpgradeInfo.PAUA931_B10_ART_STOCK.rotationSpeed[0] changed in second object (was 4.0, is 0.0)
+root.PASB017_Montana_1945.ShipUpgradeInfo.PAUA931_B10_ART_STOCK.rotationSpeed[1] changed in second object (was 12.0, is 0.0)
+root.PASB017_Montana_1945.ShipUpgradeInfo.PAUA931_B10_ART_STOCK.shotDelay changed in second object (was 30.0, is 0)
+root.PJSX702_Support removed in first object
+root.PJSX701_Support removed in first object
+>> finished comparing
