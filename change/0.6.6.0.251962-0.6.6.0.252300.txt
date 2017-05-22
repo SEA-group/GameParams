@@ -1,0 +1,10 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC101_Orlan.A_Hull.armor.65645 changed in second object (was 13.0, is 0.0)
+root.PRSC101_Orlan.ShipUpgradeInfo.PRUA002_C1_ART_STOCK.distance[0] changed in second object (was 10990, is 0)
+root.PRSC101_Orlan.ShipUpgradeInfo.PRUA002_C1_ART_STOCK.distance[1] changed in second object (was 10990, is 0)
+root.PRSC101_Orlan.ShipUpgradeInfo.PRUA002_C1_ART_STOCK.rotationSpeed[0] changed in second object (was 9.7, is 0.0)
+root.PRSC101_Orlan.ShipUpgradeInfo.PRUA002_C1_ART_STOCK.rotationSpeed[1] changed in second object (was 9.85, is 0.0)
+root.PRSC101_Orlan.ShipUpgradeInfo.PRUA002_C1_ART_STOCK.shotDelay changed in second object (was 5.0, is 0)
+>> finished comparing
