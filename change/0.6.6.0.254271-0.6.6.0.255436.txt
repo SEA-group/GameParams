@@ -1,0 +1,38 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASB034_New_Mexico_1941.B_Hull_1941.visibilityCoeff changed in second object (was 21.1, is 22.4)
+root.PASB034_New_Mexico_1941.A_Hull_1936.visibilityCoeff changed in second object (was 21.1, is 22.4)
+root.PCH109_PVE_HON_PR_SAVE_3.showProgress changed in second object (was False, is True)
+root.PFSC506_De_Grasse.group changed in second object (was demoWithoutStats, is special)
+root.PFSC506_De_Grasse.groupCustom.CN removed in second object
+root.PASA508_Enterprise.A_AirArmament.planesReserveCapacity changed in second object (was 66, is 96)
+root.PCH107_PVE_HON_PR_SAVE_1.showProgress changed in second object (was False, is True)
+root.PCH113_PVE_HON_PR_FRAG_3.showProgress changed in second object (was False, is True)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][0] changed in second object (was subInstruction, is battleEnd)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][0] changed in second object (was counter, is w)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][1] changed in second object (was a, is i)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][2] changed in second object (was >=, is n)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][3] changed in second object (was constant, is n)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][4] changed in second object (was onwSipTypeCount, is e)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][1][5] removed in first object
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][2] changed in second object (was or, is ==)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][3] changed in second object (was subInstruction, is me)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][4][0] changed in second object (was counter, is t)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][4][1] changed in second object (was b, is e)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][4][2] changed in second object (was >=, is a)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][4][3] changed in second object (was constant, is m)
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][0][4][4] removed in second object
+root.PCH122_PVE_HON_FRAG_CLASS.events[2][1][1] removed in first object
+root.PCH108_PVE_HON_PR_SAVE_2.showProgress changed in second object (was False, is True)
+root.PCBC001.hull.armor.65580 removed in first object
+root.PCH112_PVE_HON_PR_FRAG_2.showProgress changed in second object (was False, is True)
+root.PCH111_PVE_HON_PR_FRAG_1.showProgress changed in second object (was False, is True)
+root.PCEE102_Battle_of_Phillipines removed in first object
+root.PCEE099_Veteran_Flag removed in first object
+root.PCEE100_Moderator removed in first object
+root.PCEE101_Navoeval removed in first object
+root.PCEE097_Battle_of_Midway removed in first object
+root.PCEE103_De_Grasse removed in first object
+root.PCEE098_Loot_Boy removed in first object
+>> finished comparing
