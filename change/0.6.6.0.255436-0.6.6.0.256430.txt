@@ -1,0 +1,40 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFGM046_152_55_Mle_1936.shotDelay changed in second object (was 7.5, is 8.1)
+root.PFGM047_152_55_Mle_1936_RF.shotDelay changed in second object (was 7.5, is 8.1)
+root.PFSC506_De_Grasse.A1_Artillery.HP_FGM_3.shotDelay changed in second object (was 7.5, is 8.1)
+root.PFSC506_De_Grasse.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 7.5, is 8.1)
+root.PFSC506_De_Grasse.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 7.5, is 8.1)
+root.PAAB510_TBF_ENTERPRISE.formationEscortShip[0][0] changed in second object (was USTorpedoMove, is USTorpedoNewAttack)
+root.PAAB510_TBF_ENTERPRISE.formationMove[0][0] changed in second object (was USTorpedoMove, is USTorpedoNewAttack)
+root.PAAB510_TBF_ENTERPRISE.formationAttackMove[0][0] changed in second object (was USTorpedoAttack, is USTorpedoNewAttack)
+root.PAAB510_TBF_ENTERPRISE.formationEscortPlane[0][0] changed in second object (was USTorpedoMove, is USTorpedoNewAttack)
+root.PAAB510_TBF_ENTERPRISE.formationAttack[0][0] changed in second object (was WideTorpedo, is USTorpedoNewAttack)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 9.0)
+root.PFSC106_La_Galissonniere.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 9.0)
+root.PCH122_PVE_HON_FRAG_CLASS.type changed in second object (was heroic, is honorable)
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY002_RegenCrew)
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is C)
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY010_RegenCrewPremium)
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is C_Gold)
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PASD508_Kidd.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PASD508_Kidd.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PASD508_Kidd.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PASD508_Kidd.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PASD508_Kidd.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PASC003_Albany_1898.permoflages[1] removed in first object
+root.PCH123_PVE_HON_FRAG_WAY.type changed in second object (was heroic, is honorable)
+root.PCH123_PVE_HON_FRAG_WAY.multiple changed in second object (was True, is False)
+root.PCH106_PVE_HON_SAVE_SHIP.multiple changed in second object (was True, is False)
+root.PCH097_PVE_HON_WIN_ALL_DONE.type changed in second object (was heroic, is honorable)
+root.PCH124_PVE_HON_DIE.type changed in second object (was heroic, is honorable)
+root.PCH124_PVE_HON_DIE.multiple changed in second object (was True, is False)
+root.PCH126_PVE_HERO_WIN_SUR.battleTypes[0] changed in second object (was PVE_PREMADE, is PVE)
+root.PCH126_PVE_HERO_WIN_SUR.battleTypes[1] removed in first object
+root.PCH088_BismarckCompleted.type changed in second object (was festival, is honorable)
+root.PAEP602_Albany_Military_Veteran removed in first object
+root.PCEC030_Blue_Lagoon removed in first object
+>> finished comparing
