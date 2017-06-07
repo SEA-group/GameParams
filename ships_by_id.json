@@ -831,6 +831,19 @@
         "zh_cn": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9a", 
         "zh_tw": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9e\u865f"
     }, 
+    "3765384656": {
+        "en": "IDS_PRSB505", 
+        "id": 3765384656, 
+        "index": "PRSB505", 
+        "ja_jp": "IDS_PRSB505", 
+        "level": 5, 
+        "name": "PRSB505_Oktyabrskaya_Revolutsiya", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSB505", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PRSB505", 
+        "zh_tw": "IDS_PRSB505"
+    }, 
     "3767416784": {
         "en": "Campbeltown", 
         "id": 3767416784, 
@@ -1156,6 +1169,19 @@
         "zh_cn": "\u5927\u9009\u5e1d\u4faf", 
         "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
     }, 
+    "4179572688": {
+        "en": "IDS_PBSB110", 
+        "id": 4179572688, 
+        "index": "PBSB110", 
+        "ja_jp": "IDS_PBSB110", 
+        "level": 10, 
+        "name": "PBSB110_Conqueror", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB110", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB110", 
+        "zh_tw": "IDS_PBSB110"
+    }, 
     "4180555216": {
         "en": "Kiev (OLD)", 
         "id": 4180555216, 
@@ -1246,6 +1272,19 @@
         "species": "Battleship", 
         "zh_cn": "\u8153\u7279\u70c8\u5927\u5e1d", 
         "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
+    }, 
+    "4180621264": {
+        "en": "IDS_PBSB109", 
+        "id": 4180621264, 
+        "index": "PBSB109", 
+        "ja_jp": "IDS_PBSB109", 
+        "level": 9, 
+        "name": "PBSB109_Lion", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB109", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB109", 
+        "zh_tw": "IDS_PBSB109"
     }, 
     "4181603792": {
         "en": "Tashkent (OLD)", 
@@ -1351,6 +1390,19 @@
         "zh_cn": "\u4ffe\u65af\u9ea6", 
         "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
     }, 
+    "4181669840": {
+        "en": "IDS_PBSB108", 
+        "id": 4181669840, 
+        "index": "PBSB108", 
+        "ja_jp": "IDS_PBSB108", 
+        "level": 8, 
+        "name": "PBSB108_King_George_V", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB108", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB108", 
+        "zh_tw": "IDS_PBSB108"
+    }, 
     "4182652368": {
         "en": "Udaloi", 
         "id": 4182652368, 
@@ -1454,6 +1506,19 @@
         "species": "Battleship", 
         "zh_cn": "\u683c\u5948\u68ee\u7459", 
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
+    }, 
+    "4182718416": {
+        "en": "IDS_PBSB107", 
+        "id": 4182718416, 
+        "index": "PBSB107", 
+        "ja_jp": "IDS_PBSB107", 
+        "level": 7, 
+        "name": "PBSB107_Nelson", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB107", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB107", 
+        "zh_tw": "IDS_PBSB107"
     }, 
     "4183700944": {
         "en": "Ognevoi (OLD)", 
