@@ -481,10 +481,10 @@
         "zh_tw": "\u84bc\u85cd-\u4f0a-401"
     }, 
     "3659445712": {
-        "en": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", 
+        "en": "Makarov", 
         "id": 3659445712, 
         "index": "PRSC606", 
-        "ja_jp": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", 
+        "ja_jp": "Makarov", 
         "level": 6, 
         "name": "PRSC606_Admiral_Makarov", 
         "nation": "Russia", 
@@ -492,6 +492,32 @@
         "species": "Cruiser", 
         "zh_cn": "IDS_PRSC606", 
         "zh_tw": "IDS_PRSC606"
+    }, 
+    "3660461904": {
+        "en": "Cyclone", 
+        "id": 3660461904, 
+        "index": "PFSD605", 
+        "ja_jp": "Cyclone", 
+        "level": 5, 
+        "name": "PFSD605_Cyclone_event", 
+        "nation": "France", 
+        "ru": "IDS_PFSD605", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PFSD605", 
+        "zh_tw": "IDS_PFSD605"
+    }, 
+    "3660462032": {
+        "en": "Anthony", 
+        "id": 3660462032, 
+        "index": "PBSD605", 
+        "ja_jp": "Anthony", 
+        "level": 5, 
+        "name": "PBSD605_Anthony_Event", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD605", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD605", 
+        "zh_tw": "IDS_PBSD605"
     }, 
     "3761190896": {
         "en": "Missouri", 
@@ -570,6 +596,19 @@
         "species": "Battleship", 
         "zh_cn": "\u963f\u62c9\u5df4\u9a6c", 
         "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865f"
+    }, 
+    "3762272048": {
+        "en": "Graf Zeppelin", 
+        "id": 3762272048, 
+        "index": "PGSA508", 
+        "ja_jp": "Graf Zeppelin", 
+        "level": 8, 
+        "name": "PGSA508_Graf_Zeppelin", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA508", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PGSA508", 
+        "zh_tw": "IDS_PGSA508"
     }, 
     "3762272240": {
         "en": "Enterprise", 
@@ -832,10 +871,10 @@
         "zh_tw": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9e\u865f"
     }, 
     "3765384656": {
-        "en": "IDS_PRSB505", 
+        "en": "Okt.\u00a0Revolutsiya", 
         "id": 3765384656, 
         "index": "PRSB505", 
-        "ja_jp": "IDS_PRSB505", 
+        "ja_jp": "Okt.\u00a0Revolutsiya", 
         "level": 5, 
         "name": "PRSB505_Oktyabrskaya_Revolutsiya", 
         "nation": "Russia", 
@@ -1039,6 +1078,19 @@
         "zh_cn": "\u767d\u9732", 
         "zh_tw": "\u767d\u9732\u578b"
     }, 
+    "4077860816": {
+        "en": "Monarch", 
+        "id": 4077860816, 
+        "index": "PBSB207", 
+        "ja_jp": "Monarch", 
+        "level": 7, 
+        "name": "PBSB207_King_George_V", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB207", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB207", 
+        "zh_tw": "IDS_PBSB207"
+    }, 
     "4078843344": {
         "en": "Gnevny", 
         "id": 4078843344, 
@@ -1170,10 +1222,10 @@
         "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
     }, 
     "4179572688": {
-        "en": "IDS_PBSB110", 
+        "en": "Conqueror", 
         "id": 4179572688, 
         "index": "PBSB110", 
-        "ja_jp": "IDS_PBSB110", 
+        "ja_jp": "Conqueror", 
         "level": 10, 
         "name": "PBSB110_Conqueror", 
         "nation": "United_Kingdom", 
@@ -1274,10 +1326,10 @@
         "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
     }, 
     "4180621264": {
-        "en": "IDS_PBSB109", 
+        "en": "Lion", 
         "id": 4180621264, 
         "index": "PBSB109", 
-        "ja_jp": "IDS_PBSB109", 
+        "ja_jp": "Lion", 
         "level": 9, 
         "name": "PBSB109_Lion", 
         "nation": "United_Kingdom", 
@@ -1391,10 +1443,10 @@
         "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
     }, 
     "4181669840": {
-        "en": "IDS_PBSB108", 
+        "en": "King George V", 
         "id": 4181669840, 
         "index": "PBSB108", 
-        "ja_jp": "IDS_PBSB108", 
+        "ja_jp": "King George V", 
         "level": 8, 
         "name": "PBSB108_King_George_V", 
         "nation": "United_Kingdom", 
@@ -1508,10 +1560,10 @@
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
     }, 
     "4182718416": {
-        "en": "IDS_PBSB107", 
+        "en": "Nelson", 
         "id": 4182718416, 
         "index": "PBSB107", 
-        "ja_jp": "IDS_PBSB107", 
+        "ja_jp": "Nelson", 
         "level": 7, 
         "name": "PBSB107_Nelson", 
         "nation": "United_Kingdom", 
@@ -1624,6 +1676,19 @@
         "zh_cn": "\u5df4\u4f10\u5229\u4e9a", 
         "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
     }, 
+    "4183766992": {
+        "en": "Queen", 
+        "id": 4183766992, 
+        "index": "PBSB106", 
+        "ja_jp": "Queen", 
+        "level": 6, 
+        "name": "PBSB106_Queen_Elizabeth", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB106", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB106", 
+        "zh_tw": "IDS_PBSB106"
+    }, 
     "4184749520": {
         "en": "Gnevny (OLD)", 
         "id": 4184749520, 
@@ -1728,6 +1793,19 @@
         "zh_cn": "\u56fd\u738b", 
         "zh_tw": "\u570b\u738b\u7d1a"
     }, 
+    "4184815568": {
+        "en": "Iron Duke", 
+        "id": 4184815568, 
+        "index": "PBSB105", 
+        "ja_jp": "Iron Duke", 
+        "level": 5, 
+        "name": "PBSB105_Iron_Duke", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB105", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB105", 
+        "zh_tw": "IDS_PBSB105"
+    }, 
     "4185798096": {
         "en": "Izyaslav", 
         "id": 4185798096, 
@@ -1819,6 +1897,19 @@
         "zh_cn": "\u51ef\u6492", 
         "zh_tw": "\u51f1\u6492\u7d1a"
     }, 
+    "4185864144": {
+        "en": "Orion", 
+        "id": 4185864144, 
+        "index": "PBSB104", 
+        "ja_jp": "Orion", 
+        "level": 4, 
+        "name": "PBSB104_Orion", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB104", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB104", 
+        "zh_tw": "IDS_PBSB104"
+    }, 
     "4186846672": {
         "en": "Derzki", 
         "id": 4186846672, 
@@ -1909,6 +2000,19 @@
         "species": "Battleship", 
         "zh_cn": "\u62ff\u9a9a", 
         "zh_tw": "\u62ff\u9a37\u7d1a"
+    }, 
+    "4186912720": {
+        "en": "Bellerophon", 
+        "id": 4186912720, 
+        "index": "PBSB103", 
+        "ja_jp": "Bellerophon", 
+        "level": 3, 
+        "name": "PBSB103_Bellerophon", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB103", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB103", 
+        "zh_tw": "IDS_PBSB103"
     }, 
     "4187895248": {
         "en": "Storozhevoi", 
@@ -2040,6 +2144,45 @@
         "zh_cn": "\u9a6c\u5e03\u5c14\u9ed1\u5fb7", 
         "zh_tw": "\u99ac\u5e03\u723e\u9ed1\u5fb7\u865f"
     }, 
+    "4249105680": {
+        "en": "Medway Queen", 
+        "id": 4249105680, 
+        "index": "PXSX043", 
+        "ja_jp": "Medway Queen", 
+        "level": 2, 
+        "name": "PXSX043_Medway_Queen_War", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX043", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX043", 
+        "zh_tw": "IDS_PXSX043"
+    }, 
+    "4252251408": {
+        "en": "Escort 8", 
+        "id": 4252251408, 
+        "index": "PXSX040", 
+        "ja_jp": "Escort 8", 
+        "level": 2, 
+        "name": "PXSX040_Escort_8", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX040", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX040", 
+        "zh_tw": "IDS_PXSX040"
+    }, 
+    "4253299984": {
+        "en": "LST 325", 
+        "id": 4253299984, 
+        "index": "PXSX039", 
+        "ja_jp": "LST 325", 
+        "level": 2, 
+        "name": "PXSX039_LST_325", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX039", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX039", 
+        "zh_tw": "IDS_PXSX039"
+    }, 
     "4255037136": {
         "en": "Atago", 
         "id": 4255037136, 
@@ -2052,6 +2195,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u7231\u5b95", 
         "zh_tw": "\u611b\u5b95\u865f"
+    }, 
+    "4255397136": {
+        "en": "Daihatsu", 
+        "id": 4255397136, 
+        "index": "PXSX037", 
+        "ja_jp": "Daihatsu", 
+        "level": 2, 
+        "name": "PXSX037_Daihatsu", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX037", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX037", 
+        "zh_tw": "IDS_PXSX037"
     }, 
     "4256085712": {
         "en": "Hashidate", 
@@ -2066,6 +2222,19 @@
         "zh_cn": "\u6865\u7acb", 
         "zh_tw": "\u6a4b\u7acb\u578b"
     }, 
+    "4257494288": {
+        "en": "Landing Ship 1", 
+        "id": 4257494288, 
+        "index": "PXSX035", 
+        "ja_jp": "Landing Ship 1", 
+        "level": 2, 
+        "name": "PXSX035_Landing_Ship_1", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX035", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX035", 
+        "zh_tw": "IDS_PXSX035"
+    }, 
     "4258182864": {
         "en": "Chikuma", 
         "id": 4258182864, 
@@ -2078,6 +2247,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u7b51\u6469", 
         "zh_tw": "\u7b51\u6469\u578b"
+    }, 
+    "4258542864": {
+        "en": "John Cattling", 
+        "id": 4258542864, 
+        "index": "PXSX034", 
+        "ja_jp": "John Cattling", 
+        "level": 2, 
+        "name": "PXSX034_John_Cattling", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX034", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX034", 
+        "zh_tw": "IDS_PXSX034"
     }, 
     "4259231440": {
         "en": "Zao", 
@@ -2105,6 +2287,19 @@
         "zh_cn": "\u65b0\u58a8\u897f\u54e5", 
         "zh_tw": "\u65b0\u58a8\u897f\u54e5\u7d1a"
     }, 
+    "4259591440": {
+        "en": "Minelayer", 
+        "id": 4259591440, 
+        "index": "PXSX033", 
+        "ja_jp": "Minelayer", 
+        "level": 2, 
+        "name": "PXSX033_Dyck", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX033", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX033", 
+        "zh_tw": "IDS_PXSX033"
+    }, 
     "4264441840": {
         "en": "Sims", 
         "id": 4264441840, 
@@ -2130,6 +2325,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u7ef4\u514b\u65af", 
         "zh_tw": "\u7dad\u514b\u65af\u7d1a"
+    }, 
+    "4266931472": {
+        "en": "Canterbury", 
+        "id": 4266931472, 
+        "index": "PXSX026", 
+        "ja_jp": "Canterbury", 
+        "level": 2, 
+        "name": "PXSX026_Canterbury", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX026", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX026", 
+        "zh_tw": "IDS_PXSX026"
     }, 
     "4267587280": {
         "en": "Kamikaze R", 
@@ -2157,6 +2365,19 @@
         "zh_cn": "\u5ca9\u6728(Alpha)", 
         "zh_tw": "\u5ca9\u6728\u578b(Alpha)"
     }, 
+    "4267980048": {
+        "en": "Medway Queen", 
+        "id": 4267980048, 
+        "index": "PXSX025", 
+        "ja_jp": "Medway Queen", 
+        "level": 2, 
+        "name": "PXSX025_Medway_Queen", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX025", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX025", 
+        "zh_tw": "IDS_PXSX025"
+    }, 
     "4268635856": {
         "en": "Kamikaze", 
         "id": 4268635856, 
@@ -2169,6 +2390,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u795e\u98ce", 
         "zh_tw": "\u795e\u98a8\u578b"
+    }, 
+    "4269028624": {
+        "en": "Aronia", 
+        "id": 4269028624, 
+        "index": "PXSX024", 
+        "ja_jp": "Aronia", 
+        "level": 2, 
+        "name": "PXSX024_Aronia", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX024", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX024", 
+        "zh_tw": "IDS_PXSX024"
     }, 
     "4269684432": {
         "en": "Wakatake", 
@@ -2195,6 +2429,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u83f2\u5c3c\u514b\u65af", 
         "zh_tw": "\u83f2\u5c3c\u514b\u65af\u7d1a"
+    }, 
+    "4270077200": {
+        "en": "Lorina", 
+        "id": 4270077200, 
+        "index": "PXSX023", 
+        "ja_jp": "Lorina", 
+        "level": 2, 
+        "name": "PXSX023_HMS_SS_Lorina", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX023", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX023", 
+        "zh_tw": "IDS_PXSX023"
     }, 
     "4272830448": {
         "en": "Fletcher", 
@@ -2300,6 +2547,19 @@
         "zh_cn": "\u4f9d\u963f\u534e", 
         "zh_tw": "\u4f9d\u963f\u83ef\u7d1a"
     }, 
+    "4276368656": {
+        "en": "Caboteur", 
+        "id": 4276368656, 
+        "index": "PXSX017", 
+        "ja_jp": "Caboteur", 
+        "level": 2, 
+        "name": "PXSX017_Caboteur_de_35_metres", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX017", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX017", 
+        "zh_tw": "IDS_PXSX017"
+    }, 
     "4277024464": {
         "en": "F\u016bjin", 
         "id": 4277024464, 
@@ -2351,6 +2611,19 @@
         "species": "AirCarrier", 
         "zh_cn": "\u767d\u9f99", 
         "zh_tw": "\u767d\u9f8d\u578b"
+    }, 
+    "4277417232": {
+        "en": "Goliath", 
+        "id": 4277417232, 
+        "index": "PXSX016", 
+        "ja_jp": "Goliath", 
+        "level": 2, 
+        "name": "PXSX016_Goliath", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX016", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX016", 
+        "zh_tw": "IDS_PXSX016"
     }, 
     "4278106096": {
         "en": "Worcester", 
@@ -2755,6 +3028,19 @@
         "zh_cn": "\u79d1\u7f57\u62c9\u591a", 
         "zh_tw": "\u79d1\u7f85\u62c9\u591a\u7d1a"
     }, 
+    "4287509776": {
+        "en": "Schnellboot", 
+        "id": 4287509776, 
+        "index": "PXSD007", 
+        "ja_jp": "Schnellboot", 
+        "level": 1, 
+        "name": "PXSD007_Scnellboot_S38", 
+        "nation": "Events", 
+        "ru": "IDS_PXSD007", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PXSD007", 
+        "zh_tw": "IDS_PXSD007"
+    }, 
     "4287510224": {
         "en": "Fubuki (old)", 
         "id": 4287510224, 
@@ -2912,10 +3198,10 @@
         "zh_tw": "\u7368\u7acb\u7d1a"
     }, 
     "4288952304": {
-        "en": "Cimarron", 
+        "en": "St. Clair", 
         "id": 4288952304, 
         "index": "PASX005", 
-        "ja_jp": "Cimarron", 
+        "ja_jp": "St. Clair", 
         "level": 5, 
         "name": "PASX005_St_Clair", 
         "nation": "USA", 
@@ -3197,6 +3483,19 @@
         "zh_cn": "\u538c\u6218", 
         "zh_tw": "\u53ad\u6230\u865f"
     }, 
+    "4292850960": {
+        "en": "Air_Forces", 
+        "id": 4292850960, 
+        "index": "PXSA002", 
+        "ja_jp": "Air_Forces", 
+        "level": 4, 
+        "name": "PXSA002_Invisible_Air_Ally_1", 
+        "nation": "Events", 
+        "ru": "\u0410\u0432\u0438\u0430\u043d\u043e\u0441\u0435\u0446", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PXSA002", 
+        "zh_tw": "IDS_PXSA002"
+    }, 
     "4292851408": {
         "en": "Hosho", 
         "id": 4292851408, 
@@ -3339,5 +3638,18 @@
         "species": "Battleship", 
         "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
         "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d\u7d1a"
+    }, 
+    "4293899536": {
+        "en": "Luftwaffe", 
+        "id": 4293899536, 
+        "index": "PXSA001", 
+        "ja_jp": "Luftwaffe", 
+        "level": 4, 
+        "name": "PXSA001_Invisible_Air_Enemy_1", 
+        "nation": "Events", 
+        "ru": "IDS_PXSA001", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PXSA001", 
+        "zh_tw": "IDS_PXSA001"
     }
 }
