@@ -9,8 +9,8 @@
         "nation": "USA", 
         "ru": "Bogue", 
         "species": "AirCarrier", 
-        "zh_cn": "\u535a\u683c", 
-        "zh_tw": "\u535a\u683c\u7d1a"
+        "zh_cn": "\u00e5\u008d\u009a\u00e6\u00a0\u00bc", 
+        "zh_tw": "\u00e5\u008d\u009a\u00e6\u00a0\u00bc\u00e7\u00b4\u009a"
     }, 
     "PASA004": {
         "en": "Langley", 
@@ -22,8 +22,8 @@
         "nation": "USA", 
         "ru": "Langley", 
         "species": "AirCarrier", 
-        "zh_cn": "\u5170\u5229", 
-        "zh_tw": "\u862d\u5229\u865f"
+        "zh_cn": "\u00e5\u0085\u00b0\u00e5\u0088\u00a9", 
+        "zh_tw": "\u00e8\u0098\u00ad\u00e5\u0088\u00a9\u00e8\u0099\u009f"
     }, 
     "PASA006": {
         "en": "Independence", 
@@ -35,8 +35,8 @@
         "nation": "USA", 
         "ru": "Independence", 
         "species": "AirCarrier", 
-        "zh_cn": "\u72ec\u7acb", 
-        "zh_tw": "\u7368\u7acb\u7d1a"
+        "zh_cn": "\u00e7\u008b\u00ac\u00e7\u00ab\u008b", 
+        "zh_tw": "\u00e7\u008d\u00a8\u00e7\u00ab\u008b\u00e7\u00b4\u009a"
     }, 
     "PASA010": {
         "en": "Ranger", 
@@ -48,8 +48,8 @@
         "nation": "USA", 
         "ru": "Ranger", 
         "species": "AirCarrier", 
-        "zh_cn": "\u6e38\u9a91\u5175", 
-        "zh_tw": "\u6e38\u9a0e\u5175\u865f"
+        "zh_cn": "\u00e6\u00b8\u00b8\u00e9\u00aa\u0091\u00e5\u0085\u00b5", 
+        "zh_tw": "\u00e6\u00b8\u00b8\u00e9\u00a8\u008e\u00e5\u0085\u00b5\u00e8\u0099\u009f"
     }, 
     "PASA012": {
         "en": "Lexington", 
@@ -61,8 +61,8 @@
         "nation": "USA", 
         "ru": "Lexington", 
         "species": "AirCarrier", 
-        "zh_cn": "\u5217\u514b\u661f\u6566", 
-        "zh_tw": "\u5217\u514b\u661f\u6566\u7d1a"
+        "zh_cn": "\u00e5\u0088\u0097\u00e5\u0085\u008b\u00e6\u0098\u009f\u00e6\u0095\u00a6", 
+        "zh_tw": "\u00e5\u0088\u0097\u00e5\u0085\u008b\u00e6\u0098\u009f\u00e6\u0095\u00a6\u00e7\u00b4\u009a"
     }, 
     "PASA013": {
         "en": "Essex", 
@@ -74,8 +74,8 @@
         "nation": "USA", 
         "ru": "Essex", 
         "species": "AirCarrier", 
-        "zh_cn": "\u57c3\u585e\u514b\u65af", 
-        "zh_tw": "\u57c3\u585e\u514b\u65af\u7d1a"
+        "zh_cn": "\u00e5\u009f\u0083\u00e5\u00a1\u009e\u00e5\u0085\u008b\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u009f\u0083\u00e5\u00a1\u009e\u00e5\u0085\u008b\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASA015": {
         "en": "Midway", 
@@ -87,8 +87,8 @@
         "nation": "USA", 
         "ru": "Midway", 
         "species": "AirCarrier", 
-        "zh_cn": "\u4e2d\u9014\u5c9b", 
-        "zh_tw": "\u4e2d\u9014\u5cf6\u7d1a"
+        "zh_cn": "\u00e4\u00b8\u00ad\u00e9\u0080\u0094\u00e5\u00b2\u009b", 
+        "zh_tw": "\u00e4\u00b8\u00ad\u00e9\u0080\u0094\u00e5\u00b3\u00b6\u00e7\u00b4\u009a"
     }, 
     "PASA507": {
         "en": "Saipan", 
@@ -100,8 +100,8 @@
         "nation": "USA", 
         "ru": "Saipan", 
         "species": "AirCarrier", 
-        "zh_cn": "\u585e\u73ed", 
-        "zh_tw": "\u585e\u73ed\u865f"
+        "zh_cn": "\u00e5\u00a1\u009e\u00e7\u008f\u00ad", 
+        "zh_tw": "\u00e5\u00a1\u009e\u00e7\u008f\u00ad\u00e8\u0099\u009f"
     }, 
     "PASA508": {
         "en": "Enterprise", 
@@ -113,8 +113,8 @@
         "nation": "USA", 
         "ru": "Enterprise", 
         "species": "AirCarrier", 
-        "zh_cn": "IDS_PASA508", 
-        "zh_tw": "IDS_PASA508"
+        "zh_cn": "\u00e4\u00bc\u0081\u00e4\u00b8\u009a", 
+        "zh_tw": "\u00e4\u00bc\u0081\u00e6\u00a5\u00ad\u00e8\u0099\u009f"
     }, 
     "PASA906": {
         "en": "Ranger", 
@@ -139,8 +139,8 @@
         "nation": "USA", 
         "ru": "S. Carolina", 
         "species": "Battleship", 
-        "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
-        "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d\u7d1a"
+        "zh_cn": "\u00e5\u008d\u0097\u00e5\u008d\u00a1\u00e7\u00bd\u0097\u00e8\u008e\u00b1\u00e7\u00ba\u00b3", 
+        "zh_tw": "\u00e5\u008d\u0097\u00e5\u008d\u00a1\u00e7\u00be\u0085\u00e4\u00be\u0086\u00e7\u00b4\u008d\u00e7\u00b4\u009a"
     }, 
     "PASB004": {
         "en": "Wyoming", 
@@ -152,8 +152,8 @@
         "nation": "USA", 
         "ru": "Wyoming", 
         "species": "Battleship", 
-        "zh_cn": "\u6000\u4fc4\u660e", 
-        "zh_tw": "\u61f7\u4fc4\u660e\u7d1a"
+        "zh_cn": "\u00e6\u0080\u0080\u00e4\u00bf\u0084\u00e6\u0098\u008e", 
+        "zh_tw": "\u00e6\u0087\u00b7\u00e4\u00bf\u0084\u00e6\u0098\u008e\u00e7\u00b4\u009a"
     }, 
     "PASB006": {
         "en": "New York", 
@@ -165,8 +165,8 @@
         "nation": "USA", 
         "ru": "New York", 
         "species": "Battleship", 
-        "zh_cn": "\u7ebd\u7ea6", 
-        "zh_tw": "\u7d10\u7d04\u7d1a"
+        "zh_cn": "\u00e7\u00ba\u00bd\u00e7\u00ba\u00a6", 
+        "zh_tw": "\u00e7\u00b4\u0090\u00e7\u00b4\u0084\u00e7\u00b4\u009a"
     }, 
     "PASB008": {
         "en": "Colorado", 
@@ -178,8 +178,8 @@
         "nation": "USA", 
         "ru": "Colorado", 
         "species": "Battleship", 
-        "zh_cn": "\u79d1\u7f57\u62c9\u591a", 
-        "zh_tw": "\u79d1\u7f85\u62c9\u591a\u7d1a"
+        "zh_cn": "\u00e7\u00a7\u0091\u00e7\u00bd\u0097\u00e6\u008b\u0089\u00e5\u00a4\u009a", 
+        "zh_tw": "\u00e7\u00a7\u0091\u00e7\u00be\u0085\u00e6\u008b\u0089\u00e5\u00a4\u009a\u00e7\u00b4\u009a"
     }, 
     "PASB012": {
         "en": "N. Carolina", 
@@ -191,8 +191,8 @@
         "nation": "USA", 
         "ru": "N. Carolina", 
         "species": "Battleship", 
-        "zh_cn": "\u5317\u5361\u7f57\u83b1\u7eb3", 
-        "zh_tw": "\u5317\u5361\u7f85\u4f86\u7d0d\u7d1a"
+        "zh_cn": "\u00e5\u008c\u0097\u00e5\u008d\u00a1\u00e7\u00bd\u0097\u00e8\u008e\u00b1\u00e7\u00ba\u00b3", 
+        "zh_tw": "\u00e5\u008c\u0097\u00e5\u008d\u00a1\u00e7\u00be\u0085\u00e4\u00be\u0086\u00e7\u00b4\u008d\u00e7\u00b4\u009a"
     }, 
     "PASB013": {
         "en": "Arkansas B", 
@@ -204,8 +204,8 @@
         "nation": "USA", 
         "ru": "Arkansas B", 
         "species": "Battleship", 
-        "zh_cn": "\u963f\u80af\u8272(Beta)", 
-        "zh_tw": "\u963f\u80af\u8272\u865f(Beta)"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e8\u0082\u00af\u00e8\u0089\u00b2(Beta)", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e8\u0082\u00af\u00e8\u0089\u00b2\u00e8\u0099\u009f(Beta)"
     }, 
     "PASB017": {
         "en": "Montana", 
@@ -217,8 +217,8 @@
         "nation": "USA", 
         "ru": "Montana", 
         "species": "Battleship", 
-        "zh_cn": "\u8499\u5927\u62ff", 
-        "zh_tw": "\u8499\u5927\u62ff\u7d1a"
+        "zh_cn": "\u00e8\u0092\u0099\u00e5\u00a4\u00a7\u00e6\u008b\u00bf", 
+        "zh_tw": "\u00e8\u0092\u0099\u00e5\u00a4\u00a7\u00e6\u008b\u00bf\u00e7\u00b4\u009a"
     }, 
     "PASB018": {
         "en": "Iowa", 
@@ -230,8 +230,8 @@
         "nation": "USA", 
         "ru": "Iowa", 
         "species": "Battleship", 
-        "zh_cn": "\u4f9d\u963f\u534e", 
-        "zh_tw": "\u4f9d\u963f\u83ef\u7d1a"
+        "zh_cn": "\u00e4\u00be\u009d\u00e9\u0098\u00bf\u00e5\u008d\u008e", 
+        "zh_tw": "\u00e4\u00be\u009d\u00e9\u0098\u00bf\u00e8\u008f\u00af\u00e7\u00b4\u009a"
     }, 
     "PASB034": {
         "en": "New Mexico", 
@@ -243,8 +243,8 @@
         "nation": "USA", 
         "ru": "New Mexico", 
         "species": "Battleship", 
-        "zh_cn": "\u65b0\u58a8\u897f\u54e5", 
-        "zh_tw": "\u65b0\u58a8\u897f\u54e5\u7d1a"
+        "zh_cn": "\u00e6\u0096\u00b0\u00e5\u00a2\u00a8\u00e8\u00a5\u00bf\u00e5\u0093\u00a5", 
+        "zh_tw": "\u00e6\u0096\u00b0\u00e5\u00a2\u00a8\u00e8\u00a5\u00bf\u00e5\u0093\u00a5\u00e7\u00b4\u009a"
     }, 
     "PASB506": {
         "en": "Arizona", 
@@ -256,8 +256,8 @@
         "nation": "USA", 
         "ru": "Arizona", 
         "species": "Battleship", 
-        "zh_cn": "\u4e9a\u5229\u6851\u90a3", 
-        "zh_tw": "\u4e9e\u5229\u6851\u90a3\u865f"
+        "zh_cn": "\u00e4\u00ba\u009a\u00e5\u0088\u00a9\u00e6\u00a1\u0091\u00e9\u0082\u00a3", 
+        "zh_tw": "\u00e4\u00ba\u009e\u00e5\u0088\u00a9\u00e6\u00a1\u0091\u00e9\u0082\u00a3\u00e8\u0099\u009f"
     }, 
     "PASB508": {
         "en": "Alabama", 
@@ -269,8 +269,8 @@
         "nation": "USA", 
         "ru": "Alabama", 
         "species": "Battleship", 
-        "zh_cn": "\u963f\u62c9\u5df4\u9a6c", 
-        "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865f"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e6\u008b\u0089\u00e5\u00b7\u00b4\u00e9\u00a9\u00ac", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e6\u008b\u0089\u00e5\u00b7\u00b4\u00e9\u00a6\u00ac\u00e8\u0099\u009f"
     }, 
     "PASB509": {
         "en": "Missouri", 
@@ -282,8 +282,8 @@
         "nation": "USA", 
         "ru": "Missouri", 
         "species": "Battleship", 
-        "zh_cn": "\u5bc6\u82cf\u91cc", 
-        "zh_tw": "\u5bc6\u8607\u91cc\u865f"
+        "zh_cn": "\u00e5\u00af\u0086\u00e8\u008b\u008f\u00e9\u0087\u008c", 
+        "zh_tw": "\u00e5\u00af\u0086\u00e8\u0098\u0087\u00e9\u0087\u008c\u00e8\u0099\u009f"
     }, 
     "PASB705": {
         "en": "Texas", 
@@ -295,8 +295,8 @@
         "nation": "USA", 
         "ru": "Texas", 
         "species": "Battleship", 
-        "zh_cn": "\u5fb7\u514b\u8428\u65af", 
-        "zh_tw": "\u5fb7\u514b\u85a9\u65af\u865f"
+        "zh_cn": "\u00e5\u00be\u00b7\u00e5\u0085\u008b\u00e8\u0090\u00a8\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u00be\u00b7\u00e5\u0085\u008b\u00e8\u0096\u00a9\u00e6\u0096\u00af\u00e8\u0099\u009f"
     }, 
     "PASB708": {
         "en": "Alabama ST", 
@@ -308,8 +308,8 @@
         "nation": "USA", 
         "ru": "Alabama ST", 
         "species": "Battleship", 
-        "zh_cn": "\u963f\u62c9\u5df4\u9a6c(ST)", 
-        "zh_tw": "\u963f\u62c9\u5df4\u99ac\u865fST"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e6\u008b\u0089\u00e5\u00b7\u00b4\u00e9\u00a9\u00ac(ST)", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e6\u008b\u0089\u00e5\u00b7\u00b4\u00e9\u00a6\u00ac\u00e8\u0099\u009fST"
     }, 
     "PASB801": {
         "en": "South Carolina", 
@@ -321,8 +321,8 @@
         "nation": "USA", 
         "ru": "South Carolina", 
         "species": "Battleship", 
-        "zh_cn": "\u5357\u5361\u7f57\u83b1\u7eb3", 
-        "zh_tw": "\u5357\u5361\u7f85\u4f86\u7d0d"
+        "zh_cn": "\u00e5\u008d\u0097\u00e5\u008d\u00a1\u00e7\u00bd\u0097\u00e8\u008e\u00b1\u00e7\u00ba\u00b3", 
+        "zh_tw": "\u00e5\u008d\u0097\u00e5\u008d\u00a1\u00e7\u00be\u0085\u00e4\u00be\u0086\u00e7\u00b4\u008d"
     }, 
     "PASB802": {
         "en": "Michigan", 
@@ -334,8 +334,8 @@
         "nation": "USA", 
         "ru": "Michigan", 
         "species": "Battleship", 
-        "zh_cn": "\u5bc6\u897f\u6839", 
-        "zh_tw": "\u5bc6\u897f\u6839"
+        "zh_cn": "\u00e5\u00af\u0086\u00e8\u00a5\u00bf\u00e6\u00a0\u00b9", 
+        "zh_tw": "\u00e5\u00af\u0086\u00e8\u00a5\u00bf\u00e6\u00a0\u00b9"
     }, 
     "PASC001": {
         "en": "Erie", 
@@ -347,8 +347,8 @@
         "nation": "USA", 
         "ru": "Erie", 
         "species": "Cruiser", 
-        "zh_cn": "\u4f0a\u5229", 
-        "zh_tw": "\u4f0a\u5229\u7d1a"
+        "zh_cn": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9", 
+        "zh_tw": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9\u00e7\u00b4\u009a"
     }, 
     "PASC002": {
         "en": "Chester", 
@@ -360,8 +360,8 @@
         "nation": "USA", 
         "ru": "Chester", 
         "species": "Cruiser", 
-        "zh_cn": "\u5207\u65af\u7279", 
-        "zh_tw": "\u5207\u65af\u7279\u7d1a"
+        "zh_cn": "\u00e5\u0088\u0087\u00e6\u0096\u00af\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e5\u0088\u0087\u00e6\u0096\u00af\u00e7\u0089\u00b9\u00e7\u00b4\u009a"
     }, 
     "PASC003": {
         "en": "Albany", 
@@ -373,8 +373,8 @@
         "nation": "USA", 
         "ru": "Albany", 
         "species": "Cruiser", 
-        "zh_cn": "\u5965\u5c14\u5df4\u5c3c", 
-        "zh_tw": "\u5967\u723e\u5df4\u5c3c\u865f"
+        "zh_cn": "\u00e5\u00a5\u00a5\u00e5\u00b0\u0094\u00e5\u00b7\u00b4\u00e5\u00b0\u00bc", 
+        "zh_tw": "\u00e5\u00a5\u00a7\u00e7\u0088\u00be\u00e5\u00b7\u00b4\u00e5\u00b0\u00bc\u00e8\u0099\u009f"
     }, 
     "PASC004": {
         "en": "St. Louis", 
@@ -386,8 +386,8 @@
         "nation": "USA", 
         "ru": "St. Louis", 
         "species": "Cruiser", 
-        "zh_cn": "\u5723\u00b7\u8def\u6613\u65af", 
-        "zh_tw": "\u8056\u00b7\u8def\u6613\u65af\u7d1a"
+        "zh_cn": "\u00e5\u009c\u00a3\u00c2\u00b7\u00e8\u00b7\u00af\u00e6\u0098\u0093\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e8\u0081\u0096\u00c2\u00b7\u00e8\u00b7\u00af\u00e6\u0098\u0093\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASC005": {
         "en": "Omaha", 
@@ -399,8 +399,8 @@
         "nation": "USA", 
         "ru": "Omaha", 
         "species": "Cruiser", 
-        "zh_cn": "\u5965\u9a6c\u54c8", 
-        "zh_tw": "\u5967\u99ac\u54c8\u7d1a"
+        "zh_cn": "\u00e5\u00a5\u00a5\u00e9\u00a9\u00ac\u00e5\u0093\u0088", 
+        "zh_tw": "\u00e5\u00a5\u00a7\u00e9\u00a6\u00ac\u00e5\u0093\u0088\u00e7\u00b4\u009a"
     }, 
     "PASC006": {
         "en": "Atlanta", 
@@ -412,8 +412,8 @@
         "nation": "USA", 
         "ru": "Atlanta", 
         "species": "Cruiser", 
-        "zh_cn": "\u4e9a\u7279\u5170\u5927", 
-        "zh_tw": "\u4e9e\u7279\u862d\u5927\u865f"
+        "zh_cn": "\u00e4\u00ba\u009a\u00e7\u0089\u00b9\u00e5\u0085\u00b0\u00e5\u00a4\u00a7", 
+        "zh_tw": "\u00e4\u00ba\u009e\u00e7\u0089\u00b9\u00e8\u0098\u00ad\u00e5\u00a4\u00a7\u00e8\u0099\u009f"
     }, 
     "PASC007": {
         "en": "Cleveland", 
@@ -425,8 +425,8 @@
         "nation": "USA", 
         "ru": "Cleveland", 
         "species": "Cruiser", 
-        "zh_cn": "\u514b\u5229\u592b\u5170", 
-        "zh_tw": "\u514b\u5229\u592b\u862d\u7d1a"
+        "zh_cn": "\u00e5\u0085\u008b\u00e5\u0088\u00a9\u00e5\u00a4\u00ab\u00e5\u0085\u00b0", 
+        "zh_tw": "\u00e5\u0085\u008b\u00e5\u0088\u00a9\u00e5\u00a4\u00ab\u00e8\u0098\u00ad\u00e7\u00b4\u009a"
     }, 
     "PASC012": {
         "en": "Pensacola", 
@@ -438,8 +438,8 @@
         "nation": "USA", 
         "ru": "Pensacola", 
         "species": "Cruiser", 
-        "zh_cn": "\u5f6d\u8428\u79d1\u62c9", 
-        "zh_tw": "\u5f6d\u85a9\u79d1\u62c9\u7d1a"
+        "zh_cn": "\u00e5\u00bd\u00ad\u00e8\u0090\u00a8\u00e7\u00a7\u0091\u00e6\u008b\u0089", 
+        "zh_tw": "\u00e5\u00bd\u00ad\u00e8\u0096\u00a9\u00e7\u00a7\u0091\u00e6\u008b\u0089\u00e7\u00b4\u009a"
     }, 
     "PASC014": {
         "en": "New Orleans", 
@@ -451,8 +451,8 @@
         "nation": "USA", 
         "ru": "New Orleans", 
         "species": "Cruiser", 
-        "zh_cn": "\u65b0\u5965\u5c14\u826f", 
-        "zh_tw": "\u65b0\u5967\u723e\u826f\u7d1a"
+        "zh_cn": "\u00e6\u0096\u00b0\u00e5\u00a5\u00a5\u00e5\u00b0\u0094\u00e8\u0089\u00af", 
+        "zh_tw": "\u00e6\u0096\u00b0\u00e5\u00a5\u00a7\u00e7\u0088\u00be\u00e8\u0089\u00af\u00e7\u00b4\u009a"
     }, 
     "PASC016": {
         "en": "Worcester", 
@@ -464,8 +464,8 @@
         "nation": "USA", 
         "ru": "Worcester", 
         "species": "Cruiser", 
-        "zh_cn": "\u4f0d\u65af\u7279", 
-        "zh_tw": "\u4f0d\u65af\u7279\u7d1a"
+        "zh_cn": "\u00e4\u00bc\u008d\u00e6\u0096\u00af\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e4\u00bc\u008d\u00e6\u0096\u00af\u00e7\u0089\u00b9\u00e7\u00b4\u009a"
     }, 
     "PASC017": {
         "en": "Baltimore", 
@@ -477,8 +477,8 @@
         "nation": "USA", 
         "ru": "Baltimore", 
         "species": "Cruiser", 
-        "zh_cn": "\u5df4\u5c14\u7684\u6469", 
-        "zh_tw": "\u5df4\u723e\u7684\u6469\u7d1a"
+        "zh_cn": "\u00e5\u00b7\u00b4\u00e5\u00b0\u0094\u00e7\u009a\u0084\u00e6\u0091\u00a9", 
+        "zh_tw": "\u00e5\u00b7\u00b4\u00e7\u0088\u00be\u00e7\u009a\u0084\u00e6\u0091\u00a9\u00e7\u00b4\u009a"
     }, 
     "PASC019": {
         "en": "Buffalo", 
@@ -490,8 +490,8 @@
         "nation": "USA", 
         "ru": "Buffalo", 
         "species": "Cruiser", 
-        "zh_cn": "\u5e03\u6cd5\u7f57", 
-        "zh_tw": "\u5e03\u6cd5\u7f85\u865f"
+        "zh_cn": "\u00e5\u00b8\u0083\u00e6\u00b3\u0095\u00e7\u00bd\u0097", 
+        "zh_tw": "\u00e5\u00b8\u0083\u00e6\u00b3\u0095\u00e7\u00be\u0085\u00e8\u0099\u009f"
     }, 
     "PASC020": {
         "en": "Des Moines", 
@@ -503,8 +503,8 @@
         "nation": "USA", 
         "ru": "Des Moines", 
         "species": "Cruiser", 
-        "zh_cn": "\u5fb7\u6885\u56e0", 
-        "zh_tw": "\u5fb7\u6885\u56e0\u7d1a"
+        "zh_cn": "\u00e5\u00be\u00b7\u00e6\u00a2\u0085\u00e5\u009b\u00a0", 
+        "zh_tw": "\u00e5\u00be\u00b7\u00e6\u00a2\u0085\u00e5\u009b\u00a0\u00e7\u00b4\u009a"
     }, 
     "PASC024": {
         "en": "Phoenix", 
@@ -516,8 +516,8 @@
         "nation": "USA", 
         "ru": "Phoenix", 
         "species": "Cruiser", 
-        "zh_cn": "\u83f2\u5c3c\u514b\u65af", 
-        "zh_tw": "\u83f2\u5c3c\u514b\u65af\u7d1a"
+        "zh_cn": "\u00e8\u008f\u00b2\u00e5\u00b0\u00bc\u00e5\u0085\u008b\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e8\u008f\u00b2\u00e5\u00b0\u00bc\u00e5\u0085\u008b\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASC044": {
         "en": "Marblehead", 
@@ -529,8 +529,8 @@
         "nation": "USA", 
         "ru": "Marblehead", 
         "species": "Cruiser", 
-        "zh_cn": "\u9a6c\u5e03\u5c14\u9ed1\u5fb7", 
-        "zh_tw": "\u99ac\u5e03\u723e\u9ed1\u5fb7\u865f"
+        "zh_cn": "\u00e9\u00a9\u00ac\u00e5\u00b8\u0083\u00e5\u00b0\u0094\u00e9\u00bb\u0091\u00e5\u00be\u00b7", 
+        "zh_tw": "\u00e9\u00a6\u00ac\u00e5\u00b8\u0083\u00e7\u0088\u00be\u00e9\u00bb\u0091\u00e5\u00be\u00b7\u00e8\u0099\u009f"
     }, 
     "PASC045": {
         "en": "Marblehead L", 
@@ -542,8 +542,8 @@
         "nation": "USA", 
         "ru": "Marblehead L", 
         "species": "Cruiser", 
-        "zh_cn": "\u8f9b\u8f9b\u90a3\u63d0", 
-        "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
+        "zh_cn": "\u00e8\u00be\u009b\u00e8\u00be\u009b\u00e9\u0082\u00a3\u00e6\u008f\u0090", 
+        "zh_tw": "\u00e8\u00be\u009b\u00e8\u00be\u009b\u00e9\u0082\u00a3\u00e6\u008f\u0090\u00e8\u0099\u009f"
     }, 
     "PASC507": {
         "en": "Indianapolis", 
@@ -555,8 +555,8 @@
         "nation": "USA", 
         "ru": "Indianapolis", 
         "species": "Cruiser", 
-        "zh_cn": "\u5370\u7b2c\u5b89\u7eb3\u6ce2\u8482\u65af", 
-        "zh_tw": "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u8482\u65af\u865f"
+        "zh_cn": "\u00e5\u008d\u00b0\u00e7\u00ac\u00ac\u00e5\u00ae\u0089\u00e7\u00ba\u00b3\u00e6\u00b3\u00a2\u00e8\u0092\u0082\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u008d\u00b0\u00e7\u00ac\u00ac\u00e5\u00ae\u0089\u00e7\u00b4\u008d\u00e6\u00b3\u00a2\u00e8\u0092\u0082\u00e6\u0096\u00af\u00e8\u0099\u009f"
     }, 
     "PASC707": {
         "en": "Flint", 
@@ -568,8 +568,8 @@
         "nation": "USA", 
         "ru": "Flint", 
         "species": "Cruiser", 
-        "zh_cn": "\u5f17\u6797\u7279", 
-        "zh_tw": "\u5f17\u6797\u7279\u865f"
+        "zh_cn": "\u00e5\u00bc\u0097\u00e6\u009e\u0097\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e5\u00bc\u0097\u00e6\u009e\u0097\u00e7\u0089\u00b9\u00e8\u0099\u009f"
     }, 
     "PASC802": {
         "en": "Cimarron", 
@@ -581,8 +581,8 @@
         "nation": "USA", 
         "ru": "Cimarron", 
         "species": "Cruiser", 
-        "zh_cn": "\u897f\u9a6c\u9686", 
-        "zh_tw": "\u897f\u99ac\u9686"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e9\u00a9\u00ac\u00e9\u009a\u0086", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086"
     }, 
     "PASC803": {
         "en": "Cimarron", 
@@ -594,8 +594,8 @@
         "nation": "USA", 
         "ru": "Cimarron", 
         "species": "Cruiser", 
-        "zh_cn": "\u897f\u9a6c\u9686", 
-        "zh_tw": "\u897f\u99ac\u9686"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e9\u00a9\u00ac\u00e9\u009a\u0086", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086"
     }, 
     "PASC804": {
         "en": "Erie", 
@@ -607,8 +607,8 @@
         "nation": "USA", 
         "ru": "Erie", 
         "species": "Cruiser", 
-        "zh_cn": "\u4f0a\u5229", 
-        "zh_tw": "\u4f0a\u5229"
+        "zh_cn": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9", 
+        "zh_tw": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9"
     }, 
     "PASC805": {
         "en": "Erie", 
@@ -620,8 +620,8 @@
         "nation": "USA", 
         "ru": "Erie", 
         "species": "Cruiser", 
-        "zh_cn": "\u4f0a\u5229", 
-        "zh_tw": "\u4f0a\u5229"
+        "zh_cn": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9", 
+        "zh_tw": "\u00e4\u00bc\u008a\u00e5\u0088\u00a9"
     }, 
     "PASD002": {
         "en": "Sampson", 
@@ -633,8 +633,8 @@
         "nation": "USA", 
         "ru": "Sampson", 
         "species": "Destroyer", 
-        "zh_cn": "\u6851\u666e\u68ee", 
-        "zh_tw": "\u6851\u666e\u68ee\u7d1a"
+        "zh_cn": "\u00e6\u00a1\u0091\u00e6\u0099\u00ae\u00e6\u00a3\u00ae", 
+        "zh_tw": "\u00e6\u00a1\u0091\u00e6\u0099\u00ae\u00e6\u00a3\u00ae\u00e7\u00b4\u009a"
     }, 
     "PASD005": {
         "en": "Farragut", 
@@ -646,8 +646,8 @@
         "nation": "USA", 
         "ru": "Farragut", 
         "species": "Destroyer", 
-        "zh_cn": "\u6cd5\u62c9\u683c\u7279", 
-        "zh_tw": "\u6cd5\u62c9\u683c\u7279\u7d1a"
+        "zh_cn": "\u00e6\u00b3\u0095\u00e6\u008b\u0089\u00e6\u00a0\u00bc\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e6\u00b3\u0095\u00e6\u008b\u0089\u00e6\u00a0\u00bc\u00e7\u0089\u00b9\u00e7\u00b4\u009a"
     }, 
     "PASD006": {
         "en": "Mahan", 
@@ -659,8 +659,8 @@
         "nation": "USA", 
         "ru": "Mahan", 
         "species": "Destroyer", 
-        "zh_cn": "\u9a6c\u6c49", 
-        "zh_tw": "\u99ac\u6f22\u7d1a"
+        "zh_cn": "\u00e9\u00a9\u00ac\u00e6\u00b1\u0089", 
+        "zh_tw": "\u00e9\u00a6\u00ac\u00e6\u00bc\u00a2\u00e7\u00b4\u009a"
     }, 
     "PASD008": {
         "en": "Benson", 
@@ -672,8 +672,8 @@
         "nation": "USA", 
         "ru": "Benson", 
         "species": "Destroyer", 
-        "zh_cn": "\u672c\u68ee", 
-        "zh_tw": "\u672c\u68ee\u7d1a"
+        "zh_cn": "\u00e6\u009c\u00ac\u00e6\u00a3\u00ae", 
+        "zh_tw": "\u00e6\u009c\u00ac\u00e6\u00a3\u00ae\u00e7\u00b4\u009a"
     }, 
     "PASD013": {
         "en": "Gearing", 
@@ -685,8 +685,8 @@
         "nation": "USA", 
         "ru": "Gearing", 
         "species": "Destroyer", 
-        "zh_cn": "\u57fa\u6797", 
-        "zh_tw": "\u57fa\u6797\u7d1a"
+        "zh_cn": "\u00e5\u009f\u00ba\u00e6\u009e\u0097", 
+        "zh_tw": "\u00e5\u009f\u00ba\u00e6\u009e\u0097\u00e7\u00b4\u009a"
     }, 
     "PASD014": {
         "en": "Nicholas", 
@@ -698,8 +698,8 @@
         "nation": "USA", 
         "ru": "Nicholas", 
         "species": "Destroyer", 
-        "zh_cn": "\u5c3c\u53e4\u62c9\u65af", 
-        "zh_tw": "\u5c3c\u53e4\u62c9\u65af\u7d1a"
+        "zh_cn": "\u00e5\u00b0\u00bc\u00e5\u008f\u00a4\u00e6\u008b\u0089\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u00b0\u00bc\u00e5\u008f\u00a4\u00e6\u008b\u0089\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASD019": {
         "en": "Clemson", 
@@ -711,8 +711,8 @@
         "nation": "USA", 
         "ru": "Clemson", 
         "species": "Destroyer", 
-        "zh_cn": "\u514b\u83b1\u8499\u68ee", 
-        "zh_tw": "\u514b\u840a\u8499\u68ee\u7d1a"
+        "zh_cn": "\u00e5\u0085\u008b\u00e8\u008e\u00b1\u00e8\u0092\u0099\u00e6\u00a3\u00ae", 
+        "zh_tw": "\u00e5\u0085\u008b\u00e8\u0090\u008a\u00e8\u0092\u0099\u00e6\u00a3\u00ae\u00e7\u00b4\u009a"
     }, 
     "PASD021": {
         "en": "Fletcher", 
@@ -724,8 +724,8 @@
         "nation": "USA", 
         "ru": "Fletcher", 
         "species": "Destroyer", 
-        "zh_cn": "\u5f17\u83b1\u5f7b", 
-        "zh_tw": "\u5f17\u840a\u5fb9\u7d1a"
+        "zh_cn": "\u00e5\u00bc\u0097\u00e8\u008e\u00b1\u00e5\u00bd\u00bb", 
+        "zh_tw": "\u00e5\u00bc\u0097\u00e8\u0090\u008a\u00e5\u00be\u00b9\u00e7\u00b4\u009a"
     }, 
     "PASD027": {
         "en": "Wickes", 
@@ -737,8 +737,8 @@
         "nation": "USA", 
         "ru": "Wickes", 
         "species": "Destroyer", 
-        "zh_cn": "\u7ef4\u514b\u65af", 
-        "zh_tw": "\u7dad\u514b\u65af\u7d1a"
+        "zh_cn": "\u00e7\u00bb\u00b4\u00e5\u0085\u008b\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e7\u00b6\u00ad\u00e5\u0085\u008b\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASD029": {
         "en": "Sims", 
@@ -750,8 +750,8 @@
         "nation": "USA", 
         "ru": "Sims", 
         "species": "Destroyer", 
-        "zh_cn": "\u897f\u59c6\u65af", 
-        "zh_tw": "\u897f\u59c6\u65af\u865f"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e5\u00a7\u0086\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e5\u00a7\u0086\u00e6\u0096\u00af\u00e8\u0099\u009f"
     }, 
     "PASD502": {
         "en": "Smith", 
@@ -763,8 +763,8 @@
         "nation": "USA", 
         "ru": "Smith", 
         "species": "Destroyer", 
-        "zh_cn": "\u53f2\u5bc6\u65af", 
-        "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
+        "zh_cn": "\u00e5\u008f\u00b2\u00e5\u00af\u0086\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u008f\u00b2\u00e5\u00af\u0086\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PASD508": {
         "en": "Kidd", 
@@ -776,8 +776,8 @@
         "nation": "USA", 
         "ru": "Kidd", 
         "species": "Destroyer", 
-        "zh_cn": "\u57fa\u5fb7", 
-        "zh_tw": "\u57fa\u5fb7\u865f"
+        "zh_cn": "\u00e5\u009f\u00ba\u00e5\u00be\u00b7", 
+        "zh_tw": "\u00e5\u009f\u00ba\u00e5\u00be\u00b7\u00e8\u0099\u009f"
     }, 
     "PASD709": {
         "en": "Black", 
@@ -789,8 +789,8 @@
         "nation": "USA", 
         "ru": "Black", 
         "species": "Destroyer", 
-        "zh_cn": "\u5e03\u83b1\u514b", 
-        "zh_tw": "\u5e03\u840a\u514b\u865f"
+        "zh_cn": "\u00e5\u00b8\u0083\u00e8\u008e\u00b1\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e5\u00b8\u0083\u00e8\u0090\u008a\u00e5\u0085\u008b\u00e8\u0099\u009f"
     }, 
     "PASD801": {
         "en": "Sampson", 
@@ -802,8 +802,8 @@
         "nation": "USA", 
         "ru": "Sampson", 
         "species": "Destroyer", 
-        "zh_cn": "\u6851\u666e\u68ee", 
-        "zh_tw": "\u6851\u666e\u68ee"
+        "zh_cn": "\u00e6\u00a1\u0091\u00e6\u0099\u00ae\u00e6\u00a3\u00ae", 
+        "zh_tw": "\u00e6\u00a1\u0091\u00e6\u0099\u00ae\u00e6\u00a3\u00ae"
     }, 
     "PASX001": {
         "en": "Cimarron", 
@@ -815,8 +815,8 @@
         "nation": "USA", 
         "ru": "Cimarron", 
         "species": "Auxiliary", 
-        "zh_cn": "\u897f\u9a6c\u9686", 
-        "zh_tw": "\u897f\u99ac\u9686\u7d1a"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e9\u00a9\u00ac\u00e9\u009a\u0086", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086\u00e7\u00b4\u009a"
     }, 
     "PASX003": {
         "en": "Liberty", 
@@ -828,8 +828,8 @@
         "nation": "USA", 
         "ru": "Liberty", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PASX003", 
-        "zh_tw": "IDS_PASX003"
+        "zh_cn": "\u00e8\u0087\u00aa\u00e7\u0094\u00b1", 
+        "zh_tw": "\u00e8\u0087\u00aa\u00e7\u0094\u00b1\u00e8\u0099\u009f"
     }, 
     "PASX005": {
         "en": "St. Clair", 
@@ -841,8 +841,8 @@
         "nation": "USA", 
         "ru": "Cimarron", 
         "species": "Auxiliary", 
-        "zh_cn": "Cimarron", 
-        "zh_tw": "Cimarron"
+        "zh_cn": "\u00e5\u009c\u00a3\u00e5\u0085\u008b\u00e8\u008e\u00b1\u00e5\u00b0\u0094", 
+        "zh_tw": "\u00e8\u0081\u0096\u00e5\u0085\u008b\u00e8\u0090\u008a\u00e7\u0088\u00be\u00e8\u0099\u009f"
     }, 
     "PASX006": {
         "en": "Cimarron", 
@@ -854,8 +854,8 @@
         "nation": "USA", 
         "ru": "Cimarron", 
         "species": "Auxiliary", 
-        "zh_cn": "\u897f\u9a6c\u9686", 
-        "zh_tw": "\u897f\u99ac\u9686"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e9\u00a9\u00ac\u00e9\u009a\u0086", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086"
     }, 
     "PASX815": {
         "en": "Bogue", 
@@ -867,8 +867,8 @@
         "nation": "USA", 
         "ru": "Bogue", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PASX815", 
-        "zh_tw": "IDS_PASX815"
+        "zh_cn": "\u00e5\u008d\u009a\u00e6\u00a0\u00bc", 
+        "zh_tw": "\u00e5\u008d\u009a\u00e6\u00a0\u00bc"
     }, 
     "PASX904": {
         "en": "Cimarron Test", 
@@ -880,8 +880,8 @@
         "nation": "USA", 
         "ru": "Cimarron Test", 
         "species": "Auxiliary", 
-        "zh_cn": "\u897f\u99ac\u9686Test", 
-        "zh_tw": "\u897f\u99ac\u9686Test"
+        "zh_cn": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086Test", 
+        "zh_tw": "\u00e8\u00a5\u00bf\u00e9\u00a6\u00ac\u00e9\u009a\u0086Test"
     }, 
     "PBSB002": {
         "en": "Warspite", 
@@ -893,8 +893,8 @@
         "nation": "United_Kingdom", 
         "ru": "Warspite", 
         "species": "Battleship", 
-        "zh_cn": "\u538c\u6218", 
-        "zh_tw": "\u53ad\u6230\u865f"
+        "zh_cn": "\u00e5\u008e\u008c\u00e6\u0088\u0098", 
+        "zh_tw": "\u00e5\u008e\u00ad\u00e6\u0088\u00b0\u00e8\u0099\u009f"
     }, 
     "PBSB103": {
         "en": "Bellerophon", 
@@ -1023,8 +1023,8 @@
         "nation": "United_Kingdom", 
         "ru": "Hood", 
         "species": "Battleship", 
-        "zh_cn": "\u80e1\u5fb7", 
-        "zh_tw": "\u80e1\u5fb7\u865f"
+        "zh_cn": "\u00e8\u0083\u00a1\u00e5\u00be\u00b7", 
+        "zh_tw": "\u00e8\u0083\u00a1\u00e5\u00be\u00b7\u00e8\u0099\u009f"
     }, 
     "PBSC101": {
         "en": "Black Swan", 
@@ -1036,8 +1036,8 @@
         "nation": "United_Kingdom", 
         "ru": "Black Swan", 
         "species": "Cruiser", 
-        "zh_cn": "\u9ed1\u5929\u9e45", 
-        "zh_tw": "\u9ed1\u5929\u9d5d\u7d1a"
+        "zh_cn": "\u00e9\u00bb\u0091\u00e5\u00a4\u00a9\u00e9\u00b9\u0085", 
+        "zh_tw": "\u00e9\u00bb\u0091\u00e5\u00a4\u00a9\u00e9\u00b5\u009d\u00e7\u00b4\u009a"
     }, 
     "PBSC102": {
         "en": "Weymouth", 
@@ -1049,8 +1049,8 @@
         "nation": "United_Kingdom", 
         "ru": "Weymouth", 
         "species": "Cruiser", 
-        "zh_cn": "\u97e6\u8305\u65af", 
-        "zh_tw": "\u97cb\u8305\u65af\u7d1a"
+        "zh_cn": "\u00e9\u009f\u00a6\u00e8\u008c\u0085\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e9\u009f\u008b\u00e8\u008c\u0085\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PBSC103": {
         "en": "Caledon", 
@@ -1062,8 +1062,8 @@
         "nation": "United_Kingdom", 
         "ru": "Caledon", 
         "species": "Cruiser", 
-        "zh_cn": "\u5361\u5229\u767b", 
-        "zh_tw": "\u5361\u5229\u767b\u7d1a"
+        "zh_cn": "\u00e5\u008d\u00a1\u00e5\u0088\u00a9\u00e7\u0099\u00bb", 
+        "zh_tw": "\u00e5\u008d\u00a1\u00e5\u0088\u00a9\u00e7\u0099\u00bb\u00e7\u00b4\u009a"
     }, 
     "PBSC104": {
         "en": "Danae", 
@@ -1075,8 +1075,8 @@
         "nation": "United_Kingdom", 
         "ru": "Danae", 
         "species": "Cruiser", 
-        "zh_cn": "\u9edb\u5a1c\u8036", 
-        "zh_tw": "\u9edb\u5a1c\u8036\u7d1a"
+        "zh_cn": "\u00e9\u00bb\u009b\u00e5\u00a8\u009c\u00e8\u0080\u00b6", 
+        "zh_tw": "\u00e9\u00bb\u009b\u00e5\u00a8\u009c\u00e8\u0080\u00b6\u00e7\u00b4\u009a"
     }, 
     "PBSC105": {
         "en": "Emerald", 
@@ -1088,8 +1088,8 @@
         "nation": "United_Kingdom", 
         "ru": "Emerald", 
         "species": "Cruiser", 
-        "zh_cn": "\u7fe1\u7fe0", 
-        "zh_tw": "\u7fe1\u7fe0\u7d1a"
+        "zh_cn": "\u00e7\u00bf\u00a1\u00e7\u00bf\u00a0", 
+        "zh_tw": "\u00e7\u00bf\u00a1\u00e7\u00bf\u00a0\u00e7\u00b4\u009a"
     }, 
     "PBSC106": {
         "en": "Leander", 
@@ -1101,8 +1101,8 @@
         "nation": "United_Kingdom", 
         "ru": "Leander", 
         "species": "Cruiser", 
-        "zh_cn": "\u5229\u5b89\u5fb7", 
-        "zh_tw": "\u5229\u5b89\u5fb7\u7d1a"
+        "zh_cn": "\u00e5\u0088\u00a9\u00e5\u00ae\u0089\u00e5\u00be\u00b7", 
+        "zh_tw": "\u00e5\u0088\u00a9\u00e5\u00ae\u0089\u00e5\u00be\u00b7\u00e7\u00b4\u009a"
     }, 
     "PBSC107": {
         "en": "Fiji", 
@@ -1114,8 +1114,8 @@
         "nation": "United_Kingdom", 
         "ru": "Fiji", 
         "species": "Cruiser", 
-        "zh_cn": "\u6590\u6d4e", 
-        "zh_tw": "\u6590\u6fdf\u7d1a"
+        "zh_cn": "\u00e6\u0096\u0090\u00e6\u00b5\u008e", 
+        "zh_tw": "\u00e6\u0096\u0090\u00e6\u00bf\u009f\u00e7\u00b4\u009a"
     }, 
     "PBSC108": {
         "en": "Edinburgh", 
@@ -1127,8 +1127,8 @@
         "nation": "United_Kingdom", 
         "ru": "Edinburgh", 
         "species": "Cruiser", 
-        "zh_cn": "\u7231\u4e01\u5821", 
-        "zh_tw": "\u611b\u4e01\u5821\u7d1a"
+        "zh_cn": "\u00e7\u0088\u00b1\u00e4\u00b8\u0081\u00e5\u00a0\u00a1", 
+        "zh_tw": "\u00e6\u0084\u009b\u00e4\u00b8\u0081\u00e5\u00a0\u00a1\u00e7\u00b4\u009a"
     }, 
     "PBSC109": {
         "en": "Neptune", 
@@ -1140,8 +1140,8 @@
         "nation": "United_Kingdom", 
         "ru": "Neptune", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u738b\u661f", 
-        "zh_tw": "\u6d77\u738b\u661f\u7d1a"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e7\u008e\u008b\u00e6\u0098\u009f", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e7\u008e\u008b\u00e6\u0098\u009f\u00e7\u00b4\u009a"
     }, 
     "PBSC110": {
         "en": "Minotaur", 
@@ -1153,8 +1153,8 @@
         "nation": "United_Kingdom", 
         "ru": "Minotaur", 
         "species": "Cruiser", 
-        "zh_cn": "\u7c73\u8bfa\u9676", 
-        "zh_tw": "\u7c73\u8afe\u9676\u7d1a"
+        "zh_cn": "\u00e7\u00b1\u00b3\u00e8\u00af\u00ba\u00e9\u0099\u00b6", 
+        "zh_tw": "\u00e7\u00b1\u00b3\u00e8\u00ab\u00be\u00e9\u0099\u00b6\u00e7\u00b4\u009a"
     }, 
     "PBSC507": {
         "en": "Belfast", 
@@ -1166,8 +1166,8 @@
         "nation": "United_Kingdom", 
         "ru": "Belfast", 
         "species": "Cruiser", 
-        "zh_cn": "\u8d1d\u5c14\u6cd5\u65af\u7279", 
-        "zh_tw": "\u8c9d\u723e\u6cd5\u65af\u7279\u865f"
+        "zh_cn": "\u00e8\u00b4\u009d\u00e5\u00b0\u0094\u00e6\u00b3\u0095\u00e6\u0096\u00af\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e8\u00b2\u009d\u00e7\u0088\u00be\u00e6\u00b3\u0095\u00e6\u0096\u00af\u00e7\u0089\u00b9\u00e8\u0099\u009f"
     }, 
     "PBSD503": {
         "en": "Campbeltown", 
@@ -1179,8 +1179,8 @@
         "nation": "United_Kingdom", 
         "ru": "Campbeltown", 
         "species": "Destroyer", 
-        "zh_cn": "\u574e\u8d1d\u5c14\u6566", 
-        "zh_tw": "\u574e\u8c9d\u723e\u6566\u865f"
+        "zh_cn": "\u00e5\u009d\u008e\u00e8\u00b4\u009d\u00e5\u00b0\u0094\u00e6\u0095\u00a6", 
+        "zh_tw": "\u00e5\u009d\u008e\u00e8\u00b2\u009d\u00e7\u0088\u00be\u00e6\u0095\u00a6\u00e8\u0099\u009f"
     }, 
     "PBSD506": {
         "en": "Gallant", 
@@ -1192,8 +1192,8 @@
         "nation": "United_Kingdom", 
         "ru": "Gallant", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PBSD506", 
-        "zh_tw": "IDS_PBSD506"
+        "zh_cn": "\u00e8\u008b\u00b1\u00e5\u008b\u0087", 
+        "zh_tw": "\u00e8\u008b\u00b1\u00e5\u008b\u0087\u00e8\u0099\u009f"
     }, 
     "PBSD605": {
         "en": "Anthony", 
@@ -1218,8 +1218,8 @@
         "nation": "France", 
         "ru": "Dunkerque", 
         "species": "Battleship", 
-        "zh_cn": "\u6566\u523b\u5c14\u514b", 
-        "zh_tw": "\u6566\u523b\u723e\u514b\u865f"
+        "zh_cn": "\u00e6\u0095\u00a6\u00e5\u0088\u00bb\u00e5\u00b0\u0094\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e6\u0095\u00a6\u00e5\u0088\u00bb\u00e7\u0088\u00be\u00e5\u0085\u008b\u00e8\u0099\u009f"
     }, 
     "PFSC101": {
         "en": "Bougainville", 
@@ -1231,8 +1231,8 @@
         "nation": "France", 
         "ru": "Bougainville", 
         "species": "Cruiser", 
-        "zh_cn": "\u5e03\u5e72\u7ef4\u5c14", 
-        "zh_tw": "\u5e03\u5e72\u7dad\u723e\u7d1a"
+        "zh_cn": "\u00e5\u00b8\u0083\u00e5\u00b9\u00b2\u00e7\u00bb\u00b4\u00e5\u00b0\u0094", 
+        "zh_tw": "\u00e5\u00b8\u0083\u00e5\u00b9\u00b2\u00e7\u00b6\u00ad\u00e7\u0088\u00be\u00e7\u00b4\u009a"
     }, 
     "PFSC102": {
         "en": "Jurien", 
@@ -1244,8 +1244,8 @@
         "nation": "France", 
         "ru": "Jurien", 
         "species": "Cruiser", 
-        "zh_cn": "\u5c24\u91cc\u5b89\u00b7\u683c\u62c9\u7ef4", 
-        "zh_tw": "\u5c24\u91cc\u5b89\u00b7\u683c\u62c9\u7dad\u7d1a"
+        "zh_cn": "\u00e5\u00b0\u00a4\u00e9\u0087\u008c\u00e5\u00ae\u0089\u00c2\u00b7\u00e6\u00a0\u00bc\u00e6\u008b\u0089\u00e7\u00bb\u00b4", 
+        "zh_tw": "\u00e5\u00b0\u00a4\u00e9\u0087\u008c\u00e5\u00ae\u0089\u00c2\u00b7\u00e6\u00a0\u00bc\u00e6\u008b\u0089\u00e7\u00b6\u00ad\u00e7\u00b4\u009a"
     }, 
     "PFSC103": {
         "en": "Friant", 
@@ -1257,8 +1257,8 @@
         "nation": "France", 
         "ru": "Friant", 
         "species": "Cruiser", 
-        "zh_cn": "\u5f17\u5229\u6602", 
-        "zh_tw": "\u5f17\u5229\u6602\u7d1a"
+        "zh_cn": "\u00e5\u00bc\u0097\u00e5\u0088\u00a9\u00e6\u0098\u0082", 
+        "zh_tw": "\u00e5\u00bc\u0097\u00e5\u0088\u00a9\u00e6\u0098\u0082\u00e7\u00b4\u009a"
     }, 
     "PFSC104": {
         "en": "Duguay-Trouin", 
@@ -1270,8 +1270,8 @@
         "nation": "France", 
         "ru": "Duguay-Trouin", 
         "species": "Cruiser", 
-        "zh_cn": "\u8fea\u76d6\u00b7\u7279\u9c81\u5b89", 
-        "zh_tw": "\u8fea\u84cb\u00b7\u7279\u9b6f\u5b89\u7d1a"
+        "zh_cn": "\u00e8\u00bf\u00aa\u00e7\u009b\u0096\u00c2\u00b7\u00e7\u0089\u00b9\u00e9\u00b2\u0081\u00e5\u00ae\u0089", 
+        "zh_tw": "\u00e8\u00bf\u00aa\u00e8\u0093\u008b\u00c2\u00b7\u00e7\u0089\u00b9\u00e9\u00ad\u00af\u00e5\u00ae\u0089\u00e7\u00b4\u009a"
     }, 
     "PFSC105": {
         "en": "\u00c9mile Bertin", 
@@ -1283,8 +1283,8 @@
         "nation": "France", 
         "ru": "\u00c9mile Bertin", 
         "species": "Cruiser", 
-        "zh_cn": "\u767d\u52b3\u6613", 
-        "zh_tw": "\u767d\u52de\u6613\u865f"
+        "zh_cn": "\u00e7\u0099\u00bd\u00e5\u008a\u00b3\u00e6\u0098\u0093", 
+        "zh_tw": "\u00e7\u0099\u00bd\u00e5\u008b\u009e\u00e6\u0098\u0093\u00e8\u0099\u009f"
     }, 
     "PFSC106": {
         "en": "La Galissonni\u00e8re", 
@@ -1296,8 +1296,8 @@
         "nation": "France", 
         "ru": "La Galissonni\u00e8re", 
         "species": "Cruiser", 
-        "zh_cn": "\u52a0\u5229\u7d22\u5c3c\u57c3", 
-        "zh_tw": "\u52a0\u5229\u7d22\u5c3c\u57c3\u7d1a"
+        "zh_cn": "\u00e5\u008a\u00a0\u00e5\u0088\u00a9\u00e7\u00b4\u00a2\u00e5\u00b0\u00bc\u00e5\u009f\u0083", 
+        "zh_tw": "\u00e5\u008a\u00a0\u00e5\u0088\u00a9\u00e7\u00b4\u00a2\u00e5\u00b0\u00bc\u00e5\u009f\u0083\u00e7\u00b4\u009a"
     }, 
     "PFSC107": {
         "en": "Alg\u00e9rie", 
@@ -1309,8 +1309,8 @@
         "nation": "France", 
         "ru": "Alg\u00e9rie", 
         "species": "Cruiser", 
-        "zh_cn": "\u963f\u5c14\u53ca\u5229\u4e9a", 
-        "zh_tw": "\u963f\u723e\u53ca\u5229\u4e9e\u865f"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e5\u00b0\u0094\u00e5\u008f\u008a\u00e5\u0088\u00a9\u00e4\u00ba\u009a", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e7\u0088\u00be\u00e5\u008f\u008a\u00e5\u0088\u00a9\u00e4\u00ba\u009e\u00e8\u0099\u009f"
     }, 
     "PFSC108": {
         "en": "Charles Martel", 
@@ -1322,8 +1322,8 @@
         "nation": "France", 
         "ru": "Charles Martel", 
         "species": "Cruiser", 
-        "zh_cn": "\u67e5\u7406\u00b7\u9a6c\u7279", 
-        "zh_tw": "\u67e5\u7406\u00b7\u99ac\u7279\u7d1a"
+        "zh_cn": "\u00e6\u009f\u00a5\u00e7\u0090\u0086\u00c2\u00b7\u00e9\u00a9\u00ac\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e6\u009f\u00a5\u00e7\u0090\u0086\u00c2\u00b7\u00e9\u00a6\u00ac\u00e7\u0089\u00b9\u00e7\u00b4\u009a"
     }, 
     "PFSC109": {
         "en": "Saint-Louis", 
@@ -1335,8 +1335,8 @@
         "nation": "France", 
         "ru": "Saint-Louis", 
         "species": "Cruiser", 
-        "zh_cn": "\u8def\u6613\u4e5d\u4e16", 
-        "zh_tw": "\u8def\u6613\u4e5d\u4e16\u7d1a"
+        "zh_cn": "\u00e8\u00b7\u00af\u00e6\u0098\u0093\u00e4\u00b9\u009d\u00e4\u00b8\u0096", 
+        "zh_tw": "\u00e8\u00b7\u00af\u00e6\u0098\u0093\u00e4\u00b9\u009d\u00e4\u00b8\u0096\u00e7\u00b4\u009a"
     }, 
     "PFSC110": {
         "en": "Henri IV", 
@@ -1348,8 +1348,8 @@
         "nation": "France", 
         "ru": "Henri IV", 
         "species": "Cruiser", 
-        "zh_cn": "\u4ea8\u5229\u56db\u4e16", 
-        "zh_tw": "\u4ea8\u5229\u56db\u4e16\u7d1a"
+        "zh_cn": "\u00e4\u00ba\u00a8\u00e5\u0088\u00a9\u00e5\u009b\u009b\u00e4\u00b8\u0096", 
+        "zh_tw": "\u00e4\u00ba\u00a8\u00e5\u0088\u00a9\u00e5\u009b\u009b\u00e4\u00b8\u0096\u00e7\u00b4\u009a"
     }, 
     "PFSC506": {
         "en": "De Grasse", 
@@ -1361,8 +1361,8 @@
         "nation": "France", 
         "ru": "De Grasse", 
         "species": "Cruiser", 
-        "zh_cn": "\u5fb7\u00b7\u683c\u62c9\u65af", 
-        "zh_tw": "\u5fb7\u00b7\u683c\u62c9\u65af\u865f"
+        "zh_cn": "\u00e5\u00be\u00b7\u00c2\u00b7\u00e6\u00a0\u00bc\u00e6\u008b\u0089\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e5\u00be\u00b7\u00c2\u00b7\u00e6\u00a0\u00bc\u00e6\u008b\u0089\u00e6\u0096\u00af\u00e8\u0099\u009f"
     }, 
     "PFSD605": {
         "en": "Cyclone", 
@@ -1400,8 +1400,8 @@
         "nation": "Germany", 
         "ru": "Tirpitz", 
         "species": "Battleship", 
-        "zh_cn": "\u63d0\u5c14\u6bd4\u8328", 
-        "zh_tw": "\u63d0\u723e\u6bd4\u8328\u865f"
+        "zh_cn": "\u00e6\u008f\u0090\u00e5\u00b0\u0094\u00e6\u00af\u0094\u00e8\u008c\u00a8", 
+        "zh_tw": "\u00e6\u008f\u0090\u00e7\u0088\u00be\u00e6\u00af\u0094\u00e8\u008c\u00a8\u00e8\u0099\u009f"
     }, 
     "PGSB103": {
         "en": "Nassau", 
@@ -1413,8 +1413,8 @@
         "nation": "Germany", 
         "ru": "Nassau", 
         "species": "Battleship", 
-        "zh_cn": "\u62ff\u9a9a", 
-        "zh_tw": "\u62ff\u9a37\u7d1a"
+        "zh_cn": "\u00e6\u008b\u00bf\u00e9\u00aa\u009a", 
+        "zh_tw": "\u00e6\u008b\u00bf\u00e9\u00a8\u00b7\u00e7\u00b4\u009a"
     }, 
     "PGSB104": {
         "en": "Kaiser", 
@@ -1426,8 +1426,8 @@
         "nation": "Germany", 
         "ru": "Kaiser", 
         "species": "Battleship", 
-        "zh_cn": "\u51ef\u6492", 
-        "zh_tw": "\u51f1\u6492\u7d1a"
+        "zh_cn": "\u00e5\u0087\u00af\u00e6\u0092\u0092", 
+        "zh_tw": "\u00e5\u0087\u00b1\u00e6\u0092\u0092\u00e7\u00b4\u009a"
     }, 
     "PGSB105": {
         "en": "K\u00f6nig", 
@@ -1439,8 +1439,8 @@
         "nation": "Germany", 
         "ru": "K\u00f6nig", 
         "species": "Battleship", 
-        "zh_cn": "\u56fd\u738b", 
-        "zh_tw": "\u570b\u738b\u7d1a"
+        "zh_cn": "\u00e5\u009b\u00bd\u00e7\u008e\u008b", 
+        "zh_tw": "\u00e5\u009c\u008b\u00e7\u008e\u008b\u00e7\u00b4\u009a"
     }, 
     "PGSB106": {
         "en": "Bayern", 
@@ -1452,8 +1452,8 @@
         "nation": "Germany", 
         "ru": "Bayern", 
         "species": "Battleship", 
-        "zh_cn": "\u5df4\u4f10\u5229\u4e9a", 
-        "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
+        "zh_cn": "\u00e5\u00b7\u00b4\u00e4\u00bc\u0090\u00e5\u0088\u00a9\u00e4\u00ba\u009a", 
+        "zh_tw": "\u00e5\u00b7\u00b4\u00e4\u00bc\u0090\u00e5\u0088\u00a9\u00e4\u00ba\u009e\u00e7\u00b4\u009a"
     }, 
     "PGSB107": {
         "en": "Gneisenau", 
@@ -1465,8 +1465,8 @@
         "nation": "Germany", 
         "ru": "Gneisenau", 
         "species": "Battleship", 
-        "zh_cn": "\u683c\u5948\u68ee\u7459", 
-        "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
+        "zh_cn": "\u00e6\u00a0\u00bc\u00e5\u00a5\u0088\u00e6\u00a3\u00ae\u00e7\u0091\u0099", 
+        "zh_tw": "\u00e6\u00a0\u00bc\u00e5\u00a5\u0088\u00e6\u00a3\u00ae\u00e7\u0091\u0099\u00e8\u0099\u009f"
     }, 
     "PGSB108": {
         "en": "Bismarck", 
@@ -1478,8 +1478,8 @@
         "nation": "Germany", 
         "ru": "Bismarck", 
         "species": "Battleship", 
-        "zh_cn": "\u4ffe\u65af\u9ea6", 
-        "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
+        "zh_cn": "\u00e4\u00bf\u00be\u00e6\u0096\u00af\u00e9\u00ba\u00a6", 
+        "zh_tw": "\u00e4\u00bf\u00be\u00e6\u0096\u00af\u00e9\u00ba\u00a5\u00e8\u0099\u009f"
     }, 
     "PGSB109": {
         "en": "F. der Gro\u00dfe", 
@@ -1491,8 +1491,8 @@
         "nation": "Germany", 
         "ru": "F. der Gro\u00dfe", 
         "species": "Battleship", 
-        "zh_cn": "\u8153\u7279\u70c8\u5927\u5e1d", 
-        "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
+        "zh_cn": "\u00e8\u0085\u0093\u00e7\u0089\u00b9\u00e7\u0083\u0088\u00e5\u00a4\u00a7\u00e5\u00b8\u009d", 
+        "zh_tw": "\u00e8\u0085\u0093\u00e7\u0089\u00b9\u00e7\u0083\u0088\u00e5\u00a4\u00a7\u00e5\u00b8\u009d\u00e7\u00b4\u009a"
     }, 
     "PGSB110": {
         "en": "G. Kurf\u00fcrst", 
@@ -1504,8 +1504,8 @@
         "nation": "Germany", 
         "ru": "G. Kurf\u00fcrst", 
         "species": "Battleship", 
-        "zh_cn": "\u5927\u9009\u5e1d\u4faf", 
-        "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
+        "zh_cn": "\u00e5\u00a4\u00a7\u00e9\u0080\u0089\u00e5\u00b8\u009d\u00e4\u00be\u00af", 
+        "zh_tw": "\u00e5\u00a4\u00a7\u00e9\u0081\u00b8\u00e5\u00b8\u009d\u00e4\u00be\u00af\u00e7\u00b4\u009a"
     }, 
     "PGSB503": {
         "en": "K. Albert", 
@@ -1517,8 +1517,8 @@
         "nation": "Germany", 
         "ru": "K. Albert", 
         "species": "Battleship", 
-        "zh_cn": "\u56fd\u738b\u963f\u5c14\u4f2f\u7279", 
-        "zh_tw": "\u570b\u738b\u963f\u723e\u4f2f\u7279\u865f"
+        "zh_cn": "\u00e5\u009b\u00bd\u00e7\u008e\u008b\u00e9\u0098\u00bf\u00e5\u00b0\u0094\u00e4\u00bc\u00af\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e5\u009c\u008b\u00e7\u008e\u008b\u00e9\u0098\u00bf\u00e7\u0088\u00be\u00e4\u00bc\u00af\u00e7\u0089\u00b9\u00e8\u0099\u009f"
     }, 
     "PGSB507": {
         "en": "Scharnhorst", 
@@ -1530,8 +1530,8 @@
         "nation": "Germany", 
         "ru": "Scharnhorst", 
         "species": "Battleship", 
-        "zh_cn": "\u6c99\u6069\u970d\u65af\u7279", 
-        "zh_tw": "\u6c99\u6069\u970d\u65af\u7279\u865f"
+        "zh_cn": "\u00e6\u00b2\u0099\u00e6\u0081\u00a9\u00e9\u009c\u008d\u00e6\u0096\u00af\u00e7\u0089\u00b9", 
+        "zh_tw": "\u00e6\u00b2\u0099\u00e6\u0081\u00a9\u00e9\u009c\u008d\u00e6\u0096\u00af\u00e7\u0089\u00b9\u00e8\u0099\u009f"
     }, 
     "PGSC001": {
         "en": "Hermelin", 
@@ -1543,8 +1543,8 @@
         "nation": "Germany", 
         "ru": "Hermelin", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u6885\u8335", 
-        "zh_tw": "\u6d77\u6885\u8335\u865f"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e6\u00a2\u0085\u00e8\u008c\u00b5", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e6\u00a2\u0085\u00e8\u008c\u00b5\u00e8\u0099\u009f"
     }, 
     "PGSC002": {
         "en": "Dresden", 
@@ -1556,8 +1556,8 @@
         "nation": "Germany", 
         "ru": "Dresden", 
         "species": "Cruiser", 
-        "zh_cn": "\u5fb7\u7d2f\u65af\u987f", 
-        "zh_tw": "\u5fb7\u7d2f\u65af\u9813\u7d1a"
+        "zh_cn": "\u00e5\u00be\u00b7\u00e7\u00b4\u00af\u00e6\u0096\u00af\u00e9\u00a1\u00bf", 
+        "zh_tw": "\u00e5\u00be\u00b7\u00e7\u00b4\u00af\u00e6\u0096\u00af\u00e9\u00a0\u0093\u00e7\u00b4\u009a"
     }, 
     "PGSC103": {
         "en": "Kolberg", 
@@ -1569,8 +1569,8 @@
         "nation": "Germany", 
         "ru": "Kolberg", 
         "species": "Cruiser", 
-        "zh_cn": "\u79d1\u5c14\u8d1d\u683c", 
-        "zh_tw": "\u79d1\u723e\u8c9d\u683c\u7d1a"
+        "zh_cn": "\u00e7\u00a7\u0091\u00e5\u00b0\u0094\u00e8\u00b4\u009d\u00e6\u00a0\u00bc", 
+        "zh_tw": "\u00e7\u00a7\u0091\u00e7\u0088\u00be\u00e8\u00b2\u009d\u00e6\u00a0\u00bc\u00e7\u00b4\u009a"
     }, 
     "PGSC104": {
         "en": "Karlsruhe", 
@@ -1582,8 +1582,8 @@
         "nation": "Germany", 
         "ru": "Karlsruhe", 
         "species": "Cruiser", 
-        "zh_cn": "\u5361\u5c14\u65af\u9c81\u5384", 
-        "zh_tw": "\u5361\u723e\u65af\u9b6f\u5384\u7d1a"
+        "zh_cn": "\u00e5\u008d\u00a1\u00e5\u00b0\u0094\u00e6\u0096\u00af\u00e9\u00b2\u0081\u00e5\u008e\u0084", 
+        "zh_tw": "\u00e5\u008d\u00a1\u00e7\u0088\u00be\u00e6\u0096\u00af\u00e9\u00ad\u00af\u00e5\u008e\u0084\u00e7\u00b4\u009a"
     }, 
     "PGSC105": {
         "en": "K\u00f6nigsberg", 
@@ -1595,8 +1595,8 @@
         "nation": "Germany", 
         "ru": "K\u00f6nigsberg", 
         "species": "Cruiser", 
-        "zh_cn": "\u67ef\u5c3c\u65af\u5821", 
-        "zh_tw": "\u67ef\u5c3c\u65af\u5821\u7d1a"
+        "zh_cn": "\u00e6\u009f\u00af\u00e5\u00b0\u00bc\u00e6\u0096\u00af\u00e5\u00a0\u00a1", 
+        "zh_tw": "\u00e6\u009f\u00af\u00e5\u00b0\u00bc\u00e6\u0096\u00af\u00e5\u00a0\u00a1\u00e7\u00b4\u009a"
     }, 
     "PGSC106": {
         "en": "N\u00fcrnberg", 
@@ -1608,8 +1608,8 @@
         "nation": "Germany", 
         "ru": "N\u00fcrnberg", 
         "species": "Cruiser", 
-        "zh_cn": "\u7ebd\u4f26\u5821", 
-        "zh_tw": "\u7d10\u502b\u5821\u865f"
+        "zh_cn": "\u00e7\u00ba\u00bd\u00e4\u00bc\u00a6\u00e5\u00a0\u00a1", 
+        "zh_tw": "\u00e7\u00b4\u0090\u00e5\u0080\u00ab\u00e5\u00a0\u00a1\u00e8\u0099\u009f"
     }, 
     "PGSC107": {
         "en": "Yorck", 
@@ -1621,8 +1621,8 @@
         "nation": "Germany", 
         "ru": "Yorck", 
         "species": "Cruiser", 
-        "zh_cn": "\u7ea6\u514b", 
-        "zh_tw": "\u7d04\u514b\u7d1a"
+        "zh_cn": "\u00e7\u00ba\u00a6\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e7\u00b4\u0084\u00e5\u0085\u008b\u00e7\u00b4\u009a"
     }, 
     "PGSC108": {
         "en": "Hipper", 
@@ -1634,8 +1634,8 @@
         "nation": "Germany", 
         "ru": "Hipper", 
         "species": "Cruiser", 
-        "zh_cn": "\u5e0c\u4f69\u5c14\u6d77\u519b\u4e0a\u5c06", 
-        "zh_tw": "\u5e0c\u4f69\u723e\u6d77\u8ecd\u4e0a\u5c07\u7d1a"
+        "zh_cn": "\u00e5\u00b8\u008c\u00e4\u00bd\u00a9\u00e5\u00b0\u0094\u00e6\u00b5\u00b7\u00e5\u0086\u009b\u00e4\u00b8\u008a\u00e5\u00b0\u0086", 
+        "zh_tw": "\u00e5\u00b8\u008c\u00e4\u00bd\u00a9\u00e7\u0088\u00be\u00e6\u00b5\u00b7\u00e8\u00bb\u008d\u00e4\u00b8\u008a\u00e5\u00b0\u0087\u00e7\u00b4\u009a"
     }, 
     "PGSC109": {
         "en": "Roon", 
@@ -1647,8 +1647,8 @@
         "nation": "Germany", 
         "ru": "Roon", 
         "species": "Cruiser", 
-        "zh_cn": "\u9c81\u6069", 
-        "zh_tw": "\u9b6f\u6069\u7d1a"
+        "zh_cn": "\u00e9\u00b2\u0081\u00e6\u0081\u00a9", 
+        "zh_tw": "\u00e9\u00ad\u00af\u00e6\u0081\u00a9\u00e7\u00b4\u009a"
     }, 
     "PGSC110": {
         "en": "Hindenburg", 
@@ -1660,8 +1660,8 @@
         "nation": "Germany", 
         "ru": "Hindenburg", 
         "species": "Cruiser", 
-        "zh_cn": "\u5174\u767b\u5821", 
-        "zh_tw": "\u8208\u767b\u5821\u7d1a"
+        "zh_cn": "\u00e5\u0085\u00b4\u00e7\u0099\u00bb\u00e5\u00a0\u00a1", 
+        "zh_tw": "\u00e8\u0088\u0088\u00e7\u0099\u00bb\u00e5\u00a0\u00a1\u00e7\u00b4\u009a"
     }, 
     "PGSC502": {
         "en": "Emden", 
@@ -1673,8 +1673,8 @@
         "nation": "Germany", 
         "ru": "Emden", 
         "species": "Cruiser", 
-        "zh_cn": "\u57c3\u59c6\u767b", 
-        "zh_tw": "\u57c3\u59c6\u767b\u865f"
+        "zh_cn": "\u00e5\u009f\u0083\u00e5\u00a7\u0086\u00e7\u0099\u00bb", 
+        "zh_tw": "\u00e5\u009f\u0083\u00e5\u00a7\u0086\u00e7\u0099\u00bb\u00e8\u0099\u009f"
     }, 
     "PGSC506": {
         "en": "Graf Spee", 
@@ -1686,8 +1686,8 @@
         "nation": "Germany", 
         "ru": "Graf Spee", 
         "species": "Cruiser", 
-        "zh_cn": "\u65bd\u4f69\u4f2f\u7235\u6d77\u519b\u4e0a\u5c06", 
-        "zh_tw": "\u65bd\u4f69\u4f2f\u7235\u6d77\u8ecd\u4e0a\u5c07\u865f"
+        "zh_cn": "\u00e6\u0096\u00bd\u00e4\u00bd\u00a9\u00e4\u00bc\u00af\u00e7\u0088\u00b5\u00e6\u00b5\u00b7\u00e5\u0086\u009b\u00e4\u00b8\u008a\u00e5\u00b0\u0086", 
+        "zh_tw": "\u00e6\u0096\u00bd\u00e4\u00bd\u00a9\u00e4\u00bc\u00af\u00e7\u0088\u00b5\u00e6\u00b5\u00b7\u00e8\u00bb\u008d\u00e4\u00b8\u008a\u00e5\u00b0\u0087\u00e8\u0099\u009f"
     }, 
     "PGSC508": {
         "en": "Prinz Eugen", 
@@ -1699,8 +1699,8 @@
         "nation": "Germany", 
         "ru": "Prinz Eugen", 
         "species": "Cruiser", 
-        "zh_cn": "\u6b27\u6839\u4eb2\u738b", 
-        "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
+        "zh_cn": "\u00e6\u00ac\u00a7\u00e6\u00a0\u00b9\u00e4\u00ba\u00b2\u00e7\u008e\u008b", 
+        "zh_tw": "\u00e6\u00ad\u0090\u00e6\u00a0\u00b9\u00e8\u00a6\u00aa\u00e7\u008e\u008b\u00e8\u0099\u009f"
     }, 
     "PGSC706": {
         "en": "HSF Graf Spee", 
@@ -1712,8 +1712,8 @@
         "nation": "Germany", 
         "ru": "HSF Graf Spee", 
         "species": "Cruiser", 
-        "zh_cn": "HSF \u65bd\u4f69\u4f2f\u7235\u6d77\u519b\u4e0a\u5c06", 
-        "zh_tw": "HSF \u65bd\u4f69\u4f2f\u7235\u6d77\u8ecd\u4e0a\u5c07\u865f"
+        "zh_cn": "HSF \u00e6\u0096\u00bd\u00e4\u00bd\u00a9\u00e4\u00bc\u00af\u00e7\u0088\u00b5\u00e6\u00b5\u00b7\u00e5\u0086\u009b\u00e4\u00b8\u008a\u00e5\u00b0\u0086", 
+        "zh_tw": "HSF \u00e6\u0096\u00bd\u00e4\u00bd\u00a9\u00e4\u00bc\u00af\u00e7\u0088\u00b5\u00e6\u00b5\u00b7\u00e8\u00bb\u008d\u00e4\u00b8\u008a\u00e5\u00b0\u0087\u00e8\u0099\u009f"
     }, 
     "PGSD102": {
         "en": "V-25", 
@@ -1842,8 +1842,8 @@
         "nation": "Italy", 
         "ru": "Duca d'Aosta", 
         "species": "Cruiser", 
-        "zh_cn": "\u5965\u65af\u5854\u516c\u7235", 
-        "zh_tw": "\u5967\u65af\u5854\u516c\u7235\u865f"
+        "zh_cn": "\u00e5\u00a5\u00a5\u00e6\u0096\u00af\u00e5\u00a1\u0094\u00e5\u0085\u00ac\u00e7\u0088\u00b5", 
+        "zh_tw": "\u00e5\u00a5\u00a7\u00e6\u0096\u00af\u00e5\u00a1\u0094\u00e5\u0085\u00ac\u00e7\u0088\u00b5\u00e8\u0099\u009f"
     }, 
     "PJSA002": {
         "en": "Hosho", 
@@ -1855,8 +1855,8 @@
         "nation": "Japan", 
         "ru": "Hosho", 
         "species": "AirCarrier", 
-        "zh_cn": "\u51e4\u7fd4", 
-        "zh_tw": "\u9cf3\u7fd4\u865f"
+        "zh_cn": "\u00e5\u0087\u00a4\u00e7\u00bf\u0094", 
+        "zh_tw": "\u00e9\u00b3\u00b3\u00e7\u00bf\u0094\u00e8\u0099\u009f"
     }, 
     "PJSA006": {
         "en": "Zuiho", 
@@ -1868,8 +1868,8 @@
         "nation": "Japan", 
         "ru": "Zuiho", 
         "species": "AirCarrier", 
-        "zh_cn": "\u745e\u51e4", 
-        "zh_tw": "\u745e\u9cf3\u578b"
+        "zh_cn": "\u00e7\u0091\u009e\u00e5\u0087\u00a4", 
+        "zh_tw": "\u00e7\u0091\u009e\u00e9\u00b3\u00b3\u00e5\u009e\u008b"
     }, 
     "PJSA009": {
         "en": "Ryujo", 
@@ -1881,8 +1881,8 @@
         "nation": "Japan", 
         "ru": "Ryujo", 
         "species": "AirCarrier", 
-        "zh_cn": "\u9f99\u9aa7", 
-        "zh_tw": "\u9f8d\u9a64\u865f"
+        "zh_cn": "\u00e9\u00be\u0099\u00e9\u00aa\u00a7", 
+        "zh_tw": "\u00e9\u00be\u008d\u00e9\u00a9\u00a4\u00e8\u0099\u009f"
     }, 
     "PJSA011": {
         "en": "Hiryu", 
@@ -1894,8 +1894,8 @@
         "nation": "Japan", 
         "ru": "Hiryu", 
         "species": "AirCarrier", 
-        "zh_cn": "\u98de\u9f99", 
-        "zh_tw": "\u98db\u9f8d\u865f"
+        "zh_cn": "\u00e9\u00a3\u009e\u00e9\u00be\u0099", 
+        "zh_tw": "\u00e9\u00a3\u009b\u00e9\u00be\u008d\u00e8\u0099\u009f"
     }, 
     "PJSA012": {
         "en": "Shokaku", 
@@ -1907,8 +1907,8 @@
         "nation": "Japan", 
         "ru": "Shokaku", 
         "species": "AirCarrier", 
-        "zh_cn": "\u7fd4\u9e64", 
-        "zh_tw": "\u7fd4\u9db4\u578b"
+        "zh_cn": "\u00e7\u00bf\u0094\u00e9\u00b9\u00a4", 
+        "zh_tw": "\u00e7\u00bf\u0094\u00e9\u00b6\u00b4\u00e5\u009e\u008b"
     }, 
     "PJSA015": {
         "en": "Taiho", 
@@ -1920,8 +1920,8 @@
         "nation": "Japan", 
         "ru": "Taiho", 
         "species": "AirCarrier", 
-        "zh_cn": "\u5927\u51e4", 
-        "zh_tw": "\u5927\u9cf3\u865f"
+        "zh_cn": "\u00e5\u00a4\u00a7\u00e5\u0087\u00a4", 
+        "zh_tw": "\u00e5\u00a4\u00a7\u00e9\u00b3\u00b3\u00e8\u0099\u009f"
     }, 
     "PJSA017": {
         "en": "Hakuryu", 
@@ -1933,8 +1933,8 @@
         "nation": "Japan", 
         "ru": "Hakuryu", 
         "species": "AirCarrier", 
-        "zh_cn": "\u767d\u9f99", 
-        "zh_tw": "\u767d\u9f8d\u578b"
+        "zh_cn": "\u00e7\u0099\u00bd\u00e9\u00be\u0099", 
+        "zh_tw": "\u00e7\u0099\u00bd\u00e9\u00be\u008d\u00e5\u009e\u008b"
     }, 
     "PJSA507": {
         "en": "Kaga", 
@@ -1946,8 +1946,8 @@
         "nation": "Japan", 
         "ru": "Kaga", 
         "species": "AirCarrier", 
-        "zh_cn": "\u52a0\u8d3a", 
-        "zh_tw": "\u52a0\u8cc0\u865f"
+        "zh_cn": "\u00e5\u008a\u00a0\u00e8\u00b4\u00ba", 
+        "zh_tw": "\u00e5\u008a\u00a0\u00e8\u00b3\u0080\u00e8\u0099\u009f"
     }, 
     "PJSB001": {
         "en": "Kawachi", 
@@ -1959,8 +1959,8 @@
         "nation": "Japan", 
         "ru": "Kawachi", 
         "species": "Battleship", 
-        "zh_cn": "\u6cb3\u5185", 
-        "zh_tw": "\u6cb3\u5167\u578b"
+        "zh_cn": "\u00e6\u00b2\u00b3\u00e5\u0086\u0085", 
+        "zh_tw": "\u00e6\u00b2\u00b3\u00e5\u0085\u00a7\u00e5\u009e\u008b"
     }, 
     "PJSB003": {
         "en": "Myogi", 
@@ -1972,8 +1972,8 @@
         "nation": "Japan", 
         "ru": "Myogi", 
         "species": "Battleship", 
-        "zh_cn": "\u5999\u4e49", 
-        "zh_tw": "\u5999\u7fa9\u578b"
+        "zh_cn": "\u00e5\u00a6\u0099\u00e4\u00b9\u0089", 
+        "zh_tw": "\u00e5\u00a6\u0099\u00e7\u00be\u00a9\u00e5\u009e\u008b"
     }, 
     "PJSB006": {
         "en": "Fuso", 
@@ -1985,8 +1985,8 @@
         "nation": "Japan", 
         "ru": "Fuso", 
         "species": "Battleship", 
-        "zh_cn": "\u6276\u6851", 
-        "zh_tw": "\u6276\u6851\u578b"
+        "zh_cn": "\u00e6\u0089\u00b6\u00e6\u00a1\u0091", 
+        "zh_tw": "\u00e6\u0089\u00b6\u00e6\u00a1\u0091\u00e5\u009e\u008b"
     }, 
     "PJSB007": {
         "en": "Kongo", 
@@ -1998,8 +1998,8 @@
         "nation": "Japan", 
         "ru": "Kongo", 
         "species": "Battleship", 
-        "zh_cn": "\u91d1\u521a", 
-        "zh_tw": "\u91d1\u525b\u578b"
+        "zh_cn": "\u00e9\u0087\u0091\u00e5\u0088\u009a", 
+        "zh_tw": "\u00e9\u0087\u0091\u00e5\u0089\u009b\u00e5\u009e\u008b"
     }, 
     "PJSB008": {
         "en": "Ishizuchi", 
@@ -2011,8 +2011,8 @@
         "nation": "Japan", 
         "ru": "Ishizuchi", 
         "species": "Battleship", 
-        "zh_cn": "\u77f3\u9524", 
-        "zh_tw": "\u77f3\u9318\u578b"
+        "zh_cn": "\u00e7\u009f\u00b3\u00e9\u0094\u00a4", 
+        "zh_tw": "\u00e7\u009f\u00b3\u00e9\u008c\u0098\u00e5\u009e\u008b"
     }, 
     "PJSB010": {
         "en": "Nagato", 
@@ -2024,8 +2024,8 @@
         "nation": "Japan", 
         "ru": "Nagato", 
         "species": "Battleship", 
-        "zh_cn": "\u957f\u95e8", 
-        "zh_tw": "\u9577\u9580\u578b"
+        "zh_cn": "\u00e9\u0095\u00bf\u00e9\u0097\u00a8", 
+        "zh_tw": "\u00e9\u0095\u00b7\u00e9\u0096\u0080\u00e5\u009e\u008b"
     }, 
     "PJSB011": {
         "en": "Mikasa", 
@@ -2037,8 +2037,8 @@
         "nation": "Japan", 
         "ru": "Mikasa", 
         "species": "Battleship", 
-        "zh_cn": "\u4e09\u7b20", 
-        "zh_tw": "\u4e09\u7b20\u865f"
+        "zh_cn": "\u00e4\u00b8\u0089\u00e7\u00ac\u00a0", 
+        "zh_tw": "\u00e4\u00b8\u0089\u00e7\u00ac\u00a0\u00e8\u0099\u009f"
     }, 
     "PJSB013": {
         "en": "Amagi", 
@@ -2050,8 +2050,8 @@
         "nation": "Japan", 
         "ru": "Amagi", 
         "species": "Battleship", 
-        "zh_cn": "\u5929\u57ce", 
-        "zh_tw": "\u5929\u57ce\u578b"
+        "zh_cn": "\u00e5\u00a4\u00a9\u00e5\u009f\u008e", 
+        "zh_tw": "\u00e5\u00a4\u00a9\u00e5\u009f\u008e\u00e5\u009e\u008b"
     }, 
     "PJSB018": {
         "en": "Yamato", 
@@ -2063,8 +2063,8 @@
         "nation": "Japan", 
         "ru": "Yamato", 
         "species": "Battleship", 
-        "zh_cn": "\u5927\u548c", 
-        "zh_tw": "\u5927\u548c\u578b"
+        "zh_cn": "\u00e5\u00a4\u00a7\u00e5\u0092\u008c", 
+        "zh_tw": "\u00e5\u00a4\u00a7\u00e5\u0092\u008c\u00e5\u009e\u008b"
     }, 
     "PJSB021": {
         "en": "Izumo", 
@@ -2076,8 +2076,8 @@
         "nation": "Japan", 
         "ru": "Izumo", 
         "species": "Battleship", 
-        "zh_cn": "\u51fa\u4e91", 
-        "zh_tw": "\u51fa\u96f2\u578b"
+        "zh_cn": "\u00e5\u0087\u00ba\u00e4\u00ba\u0091", 
+        "zh_tw": "\u00e5\u0087\u00ba\u00e9\u009b\u00b2\u00e5\u009e\u008b"
     }, 
     "PJSB506": {
         "en": "Mutsu", 
@@ -2089,8 +2089,8 @@
         "nation": "Japan", 
         "ru": "Mutsu", 
         "species": "Battleship", 
-        "zh_cn": "\u9646\u5965", 
-        "zh_tw": "\u9678\u5967\u865f"
+        "zh_cn": "\u00e9\u0099\u0086\u00e5\u00a5\u00a5", 
+        "zh_tw": "\u00e9\u0099\u00b8\u00e5\u00a5\u00a7\u00e8\u0099\u009f"
     }, 
     "PJSB705": {
         "en": "ARP Kong\u014d", 
@@ -2102,8 +2102,8 @@
         "nation": "Japan", 
         "ru": "ARP Kong\u014d", 
         "species": "Battleship", 
-        "zh_cn": "\u6d77\u96fe-\u91d1\u521a", 
-        "zh_tw": "\u6d77\u9727-\u91d1\u525b"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e9\u0087\u0091\u00e5\u0088\u009a", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e9\u0087\u0091\u00e5\u0089\u009b"
     }, 
     "PJSB706": {
         "en": "ARP Kirishima", 
@@ -2115,8 +2115,8 @@
         "nation": "Japan", 
         "ru": "ARP Kirishima", 
         "species": "Battleship", 
-        "zh_cn": "\u6d77\u96fe-\u96fe\u5c9b", 
-        "zh_tw": "\u6d77\u9727-\u9727\u5cf6"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e9\u009b\u00be\u00e5\u00b2\u009b", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e9\u009c\u00a7\u00e5\u00b3\u00b6"
     }, 
     "PJSB707": {
         "en": "ARP Haruna", 
@@ -2128,8 +2128,8 @@
         "nation": "Japan", 
         "ru": "ARP Haruna", 
         "species": "Battleship", 
-        "zh_cn": "\u6d77\u96fe-\u699b\u540d", 
-        "zh_tw": "\u6d77\u9727-\u699b\u540d"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e6\u00a6\u009b\u00e5\u0090\u008d", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e6\u00a6\u009b\u00e5\u0090\u008d"
     }, 
     "PJSB708": {
         "en": "ARP Hiei", 
@@ -2141,8 +2141,8 @@
         "nation": "Japan", 
         "ru": "ARP Hiei", 
         "species": "Battleship", 
-        "zh_cn": "\u6d77\u96fe-\u6bd4\u53e1", 
-        "zh_tw": "\u6d77\u9727-\u6bd4\u53e1"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e6\u00af\u0094\u00e5\u008f\u00a1", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e6\u00af\u0094\u00e5\u008f\u00a1"
     }, 
     "PJSB799": {
         "en": "ARP Kirishima", 
@@ -2154,8 +2154,8 @@
         "nation": "Japan", 
         "ru": "ARP Kirishima", 
         "species": "Battleship", 
-        "zh_cn": "\u6d77\u96fe-\u96fe\u5c9b", 
-        "zh_tw": "\u6d77\u9727-\u9727\u5cf6"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e9\u009b\u00be\u00e5\u00b2\u009b", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e9\u009c\u00a7\u00e5\u00b3\u00b6"
     }, 
     "PJSB801": {
         "en": "Kawachi", 
@@ -2167,8 +2167,8 @@
         "nation": "Japan", 
         "ru": "Kawachi", 
         "species": "Battleship", 
-        "zh_cn": "\u6cb3\u5185", 
-        "zh_tw": "\u6cb3\u5167"
+        "zh_cn": "\u00e6\u00b2\u00b3\u00e5\u0086\u0085", 
+        "zh_tw": "\u00e6\u00b2\u00b3\u00e5\u0085\u00a7"
     }, 
     "PJSB802": {
         "en": "Kawachi", 
@@ -2180,8 +2180,8 @@
         "nation": "Japan", 
         "ru": "Kawachi", 
         "species": "Battleship", 
-        "zh_cn": "\u6cb3\u5185", 
-        "zh_tw": "\u6cb3\u5167"
+        "zh_cn": "\u00e6\u00b2\u00b3\u00e5\u0086\u0085", 
+        "zh_tw": "\u00e6\u00b2\u00b3\u00e5\u0085\u00a7"
     }, 
     "PJSC004": {
         "en": "Y\u016bbari", 
@@ -2193,8 +2193,8 @@
         "nation": "Japan", 
         "ru": "Y\u016bbari", 
         "species": "Cruiser", 
-        "zh_cn": "\u5915\u5f20", 
-        "zh_tw": "\u5915\u5f35\u865f"
+        "zh_cn": "\u00e5\u00a4\u0095\u00e5\u00bc\u00a0", 
+        "zh_tw": "\u00e5\u00a4\u0095\u00e5\u00bc\u00b5\u00e8\u0099\u009f"
     }, 
     "PJSC005": {
         "en": "Furutaka", 
@@ -2206,8 +2206,8 @@
         "nation": "Japan", 
         "ru": "Furutaka", 
         "species": "Cruiser", 
-        "zh_cn": "\u53e4\u9e70", 
-        "zh_tw": "\u53e4\u9df9\u578b"
+        "zh_cn": "\u00e5\u008f\u00a4\u00e9\u00b9\u00b0", 
+        "zh_tw": "\u00e5\u008f\u00a4\u00e9\u00b7\u00b9\u00e5\u009e\u008b"
     }, 
     "PJSC007": {
         "en": "Aoba", 
@@ -2219,8 +2219,8 @@
         "nation": "Japan", 
         "ru": "Aoba", 
         "species": "Cruiser", 
-        "zh_cn": "\u9752\u53f6", 
-        "zh_tw": "\u9752\u8449\u578b"
+        "zh_cn": "\u00e9\u009d\u0092\u00e5\u008f\u00b6", 
+        "zh_tw": "\u00e9\u009d\u0092\u00e8\u0091\u0089\u00e5\u009e\u008b"
     }, 
     "PJSC008": {
         "en": "Myoko", 
@@ -2232,8 +2232,8 @@
         "nation": "Japan", 
         "ru": "Myoko", 
         "species": "Cruiser", 
-        "zh_cn": "\u5999\u9ad8", 
-        "zh_tw": "\u5999\u9ad8\u578b"
+        "zh_cn": "\u00e5\u00a6\u0099\u00e9\u00ab\u0098", 
+        "zh_tw": "\u00e5\u00a6\u0099\u00e9\u00ab\u0098\u00e5\u009e\u008b"
     }, 
     "PJSC009": {
         "en": "Mogami", 
@@ -2245,8 +2245,8 @@
         "nation": "Japan", 
         "ru": "Mogami", 
         "species": "Cruiser", 
-        "zh_cn": "\u6700\u4e0a", 
-        "zh_tw": "\u6700\u4e0a\u578b"
+        "zh_cn": "\u00e6\u009c\u0080\u00e4\u00b8\u008a", 
+        "zh_tw": "\u00e6\u009c\u0080\u00e4\u00b8\u008a\u00e5\u009e\u008b"
     }, 
     "PJSC012": {
         "en": "Ibuki", 
@@ -2258,8 +2258,8 @@
         "nation": "Japan", 
         "ru": "Ibuki", 
         "species": "Cruiser", 
-        "zh_cn": "\u4f0a\u5439", 
-        "zh_tw": "\u4f0a\u5439\u578b"
+        "zh_cn": "\u00e4\u00bc\u008a\u00e5\u0090\u00b9", 
+        "zh_tw": "\u00e4\u00bc\u008a\u00e5\u0090\u00b9\u00e5\u009e\u008b"
     }, 
     "PJSC013": {
         "en": "Kuma", 
@@ -2271,8 +2271,8 @@
         "nation": "Japan", 
         "ru": "Kuma", 
         "species": "Cruiser", 
-        "zh_cn": "\u7403\u78e8", 
-        "zh_tw": "\u7403\u78e8\u578b"
+        "zh_cn": "\u00e7\u0090\u0083\u00e7\u00a3\u00a8", 
+        "zh_tw": "\u00e7\u0090\u0083\u00e7\u00a3\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSC014": {
         "en": "Kitakami", 
@@ -2284,8 +2284,8 @@
         "nation": "Japan", 
         "ru": "Kitakami", 
         "species": "Cruiser", 
-        "zh_cn": "\u5317\u4e0a", 
-        "zh_tw": "\u5317\u4e0a\u865f"
+        "zh_cn": "\u00e5\u008c\u0097\u00e4\u00b8\u008a", 
+        "zh_tw": "\u00e5\u008c\u0097\u00e4\u00b8\u008a\u00e8\u0099\u009f"
     }, 
     "PJSC015": {
         "en": "Tenryu", 
@@ -2297,8 +2297,8 @@
         "nation": "Japan", 
         "ru": "Tenryu", 
         "species": "Cruiser", 
-        "zh_cn": "\u5929\u9f99", 
-        "zh_tw": "\u5929\u9f8d\u578b"
+        "zh_cn": "\u00e5\u00a4\u00a9\u00e9\u00be\u0099", 
+        "zh_tw": "\u00e5\u00a4\u00a9\u00e9\u00be\u008d\u00e5\u009e\u008b"
     }, 
     "PJSC018": {
         "en": "Tone", 
@@ -2310,8 +2310,8 @@
         "nation": "Japan", 
         "ru": "Tone", 
         "species": "Cruiser", 
-        "zh_cn": "\u5229\u6839", 
-        "zh_tw": "\u5229\u6839\u578b"
+        "zh_cn": "\u00e5\u0088\u00a9\u00e6\u00a0\u00b9", 
+        "zh_tw": "\u00e5\u0088\u00a9\u00e6\u00a0\u00b9\u00e5\u009e\u008b"
     }, 
     "PJSC026": {
         "en": "Iwaki A", 
@@ -2323,8 +2323,8 @@
         "nation": "Japan", 
         "ru": "Iwaki A", 
         "species": "Cruiser", 
-        "zh_cn": "\u5ca9\u6728(Alpha)", 
-        "zh_tw": "\u5ca9\u6728\u578b(Alpha)"
+        "zh_cn": "\u00e5\u00b2\u00a9\u00e6\u009c\u00a8(Alpha)", 
+        "zh_tw": "\u00e5\u00b2\u00a9\u00e6\u009c\u00a8\u00e5\u009e\u008b(Alpha)"
     }, 
     "PJSC034": {
         "en": "Zao", 
@@ -2336,8 +2336,8 @@
         "nation": "Japan", 
         "ru": "Zao", 
         "species": "Cruiser", 
-        "zh_cn": "\u85cf\u738b", 
-        "zh_tw": "\u85cf\u738b\u578b"
+        "zh_cn": "\u00e8\u0097\u008f\u00e7\u008e\u008b", 
+        "zh_tw": "\u00e8\u0097\u008f\u00e7\u008e\u008b\u00e5\u009e\u008b"
     }, 
     "PJSC035": {
         "en": "Chikuma", 
@@ -2349,8 +2349,8 @@
         "nation": "Japan", 
         "ru": "Chikuma", 
         "species": "Cruiser", 
-        "zh_cn": "\u7b51\u6469", 
-        "zh_tw": "\u7b51\u6469\u578b"
+        "zh_cn": "\u00e7\u00ad\u0091\u00e6\u0091\u00a9", 
+        "zh_tw": "\u00e7\u00ad\u0091\u00e6\u0091\u00a9\u00e5\u009e\u008b"
     }, 
     "PJSC037": {
         "en": "Hashidate", 
@@ -2362,8 +2362,8 @@
         "nation": "Japan", 
         "ru": "Hashidate", 
         "species": "Cruiser", 
-        "zh_cn": "\u6865\u7acb", 
-        "zh_tw": "\u6a4b\u7acb\u578b"
+        "zh_cn": "\u00e6\u00a1\u00a5\u00e7\u00ab\u008b", 
+        "zh_tw": "\u00e6\u00a9\u008b\u00e7\u00ab\u008b\u00e5\u009e\u008b"
     }, 
     "PJSC038": {
         "en": "Atago", 
@@ -2375,8 +2375,8 @@
         "nation": "Japan", 
         "ru": "Atago", 
         "species": "Cruiser", 
-        "zh_cn": "\u7231\u5b95", 
-        "zh_tw": "\u611b\u5b95\u865f"
+        "zh_cn": "\u00e7\u0088\u00b1\u00e5\u00ae\u0095", 
+        "zh_tw": "\u00e6\u0084\u009b\u00e5\u00ae\u0095\u00e8\u0099\u009f"
     }, 
     "PJSC503": {
         "en": "Katori", 
@@ -2388,8 +2388,8 @@
         "nation": "Japan", 
         "ru": "Katori", 
         "species": "Cruiser", 
-        "zh_cn": "\u9999\u53d6", 
-        "zh_tw": "\u9999\u53d6\u578b"
+        "zh_cn": "\u00e9\u00a6\u0099\u00e5\u008f\u0096", 
+        "zh_tw": "\u00e9\u00a6\u0099\u00e5\u008f\u0096\u00e5\u009e\u008b"
     }, 
     "PJSC705": {
         "en": "ARP Myoko", 
@@ -2401,8 +2401,8 @@
         "nation": "Japan", 
         "ru": "ARP Myoko", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u96fe-\u5999\u9ad8", 
-        "zh_tw": "\u6d77\u9727-\u5999\u9ad8"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e5\u00a6\u0099\u00e9\u00ab\u0098", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e5\u00a6\u0099\u00e9\u00ab\u0098"
     }, 
     "PJSC707": {
         "en": "ARP Ashigara", 
@@ -2414,8 +2414,8 @@
         "nation": "Japan", 
         "ru": "ARP Ashigara", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u96fe-\u8db3\u67c4", 
-        "zh_tw": "\u6d77\u9727-\u8db3\u67c4"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e8\u00b6\u00b3\u00e6\u009f\u0084", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e8\u00b6\u00b3\u00e6\u009f\u0084"
     }, 
     "PJSC708": {
         "en": "ARP Takao", 
@@ -2427,8 +2427,8 @@
         "nation": "Japan", 
         "ru": "ARP Takao", 
         "species": "Cruiser", 
-        "zh_cn": "\u82cd\u84dd-\u9ad8\u96c4", 
-        "zh_tw": "\u84bc\u85cd-\u9ad8\u96c4"
+        "zh_cn": "\u00e8\u008b\u008d\u00e8\u0093\u009d-\u00e9\u00ab\u0098\u00e9\u009b\u0084", 
+        "zh_tw": "\u00e8\u0092\u00bc\u00e8\u0097\u008d-\u00e9\u00ab\u0098\u00e9\u009b\u0084"
     }, 
     "PJSC709": {
         "en": "ARP Haguro", 
@@ -2440,8 +2440,8 @@
         "nation": "Japan", 
         "ru": "ARP Haguro", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u96fe-\u7fbd\u9ed1", 
-        "zh_tw": "\u6d77\u9727-\u7fbd\u9ed1"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e7\u00be\u00bd\u00e9\u00bb\u0091", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009c\u00a7-\u00e7\u00be\u00bd\u00e9\u00bb\u0091"
     }, 
     "PJSC717": {
         "en": "S. Dragon", 
@@ -2453,8 +2453,8 @@
         "nation": "Japan", 
         "ru": "S. Dragon", 
         "species": "Cruiser", 
-        "zh_cn": "\u6731\u96c0", 
-        "zh_tw": "\u6731\u96c0"
+        "zh_cn": "\u00e6\u009c\u00b1\u00e9\u009b\u0080", 
+        "zh_tw": "\u00e6\u009c\u00b1\u00e9\u009b\u0080"
     }, 
     "PJSC727": {
         "en": "E. Dragon", 
@@ -2466,8 +2466,8 @@
         "nation": "Japan", 
         "ru": "E. Dragon", 
         "species": "Cruiser", 
-        "zh_cn": "\u9752\u9f99", 
-        "zh_tw": "\u9752\u9f8d"
+        "zh_cn": "\u00e9\u009d\u0092\u00e9\u00be\u0099", 
+        "zh_tw": "\u00e9\u009d\u0092\u00e9\u00be\u008d"
     }, 
     "PJSC737": {
         "en": "ARP Nachi", 
@@ -2479,8 +2479,8 @@
         "nation": "Japan", 
         "ru": "ARP Nachi", 
         "species": "Cruiser", 
-        "zh_cn": "\u6d77\u96fe-\u90a3\u667a", 
-        "zh_tw": "\u6d77\u96fe-\u90a3\u667a"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e9\u0082\u00a3\u00e6\u0099\u00ba", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u009b\u00be-\u00e9\u0082\u00a3\u00e6\u0099\u00ba"
     }, 
     "PJSC837": {
         "en": "Hashidate", 
@@ -2492,8 +2492,8 @@
         "nation": "Japan", 
         "ru": "Hashidate", 
         "species": "Cruiser", 
-        "zh_cn": "\u6865\u7acb", 
-        "zh_tw": "\u6a4b\u7acb"
+        "zh_cn": "\u00e6\u00a1\u00a5\u00e7\u00ab\u008b", 
+        "zh_tw": "\u00e6\u00a9\u008b\u00e7\u00ab\u008b"
     }, 
     "PJSC838": {
         "en": "Hashidate", 
@@ -2505,8 +2505,8 @@
         "nation": "Japan", 
         "ru": "Hashidate", 
         "species": "Cruiser", 
-        "zh_cn": "\u6865\u7acb", 
-        "zh_tw": "\u6a4b\u7acb"
+        "zh_cn": "\u00e6\u00a1\u00a5\u00e7\u00ab\u008b", 
+        "zh_tw": "\u00e6\u00a9\u008b\u00e7\u00ab\u008b"
     }, 
     "PJSD001": {
         "en": "Tachibana", 
@@ -2518,8 +2518,8 @@
         "nation": "Japan", 
         "ru": "Tachibana", 
         "species": "Destroyer", 
-        "zh_cn": "\u6a58", 
-        "zh_tw": "\u6a58\u865f"
+        "zh_cn": "\u00e6\u00a9\u0098", 
+        "zh_tw": "\u00e6\u00a9\u0098\u00e8\u0099\u009f"
     }, 
     "PJSD002": {
         "en": "Umikaze", 
@@ -2531,8 +2531,8 @@
         "nation": "Japan", 
         "ru": "Umikaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u6d77\u98ce", 
-        "zh_tw": "\u6d77\u98a8\u578b"
+        "zh_cn": "\u00e6\u00b5\u00b7\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e6\u00b5\u00b7\u00e9\u00a2\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSD003": {
         "en": "Isokaze", 
@@ -2544,8 +2544,8 @@
         "nation": "Japan", 
         "ru": "Isokaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u77f6\u98ce", 
-        "zh_tw": "\u78ef\u98a8\u578b"
+        "zh_cn": "\u00e7\u009f\u00b6\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e7\u00a3\u00af\u00e9\u00a2\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSD004": {
         "en": "Minekaze", 
@@ -2557,8 +2557,8 @@
         "nation": "Japan", 
         "ru": "Minekaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u5cf0\u98ce", 
-        "zh_tw": "\u5cef\u98a8\u578b"
+        "zh_cn": "\u00e5\u00b3\u00b0\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e5\u00b3\u00af\u00e9\u00a2\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSD005": {
         "en": "Mutsuki (old)", 
@@ -2570,8 +2570,8 @@
         "nation": "Japan", 
         "ru": "Mutsuki (old)", 
         "species": "Destroyer", 
-        "zh_cn": "\u5f25\u751f", 
-        "zh_tw": "\u5f4c\u751f\u865f"
+        "zh_cn": "\u00e5\u00bc\u00a5\u00e7\u0094\u009f", 
+        "zh_tw": "\u00e5\u00bd\u008c\u00e7\u0094\u009f\u00e8\u0099\u009f"
     }, 
     "PJSD006": {
         "en": "Hatsuharu (old)", 
@@ -2583,8 +2583,8 @@
         "nation": "Japan", 
         "ru": "Hatsuharu (old)", 
         "species": "Destroyer", 
-        "zh_cn": "\u82e5\u53f6", 
-        "zh_tw": "\u82e5\u8449\u865f"
+        "zh_cn": "\u00e8\u008b\u00a5\u00e5\u008f\u00b6", 
+        "zh_tw": "\u00e8\u008b\u00a5\u00e8\u0091\u0089\u00e8\u0099\u009f"
     }, 
     "PJSD007": {
         "en": "Fubuki (old)", 
@@ -2596,8 +2596,8 @@
         "nation": "Japan", 
         "ru": "Fubuki (old)", 
         "species": "Destroyer", 
-        "zh_cn": "\u7eeb\u6ce2", 
-        "zh_tw": "\u7eeb\u6ce2\u865f"
+        "zh_cn": "\u00e7\u00bb\u00ab\u00e6\u00b3\u00a2", 
+        "zh_tw": "\u00e7\u00bb\u00ab\u00e6\u00b3\u00a2\u00e8\u0099\u009f"
     }, 
     "PJSD010": {
         "en": "Kagero (old)", 
@@ -2609,8 +2609,8 @@
         "nation": "Japan", 
         "ru": "Kagero (old)", 
         "species": "Destroyer", 
-        "zh_cn": "\u91ce\u5206", 
-        "zh_tw": "\u91ce\u5206\u865f"
+        "zh_cn": "\u00e9\u0087\u008e\u00e5\u0088\u0086", 
+        "zh_tw": "\u00e9\u0087\u008e\u00e5\u0088\u0086\u00e8\u0099\u009f"
     }, 
     "PJSD012": {
         "en": "Shimakaze", 
@@ -2622,8 +2622,8 @@
         "nation": "Japan", 
         "ru": "Shimakaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u5c9b\u98ce", 
-        "zh_tw": "\u5cf6\u98a8\u578b"
+        "zh_cn": "\u00e5\u00b2\u009b\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e5\u00b3\u00b6\u00e9\u00a2\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSD014": {
         "en": "Tachibana L", 
@@ -2635,8 +2635,8 @@
         "nation": "Japan", 
         "ru": "Tachibana L", 
         "species": "Destroyer", 
-        "zh_cn": "\u6a31", 
-        "zh_tw": "\u6afb\u865f"
+        "zh_cn": "\u00e6\u00a8\u00b1", 
+        "zh_tw": "\u00e6\u00ab\u00bb\u00e8\u0099\u009f"
     }, 
     "PJSD017": {
         "en": "F\u016bjin", 
@@ -2648,8 +2648,8 @@
         "nation": "Japan", 
         "ru": "F\u016bjin", 
         "species": "Destroyer", 
-        "zh_cn": "\u795e\u98ce H", 
-        "zh_tw": "\u795e\u98a8\u578b H"
+        "zh_cn": "\u00e7\u00a5\u009e\u00e9\u00a3\u008e H", 
+        "zh_tw": "\u00e7\u00a5\u009e\u00e9\u00a2\u00a8\u00e5\u009e\u008b H"
     }, 
     "PJSD024": {
         "en": "Wakatake", 
@@ -2661,8 +2661,8 @@
         "nation": "Japan", 
         "ru": "Wakatake", 
         "species": "Destroyer", 
-        "zh_cn": "\u82e5\u7af9", 
-        "zh_tw": "\u82e5\u7af9\u578b"
+        "zh_cn": "\u00e8\u008b\u00a5\u00e7\u00ab\u00b9", 
+        "zh_tw": "\u00e8\u008b\u00a5\u00e7\u00ab\u00b9\u00e5\u009e\u008b"
     }, 
     "PJSD025": {
         "en": "Kamikaze", 
@@ -2674,8 +2674,8 @@
         "nation": "Japan", 
         "ru": "Kamikaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u795e\u98ce", 
-        "zh_tw": "\u795e\u98a8\u578b"
+        "zh_cn": "\u00e7\u00a5\u009e\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e7\u00a5\u009e\u00e9\u00a2\u00a8\u00e5\u009e\u008b"
     }, 
     "PJSD026": {
         "en": "Kamikaze R", 
@@ -2687,8 +2687,8 @@
         "nation": "Japan", 
         "ru": "Kamikaze R", 
         "species": "Destroyer", 
-        "zh_cn": "\u795e\u98ce R", 
-        "zh_tw": "\u795e\u98a8\u578b R"
+        "zh_cn": "\u00e7\u00a5\u009e\u00e9\u00a3\u008e R", 
+        "zh_tw": "\u00e7\u00a5\u009e\u00e9\u00a2\u00a8\u00e5\u009e\u008b R"
     }, 
     "PJSD105": {
         "en": "Mutsuki", 
@@ -2700,8 +2700,8 @@
         "nation": "Japan", 
         "ru": "Mutsuki", 
         "species": "Destroyer", 
-        "zh_cn": "\u7766\u6708", 
-        "zh_tw": "\u7766\u6708\u578b"
+        "zh_cn": "\u00e7\u009d\u00a6\u00e6\u009c\u0088", 
+        "zh_tw": "\u00e7\u009d\u00a6\u00e6\u009c\u0088\u00e5\u009e\u008b"
     }, 
     "PJSD106": {
         "en": "Fubuki", 
@@ -2713,8 +2713,8 @@
         "nation": "Japan", 
         "ru": "Fubuki", 
         "species": "Destroyer", 
-        "zh_cn": "\u5439\u96ea", 
-        "zh_tw": "\u5439\u96ea\u578b"
+        "zh_cn": "\u00e5\u0090\u00b9\u00e9\u009b\u00aa", 
+        "zh_tw": "\u00e5\u0090\u00b9\u00e9\u009b\u00aa\u00e5\u009e\u008b"
     }, 
     "PJSD107": {
         "en": "Akatsuki", 
@@ -2726,8 +2726,8 @@
         "nation": "Japan", 
         "ru": "Akatsuki", 
         "species": "Destroyer", 
-        "zh_cn": "\u6653", 
-        "zh_tw": "\u66c9\u578b"
+        "zh_cn": "\u00e6\u0099\u0093", 
+        "zh_tw": "\u00e6\u009b\u0089\u00e5\u009e\u008b"
     }, 
     "PJSD108": {
         "en": "Akizuki", 
@@ -2739,8 +2739,8 @@
         "nation": "Japan", 
         "ru": "Akizuki", 
         "species": "Destroyer", 
-        "zh_cn": "\u79cb\u6708", 
-        "zh_tw": "\u79cb\u6708\u578b"
+        "zh_cn": "\u00e7\u00a7\u008b\u00e6\u009c\u0088", 
+        "zh_tw": "\u00e7\u00a7\u008b\u00e6\u009c\u0088\u00e5\u009e\u008b"
     }, 
     "PJSD206": {
         "en": "Hatsuharu", 
@@ -2752,8 +2752,8 @@
         "nation": "Japan", 
         "ru": "Hatsuharu", 
         "species": "Destroyer", 
-        "zh_cn": "\u521d\u6625", 
-        "zh_tw": "\u521d\u6625\u578b"
+        "zh_cn": "\u00e5\u0088\u009d\u00e6\u0098\u00a5", 
+        "zh_tw": "\u00e5\u0088\u009d\u00e6\u0098\u00a5\u00e5\u009e\u008b"
     }, 
     "PJSD207": {
         "en": "Shiratsuyu", 
@@ -2765,8 +2765,8 @@
         "nation": "Japan", 
         "ru": "Shiratsuyu", 
         "species": "Destroyer", 
-        "zh_cn": "\u767d\u9732", 
-        "zh_tw": "\u767d\u9732\u578b"
+        "zh_cn": "\u00e7\u0099\u00bd\u00e9\u009c\u00b2", 
+        "zh_tw": "\u00e7\u0099\u00bd\u00e9\u009c\u00b2\u00e5\u009e\u008b"
     }, 
     "PJSD208": {
         "en": "Kagero", 
@@ -2778,8 +2778,8 @@
         "nation": "Japan", 
         "ru": "Kagero", 
         "species": "Destroyer", 
-        "zh_cn": "\u9633\u708e", 
-        "zh_tw": "\u967d\u708e\u578b"
+        "zh_cn": "\u00e9\u0098\u00b3\u00e7\u0082\u008e", 
+        "zh_tw": "\u00e9\u0099\u00bd\u00e7\u0082\u008e\u00e5\u009e\u008b"
     }, 
     "PJSD209": {
         "en": "Y\u016bgumo", 
@@ -2791,8 +2791,8 @@
         "nation": "Japan", 
         "ru": "Y\u016bgumo", 
         "species": "Destroyer", 
-        "zh_cn": "\u5915\u4e91", 
-        "zh_tw": "\u5915\u96f2\u578b"
+        "zh_cn": "\u00e5\u00a4\u0095\u00e4\u00ba\u0091", 
+        "zh_tw": "\u00e5\u00a4\u0095\u00e9\u009b\u00b2\u00e5\u009e\u008b"
     }, 
     "PJSD706": {
         "en": "Shinonome", 
@@ -2804,8 +2804,8 @@
         "nation": "Japan", 
         "ru": "Shinonome", 
         "species": "Destroyer", 
-        "zh_cn": "\u4e1c\u4e91\u53f7", 
-        "zh_tw": "\u6771\u96f2\u865f"
+        "zh_cn": "\u00e4\u00b8\u009c\u00e4\u00ba\u0091\u00e5\u008f\u00b7", 
+        "zh_tw": "\u00e6\u009d\u00b1\u00e9\u009b\u00b2\u00e8\u0099\u009f"
     }, 
     "PJSD708": {
         "en": "HSF Harekaze", 
@@ -2817,8 +2817,8 @@
         "nation": "Japan", 
         "ru": "HSF Harekaze", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PJSD708", 
-        "zh_tw": "IDS_PJSD708"
+        "zh_cn": "HSF \u00e6\u0099\u00b4\u00e9\u00a3\u008e", 
+        "zh_tw": "HSF \u00e6\u0099\u00b4\u00e9\u00a2\u00a8\u00e8\u0099\u009f"
     }, 
     "PJSD803": {
         "en": "Isokaze", 
@@ -2830,8 +2830,8 @@
         "nation": "Japan", 
         "ru": "Isokaze", 
         "species": "Destroyer", 
-        "zh_cn": "\u77f6\u98ce", 
-        "zh_tw": "\u78ef\u98a8"
+        "zh_cn": "\u00e7\u009f\u00b6\u00e9\u00a3\u008e", 
+        "zh_tw": "\u00e7\u00a3\u00af\u00e9\u00a2\u00a8"
     }, 
     "PJSX701": {
         "en": "ARP I-401", 
@@ -2843,8 +2843,8 @@
         "nation": "Japan", 
         "ru": "ARP I-401", 
         "species": "Auxiliary", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+        "zh_cn": "\u00e8\u008b\u008d\u00e8\u0093\u009d-\u00e4\u00bc\u008a-401", 
+        "zh_tw": "\u00e8\u0092\u00bc\u00e8\u0097\u008d-\u00e4\u00bc\u008a-401"
     }, 
     "PJSX702": {
         "en": "ARP I-401", 
@@ -2856,8 +2856,8 @@
         "nation": "Japan", 
         "ru": "ARP I-401", 
         "species": "Auxiliary", 
-        "zh_cn": "\u82cd\u84dd-\u4f0a-401", 
-        "zh_tw": "\u84bc\u85cd-\u4f0a-401"
+        "zh_cn": "\u00e8\u008b\u008d\u00e8\u0093\u009d-\u00e4\u00bc\u008a-401", 
+        "zh_tw": "\u00e8\u0092\u00bc\u00e8\u0097\u008d-\u00e4\u00bc\u008a-401"
     }, 
     "PRSB001": {
         "en": "Nikolai I", 
@@ -2869,8 +2869,8 @@
         "nation": "Russia", 
         "ru": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 I", 
         "species": "Battleship", 
-        "zh_cn": "\u6c99\u7687\u5c3c\u53e4\u62c9\u4e00\u4e16", 
-        "zh_tw": "\u6c99\u7687\u5c3c\u53e4\u62c9\u4e00\u4e16\u865f"
+        "zh_cn": "\u00e6\u00b2\u0099\u00e7\u009a\u0087\u00e5\u00b0\u00bc\u00e5\u008f\u00a4\u00e6\u008b\u0089\u00e4\u00b8\u0080\u00e4\u00b8\u0096", 
+        "zh_tw": "\u00e6\u00b2\u0099\u00e7\u009a\u0087\u00e5\u00b0\u00bc\u00e5\u008f\u00a4\u00e6\u008b\u0089\u00e4\u00b8\u0080\u00e4\u00b8\u0096\u00e8\u0099\u009f"
     }, 
     "PRSB505": {
         "en": "Okt.\u00a0Revolutsiya", 
@@ -2895,8 +2895,8 @@
         "nation": "Russia", 
         "ru": "\u0410\u0432\u0440\u043e\u0440\u0430", 
         "species": "Cruiser", 
-        "zh_cn": "\u963f\u8299\u4e50\u5c14", 
-        "zh_tw": "\u963f\u8299\u6a02\u723e\u865f"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e8\u008a\u0099\u00e4\u00b9\u0090\u00e5\u00b0\u0094", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e8\u008a\u0099\u00e6\u00a8\u0082\u00e7\u0088\u00be\u00e8\u0099\u009f"
     }, 
     "PRSC002": {
         "en": "Diana", 
@@ -2908,8 +2908,8 @@
         "nation": "Russia", 
         "ru": "\u0414\u0438\u0430\u043d\u0430", 
         "species": "Cruiser", 
-        "zh_cn": "\u72c4\u5b89\u5a1c", 
-        "zh_tw": "\u72c4\u5b89\u5a1c\u865f"
+        "zh_cn": "\u00e7\u008b\u0084\u00e5\u00ae\u0089\u00e5\u00a8\u009c", 
+        "zh_tw": "\u00e7\u008b\u0084\u00e5\u00ae\u0089\u00e5\u00a8\u009c\u00e8\u0099\u009f"
     }, 
     "PRSC003": {
         "en": "Murmansk", 
@@ -2921,8 +2921,8 @@
         "nation": "Russia", 
         "ru": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
         "species": "Cruiser", 
-        "zh_cn": "\u6469\u5c14\u66fc\u65af\u514b", 
-        "zh_tw": "\u6469\u723e\u66fc\u65af\u514b\u865f"
+        "zh_cn": "\u00e6\u0091\u00a9\u00e5\u00b0\u0094\u00e6\u009b\u00bc\u00e6\u0096\u00af\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e6\u0091\u00a9\u00e7\u0088\u00be\u00e6\u009b\u00bc\u00e6\u0096\u00af\u00e5\u0085\u008b\u00e8\u0099\u009f"
     }, 
     "PRSC010": {
         "en": "Diana L", 
@@ -2934,8 +2934,8 @@
         "nation": "Russia", 
         "ru": "\u0414\u0438\u0430\u043d\u0430 L", 
         "species": "Cruiser", 
-        "zh_cn": "\u5e15\u62c9\u8fbe", 
-        "zh_tw": "\u5e15\u62c9\u9054\u865f"
+        "zh_cn": "\u00e5\u00b8\u0095\u00e6\u008b\u0089\u00e8\u00be\u00be", 
+        "zh_tw": "\u00e5\u00b8\u0095\u00e6\u008b\u0089\u00e9\u0081\u0094\u00e8\u0099\u009f"
     }, 
     "PRSC101": {
         "en": "Orlan", 
@@ -2947,8 +2947,8 @@
         "nation": "Russia", 
         "ru": "\u041e\u0440\u043b\u0430\u043d", 
         "species": "Cruiser", 
-        "zh_cn": "\u5965\u5c14\u5170", 
-        "zh_tw": "\u5967\u723e\u862d\u7d1a"
+        "zh_cn": "\u00e5\u00a5\u00a5\u00e5\u00b0\u0094\u00e5\u0085\u00b0", 
+        "zh_tw": "\u00e5\u00a5\u00a7\u00e7\u0088\u00be\u00e8\u0098\u00ad\u00e7\u00b4\u009a"
     }, 
     "PRSC102": {
         "en": "Novik", 
@@ -2960,8 +2960,8 @@
         "nation": "Russia", 
         "ru": "\u041d\u043e\u0432\u0438\u043a", 
         "species": "Cruiser", 
-        "zh_cn": "\u8bfa\u7ef4\u514b", 
-        "zh_tw": "\u8afe\u7dad\u514b\u7d1a"
+        "zh_cn": "\u00e8\u00af\u00ba\u00e7\u00bb\u00b4\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e8\u00ab\u00be\u00e7\u00b6\u00ad\u00e5\u0085\u008b\u00e7\u00b4\u009a"
     }, 
     "PRSC103": {
         "en": "Bogatyr", 
@@ -2973,8 +2973,8 @@
         "nation": "Russia", 
         "ru": "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u044c", 
         "species": "Cruiser", 
-        "zh_cn": "\u82f1\u96c4", 
-        "zh_tw": "\u82f1\u96c4\u7d1a"
+        "zh_cn": "\u00e8\u008b\u00b1\u00e9\u009b\u0084", 
+        "zh_tw": "\u00e8\u008b\u00b1\u00e9\u009b\u0084\u00e7\u00b4\u009a"
     }, 
     "PRSC104": {
         "en": "Svietlana", 
@@ -2986,8 +2986,8 @@
         "nation": "Russia", 
         "ru": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430", 
         "species": "Cruiser", 
-        "zh_cn": "\u65af\u7ef4\u7279\u62c9\u5a1c", 
-        "zh_tw": "\u65af\u7dad\u7279\u62c9\u5a1c\u7d1a"
+        "zh_cn": "\u00e6\u0096\u00af\u00e7\u00bb\u00b4\u00e7\u0089\u00b9\u00e6\u008b\u0089\u00e5\u00a8\u009c", 
+        "zh_tw": "\u00e6\u0096\u00af\u00e7\u00b6\u00ad\u00e7\u0089\u00b9\u00e6\u008b\u0089\u00e5\u00a8\u009c\u00e7\u00b4\u009a"
     }, 
     "PRSC105": {
         "en": "Kirov", 
@@ -2999,8 +2999,8 @@
         "nation": "Russia", 
         "ru": "\u041a\u0438\u0440\u043e\u0432", 
         "species": "Cruiser", 
-        "zh_cn": "\u57fa\u6d1b\u592b", 
-        "zh_tw": "\u57fa\u6d1b\u592b\u7d1a"
+        "zh_cn": "\u00e5\u009f\u00ba\u00e6\u00b4\u009b\u00e5\u00a4\u00ab", 
+        "zh_tw": "\u00e5\u009f\u00ba\u00e6\u00b4\u009b\u00e5\u00a4\u00ab\u00e7\u00b4\u009a"
     }, 
     "PRSC106": {
         "en": "Budyonny", 
@@ -3012,8 +3012,8 @@
         "nation": "Russia", 
         "ru": "\u0411\u0443\u0434\u0451\u043d\u043d\u044b\u0439", 
         "species": "Cruiser", 
-        "zh_cn": "\u5e03\u743c\u5c3c", 
-        "zh_tw": "\u5e03\u74ca\u5c3c\u7d1a"
+        "zh_cn": "\u00e5\u00b8\u0083\u00e7\u0090\u00bc\u00e5\u00b0\u00bc", 
+        "zh_tw": "\u00e5\u00b8\u0083\u00e7\u0093\u008a\u00e5\u00b0\u00bc\u00e7\u00b4\u009a"
     }, 
     "PRSC107": {
         "en": "Shchors", 
@@ -3025,8 +3025,8 @@
         "nation": "Russia", 
         "ru": "\u0429\u043e\u0440\u0441", 
         "species": "Cruiser", 
-        "zh_cn": "\u8096\u5c14\u65af", 
-        "zh_tw": "\u8096\u723e\u65af\u7d1a"
+        "zh_cn": "\u00e8\u0082\u0096\u00e5\u00b0\u0094\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e8\u0082\u0096\u00e7\u0088\u00be\u00e6\u0096\u00af\u00e7\u00b4\u009a"
     }, 
     "PRSC108": {
         "en": "Chapayev", 
@@ -3038,8 +3038,8 @@
         "nation": "Russia", 
         "ru": "\u0427\u0430\u043f\u0430\u0435\u0432", 
         "species": "Cruiser", 
-        "zh_cn": "\u6070\u5df4\u8036\u592b", 
-        "zh_tw": "\u6070\u5df4\u8036\u592b\u7d1a"
+        "zh_cn": "\u00e6\u0081\u00b0\u00e5\u00b7\u00b4\u00e8\u0080\u00b6\u00e5\u00a4\u00ab", 
+        "zh_tw": "\u00e6\u0081\u00b0\u00e5\u00b7\u00b4\u00e8\u0080\u00b6\u00e5\u00a4\u00ab\u00e7\u00b4\u009a"
     }, 
     "PRSC109": {
         "en": "Dm. Donskoi", 
@@ -3051,8 +3051,8 @@
         "nation": "Russia", 
         "ru": "\u0414\u043c. \u0414\u043e\u043d\u0441\u043a\u043e\u0439", 
         "species": "Cruiser", 
-        "zh_cn": "\u8fea\u7c73\u7279\u91cc\u00b7\u987f\u65af\u79d1\u4f0a", 
-        "zh_tw": "\u8fea\u7c73\u7279\u88e1\u00b7\u9813\u65af\u79d1\u4f0a\u7d1a"
+        "zh_cn": "\u00e8\u00bf\u00aa\u00e7\u00b1\u00b3\u00e7\u0089\u00b9\u00e9\u0087\u008c\u00c2\u00b7\u00e9\u00a1\u00bf\u00e6\u0096\u00af\u00e7\u00a7\u0091\u00e4\u00bc\u008a", 
+        "zh_tw": "\u00e8\u00bf\u00aa\u00e7\u00b1\u00b3\u00e7\u0089\u00b9\u00e8\u00a3\u00a1\u00c2\u00b7\u00e9\u00a0\u0093\u00e6\u0096\u00af\u00e7\u00a7\u0091\u00e4\u00bc\u008a\u00e7\u00b4\u009a"
     }, 
     "PRSC110": {
         "en": "Moskva", 
@@ -3064,8 +3064,8 @@
         "nation": "Russia", 
         "ru": "\u041c\u043e\u0441\u043a\u0432\u0430", 
         "species": "Cruiser", 
-        "zh_cn": "\u83ab\u65af\u79d1", 
-        "zh_tw": "\u83ab\u65af\u79d1\u7d1a"
+        "zh_cn": "\u00e8\u008e\u00ab\u00e6\u0096\u00af\u00e7\u00a7\u0091", 
+        "zh_tw": "\u00e8\u008e\u00ab\u00e6\u0096\u00af\u00e7\u00a7\u0091\u00e7\u00b4\u009a"
     }, 
     "PRSC503": {
         "en": "Oleg", 
@@ -3077,8 +3077,8 @@
         "nation": "Russia", 
         "ru": "\u041e\u043b\u0435\u0433", 
         "species": "Cruiser", 
-        "zh_cn": "\u5965\u5217\u683c", 
-        "zh_tw": "\u5967\u5217\u683c\u865f"
+        "zh_cn": "\u00e5\u00a5\u00a5\u00e5\u0088\u0097\u00e6\u00a0\u00bc", 
+        "zh_tw": "\u00e5\u00a5\u00a7\u00e5\u0088\u0097\u00e6\u00a0\u00bc\u00e8\u0099\u009f"
     }, 
     "PRSC505": {
         "en": "Krasny Krym", 
@@ -3090,8 +3090,8 @@
         "nation": "Russia", 
         "ru": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0440\u044b\u043c", 
         "species": "Cruiser", 
-        "zh_cn": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9a", 
-        "zh_tw": "\u8d64\u8272\u514b\u91cc\u7c73\u4e9e\u865f"
+        "zh_cn": "\u00e8\u00b5\u00a4\u00e8\u0089\u00b2\u00e5\u0085\u008b\u00e9\u0087\u008c\u00e7\u00b1\u00b3\u00e4\u00ba\u009a", 
+        "zh_tw": "\u00e8\u00b5\u00a4\u00e8\u0089\u00b2\u00e5\u0085\u008b\u00e9\u0087\u008c\u00e7\u00b1\u00b3\u00e4\u00ba\u009e\u00e8\u0099\u009f"
     }, 
     "PRSC506": {
         "en": "Molotov", 
@@ -3103,8 +3103,8 @@
         "nation": "Russia", 
         "ru": "\u041c\u043e\u043b\u043e\u0442\u043e\u0432", 
         "species": "Cruiser", 
-        "zh_cn": "\u83ab\u6d1b\u6258\u592b", 
-        "zh_tw": "\u83ab\u6d1b\u6258\u592b\u865f"
+        "zh_cn": "\u00e8\u008e\u00ab\u00e6\u00b4\u009b\u00e6\u0089\u0098\u00e5\u00a4\u00ab", 
+        "zh_tw": "\u00e8\u008e\u00ab\u00e6\u00b4\u009b\u00e6\u0089\u0098\u00e5\u00a4\u00ab\u00e8\u0099\u009f"
     }, 
     "PRSC508": {
         "en": "Kutuzov", 
@@ -3116,8 +3116,8 @@
         "nation": "Russia", 
         "ru": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432", 
         "species": "Cruiser", 
-        "zh_cn": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u5e93\u56fe\u4f50\u592b", 
-        "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
+        "zh_cn": "\u00e7\u00b1\u00b3\u00e5\u0093\u0088\u00e4\u00bc\u008a\u00e5\u00b0\u0094\u00c2\u00b7\u00e5\u00ba\u0093\u00e5\u009b\u00be\u00e4\u00bd\u0090\u00e5\u00a4\u00ab", 
+        "zh_tw": "\u00e7\u00b1\u00b3\u00e5\u0093\u0088\u00e4\u00bc\u008a\u00e7\u0088\u00be\u00c2\u00b7\u00e5\u00ba\u00ab\u00e5\u009c\u0096\u00e4\u00bd\u0090\u00e5\u00a4\u00ab\u00e8\u0099\u009f"
     }, 
     "PRSC606": {
         "en": "Makarov", 
@@ -3129,8 +3129,8 @@
         "nation": "Russia", 
         "ru": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PRSC606", 
-        "zh_tw": "IDS_PRSC606"
+        "zh_cn": "\u00e9\u00a9\u00ac\u00e5\u008d\u00a1\u00e6\u00b4\u009b\u00e5\u00a4\u00ab\u00e6\u00b5\u00b7\u00e5\u0086\u009b\u00e4\u00b8\u008a\u00e5\u00b0\u0086\u00e5\u008f\u00b7", 
+        "zh_tw": "\u00e9\u00a6\u00ac\u00e5\u008d\u00a1\u00e6\u00b4\u009b\u00e5\u00a4\u00ab\u00e6\u00b5\u00b7\u00e8\u00bb\u008d\u00e4\u00b8\u008a\u00e5\u00b0\u0087\u00e8\u0099\u009f"
     }, 
     "PRSC999": {
         "en": "Test Ship", 
@@ -3155,8 +3155,8 @@
         "nation": "Russia", 
         "ru": "\u0413\u0440\u0435\u043c\u044f\u0449\u0438\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u96f7\u9e23", 
-        "zh_tw": "\u96f7\u9cf4\u865f"
+        "zh_cn": "\u00e9\u009b\u00b7\u00e9\u00b8\u00a3", 
+        "zh_tw": "\u00e9\u009b\u00b7\u00e9\u00b3\u00b4\u00e8\u0099\u009f"
     }, 
     "PRSD102": {
         "en": "Storozhevoi", 
@@ -3168,8 +3168,8 @@
         "nation": "Russia", 
         "ru": "\u0421\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u043e\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u5b88\u62a4", 
-        "zh_tw": "\u5b88\u8b77\u7d1a"
+        "zh_cn": "\u00e5\u00ae\u0088\u00e6\u008a\u00a4", 
+        "zh_tw": "\u00e5\u00ae\u0088\u00e8\u00ad\u00b7\u00e7\u00b4\u009a"
     }, 
     "PRSD103": {
         "en": "Derzki", 
@@ -3181,8 +3181,8 @@
         "nation": "Russia", 
         "ru": "\u0414\u0435\u0440\u0437\u043a\u0438\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u65e0\u7406", 
-        "zh_tw": "\u7121\u7406\u7d1a"
+        "zh_cn": "\u00e6\u0097\u00a0\u00e7\u0090\u0086", 
+        "zh_tw": "\u00e7\u0084\u00a1\u00e7\u0090\u0086\u00e7\u00b4\u009a"
     }, 
     "PRSD104": {
         "en": "Izyaslav", 
@@ -3194,8 +3194,8 @@
         "nation": "Russia", 
         "ru": "\u0418\u0437\u044f\u0441\u043b\u0430\u0432", 
         "species": "Destroyer", 
-        "zh_cn": "\u4f0a\u8d3e\u65af\u62c9\u592b", 
-        "zh_tw": "\u4f0a\u8cc8\u65af\u62c9\u592b\u7d1a"
+        "zh_cn": "\u00e4\u00bc\u008a\u00e8\u00b4\u00be\u00e6\u0096\u00af\u00e6\u008b\u0089\u00e5\u00a4\u00ab", 
+        "zh_tw": "\u00e4\u00bc\u008a\u00e8\u00b3\u0088\u00e6\u0096\u00af\u00e6\u008b\u0089\u00e5\u00a4\u00ab\u00e7\u00b4\u009a"
     }, 
     "PRSD105": {
         "en": "Gnevny (OLD)", 
@@ -3207,8 +3207,8 @@
         "nation": "Russia", 
         "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439 (OLD)", 
         "species": "Destroyer", 
-        "zh_cn": "\u81ea\u8c6a", 
-        "zh_tw": "\u81ea\u8c6a\u865f"
+        "zh_cn": "\u00e8\u0087\u00aa\u00e8\u00b1\u00aa", 
+        "zh_tw": "\u00e8\u0087\u00aa\u00e8\u00b1\u00aa\u00e8\u0099\u009f"
     }, 
     "PRSD106": {
         "en": "Ognevoi (OLD)", 
@@ -3220,8 +3220,8 @@
         "nation": "Russia", 
         "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439 (OLD)", 
         "species": "Destroyer", 
-        "zh_cn": "\u5371\u9669", 
-        "zh_tw": "\u5371\u96aa\u865f"
+        "zh_cn": "\u00e5\u008d\u00b1\u00e9\u0099\u00a9", 
+        "zh_tw": "\u00e5\u008d\u00b1\u00e9\u009a\u00aa\u00e8\u0099\u009f"
     }, 
     "PRSD107": {
         "en": "Udaloi", 
@@ -3233,8 +3233,8 @@
         "nation": "Russia", 
         "ru": "\u0423\u0434\u0430\u043b\u043e\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u4e4c\u8fbe\u6d1b\u4f0a", 
-        "zh_tw": "\u70cf\u9054\u6d1b\u4f0a\u7d1a"
+        "zh_cn": "\u00e4\u00b9\u008c\u00e8\u00be\u00be\u00e6\u00b4\u009b\u00e4\u00bc\u008a", 
+        "zh_tw": "\u00e7\u0083\u008f\u00e9\u0081\u0094\u00e6\u00b4\u009b\u00e4\u00bc\u008a\u00e7\u00b4\u009a"
     }, 
     "PRSD108": {
         "en": "Tashkent (OLD)", 
@@ -3246,8 +3246,8 @@
         "nation": "Russia", 
         "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 (OLD)", 
         "species": "Destroyer", 
-        "zh_cn": "\u963f\u4ec0\u54c8\u5df4\u5fb7", 
-        "zh_tw": "\u963f\u4ec0\u54c8\u5df4\u5fb7\u865f"
+        "zh_cn": "\u00e9\u0098\u00bf\u00e4\u00bb\u0080\u00e5\u0093\u0088\u00e5\u00b7\u00b4\u00e5\u00be\u00b7", 
+        "zh_tw": "\u00e9\u0098\u00bf\u00e4\u00bb\u0080\u00e5\u0093\u0088\u00e5\u00b7\u00b4\u00e5\u00be\u00b7\u00e8\u0099\u009f"
     }, 
     "PRSD109": {
         "en": "Kiev (OLD)", 
@@ -3259,8 +3259,8 @@
         "nation": "Russia", 
         "ru": "\u041a\u0438\u0435\u0432 (OLD)", 
         "species": "Destroyer", 
-        "zh_cn": "\u57c3\u91cc\u6e29", 
-        "zh_tw": "\u57c3\u91cc\u6eab\u865f"
+        "zh_cn": "\u00e5\u009f\u0083\u00e9\u0087\u008c\u00e6\u00b8\u00a9", 
+        "zh_tw": "\u00e5\u009f\u0083\u00e9\u0087\u008c\u00e6\u00ba\u00ab\u00e8\u0099\u009f"
     }, 
     "PRSD110": {
         "en": "Khabarovsk", 
@@ -3272,8 +3272,8 @@
         "nation": "Russia", 
         "ru": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
         "species": "Destroyer", 
-        "zh_cn": "\u54c8\u5df4\u7f57\u592b\u65af\u514b", 
-        "zh_tw": "\u54c8\u5df4\u7f85\u592b\u65af\u514b\u7d1a"
+        "zh_cn": "\u00e5\u0093\u0088\u00e5\u00b7\u00b4\u00e7\u00bd\u0097\u00e5\u00a4\u00ab\u00e6\u0096\u00af\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e5\u0093\u0088\u00e5\u00b7\u00b4\u00e7\u00be\u0085\u00e5\u00a4\u00ab\u00e6\u0096\u00af\u00e5\u0085\u008b\u00e7\u00b4\u009a"
     }, 
     "PRSD205": {
         "en": "Podvoisky", 
@@ -3285,8 +3285,8 @@
         "nation": "Russia", 
         "ru": "\u041f\u043e\u0434\u0432\u043e\u0439\u0441\u043a\u0438\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa", 
-        "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
+        "zh_cn": "\u00e6\u00b3\u00a2\u00e5\u00be\u00b7\u00e6\u00b2\u0083\u00e4\u00bc\u008a\u00e6\u0096\u00af\u00e5\u009f\u00ba", 
+        "zh_tw": "\u00e6\u00b3\u00a2\u00e5\u00be\u00b7\u00e6\u00b2\u0083\u00e4\u00bc\u008a\u00e6\u0096\u00af\u00e5\u009f\u00ba\u00e7\u00b4\u009a"
     }, 
     "PRSD206": {
         "en": "Gnevny", 
@@ -3298,8 +3298,8 @@
         "nation": "Russia", 
         "ru": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u6124\u6012", 
-        "zh_tw": "\u61a4\u6012\u7d1a"
+        "zh_cn": "\u00e6\u0084\u00a4\u00e6\u0080\u0092", 
+        "zh_tw": "\u00e6\u0086\u00a4\u00e6\u0080\u0092\u00e7\u00b4\u009a"
     }, 
     "PRSD207": {
         "en": "Minsk", 
@@ -3311,8 +3311,8 @@
         "nation": "Russia", 
         "ru": "\u041c\u0438\u043d\u0441\u043a", 
         "species": "Destroyer", 
-        "zh_cn": "\u660e\u65af\u514b", 
-        "zh_tw": "\u660e\u65af\u514b\u7d1a"
+        "zh_cn": "\u00e6\u0098\u008e\u00e6\u0096\u00af\u00e5\u0085\u008b", 
+        "zh_tw": "\u00e6\u0098\u008e\u00e6\u0096\u00af\u00e5\u0085\u008b\u00e7\u00b4\u009a"
     }, 
     "PRSD208": {
         "en": "Ognevoi", 
@@ -3324,8 +3324,8 @@
         "nation": "Russia", 
         "ru": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u706b\u529b", 
-        "zh_tw": "\u706b\u529b\u7d1a"
+        "zh_cn": "\u00e7\u0081\u00ab\u00e5\u008a\u009b", 
+        "zh_tw": "\u00e7\u0081\u00ab\u00e5\u008a\u009b\u00e7\u00b4\u009a"
     }, 
     "PRSD210": {
         "en": "Grozovoi", 
@@ -3337,8 +3337,8 @@
         "nation": "Russia", 
         "ru": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
         "species": "Destroyer", 
-        "zh_cn": "\u96f7\u66b4", 
-        "zh_tw": "\u96f7\u66b4\u7d1a"
+        "zh_cn": "\u00e9\u009b\u00b7\u00e6\u009a\u00b4", 
+        "zh_tw": "\u00e9\u009b\u00b7\u00e6\u009a\u00b4\u00e7\u00b4\u009a"
     }, 
     "PRSD308": {
         "en": "Kiev", 
@@ -3350,8 +3350,8 @@
         "nation": "Russia", 
         "ru": "\u041a\u0438\u0435\u0432", 
         "species": "Destroyer", 
-        "zh_cn": "\u57fa\u8f85", 
-        "zh_tw": "\u57fa\u8f14\u7d1a"
+        "zh_cn": "\u00e5\u009f\u00ba\u00e8\u00be\u0085", 
+        "zh_tw": "\u00e5\u009f\u00ba\u00e8\u00bc\u0094\u00e7\u00b4\u009a"
     }, 
     "PRSD409": {
         "en": "Tashkent", 
@@ -3363,8 +3363,8 @@
         "nation": "Russia", 
         "ru": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442", 
         "species": "Destroyer", 
-        "zh_cn": "\u5854\u4ec0\u5e72", 
-        "zh_tw": "\u5854\u4ec0\u5e72\u865f"
+        "zh_cn": "\u00e5\u00a1\u0094\u00e4\u00bb\u0080\u00e5\u00b9\u00b2", 
+        "zh_tw": "\u00e5\u00a1\u0094\u00e4\u00bb\u0080\u00e5\u00b9\u00b2\u00e8\u0099\u009f"
     }, 
     "PRSD505": {
         "en": "Okhotnik", 
@@ -3376,8 +3376,8 @@
         "nation": "Russia", 
         "ru": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a", 
         "species": "Destroyer", 
-        "zh_cn": "\u730e\u4eba", 
-        "zh_tw": "\u7375\u4eba\u865f"
+        "zh_cn": "\u00e7\u008c\u008e\u00e4\u00ba\u00ba", 
+        "zh_tw": "\u00e7\u008d\u00b5\u00e4\u00ba\u00ba\u00e8\u0099\u009f"
     }, 
     "PRSD507": {
         "en": "Leningrad", 
@@ -3389,8 +3389,8 @@
         "nation": "Russia", 
         "ru": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
         "species": "Destroyer", 
-        "zh_cn": "\u5217\u5b81\u683c\u52d2", 
-        "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
+        "zh_cn": "\u00e5\u0088\u0097\u00e5\u00ae\u0081\u00e6\u00a0\u00bc\u00e5\u008b\u0092", 
+        "zh_tw": "\u00e5\u0088\u0097\u00e5\u00af\u00a7\u00e6\u00a0\u00bc\u00e5\u008b\u0092\u00e8\u0099\u009f"
     }, 
     "PUSC506": {
         "en": "Perth", 
@@ -3402,8 +3402,8 @@
         "nation": "Commonwealth", 
         "ru": "Perth", 
         "species": "Cruiser", 
-        "zh_cn": "\u73c0\u65af", 
-        "zh_tw": "\u73c0\u65af\u865f"
+        "zh_cn": "\u00e7\u008f\u0080\u00e6\u0096\u00af", 
+        "zh_tw": "\u00e7\u008f\u0080\u00e6\u0096\u00af\u00e8\u0099\u009f"
     }, 
     "PWSD501": {
         "en": "B\u0142yskawica", 
@@ -3415,8 +3415,8 @@
         "nation": "Poland", 
         "ru": "B\u0142yskawica", 
         "species": "Destroyer", 
-        "zh_cn": "\u95ea\u7535", 
-        "zh_tw": "\u9583\u96fb\u865f"
+        "zh_cn": "\u00e9\u0097\u00aa\u00e7\u0094\u00b5", 
+        "zh_tw": "\u00e9\u0096\u0083\u00e9\u009b\u00bb\u00e8\u0099\u009f"
     }, 
     "PXSA001": {
         "en": "Luftwaffe", 
@@ -3441,8 +3441,8 @@
         "nation": "Events", 
         "ru": "\u0410\u0432\u0438\u0430\u043d\u043e\u0441\u0435\u0446", 
         "species": "AirCarrier", 
-        "zh_cn": "IDS_PXSA002", 
-        "zh_tw": "IDS_PXSA002"
+        "zh_cn": "\u00e8\u0088\u00aa\u00e7\u00a9\u00ba\u00e6\u00af\u008d\u00e8\u0088\u00b0", 
+        "zh_tw": "\u00e8\u0088\u00aa\u00e7\u00a9\u00ba\u00e6\u00af\u008d\u00e8\u0089\u00a6"
     }, 
     "PXSD007": {
         "en": "Schnellboot", 
@@ -3636,8 +3636,8 @@
         "nation": "Pan_Asia", 
         "ru": "Anshan", 
         "species": "Destroyer", 
-        "zh_cn": "\u978d\u5c71", 
-        "zh_tw": "\u978d\u5c71\u865f"
+        "zh_cn": "\u00e9\u009e\u008d\u00e5\u00b1\u00b1", 
+        "zh_tw": "\u00e9\u009e\u008d\u00e5\u00b1\u00b1\u00e8\u0099\u009f"
     }, 
     "PZSD508": {
         "en": "Lo Yang", 
@@ -3649,7 +3649,7 @@
         "nation": "Pan_Asia", 
         "ru": "Lo Yang", 
         "species": "Destroyer", 
-        "zh_cn": "\u6d1b\u9633", 
-        "zh_tw": "\u6d1b\u967d\u865f"
+        "zh_cn": "\u00e6\u00b4\u009b\u00e9\u0098\u00b3", 
+        "zh_tw": "\u00e6\u00b4\u009b\u00e9\u0099\u00bd\u00e8\u0099\u009f"
     }
 }
