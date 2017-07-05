@@ -1,0 +1,9 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PXSX040_Escort_8 removed in second object
+root.PXSX035_Landing_Ship_1 removed in second object
+root.PXSX037_Daihatsu removed in second object
+root.PGGA095_20mm_Flak_38_L41 removed in second object
+root.PXSX039_LST_325 removed in second object
+>> finished comparing
