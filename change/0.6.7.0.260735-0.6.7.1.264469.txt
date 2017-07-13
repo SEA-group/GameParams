@@ -1,0 +1,87 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSB107_Nelson.A1_Artillery.sigmaCount changed in second object (was 2.0, is 1.9)
+root.PBSB107_Nelson.ShipUpgradeInfo.PBUH621_B7_HULL_A.components.airArmament[0] removed in second object
+root.PBSB107_Nelson.ShipUpgradeInfo.PBUH622_B7_HULL_B.components.airArmament[0] removed in second object
+root.PBSB107_Nelson.AB_AirArmament removed in second object
+root.PBSB107_Nelson.B1_Artillery.sigmaCount changed in second object (was 2.0, is 1.9)
+root.PBSB107_Nelson.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSB107_Nelson.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PBSB107_Nelson.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was UK_CL, is B)
+root.PBSB107_Nelson.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was UK_CL_PREM, is B_Gold)
+root.PAPB002_1000lbs_MK33.bulletSpeed changed in second object (was 500.0, is 319.0)
+root.PAPB002_1000lbs_MK33.bulletAlwaysRicochetAt changed in second object (was 60.0, is 45.0)
+root.PAPB002_1000lbs_MK33.innerBombsPercentage changed in second object (was 33.33, is 60.0)
+root.PAPB002_1000lbs_MK33.bulletUnderwaterPenetrationFactor changed in second object (was 1.0, is 0.9)
+root.PAPB002_1000lbs_MK33.bulletDetonator changed in second object (was 0.01, is 0.03)
+root.PAPB002_1000lbs_MK33.alphaDamage changed in second object (was 7300.0, is 8000.0)
+root.PAPB002_1000lbs_MK33.damage changed in second object (was 2000.0, is 1.0)
+root.PAPB002_1000lbs_MK33.splashCubeSize changed in second object (was 0.15, is 2.0)
+root.PAPB002_1000lbs_MK33.burnProb changed in second object (was 0.2, is -0.5)
+root.PAPB002_1000lbs_MK33.volume changed in second object (was 2.77, is 1.0)
+root.PAPB002_1000lbs_MK33.bulletCapNormalizeMaxAngle changed in second object (was 68.0, is 0.0)
+root.PAPB002_1000lbs_MK33.bulletKrupp changed in second object (was 1137.0, is 2645.0)
+root.PAPB002_1000lbs_MK33.innerSalvoSize[0] changed in second object (was 1.5, is 1.0)
+root.PAPB002_1000lbs_MK33.innerSalvoSize[1] changed in second object (was 2.5, is 4.5)
+root.PAPB002_1000lbs_MK33.bulletDetonatorThreshold changed in second object (was 46.0, is 69.0)
+root.PAPB002_1000lbs_MK33.outterSalvoSize[0] changed in second object (was 6.0, is 1.7)
+root.PAPB002_1000lbs_MK33.outterSalvoSize[1] changed in second object (was 15.0, is 8.0)
+root.PBPA039_406MM_MI_IB_AP.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA039_406MM_MI_IB_AP.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PBPA054_381MM_AP_MKII.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA054_381MM_AP_MKII.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PBPA044_406MM_MIV_AP.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA044_406MM_MIV_AP.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PBPA053_381MM_AP_MKXXIIB_C.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA053_381MM_AP_MKXXIIB_C.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PBSB110_Conqueror.A_Hull.rollEffect changed in second object (was 72.0, is 91.0)
+root.PBSB110_Conqueror.A_Hull.turningRadius changed in second object (was 950.0, is 940.0)
+root.PBSB110_Conqueror.A_Hull.tonnage changed in second object (was 60769.0, is 60679.0)
+root.PBSB110_Conqueror.A_Hull.visibilityCoeff changed in second object (was 35.0, is 32.38)
+root.PBSB110_Conqueror.A_Hull.mass changed in second object (was 60769000.0, is 60679000.0)
+root.PBSB110_Conqueror.A_Hull.visibilityFactor changed in second object (was 19.08, is 14.76)
+root.PBSB110_Conqueror.A_Hull.sideDragCoef changed in second object (was 2100000.0, is 1950000.0)
+root.PBSB110_Conqueror.A_Hull.rudderPower changed in second object (was 70000000.0, is 71000000.0)
+root.PBSB110_Conqueror.A_Artillery.sigmaCount changed in second object (was 1.8, is 2.0)
+root.PBSB110_Conqueror.A_Artillery.maxDist changed in second object (was 29200.0, is 24250.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_2.idealRadius changed in second object (was 8, is 12.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_2.minRadius changed in second object (was 0.5, is 2.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_3.idealRadius changed in second object (was 8, is 12.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_3.minRadius changed in second object (was 0.5, is 2.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_1.idealRadius changed in second object (was 8, is 12.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_1.minRadius changed in second object (was 0.5, is 2.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_4.idealRadius changed in second object (was 8, is 12.0)
+root.PBSB110_Conqueror.A_Artillery.HP_BGM_4.minRadius changed in second object (was 0.5, is 2.0)
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_2.deadZone[0] removed in first object
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_3.deadZone[0] removed in first object
+root.PBPA033_343MM_MV_IA_AP.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA033_343MM_MV_IA_AP.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot3.mods[0] changed in second object (was PCM020_DamageControl_Mod_I, is PCM016_FlightControl_Mod_II)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot3.mods[1] changed in second object (was PCM021_Engine_Mod_I, is PCM017_Airplanes_Mod_III)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot3.mods[2] changed in second object (was PCM022_SteeringGear_Mod_I, is PCM018_AirDefense_Mod_III)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot3.mods[3] removed in first object
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot5.mods[0] changed in second object (was PCM026_LookoutStation_Mod_I, is PCM023_DamageControl_Mod_II)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot5.mods[1] changed in second object (was PCM027_ConcealmentMeasures_Mod_I, is PCM024_Engine_Mod_II)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot5.mods[2] removed in first object
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot5.mods[3] removed in first object
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot4.mods[0] changed in second object (was PCM023_DamageControl_Mod_II, is PCM020_DamageControl_Mod_I)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot4.mods[1] changed in second object (was PCM024_Engine_Mod_II, is PCM021_Engine_Mod_I)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot4.mods[2] changed in second object (was PCM025_SteeringGear_Mod_II, is PCM022_SteeringGear_Mod_I)
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot4.mods[3] removed in second object
+root.PASA508_Enterprise.ShipModernization.ModernizationSlot6 removed in first object
+root.PASA508_Enterprise.ShipUpgradeInfo.PAUD705_DB_ENTERPISE removed in first object
+root.PASA508_Enterprise.B_DiveBomber removed in first object
+root.PBPA028_305MM_MX_AP.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PBPA028_305MM_MX_AP.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PAPB004_1600lbs_MK1.bulletSpeed changed in second object (was 500.0, is 315.0)
+root.PAPB004_1600lbs_MK1.bulletAlwaysRicochetAt changed in second object (was 60.0, is 45.0)
+root.PAPB004_1600lbs_MK1.bulletDetonator changed in second object (was 0.01, is 0.03)
+root.PAPB004_1600lbs_MK1.alphaDamage changed in second object (was 9100.0, is 10100.0)
+root.PAPB004_1600lbs_MK1.damage changed in second object (was 2400.0, is 1.0)
+root.PAPB004_1600lbs_MK1.splashCubeSize changed in second object (was 0.18, is 2.0)
+root.PAPB004_1600lbs_MK1.burnProb changed in second object (was 0.21, is -0.5)
+root.PAPB004_1600lbs_MK1.volume changed in second object (was 3.69, is 1.0)
+root.PAPB004_1600lbs_MK1.bulletCapNormalizeMaxAngle changed in second object (was 68.0, is 0.0)
+root.PAPB004_1600lbs_MK1.bulletKrupp changed in second object (was 1200.0, is 2415.0)
+root.PAPB004_1600lbs_MK1.innerSalvoSize[1] changed in second object (was 8.0, 
