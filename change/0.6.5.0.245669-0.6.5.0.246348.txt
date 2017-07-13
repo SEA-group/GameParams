@@ -1,0 +1,18 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFSC506_De_Grasse.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was FR_CR, is FR_CR_6_7)
+root.PFSC506_De_Grasse.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was FR_CR_PREM, is FR_CR_6_7_PREM)
+root.PCQC005_Bismarck.endTimeCustom.RU removed in first object
+root.PCQC005_Bismarck.endTimeCustom.CN removed in first object
+root.PCQC005_Bismarck.endTimeCustom.NA removed in first object
+root.PCQC005_Bismarck.endTimeCustom.ASIA removed in first object
+root.PCQC005_Bismarck.endTimeCustom.ST removed in first object
+root.PCQC005_Bismarck.endTimeCustom.EU removed in first object
+root.PCQC005_Bismarck.startTimeCustom.ST removed in second object
+root.PCQC005_Bismarck.startTimeCustom.EU removed in first object
+root.PCQC005_Bismarck.startTimeCustom.RU removed in first object
+root.PCQC005_Bismarck.startTimeCustom.CN removed in first object
+root.PCQC005_Bismarck.startTimeCustom.ASIA removed in first object
+root.PCQC005_Bismarck.startTimeCustom.NA removed in first object
+>> finished comparing

@@ -1,0 +1,79 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSC109_Neptune.AB1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM028_FireControl_Mod_I_US.shootShift removed in first object
+root.PCM038_Spotter_Mod_I.shootShift removed in first object
+root.PFSC110_Henri_IV.A1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM021_Engine_Mod_I.shootShift removed in first object
+root.PCM042_RLSSearch_Mod_I.shootShift removed in first object
+root.PCM001_MainGun_Mod_I.shootShift removed in first object
+root.PCM019_SecondaryGun_Mod_III.shootShift removed in first object
+root.PCM023_DamageControl_Mod_II.shootShift removed in first object
+root.PCM030_MainWeapon_Mod_I.shootShift removed in first object
+root.PJSC038_Atago_1944.groupCustom.CN removed in first object
+root.PCM013_MainGun_Mod_III.shootShift removed in first object
+root.PCM014_Torpedo_Mod_III.shootShift removed in first object
+root.PCM010_Airplanes_Mod_II.shootShift removed in first object
+root.PCM036_SpeedBooster_Mod_I.shootShift removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.CN removed in first object
+root.PGSC110_Hindenburg.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PGSB507_Scharnhorst.groupCustom.CN removed in first object
+root.PASB705_Texas_1944.groupCustom.CN removed in first object
+root.PASC019_Burlington_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASC020_Des_Moines_1948.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM041_SonarSearch_Mod_I.shootShift removed in first object
+root.PBSC507_Belfast_1959.groupCustom.CN removed in first object
+root.PFSC109_Saint_Louis.AB1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.minDistV changed in second object (was 250.0, is 322.0)
+root.PRSD107_Pr_35_Udaloy.AB1_Artillery.minDistH changed in second object (was 100.0, is 124.0)
+root.PCM025_SteeringGear_Mod_II.shootShift removed in first object
+root.PASC507_Indianapolis_1945.groupCustom.CN removed in first object
+root.PGSC109_Roon.A1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PGSC109_Roon.A2_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PGSC109_Roon.B2_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PGSC109_Roon.B1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM016_FlightControl_Mod_II.shootShift removed in first object
+root.PCM024_Engine_Mod_II.shootShift removed in first object
+root.PCM005_SecondaryGun_Mod_I.shootShift removed in first object
+root.PCM012_SecondaryGun_Mod_II.shootShift removed in first object
+root.PASC017_Baltimore_1944.AB2_203_55.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASC017_Baltimore_1944.AB1_203_55.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM002_Torpedo_Mod_I.shootShift removed in first object
+root.PCM011_AirDefense_Mod_II.shootShift removed in first object
+root.PCM027_ConcealmentMeasures_Mod_I.shootShift removed in first object
+root.PBSC110_Minotaur.A1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM029_FireControl_Mod_II_US.shootShift removed in first object
+root.PCM026_LookoutStation_Mod_I.shootShift removed in first object
+root.PJSD107_Akatsuki.AB_Directors.HP_JD_3.miscFilter[0] removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.CN removed in first object
+root.PCM007_Torpedo_Mod_II.shootShift removed in first object
+root.PRSC109_Dmitry_Donskoy.AB1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PRSC109_Dmitry_Donskoy.C1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM006_MainGun_Mod_II.shootShift removed in first object
+root.PCM015_FireControl_Mod_II.shootShift removed in first object
+root.PCM008_FireControl_Mod_I.shootShift removed in first object
+root.PCM009_FlightControl_Mod_I.shootShift removed in first object
+root.PCM017_Airplanes_Mod_III.shootShift removed in first object
+root.PCM004_AirDefense_Mod_I.shootShift removed in first object
+root.PCM039_CrashCrew_Mod_I.shootShift removed in first object
+root.PCM020_DamageControl_Mod_I.shootShift removed in first object
+root.PRSC110_Pr_66_Moskva.A1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASC016_Worcester_1948.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM031_SecondaryWeapon_Mod_I.shootShift removed in first object
+root.PJSC034_Zao_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PCM003_Airplanes_Mod_I.shootShift removed in first object
+root.PCM034_Guidance_Mod_0.shootShift removed in first object
+root.PCM032_PowderMagazine_Mod_I.shootShift removed in first object
+root.PRSD507_Leningrad_1944.groupCustom.CN removed in first object
+root.PCM035_SteeringGear_Mod_III.shootShift removed in first object
+root.PCM037_SmokeGenerator_Mod_I.shootShift removed in first object
+root.PCM018_AirDefense_Mod_III.shootShift removed in first object
+root.PCM022_SteeringGear_Mod_I.shootShift removed in first object
+root.PRSC506_Molotov_1943.groupCustom.CN removed in first object
+root.PASA507_Saipan_1946.groupCustom.CN removed in first object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASB506_Arizona_1941.groupCustom.CN removed in first object
+root.PCM033_Guidance_Mod_I.shootShift removed in first object
+root.PCM040_AirDefenseDisp_Mod_I.shootShift removed in first object
+>> finished comparing

@@ -1,0 +1,22 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSB107_Nelson.groupCustom.CN removed in first object
+root.PBSB110_Conqueror.groupCustom.CN removed in first object
+root.PJSD708_HSF_Harekaze.group changed in second object (was demoWithoutStats, is special)
+root.PJSD708_HSF_Harekaze.ShipUpgradeInfo.costGold changed in second object (was 9900, is 9700)
+root.PJSD708_HSF_Harekaze.groupCustom.PT removed in second object
+root.PJSD708_HSF_Harekaze.groupCustom.ST removed in second object
+root.PJSD708_HSF_Harekaze.groupCustom.CN removed in first object
+root.PRSC606_Admiral_Makarov.groupCustom.RU removed in first object
+root.PRSC606_Admiral_Makarov.groupCustom.CN removed in first object
+root.PRSC606_Admiral_Makarov.ShipUpgradeInfo.costGold changed in second object (was 9999, is 5100)
+root.PGSC706_HSF_Graf_Spee.group changed in second object (was demoWithoutStats, is special)
+root.PGSC706_HSF_Graf_Spee.groupCustom.CN removed in first object
+root.PASA508_Enterprise.group changed in second object (was demoWithoutStats, is special)
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.CN removed in first object
+root.PBSB109_Lion.groupCustom.CN removed in first object
+root.PBSB108_King_George_V.groupCustom.CN removed in first object
+root.PJSA507_Kaga.groupCustom.RU removed in first object
+root.PBSD506_Gallant.groupCustom.CN removed in first object
+>> finished comparing

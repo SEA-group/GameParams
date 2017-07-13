@@ -1,0 +1,37 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQT168_CampaignSB_Mission02_Task08_Key.costUnlock changed in second object (was 5, is 10)
+root.PJSD706_Shinonome.ShipUpgradeInfo.costGold changed in second object (was 25000, is 4000)
+root.PCQT071_Key.costUnlock changed in second object (was 5, is 10)
+root.PCQT009_Key.costUnlock changed in second object (was 2, is 5)
+root.PCQT158_CampaignSB_Mission01_Task08_Key.costUnlock changed in second object (was 5, is 10)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_1.shotDelay changed in second object (was 7.0, is 6.0)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_2.shotDelay changed in second object (was 7.0, is 6.0)
+root.PJSD012_Shimakaze_1943.AB_127_50.HP_JGM_3.shotDelay changed in second object (was 7.0, is 6.0)
+root.PCQT198_CampaignSB_Mission05_Task08_Key.rewards changed in second object (was 
+			<rewards>
+				<Ship shipId="PJSB011_Mikasa_1905" level='11' count="1"/>
+			</rewards>
+		, is 
+			<rewards>
+				<Ship shipId="PJSD706_Shinonome" level='11' count="1"/>
+			</rewards>
+		)
+root.PCQT198_CampaignSB_Mission05_Task08_Key.costUnlock changed in second object (was 5, is 10)
+root.PCQT117_Key.costUnlock changed in second object (was 5, is 15)
+root.PCQT148_Key.costUnlock changed in second object (was 5, is 15)
+root.PCQT178_CampaignSB_Mission03_Task08_Key.costUnlock changed in second object (was 5, is 10)
+root.PCQT087_Key.costUnlock changed in second object (was 5, is 10)
+root.PCQT188_CampaignSB_Mission04_Task08_Key.costUnlock changed in second object (was 5, is 10)
+root.PCQT041_Key.costUnlock changed in second object (was 3, is 7)
+root.PCQT134_Key.costUnlock changed in second object (was 5, is 15)
+root.PCQT055_Key.costUnlock changed in second object (was 5, is 10)
+root.PCEE059_Pearl_Harbor removed in first object
+root.PCEE057_Coinsup_flag removed in first object
+root.PCEE061_Graf_Spee removed in first object
+root.PCEE052_Squared_circle removed in first object
+root.PCEE056_Project_Oil removed in first object
+root.PCEE051_Belfast removed in first object
+root.PCEE060_Oleg_flag removed in first object
+>> finished comparing

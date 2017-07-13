@@ -1,0 +1,13 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSD104_V_170.AB1_Torpedoes.HP_GGT_2.horizSector[1] changed in second object (was 45.0, is 44.0)
+root.PGSD104_V_170.AB1_Torpedoes.HP_GGT_1.horizSector[0] changed in second object (was -39.0, is -40.0)
+root.PGSD104_V_170.AB2_Torpedoes.HP_GGT_2.horizSector[1] changed in second object (was 45.0, is 44.0)
+root.PGSD104_V_170.AB2_Torpedoes.HP_GGT_1.horizSector[0] changed in second object (was -39.0, is -40.0)
+root.PJSC005_Furutaka_1926.C_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PGSC104_Karlsruhe.B_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PGSC508_Prinz_Eugen.A_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+root.PJSB506_Mutsu.groupCustom.EU removed in first object
+root.PASB506_Arizona_1941.A_ATBA.AuraFar.enableCrewSelectedTargetCoeff changed in second object (was False, is True)
+>> finished comparing

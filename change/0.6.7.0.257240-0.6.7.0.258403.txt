@@ -1,0 +1,39 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCEE104_Oktyabrskaya_Revolutsiya removed in second object
+root.PRGM104_12in52_mod_3.shotDelay changed in second object (was 36.0, is 32.0)
+root.PCY001_CrashCrew.B_RUS removed in first object
+root.PRGM102_12in52_mod_1.shotDelay changed in second object (was 36.0, is 32.0)
+root.PCY009_CrashCrewPremium.B_RUS_Gold removed in first object
+root.PGSC706_HSF_Graf_Spee.group changed in second object (was special, is demoWithoutStats)
+root.PASA010_Ranger_1944.A_Hull_1941.SS.maxHP changed in second object (was 300.0, is 400.0)
+root.PASA010_Ranger_1944.A_Hull_1941.SG.maxHP changed in second object (was 13500.0, is 13100.0)
+root.PRSB505_Oktyabrskaya_Revolutsiya.A1_Artillery.HP_RGM_2.shotDelay changed in second object (was 36.0, is 32.0)
+root.PRSB505_Oktyabrskaya_Revolutsiya.A1_Artillery.HP_RGM_3.shotDelay changed in second object (was 36.0, is 32.0)
+root.PRSB505_Oktyabrskaya_Revolutsiya.A1_Artillery.HP_RGM_1.shotDelay changed in second object (was 36.0, is 32.0)
+root.PRSB505_Oktyabrskaya_Revolutsiya.A1_Artillery.HP_RGM_4.shotDelay changed in second object (was 36.0, is 32.0)
+root.PRSB505_Oktyabrskaya_Revolutsiya.ShipAbilities.AbilitySlot0.abils[0][1] changed in second object (was B_UK_Germany, is B_RUS)
+root.PRSB505_Oktyabrskaya_Revolutsiya.ShipAbilities.AbilitySlot0.abils[1][1] changed in second object (was B_UK_Germany_Gold, is B_RUS_Gold)
+root.PRGM103_12in52_mod_2.shotDelay changed in second object (was 36.0, is 32.0)
+root.PCEE109_Enterprise_Flag removed in first object
+root.PCEE113_Valor_Flags_Home removed in first object
+root.PCEE111_Supremacy_League_4_Champions removed in first object
+root.PCEE114_Valor_Flags_Remebrance removed in first object
+root.PCEE118_Jolly_Roger_4 removed in first object
+root.PCEE104_SeasonFlag07 removed in first object
+root.PCEE107_Wilhelmshaven_School removed in first object
+root.PCEE115_Valor_Giving_Thanks_Flag removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10 removed in first object
+root.PCEE106_Corgi_Fleet_2 removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10 removed in first object
+root.PCEE110_Supremacy_League_4_Participants removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10 removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10 removed in first object
+root.PCEE108_Harekaze_HSF removed in first object
+root.PCEE112_FNFL removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10 removed in first object
+root.PCEE116_Valor_All_for_One_Flag removed in first object
+root.PCEE105_Oktyabrskaya_Revolutsiya removed in first object
+>> finished comparing

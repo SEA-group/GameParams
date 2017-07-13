@@ -1,0 +1,38 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSD309_Pr_48.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PRSD309_Pr_48.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PRSD205_Podvoisky_pr_1929.isPaperShip changed in second object (was False, is True)
+root.PAPT030_BLACK.costCR changed in second object (was 300, is 600)
+root.PAPT030_BLACK.speed changed in second object (was 66.0, is 43.0)
+root.PAPT030_BLACK.alphaDamage changed in second object (was 53500.0, is 34800.0)
+root.PAPT030_BLACK.damage changed in second object (was 1200.0, is 10000.0)
+root.PAPT030_BLACK.uwCritical changed in second object (was 3.23, is 2.06)
+root.PAPT030_BLACK.splashCubeSize changed in second object (was 1.3, is 1.0)
+root.PAPT030_BLACK.visibilityFactor changed in second object (was 1.4, is 0.9)
+root.PAPT030_BLACK.maxDist changed in second object (was 350.0, is 457.0)
+root.PCQT132.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_AV_PVP)
+root.PCQT132.conditions[0] changed in second object (was <isMyShip shipLevel="5,6,7,8,9,10" />, is <isMyShip shipLevel="5,6,7,8,9,10" class="AirCarrier" />)
+root.PRSD505_Okhotnik_1917.isPaperShip changed in second object (was False, is True)
+root.PRSD310_Pr_24.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PRSD310_Pr_24.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PRSD208_Pr_30.AB1_Torpedoes removed in second object
+root.PRSD208_Pr_30.ShipUpgradeInfo.PRUT723_D8_TORP_STOCK_2.components.torpedoes[0] changed in second object (was AB1_Torpedoes, is A1_Torpedoes)
+root.PRSD208_Pr_30.ShipUpgradeInfo.PRUT723_D8_TORP_STOCK_2.components.torpedoes[1] removed in first object
+root.PRSD208_Pr_30.ShipUpgradeInfo.PRUH703_D8_HULL_STOCK_2.components.torpedoes[0] changed in second object (was AB1_Torpedoes, is A1_Torpedoes)
+root.PRSD208_Pr_30.ShipUpgradeInfo.PRUH704_D8_HULL_TOP_2.components.torpedoes[0] changed in second object (was AB1_Torpedoes, is B1_Torpedoes)
+root.PRSD208_Pr_30.A1_Torpedoes removed in first object
+root.PRSD208_Pr_30.B1_Torpedoes removed in first object
+root.PASB708_Alabama.group changed in second object (was demoWithoutStats, is demoWithStats)
+root.PASB708_Alabama.groupCustom.EU removed in first object
+root.PASB708_Alabama.groupCustom.NA removed in first object
+root.PASB708_Alabama.groupCustom.CN removed in first object
+root.PASB708_Alabama.groupCustom.ASIA removed in first object
+root.PASB708_Alabama.groupCustom.RU removed in first object
+root.PASD709_Black.ShipModernization.ModernizationSlot6.mods[3] removed in first object
+root.PASD709_Black.A1_Torpedoes.HP_AGT_1.shotDelay changed in second object (was 106.0, is 96.0)
+root.PASD709_Black.A1_Torpedoes.HP_AGT_2.shotDelay changed in second object (was 106.0, is 96.0)
+root.PASD709_Black.ShipAbilities.AbilitySlot2.abils[4] removed in first object
+root.PASD709_Black.ShipAbilities.AbilitySlot2.abils[5] removed in first object
+>> finished comparing

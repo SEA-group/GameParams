@@ -1,0 +1,227 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQT078.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="2" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="2" />
+        </conditions>
+		)
+root.PGSD104_V_170.Cameras.Torp3.InnerTrajectory.posCenter[1] changed in second object (was 0.44, is 0.46)
+root.PGSD104_V_170.Cameras.Torp3.InnerTrajectory.minPitch changed in second object (was -89.0, is -2)
+root.PCY018_TorpedoReloaderPremium.Jap_DD_premium_tst removed in first object
+root.PCQT013.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="4,5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" /> 
+			<isCitadelHits count="1" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="4,5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer"/>
+			<isBattleType battleTypes="PVP" /> 
+			<isCitadelHits count="1" />
+        </conditions>
+		)
+root.PJSD207_Shiratsuyu.groupCustom.PT removed in first object
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was Jap_DD, is Jap_DD_tst)
+root.PJSD207_Shiratsuyu.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was Jap_DD_premium, is Jap_DD_premium_tst)
+root.PRUT601_D7_TORP_STOCK.costXP changed in second object (was 5900, is 0)
+root.PRUT601_D7_TORP_STOCK.costCR changed in second object (was 480000, is 0)
+root.PGSD103_G_101.Cameras.Torp2.InnerTrajectory.posCenter[1] changed in second object (was 0.456, is 0.49)
+root.PGSD103_G_101.Cameras.Torp3.InnerTrajectory.posCenter[1] changed in second object (was 0.44, is 0.48)
+root.PAEP310_Missouri removed in second object
+root.PCM010_Airplanes_Mod_II.airplanesAmmoCount changed in second object (was 1.0, is 1.5)
+root.PJSD105_Mutsuki.groupCustom.PT removed in first object
+root.PJSD206_Hatsuharu.groupCustom.PT removed in first object
+root.PRUT801_D9_TORP_STOCK.costXP changed in second object (was 18000, is 0)
+root.PRUT801_D9_TORP_STOCK.costCR changed in second object (was 1300000, is 0)
+root.PJPT026_610MM_SHINO.maxDist changed in second object (was 200.0, is 267.0)
+root.PCQT152_CampaignSB_Mission01_Task02.conditions changed in second object (was 
+			<conditions>
+				<isMyShip shipLevel="8,9,10"/>
+				<isBattleType battleTypes="PVP"/>
+				<isWeaponHits weaponTypes="main" count="200"/> 
+			</conditions>
+		, is 
+			<conditions>
+				<isMyShip shipLevel="8,9,10" class="Battleship, Cruiser, Destroyer"/>
+				<isBattleType battleTypes="PVP"/>
+				<isWeaponHits weaponTypes="main" count="200"/> 
+			</conditions>
+		)
+root.PJSD010_Kagero_1943.C_Hull_1945.model changed in second object (was content/gameplay/japan/ship/destroyer/JSD020_Kagero_1944/JSD020_Kagero_1944.model, is content/gameplay/japan/ship/destroyer/JSD001_Tachibana_1912/JSD001_Tachibana_1912.model)
+root.PAPA073_406MM_HE_MISSOURI.costCR changed in second object (was 250, is 150)
+root.PGGM092_88mm45_SK_L45.armor.65580 removed in second object
+root.PGGM092_88mm45_SK_L45.armor.65568 removed in first object
+root.PGGM092_88mm45_SK_L45.armor.65569 removed in first object
+root.PGGM092_88mm45_SK_L45.armor.65571 removed in first object
+root.PGGM092_88mm45_SK_L45.armor.65636 removed in first object
+root.PGGM092_88mm45_SK_L45.armor.65635 removed in first object
+root.PCQT002.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="3,4,5,6,7,8,9,10"	/>
+			<isBattleType battleTypes="PVP" />
+			<isKillShipsByWeapon count="1" killTypes="main" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="3,4,5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP" />
+			<isKillShipsByWeapon count="1" killTypes="main" />
+        </conditions>
+		)
+root.PCQT001.conditions changed in second object (was 
+			<conditions>
+				<isMyShip shipLevel="3,4,5,6,7,8,9,10"/>
+				<isBattleType battleTypes="PVP"/>
+				<isDamage count="20000" damageTypes="main"/>
+			</conditions>
+		, is 
+			<conditions>
+				<isMyShip shipLevel="3,4,5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+				<isBattleType battleTypes="PVP"/>
+				<isDamage count="20000" damageTypes="main"/>
+			</conditions>
+		)
+root.PJSD803_False_Isokaze_1917.groupCustom.PT removed in first object
+root.PJSD004_Minekadze_1920.groupCustom.PT removed in first object
+root.PJSD007_Fubuki_1944.B_Hull_1944.model changed in second object (was content/gameplay/japan/ship/destroyer/JSD007_Fubuki_1944/JSD007_Fubuki_1944.model, is content/gameplay/japan/ship/destroyer/JSD001_Tachibana_1912/JSD001_Tachibana_1912.model)
+root.PJSD012_Shimakaze_1943.groupCustom.PT removed in first object
+root.PJPA066_127MM_HE_SHINO.burnProb changed in second object (was 0.09, is 0.07)
+root.PJSD024_Wakatake_1923.groupCustom.PT removed in first object
+root.PJSD107_Akatsuki.groupCustom.PT removed in first object
+root.PCY017_TorpedoReloader.Jap_DD_tst removed in first object
+root.PJSD208_Kagero.groupCustom.PT removed in first object
+root.PCQT145.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" />
+        </conditions>
+		)
+root.PJSD108_Akizuki.AB1_Artillery.maxDist changed in second object (was 11326.0, is 9236.0)
+root.PJSD108_Akizuki.groupCustom.PT removed in first object
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was Jap_DD, is Jap_DD_tst)
+root.PJSD108_Akizuki.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was Jap_DD_premium, is Jap_DD_premium_tst)
+root.PCM009_FlightControl_Mod_I.airplanesPrepareTime changed in second object (was 0.9, is 0.85)
+root.PCQT123.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" />
+        </conditions>
+		)
+root.PJSD005_Mutsuki_1926.A_Hull_1926.model changed in second object (was content/gameplay/japan/ship/destroyer/JSD005_Mutsuki_1926/JSD005_Mutsuki_1926.model, is content/gameplay/japan/ship/destroyer/JSD001_Tachibana_1912/JSD001_Tachibana_1912.model)
+root.PJSD005_Mutsuki_1926.B_Hull_1939.model changed in second object (was content/gameplay/japan/ship/destroyer/JSD008_Mutsuki_1939/JSD008_Mutsuki_1939.model, is content/gameplay/japan/ship/destroyer/JSD001_Tachibana_1912/JSD001_Tachibana_1912.model)
+root.PCQT097.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" class="Cruiser,Battleship" />
+		</conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP" />
+			<isCitadelHits count="5" class="Cruiser,Battleship" />
+		</conditions>
+		)
+root.PCQT154_CampaignSB_Mission01_Task04.conditions changed in second object (was 
+			<conditions>
+				<isMyShip shipLevel="8,9,10"/>
+				<isBattleType battleTypes="PVP"/>
+				<isMyShip class="Battleship"/> 
+				<isSpotShips class="Destroyer" count="2"/> 
+			</conditions>
+		, is 
+			<conditions>
+				<isMyShip shipLevel="8,9,10" class="Battleship"/>
+				<isBattleType battleTypes="PVP"/>
+				<isSpotShips class="Destroyer" count="2"/> 
+			</conditions>
+		)
+root.PASB509_Missouri.permoflages[0] changed in second object (was PAEP310_Missouri, is PCEP139_Permo_Prem_9_lvl)
+root.PASB509_Missouri.permoflages[1] removed in first object
+root.PASB509_Missouri.A_Hull.maxSpeed changed in second object (was 30.5, is 33.0)
+root.PASB509_Missouri.A1_Artillery.taperDist changed in second object (was 4000.0, is 5000.0)
+root.PASB509_Missouri.nativePermoflage changed in second object (was PAEP310_Missouri, is PCEP109_Permo_Prem_9_lvl)
+root.PASB509_Missouri.ShipUpgradeInfo.costXP changed in second object (was 800000, is 750000)
+root.PASB509_Missouri.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PASB509_Missouri.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PJSD003_Isokaze_1917.groupCustom.PT removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65580 removed in second object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65568 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65569 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65571 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65636 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_3.armor.65635 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65580 removed in second object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65568 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65569 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65571 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65636 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_2.armor.65635 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65580 removed in second object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65568 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65569 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65571 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65636 removed in first object
+root.PGSD102_V_25.AB1_Artillery.HP_GGM_1.armor.65635 removed in first object
+root.PJSD209_Yugumo.groupCustom.PT removed in first object
+root.PCQT035.conditions changed in second object (was 
+        <conditions>
+			<isMyShip shipLevel="4,5,6,7,8,9,10" />
+			<isBattleType battleTypes="PVP,COOPERATIVE" />
+			<isCitadelHits count="3" />
+        </conditions>
+		, is 
+        <conditions>
+			<isMyShip shipLevel="4,5,6,7,8,9,10" class="Battleship,Cruiser,Destroyer" />
+			<isBattleType battleTypes="PVP,COOPERATIVE" />
+			<isCitadelHits count="3" />
+        </conditions>
+		)
+root.PJSD106_Fubuki.groupCustom.PT removed in first object
+root.PASC012_Pensacola_1944.AB1_203_50 removed in second object
+root.PASC012_Pensacola_1944.A_Hull_1942.HP_AGM_2_HP_AGA_1 removed in first object
+root.PASC012_Pensacola_1944.A_Hull_1942.HP_AGM_3_HP_AGA_1 removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_3.miscFilter[3] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_3.miscFilter[4] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_3.miscFilter[5] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_2.miscFilter[3] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_2.miscFilter[4] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_2.miscFilter[5] removed in first object
+root.PASC012_Pensacola_1944.B2_203_55.HP_AGM_2.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PASC012_Pensacola_1944.B_AirDefense.AuraNear.guns[15] removed in first object
+root.PASC012_Pensacola_1944.B_AirDefense.AuraNear.guns[16] removed in first object
+root.PASC012_Pensacola_1944.B_AirDefense.HP_AGM_2_HP_AGA_1 removed in first object
+root.PASC012_Pensacola_1944.B_AirDefense.HP_AGM_3_HP_AGA_1 removed in first object
+root.PASC012_Pensacola_1944.ShipUpgradeInfo.PAUH601_Pensacola_1942.components.artillery[0] changed in second object (was AB1_203_50, is A1_203_50)
+root.PASC012_Pensacola_1944.ShipUpgradeInfo.PAUA601_C7_ART_STOCK.components.artillery[0] changed in second object (was AB1_203_50, is A1_203_50)
+root.PASC012_Pensacola_1944.ShipUpgradeInfo.PAUA601_C7_ART_STOCK.components.artillery[1] removed in first object
+root.PASC012_Pensacola_1944.ShipUpgradeInfo.PAUH602_Pensacola_1944.components.artillery[0] changed in second object (was AB1_203_50, is B1_203_50)
+root.PASC012_Pensacola_1944.B1_203_50 removed in first object
+root.PASC012_Pensacola_1944.A1_203_50 removed in first object
+root.PCEP139_Permo_Prem_9_lvl removed in first object
+root.PCEP109_Permo_Prem_9_lvl removed in first object
+>> finished comparing

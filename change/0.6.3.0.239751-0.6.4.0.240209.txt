@@ -1,0 +1,263 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSC109_Neptune.AB1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM028_FireControl_Mod_I_US.shootShift removed in second object
+root.PCM038_Spotter_Mod_I.shootShift removed in second object
+root.PFSC110_Henri_IV.A1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM021_Engine_Mod_I.shootShift removed in second object
+root.PCEE081_Collectioner removed in second object
+root.PCM042_RLSSearch_Mod_I.shootShift removed in second object
+root.PCM001_MainGun_Mod_I.shootShift removed in second object
+root.PCM019_SecondaryGun_Mod_III.shootShift removed in second object
+root.PCM023_DamageControl_Mod_II.shootShift removed in second object
+root.PCM030_MainWeapon_Mod_I.shootShift removed in second object
+root.PJSC038_Atago_1944.groupCustom.CN removed in second object
+root.PCM013_MainGun_Mod_III.shootShift removed in second object
+root.PCM014_Torpedo_Mod_III.shootShift removed in second object
+root.PCM010_Airplanes_Mod_II.shootShift removed in second object
+root.PCM036_SpeedBooster_Mod_I.shootShift removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.CN removed in second object
+root.PGSC110_Hindenburg.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PGSB507_Scharnhorst.groupCustom.CN removed in second object
+root.PASB705_Texas_1944.groupCustom.CN removed in second object
+root.PASC019_Burlington_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCEE080_Elements removed in second object
+root.PASC020_Des_Moines_1948.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM041_SonarSearch_Mod_I.shootShift removed in second object
+root.PBSC507_Belfast_1959.groupCustom.CN removed in second object
+root.PFSC109_Saint_Louis.AB1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCEE083_Easter_2017 removed in second object
+root.PCM025_SteeringGear_Mod_II.shootShift removed in second object
+root.PJSD803_False_Isokaze_1917.Cameras.Guns2.weapons[0] changed in second object (was HP_JGM_4, is HP_JGM_3)
+root.PJSD803_False_Isokaze_1917.Cameras.Guns1.weapons[1] removed in second object
+root.PJSD803_False_Isokaze_1917.Cameras.Guns1.weapons[2] removed in second object
+root.PJSD803_False_Isokaze_1917.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.55, is 2.6)
+root.PJSD803_False_Isokaze_1917.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.271, is 0.33)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Ammo_1.guns[0] removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Ammo_1.guns[1] removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Ammo_2.guns[0] removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Ammo_2.guns[1] removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.armourDeck[1] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.armor.131165 removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.armor.65638 removed in second object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.armor.131161 removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.burnNodes[3] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Cas.armorCoeff changed in second object (was 0.8, is 0.0)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Cas.volume changed in second object (was 0.44, is 0.46)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.St.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.St.volume changed in second object (was 0.16, is 0.18)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.SS.splashBoxes[2] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.SS.volume changed in second object (was 0.04, is 0.05)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.backwardPowerCoef changed in second object (was 2.0, is 3.0)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.SG.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Bow.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.B_Hull_1925.Bow.splashBoxes[2] removed in first object
+root.PJSD803_False_Isokaze_1917.ShipUpgradeInfo.costCR changed in second object (was 16500, is 785000)
+root.PJSD803_False_Isokaze_1917.ShipUpgradeInfo.costXP changed in second object (was 5025, is 6400)
+root.PJSD803_False_Isokaze_1917.EngineDefault.HitLocationEngine.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_3.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_3.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_2.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_2.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_1.shotDelay changed in second object (was 42.0, is 39.0)
+root.PJSD803_False_Isokaze_1917.AB1_533.HP_JGT_1.ammoList[0] changed in second object (was PJPT004_Sea_Torpedo_533mm_Type6, is PJPT008_533mm_Type_44_mod_2)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.visibilityCoefGKByPlane changed in second object (was 2.4, is 1e-06)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Ammo_1.guns[0] removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Ammo_1.guns[1] removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Ammo_2.guns[0] removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.armourDeck[1] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.armor.131165 removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.armor.65638 removed in second object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.armor.131161 removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.burnNodes[3] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Cas.maxHP changed in second object (was 9000.0, is 165000.0)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Cas.armorCoeff changed in second object (was 0.8, is 0.0)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Cas.volume changed in second object (was 0.44, is 0.46)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.St.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.SS.splashBoxes[2] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.SS.volume changed in second object (was 0.04, is 0.05)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.backwardPowerCoef changed in second object (was 2.0, is 3.0)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.SG.splashBoxes[0] changed in second object (was CM_SB_ruder_1, is CM_SB_ruder1_1)
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.SG.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Bow.splashBoxes[1] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Bow.splashBoxes[2] removed in first object
+root.PJSD803_False_Isokaze_1917.A_Hull_1917.Bow.volume changed in second object (was 0.16, is 0.23)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_3.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_3.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_2.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_2.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_1.shotDelay changed in second object (was 47.0, is 42.0)
+root.PJSD803_False_Isokaze_1917.AB2_533.HP_JGT_1.ammoList[0] changed in second object (was PJPT015_533mm_Type_92, is PJPT004_Sea_Torpedo_533mm_Type6)
+root.PASC507_Indianapolis_1945.groupCustom.CN removed in second object
+root.PGSC109_Roon.A1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PGSC109_Roon.A2_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PGSC109_Roon.B2_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PGSC109_Roon.B1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM016_FlightControl_Mod_II.shootShift removed in second object
+root.PCM024_Engine_Mod_II.shootShift removed in second object
+root.PCM005_SecondaryGun_Mod_I.shootShift removed in second object
+root.PCM012_SecondaryGun_Mod_II.shootShift removed in second object
+root.PJPA897_Shell_False_2.ownTracerTexture changed in second object (was particles/trails/Trail_Gk.tga, is particles/trails/Trail_Gk_HE.tga)
+root.PJPA897_Shell_False_2.ownHatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat.tga, is particles/trails/Trail_Shell_Hat_HE.tga)
+root.PJPA897_Shell_False_2.penetrationEffectMedium removed in second object
+root.PJPA897_Shell_False_2.tracerThickness changed in second object (was 0.077, is 0.11)
+root.PJPA897_Shell_False_2.shellModelScale changed in second object (was 0.1, is 0.11)
+root.PJPA897_Shell_False_2.shipDestroyEffect changed in second object (was sfx/Explosion_360_HE_Void.xml, is sfx/onWaterExplosion127mm.xml)
+root.PJPA897_Shell_False_2.hatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat_Enemy.tga, is particles/trails/Trail_Shell_Hat_HE_Enemy.tga)
+root.PJPA897_Shell_False_2.penetrationEffectStrong removed in second object
+root.PJPA897_Shell_False_2.penetrationEffectSmall removed in second object
+root.PJPA897_Shell_False_2.smokeOpacity changed in second object (was 0.37, is 0.8)
+root.PJPA897_Shell_False_2.projDestroyedEffect changed in second object (was sfx/Explosion_360_HE_Void.xml, is sfx/Explosion_127_HE_void.xml)
+root.PJPA897_Shell_False_2.tracerTexture changed in second object (was particles/trails/Trail_Gk_Enemy.tga, is particles/trails/Trail_Gk_HE_Enemy.tga)
+root.PJPA897_Shell_False_2.shellLength changed in second object (was 2.4, is 3.5)
+root.PJPA897_Shell_False_2.hitDecalSize changed in second object (was 0.25, is 0.23)
+root.PJPA897_Shell_False_2.water changed in second object (was sfx/onWaterExplosion360mm.xml, is sfx/onWaterExplosion127mm.xml)
+root.PASC017_Baltimore_1944.AB2_203_55.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PASC017_Baltimore_1944.AB1_203_55.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM002_Torpedo_Mod_I.shootShift removed in second object
+root.PCM011_AirDefense_Mod_II.shootShift removed in second object
+root.PCM027_ConcealmentMeasures_Mod_I.shootShift removed in second object
+root.PASB508_Alabama.A_Hull.Cas.maxHP changed in second object (was 7800.0, is 4800.0)
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[2] removed in second object
+root.PASB508_Alabama.A_Hull.Cas.splashBoxes[3] removed in second object
+root.PASB508_Alabama.A_Hull.Cas.volume changed in second object (was 5.87, is 2.89)
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[2] removed in first object
+root.PASB508_Alabama.A_Hull.Cit.splashBoxes[3] removed in first object
+root.PASB508_Alabama.A_Hull.Cit.volume changed in second object (was 5.47, is 8.48)
+root.PASB508_Alabama.A_Hull.armor.131136 removed in second object
+root.PASB508_Alabama.A_Hull.armor.196672 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131128 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131130 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65595 changed in second object (was 16.0, is 287.0)
+root.PASB508_Alabama.A_Hull.armor.196671 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65600 changed in second object (was 38.0, is 154.0)
+root.PASB508_Alabama.A_Hull.armor.65601 changed in second object (was 156.0, is 287.0)
+root.PASB508_Alabama.A_Hull.armor.131127 removed in second object
+root.PASB508_Alabama.A_Hull.armor.131135 removed in second object
+root.PASB508_Alabama.A_Hull.armor.65639 changed in second object (was 154.0, is 16.0)
+root.PASB508_Alabama.A_Hull.armor.65599 changed in second object (was 274.0, is 184.0)
+root.PASB508_Alabama.A_Hull.armor.131137 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131175 removed in first object
+root.PASB508_Alabama.A_Hull.armor.131131 removed in first object
+root.PASB508_Alabama.A_Hull.armor.65597 removed in first object
+root.PASB508_Alabama.A_Hull.armor.196711 removed in first object
+root.PASB508_Alabama.A_Hull.Bow.maxHP changed in second object (was 2900.0, is 3600.0)
+root.PASB508_Alabama.A_Hull.St.maxHP changed in second object (was 4800.0, is 6000.0)
+root.PASB508_Alabama.A_Hull.SS.maxHP changed in second object (was 3600.0, is 4500.0)
+root.PBSC110_Minotaur.A1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM029_FireControl_Mod_II_US.shootShift removed in second object
+root.PCM026_LookoutStation_Mod_I.shootShift removed in second object
+root.PJPA898_Shell_False_burner.ownTracerTexture changed in second object (was particles/trails/Trail_Gk.tga, is particles/trails/Trail_Gk_HE.tga)
+root.PJPA898_Shell_False_burner.ownHatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat.tga, is particles/trails/Trail_Shell_Hat_HE.tga)
+root.PJPA898_Shell_False_burner.penetrationEffectMedium removed in second object
+root.PJPA898_Shell_False_burner.tracerThickness changed in second object (was 0.077, is 0.11)
+root.PJPA898_Shell_False_burner.shellModelScale changed in second object (was 0.1, is 0.11)
+root.PJPA898_Shell_False_burner.shipDestroyEffect changed in second object (was sfx/Explosion_360_HE_Void.xml, is sfx/onWaterExplosion127mm.xml)
+root.PJPA898_Shell_False_burner.hatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat_Enemy.tga, is particles/trails/Trail_Shell_Hat_HE_Enemy.tga)
+root.PJPA898_Shell_False_burner.penetrationEffectStrong removed in second object
+root.PJPA898_Shell_False_burner.penetrationEffectSmall removed in second object
+root.PJPA898_Shell_False_burner.smokeOpacity changed in second object (was 0.37, is 0.8)
+root.PJPA898_Shell_False_burner.projDestroyedEffect changed in second object (was sfx/Explosion_360_HE_Void.xml, is sfx/Explosion_127_HE_void.xml)
+root.PJPA898_Shell_False_burner.tracerTexture changed in second object (was particles/trails/Trail_Gk_Enemy.tga, is particles/trails/Trail_Gk_HE_Enemy.tga)
+root.PJPA898_Shell_False_burner.shellLength changed in second object (was 2.4, is 3.5)
+root.PJPA898_Shell_False_burner.hitDecalSize changed in second object (was 0.25, is 0.23)
+root.PJPA898_Shell_False_burner.water changed in second object (was sfx/onWaterExplosion360mm.xml, is sfx/onWaterExplosion127mm.xml)
+root.PCEE082_Blue_Mermaid removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.CN removed in second object
+root.PCM007_Torpedo_Mod_II.shootShift removed in second object
+root.PRSC109_Dmitry_Donskoy.AB1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PRSC109_Dmitry_Donskoy.C1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM006_MainGun_Mod_II.shootShift removed in second object
+root.PCM015_FireControl_Mod_II.shootShift removed in second object
+root.PCM008_FireControl_Mod_I.shootShift removed in second object
+root.PCM009_FlightControl_Mod_I.shootShift removed in second object
+root.PCM017_Airplanes_Mod_III.shootShift removed in second object
+root.PCM004_AirDefense_Mod_I.shootShift removed in second object
+root.PCM039_CrashCrew_Mod_I.shootShift removed in second object
+root.PCM020_DamageControl_Mod_I.shootShift removed in second object
+root.PRSC110_Pr_66_Moskva.A1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM031_SecondaryWeapon_Mod_I.shootShift removed in second object
+root.PJSC034_Zao_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PCM003_Airplanes_Mod_I.shootShift removed in second object
+root.PCM034_Guidance_Mod_0.shootShift removed in second object
+root.PCM032_PowderMagazine_Mod_I.shootShift removed in second object
+root.PRSD507_Leningrad_1944.groupCustom.CN removed in second object
+root.PJGS039_200mm50_Type3.ammoList[0] changed in second object (was PJPA034_Shell_200mm_HE_Common_Type_4_Secondary, is PJPA072_200MM_AP_TYPE5_SG)
+root.PCM035_SteeringGear_Mod_III.shootShift removed in second object
+root.PCM037_SmokeGenerator_Mod_I.shootShift removed in second object
+root.PCM018_AirDefense_Mod_III.shootShift removed in second object
+root.PCM022_SteeringGear_Mod_I.shootShift removed in second object
+root.PRSC506_Molotov_1943.groupCustom.CN removed in second object
+root.PASB708_Alabama.A_Hull.armor.131136 removed in second object
+root.PASB708_Alabama.A_Hull.armor.196672 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131128 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131130 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65595 changed in second object (was 16.0, is 287.0)
+root.PASB708_Alabama.A_Hull.armor.196671 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65600 changed in second object (was 38.0, is 154.0)
+root.PASB708_Alabama.A_Hull.armor.65601 changed in second object (was 156.0, is 287.0)
+root.PASB708_Alabama.A_Hull.armor.131127 removed in second object
+root.PASB708_Alabama.A_Hull.armor.131135 removed in second object
+root.PASB708_Alabama.A_Hull.armor.65639 changed in second object (was 154.0, is 16.0)
+root.PASB708_Alabama.A_Hull.armor.65599 changed in second object (was 274.0, is 184.0)
+root.PASB708_Alabama.A_Hull.armor.131137 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131175 removed in first object
+root.PASB708_Alabama.A_Hull.armor.131131 removed in first object
+root.PASB708_Alabama.A_Hull.armor.65597 removed in first object
+root.PASB708_Alabama.A_Hull.armor.196711 removed in first object
+root.PASB708_Alabama.A_Hull.Cas.maxHP changed in second object (was 7800.0, is 4800.0)
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[2] removed in second object
+root.PASB708_Alabama.A_Hull.Cas.splashBoxes[3] removed in second object
+root.PASB708_Alabama.A_Hull.Cas.volume changed in second object (was 5.87, is 2.89)
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[2] removed in first object
+root.PASB708_Alabama.A_Hull.Cit.splashBoxes[3] removed in first object
+root.PASB708_Alabama.A_Hull.Cit.volume changed in second object (was 5.47, is 8.48)
+root.PASB708_Alabama.A_Hull.St.maxHP changed in second object (was 4800.0, is 6000.0)
+root.PASB708_Alabama.A_Hull.SS.maxHP changed in second object (was 3600.0, is 4500.0)
+root.PASB708_Alabama.A_Hull.Bow.maxHP changed in second object (was 2900.0, is 3600.0)
+root.PASA507_Saipan_1946.groupCustom.CN removed in second object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PASB506_Arizona_1941.groupCustom.CN removed in second object
+root.PCM033_Guidance_Mod_I.shootShift removed in second object
+root.PCEE084_Alabama removed in second object
+root.PCM040_AirDefenseDisp_Mod_I.shootShift removed in second object
+root.PJAB012_B5N2_Kaga removed in first object
+root.PBUS603_SUO_HOOD removed in first object
+root.PJUB012_B5N2_KAGA removed in first object
+root.PBPA024_381MM_AP_HOOD removed in first object
+root.PJAF020_A5M4_KAGA removed in first object
+root.PBD058_HACS_MK_III removed in first object
+root.PBGM052_15in42_MK2_B removed in first object
+root.PJAD010_D1A2_KAGA removed in first object
+root.PJUF504_FC_A1_KAGA removed in first object
+root.PJW201_Isoroku_cat removed in first object
+root.PJUH544_KAGA removed in first object
+root.PJUB011_B4Y_KAGA removed in first object
+root.PBUA602_ART_HOOD removed in first object
+root.PJUF505_FC_A2_KAGA removed in first object
+root.PJUI020_A5M4_KAGA removed in first object
+root.PJPA072_200MM_AP_TYPE5_SG removed in first object
+root.PJUD011_D3A1_KAGA removed in first object
+root.PBSB507_Hood removed in first object
+root.PBUE602_ENG_HOOD removed in first object
+root.PJAF022_A6M2_Kaga removed in first object
+root.PBRS014_15in_DCT removed in first object
+root.PJPB001_TYPE99_N6_MOD1 removed in first object
+root.PJUI022_A6M2_KAGA removed in first object
+root.PBD046_Pom_Pom_director_mk2 removed in first object
+root.PBPA025_381MM_HE_HOOD removed in first object
+root.PBD012_15in_gun_30ft_director removed in first object
+root.PJAB011_B4Y_KAGA removed in first object
+root.PJPT023_TYPE_94_MOD_2A removed in first object
+root.PBD045_Pom_Pom_director_mk1 removed in first object
+root.PJAD011_D3A1_Kaga removed in first object
+root.PJUE505_ENG_KAGA removed in first object
+root.PBGM048_15in42_MK2 removed in first object
+root.PBGA049_UP_launcher removed in first object
+root.PJSA507_Kaga removed in first object
+root.PBUH603_HOOD removed in first object
+root.PJUD010_D1A2_KAGA removed in first object
+>> finished comparing

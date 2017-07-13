@@ -1,0 +1,52 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRPA068_150MM_HE_MAKAROV.alphaPiercingHE changed in second object (was 25.0, is 38.0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUT501_ANSHAN.shotDelay changed in second object (was 70.0, is 0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUT502_ANSHAN.shotDelay changed in second object (was 79.0, is 0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUA501_130MM_M1936_ANSHAN.distance[0] changed in second object (was 11890, is 0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUA501_130MM_M1936_ANSHAN.distance[1] changed in second object (was 11890, is 0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUA501_130MM_M1936_ANSHAN.rotationSpeed[0] changed in second object (was 6.0, is 0.0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUA501_130MM_M1936_ANSHAN.rotationSpeed[1] changed in second object (was 5.0, is 0.0)
+root.PZSD506_Anshan.ShipUpgradeInfo.PZUA501_130MM_M1936_ANSHAN.shotDelay changed in second object (was 5.0, is 0)
+root.PZSD506_Anshan.groupCustom.RU removed in first object
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_2.horizSector[0] changed in second object (was -150.0, is 0.0)
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_2.horizSector[1] changed in second object (was 150.0, is 0.0)
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_2.pitchDeadZones[0] removed in first object
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_3.horizSector[0] changed in second object (was -148.0, is 0.0)
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_3.horizSector[1] changed in second object (was 148.0, is 0.0)
+root.PRSC606_Admiral_Makarov.A1_Artillery.HP_RGM_3.pitchDeadZones[0] removed in first object
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.rotateTime changed in second object (was 0.1, is 3.0)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_2.dist changed in second object (was 0.0, is 0.425)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.rotateTime changed in second object (was 0.1, is 3.0)
+root.PGSB002_Tirpiz_1942.AirArmamentDefault.HP_GC_1.dist changed in second object (was 0.0, is 0.425)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUT701_533_TIRPITZ.shotDelay changed in second object (was 90.0, is 0)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUA702_380_52_TIRPITZ.distance[0] changed in second object (was 21450, is 0)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUA702_380_52_TIRPITZ.distance[1] changed in second object (was 21450, is 0)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUA702_380_52_TIRPITZ.rotationSpeed[0] changed in second object (was 5.0, is 0.0)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUA702_380_52_TIRPITZ.rotationSpeed[1] changed in second object (was 6.0, is 0.0)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.PGUA702_380_52_TIRPITZ.shotDelay changed in second object (was 26.0, is 0)
+root.PJSC503_Katori.groupCustom.RU removed in first object
+root.PJSC503_Katori.groupCustom.ST removed in first object
+root.PJSC503_Katori.ShipUpgradeInfo.PJUT231_533_KATORI.shotDelay changed in second object (was 39.0, is 0)
+root.PJSC503_Katori.ShipUpgradeInfo.PJUA213_140_50_KATORI.distance[0] changed in second object (was 13490, is 0)
+root.PJSC503_Katori.ShipUpgradeInfo.PJUA213_140_50_KATORI.distance[1] changed in second object (was 13490, is 0)
+root.PJSC503_Katori.ShipUpgradeInfo.PJUA213_140_50_KATORI.rotationSpeed[0] changed in second object (was 7.5, is 0.0)
+root.PJSC503_Katori.ShipUpgradeInfo.PJUA213_140_50_KATORI.rotationSpeed[1] changed in second object (was 6.0, is 0.0)
+root.PJSC503_Katori.ShipUpgradeInfo.PJUA213_140_50_KATORI.shotDelay changed in second object (was 7.0, is 0)
+root.PZSD508_LoYang.groupCustom.RU removed in first object
+root.PFSC506_De_Grasse.isPaperShip changed in second object (was False, is True)
+root.PFSC506_De_Grasse.groupCustom.EU removed in first object
+root.PFSC506_De_Grasse.groupCustom.ST removed in first object
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUA501_C6_ART_PERTH.distance[0] changed in second object (was 12810, is 0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUA501_C6_ART_PERTH.distance[1] changed in second object (was 12810, is 0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUA501_C6_ART_PERTH.rotationSpeed[0] changed in second object (was 7.0, is 0.0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUA501_C6_ART_PERTH.rotationSpeed[1] changed in second object (was 10.0, is 0.0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUA501_C6_ART_PERTH.shotDelay changed in second object (was 7.5, is 0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.PUUT501_PERTH.shotDelay changed in second object (was 96.0, is 0)
+root.PUSC506_Perth_1942.groupCustom.RU removed in first object
+root.PUSC506_Perth_1942.groupCustom.ST removed in first object
+root.PJSA507_Kaga.groupCustom.EU removed in first object
+root.PJSA507_Kaga.groupCustom.ST removed in first object
+root.PASA507_Saipan_1946.groupCustom.RU removed in first object
+>> finished comparing
