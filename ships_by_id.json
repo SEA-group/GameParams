@@ -519,6 +519,19 @@
         "zh_cn": "IDS_PBSD605", 
         "zh_tw": "IDS_PBSD605"
     }, 
+    "3752802256": {
+        "en": "Nelson", 
+        "id": 3752802256, 
+        "index": "PBSB517", 
+        "ja_jp": "Nelson", 
+        "level": 7, 
+        "name": "PBSB517_Nelson", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB517", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB517", 
+        "zh_tw": "IDS_PBSB517"
+    }, 
     "3761190896": {
         "en": "Missouri", 
         "id": 3761190896, 
@@ -1078,19 +1091,6 @@
         "zh_cn": "\u767d\u9732", 
         "zh_tw": "\u767d\u9732\u578b"
     }, 
-    "4077860816": {
-        "en": "Monarch", 
-        "id": 4077860816, 
-        "index": "PBSB207", 
-        "ja_jp": "Monarch", 
-        "level": 7, 
-        "name": "PBSB207_King_George_V", 
-        "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB207", 
-        "species": "Battleship", 
-        "zh_cn": "IDS_PBSB207", 
-        "zh_tw": "IDS_PBSB207"
-    }, 
     "4078843344": {
         "en": "Gnevny", 
         "id": 4078843344, 
@@ -1448,7 +1448,7 @@
         "index": "PBSB108", 
         "ja_jp": "King George V", 
         "level": 8, 
-        "name": "PBSB108_King_George_V", 
+        "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB108", 
         "species": "Battleship", 
@@ -1565,7 +1565,7 @@
         "index": "PBSB107", 
         "ja_jp": "Nelson", 
         "level": 7, 
-        "name": "PBSB107_Nelson", 
+        "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB107", 
         "species": "Battleship", 
@@ -1677,10 +1677,10 @@
         "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
     }, 
     "4183766992": {
-        "en": "Queen", 
+        "en": "Queen Elizabeth", 
         "id": 4183766992, 
         "index": "PBSB106", 
-        "ja_jp": "Queen", 
+        "ja_jp": "Queen Elizabeth", 
         "level": 6, 
         "name": "PBSB106_Queen_Elizabeth", 
         "nation": "United_Kingdom", 
@@ -3432,10 +3432,10 @@
         "zh_tw": "\u53ad\u6230\u865f"
     }, 
     "4292850960": {
-        "en": "Air_Forces", 
+        "en": "Air Force", 
         "id": 4292850960, 
         "index": "PXSA002", 
-        "ja_jp": "Air_Forces", 
+        "ja_jp": "Air Force", 
         "level": 4, 
         "name": "PXSA002_Invisible_Air_Ally_1", 
         "nation": "Events", 

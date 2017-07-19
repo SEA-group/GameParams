@@ -936,10 +936,10 @@
         "zh_tw": "\u9435\u516c\u7235\u7d1a"
     }, 
     "PBSB106": {
-        "en": "Queen", 
+        "en": "Queen Elizabeth", 
         "id": 4183766992, 
         "index": "PBSB106", 
-        "ja_jp": "Queen", 
+        "ja_jp": "Queen Elizabeth", 
         "level": 6, 
         "name": "PBSB106_Queen_Elizabeth", 
         "nation": "United_Kingdom", 
@@ -954,7 +954,7 @@
         "index": "PBSB107", 
         "ja_jp": "Nelson", 
         "level": 7, 
-        "name": "PBSB107_Nelson", 
+        "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB107", 
         "species": "Battleship", 
@@ -967,7 +967,7 @@
         "index": "PBSB108", 
         "ja_jp": "King George V", 
         "level": 8, 
-        "name": "PBSB108_King_George_V", 
+        "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB108", 
         "species": "Battleship", 
@@ -1000,19 +1000,6 @@
         "zh_cn": "\u5f81\u670d\u8005", 
         "zh_tw": "\u5f81\u670d\u8005\u7d1a"
     }, 
-    "PBSB207": {
-        "en": "Monarch", 
-        "id": 4077860816, 
-        "index": "PBSB207", 
-        "ja_jp": "Monarch", 
-        "level": 7, 
-        "name": "PBSB207_King_George_V", 
-        "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB207", 
-        "species": "Battleship", 
-        "zh_cn": "IDS_PBSB207", 
-        "zh_tw": "IDS_PBSB207"
-    }, 
     "PBSB507": {
         "en": "Hood", 
         "id": 3763288016, 
@@ -1025,6 +1012,19 @@
         "species": "Battleship", 
         "zh_cn": "\u80e1\u5fb7", 
         "zh_tw": "\u80e1\u5fb7\u865f"
+    }, 
+    "PBSB517": {
+        "en": "Nelson", 
+        "id": 3752802256, 
+        "index": "PBSB517", 
+        "ja_jp": "Nelson", 
+        "level": 7, 
+        "name": "PBSB517_Nelson", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB517", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB517", 
+        "zh_tw": "IDS_PBSB517"
     }, 
     "PBSC101": {
         "en": "Black Swan", 
@@ -3432,10 +3432,10 @@
         "zh_tw": "IDS_PXSA001"
     }, 
     "PXSA002": {
-        "en": "Air_Forces", 
+        "en": "Air Force", 
         "id": 4292850960, 
         "index": "PXSA002", 
-        "ja_jp": "Air_Forces", 
+        "ja_jp": "Air Force", 
         "level": 4, 
         "name": "PXSA002_Invisible_Air_Ally_1", 
         "nation": "Events", 
