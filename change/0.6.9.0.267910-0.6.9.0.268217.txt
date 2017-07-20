@@ -1,0 +1,6 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSB107_King_George_V.AB_AirArmament.HP_BC_1.dist changed in second object (was 1.2, is 0.3)
+root.PBSB108_Monarch.AB_AirArmament.HP_BC_1.dist changed in second object (was 1.2, is 0.3)
+>> finished comparing
