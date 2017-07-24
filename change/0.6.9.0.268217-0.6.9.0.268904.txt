@@ -1,0 +1,41 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSB104_Orion.AB1_Artillery.maxDist changed in second object (was 14400.0, is 15180.0)
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][0][0] changed in second object (was battleEnd, is me)
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][0][1] changed in second object (was winner, is alive)
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][0][2] removed in second object
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][0][3] removed in second object
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][0][4] removed in second object
+root.PCH109_PVE_HON_PR_SAVE_3.events[0][1][1] removed in first object
+root.PBSD605_Anthony_Event.groupCustom.CN removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.group changed in second object (was demoWithoutStats, is special)
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.CN removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.A_AirDefense.HP_RGA_3.shotDelay changed in second object (was 5.0, is 5.01)
+root.PAEP307_Texas.canBuy changed in second object (was False, is True)
+root.PAEP307_Texas.canBuyCustom.PT removed in first object
+root.PAEP307_Texas.canBuyCustom.ST removed in first object
+root.PAEP307_Texas.hidden changed in second object (was True, is False)
+root.PAEP307_Texas.hiddenCustom.PT removed in first object
+root.PAEP307_Texas.hiddenCustom.ST removed in first object
+root.PFSD605_Cyclone_event.groupCustom.CN removed in second object
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][0][0] changed in second object (was battleEnd, is me)
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][0][1] changed in second object (was winner, is alive)
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][0][2] removed in second object
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][0][3] removed in second object
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][0][4] removed in second object
+root.PCH107_PVE_HON_PR_SAVE_1.events[0][1][1] removed in first object
+root.PASD008_Benson_1945.B_Hull_1942.rudderTime changed in second object (was 5.25, is 3.5)
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][0][0] changed in second object (was battleEnd, is me)
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][0][1] changed in second object (was winner, is alive)
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][0][2] removed in second object
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][0][3] removed in second object
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][0][4] removed in second object
+root.PCH108_PVE_HON_PR_SAVE_2.events[0][1][1] removed in first object
+root.PCH010_Retribution.events[0][0] changed in second object (was meDead, is dead)
+root.PCH010_Retribution.events[0][1][0] removed in first object
+root.PBSD506_Gallant.group changed in second object (was demoWithoutStats, is special)
+root.PBSD506_Gallant.groupCustom.CN removed in second object
+root.PCEE134_Wargaming_anniversary removed in first object
+root.PCEE133_Navy_day_flag removed in first object
+>> finished comparing
