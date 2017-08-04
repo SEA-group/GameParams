@@ -1,0 +1,11 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSD605_Anthony_Event.group changed in second object (was demoWithoutStats, is disabled)
+root.PFSD605_Cyclone_event.group changed in second object (was demoWithoutStats, is disabled)
+root.PGAD001_Ju_87C_GZ.bombName changed in second object (was PGPB001_SC250, is PGPB002_SC500)
+root.PGPB002_SC500.outterSalvoSize[0] changed in second object (was 7.17, is 4.5)
+root.PGPB002_SC500.outterSalvoSize[1] changed in second object (was 17.925, is 11.25)
+root.PCEE137_Admiral_Makarov removed in first object
+root.PCEE124_Gamescom_2017 removed in first object
+>> finished comparing
