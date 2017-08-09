@@ -1,0 +1,7 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PZSD104_Shen_Yang.AB1_Artillery.HP_ZGM_2.deadZone[0] removed in first object
+root.PZSD104_Shen_Yang.AB1_Artillery.HP_ZGM_3.horizSector[0] changed in second object (was -146.5, is -141.5)
+root.PZSD104_Shen_Yang.AB1_Artillery.HP_ZGM_3.horizSector[1] changed in second object (was 146.5, is 141.5)
+>> finished comparing
