@@ -597,6 +597,19 @@
         "zh_cn": "\u6b27\u6839\u4eb2\u738b", 
         "zh_tw": "\u6b50\u6839\u89aa\u738b\u865f"
     }, 
+    "3762239184": {
+        "en": "IDS_PJSB508", 
+        "id": 3762239184, 
+        "index": "PJSB508", 
+        "ja_jp": "IDS_PJSB508", 
+        "level": 8, 
+        "name": "PJSB508_Kii", 
+        "nation": "Japan", 
+        "ru": "IDS_PJSB508", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PJSB508", 
+        "zh_tw": "IDS_PJSB508"
+    }, 
     "3762239472": {
         "en": "Alabama", 
         "id": 3762239472, 
@@ -1130,6 +1143,19 @@
         "zh_cn": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa", 
         "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
     }, 
+    "4179506384": {
+        "en": "IDS_PZSD110", 
+        "id": 4179506384, 
+        "index": "PZSD110", 
+        "ja_jp": "IDS_PZSD110", 
+        "level": 10, 
+        "name": "PZSD110_Hsiang_Yang", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD110", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD110", 
+        "zh_tw": "IDS_PZSD110"
+    }, 
     "4179506640": {
         "en": "Khabarovsk", 
         "id": 4179506640, 
@@ -1234,6 +1260,19 @@
         "zh_cn": "\u5f81\u670d\u8005", 
         "zh_tw": "\u5f81\u670d\u8005\u7d1a"
     }, 
+    "4180554960": {
+        "en": "IDS_PZSD109", 
+        "id": 4180554960, 
+        "index": "PZSD109", 
+        "ja_jp": "IDS_PZSD109", 
+        "level": 9, 
+        "name": "PZSD109_Chung_Mu", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD109", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD109", 
+        "zh_tw": "IDS_PZSD109"
+    }, 
     "4180555216": {
         "en": "Kiev (OLD)", 
         "id": 4180555216, 
@@ -1337,6 +1376,19 @@
         "species": "Battleship", 
         "zh_cn": "\u72ee", 
         "zh_tw": "\u7345\u7d1a"
+    }, 
+    "4181603536": {
+        "en": "IDS_PZSD108", 
+        "id": 4181603536, 
+        "index": "PZSD108", 
+        "ja_jp": "IDS_PZSD108", 
+        "level": 8, 
+        "name": "PZSD108_Hsien_Yang", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD108", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD108", 
+        "zh_tw": "IDS_PZSD108"
     }, 
     "4181603792": {
         "en": "Tashkent (OLD)", 
@@ -1455,6 +1507,19 @@
         "zh_cn": "\u82f1\u738b\u4e54\u6cbb\u4e94\u4e16", 
         "zh_tw": "\u82f1\u738b\u55ac\u6cbb\u4e94\u4e16\u7d1a"
     }, 
+    "4182652112": {
+        "en": "IDS_PZSD107", 
+        "id": 4182652112, 
+        "index": "PZSD107", 
+        "ja_jp": "IDS_PZSD107", 
+        "level": 7, 
+        "name": "PZSD107_Gadjah_Mada", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD107", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD107", 
+        "zh_tw": "IDS_PZSD107"
+    }, 
     "4182652368": {
         "en": "Udaloi", 
         "id": 4182652368, 
@@ -1571,6 +1636,19 @@
         "species": "Battleship", 
         "zh_cn": "\u7eb3\u5c14\u900a", 
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
+    }, 
+    "4183700688": {
+        "en": "IDS_PZSD106", 
+        "id": 4183700688, 
+        "index": "PZSD106", 
+        "ja_jp": "IDS_PZSD106", 
+        "level": 6, 
+        "name": "PZSD106_Fu_Shun", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD106", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD106", 
+        "zh_tw": "IDS_PZSD106"
     }, 
     "4183700944": {
         "en": "Ognevoi (OLD)", 
@@ -1689,6 +1767,19 @@
         "zh_cn": "\u4f0a\u4e3d\u838e\u767d\u5973\u738b", 
         "zh_tw": "\u4f0a\u9e97\u838e\u767d\u5973\u738b\u7d1a"
     }, 
+    "4184749264": {
+        "en": "IDS_PZSD105", 
+        "id": 4184749264, 
+        "index": "PZSD105", 
+        "ja_jp": "IDS_PZSD105", 
+        "level": 5, 
+        "name": "PZSD105_Jian_Wei", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD105", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD105", 
+        "zh_tw": "IDS_PZSD105"
+    }, 
     "4184749520": {
         "en": "Gnevny (OLD)", 
         "id": 4184749520, 
@@ -1806,6 +1897,19 @@
         "zh_cn": "\u94c1\u516c\u7235", 
         "zh_tw": "\u9435\u516c\u7235\u7d1a"
     }, 
+    "4185797840": {
+        "en": "IDS_PZSD104", 
+        "id": 4185797840, 
+        "index": "PZSD104", 
+        "ja_jp": "IDS_PZSD104", 
+        "level": 4, 
+        "name": "PZSD104_Shen_Yang", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD104", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD104", 
+        "zh_tw": "IDS_PZSD104"
+    }, 
     "4185798096": {
         "en": "Izyaslav", 
         "id": 4185798096, 
@@ -1909,6 +2013,19 @@
         "species": "Battleship", 
         "zh_cn": "\u4fc4\u91cc\u7fc1", 
         "zh_tw": "\u4fc4\u91cc\u7fc1\u7d1a"
+    }, 
+    "4186846416": {
+        "en": "IDS_PZSD103", 
+        "id": 4186846416, 
+        "index": "PZSD103", 
+        "ja_jp": "IDS_PZSD103", 
+        "level": 3, 
+        "name": "PZSD103_Phra_Ruang", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD103", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD103", 
+        "zh_tw": "IDS_PZSD103"
     }, 
     "4186846672": {
         "en": "Derzki", 
@@ -2014,6 +2131,19 @@
         "zh_cn": "\u67cf\u52d2\u6d1b\u4e30", 
         "zh_tw": "\u67cf\u52d2\u6d1b\u8c50\u7d1a"
     }, 
+    "4187894992": {
+        "en": "IDS_PZSD102", 
+        "id": 4187894992, 
+        "index": "PZSD102", 
+        "ja_jp": "IDS_PZSD102", 
+        "level": 2, 
+        "name": "PZSD102_Long_Jiang", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSD102", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PZSD102", 
+        "zh_tw": "IDS_PZSD102"
+    }, 
     "4187895248": {
         "en": "Storozhevoi", 
         "id": 4187895248, 
@@ -2078,6 +2208,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u97e6\u8305\u65af", 
         "zh_tw": "\u97cb\u8305\u65af\u7d1a"
+    }, 
+    "4188976336": {
+        "en": "IDS_PZSC101", 
+        "id": 4188976336, 
+        "index": "PZSC101", 
+        "ja_jp": "IDS_PZSC101", 
+        "level": 1, 
+        "name": "PZSC101_Cheng_An", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSC101", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PZSC101", 
+        "zh_tw": "IDS_PZSC101"
     }, 
     "4188976592": {
         "en": "Orlan", 
