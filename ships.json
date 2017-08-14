@@ -949,10 +949,10 @@
         "zh_tw": "\u4f0a\u9e97\u838e\u767d\u5973\u738b\u7d1a"
     }, 
     "PBSB107": {
-        "en": "Nelson", 
+        "en": "King George\u00a0V", 
         "id": 4182718416, 
         "index": "PBSB107", 
-        "ja_jp": "Nelson", 
+        "ja_jp": "King George\u00a0V", 
         "level": 7, 
         "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
@@ -962,10 +962,10 @@
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
     "PBSB108": {
-        "en": "King George V", 
+        "en": "Monarch", 
         "id": 4181669840, 
         "index": "PBSB108", 
-        "ja_jp": "King George V", 
+        "ja_jp": "Monarch", 
         "level": 8, 
         "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
@@ -2093,10 +2093,10 @@
         "zh_tw": "\u9678\u5967\u865f"
     }, 
     "PJSB508": {
-        "en": "IDS_PJSB508", 
+        "en": "Kii", 
         "id": 3762239184, 
         "index": "PJSB508", 
-        "ja_jp": "IDS_PJSB508", 
+        "ja_jp": "Kii", 
         "level": 8, 
         "name": "PJSB508_Kii", 
         "nation": "Japan", 
@@ -3588,10 +3588,10 @@
         "zh_tw": "IDS_PXSX043"
     }, 
     "PZSC101": {
-        "en": "IDS_PZSC101", 
+        "en": "Cheng An", 
         "id": 4188976336, 
         "index": "PZSC101", 
-        "ja_jp": "IDS_PZSC101", 
+        "ja_jp": "Cheng An", 
         "level": 1, 
         "name": "PZSC101_Cheng_An", 
         "nation": "Pan_Asia", 
@@ -3601,10 +3601,10 @@
         "zh_tw": "IDS_PZSC101"
     }, 
     "PZSD102": {
-        "en": "IDS_PZSD102", 
+        "en": "Long Jiang", 
         "id": 4187894992, 
         "index": "PZSD102", 
-        "ja_jp": "IDS_PZSD102", 
+        "ja_jp": "Long Jiang", 
         "level": 2, 
         "name": "PZSD102_Long_Jiang", 
         "nation": "Pan_Asia", 
@@ -3614,10 +3614,10 @@
         "zh_tw": "IDS_PZSD102"
     }, 
     "PZSD103": {
-        "en": "IDS_PZSD103", 
+        "en": "Phra Ruang", 
         "id": 4186846416, 
         "index": "PZSD103", 
-        "ja_jp": "IDS_PZSD103", 
+        "ja_jp": "Phra Ruang", 
         "level": 3, 
         "name": "PZSD103_Phra_Ruang", 
         "nation": "Pan_Asia", 
@@ -3627,10 +3627,10 @@
         "zh_tw": "IDS_PZSD103"
     }, 
     "PZSD104": {
-        "en": "IDS_PZSD104", 
+        "en": "Shen Yang", 
         "id": 4185797840, 
         "index": "PZSD104", 
-        "ja_jp": "IDS_PZSD104", 
+        "ja_jp": "Shen Yang", 
         "level": 4, 
         "name": "PZSD104_Shen_Yang", 
         "nation": "Pan_Asia", 
@@ -3640,10 +3640,10 @@
         "zh_tw": "IDS_PZSD104"
     }, 
     "PZSD105": {
-        "en": "IDS_PZSD105", 
+        "en": "Jian Wei", 
         "id": 4184749264, 
         "index": "PZSD105", 
-        "ja_jp": "IDS_PZSD105", 
+        "ja_jp": "Jian Wei", 
         "level": 5, 
         "name": "PZSD105_Jian_Wei", 
         "nation": "Pan_Asia", 
@@ -3653,10 +3653,10 @@
         "zh_tw": "IDS_PZSD105"
     }, 
     "PZSD106": {
-        "en": "IDS_PZSD106", 
+        "en": "Fu Shun", 
         "id": 4183700688, 
         "index": "PZSD106", 
-        "ja_jp": "IDS_PZSD106", 
+        "ja_jp": "Fu Shun", 
         "level": 6, 
         "name": "PZSD106_Fu_Shun", 
         "nation": "Pan_Asia", 
@@ -3666,10 +3666,10 @@
         "zh_tw": "IDS_PZSD106"
     }, 
     "PZSD107": {
-        "en": "IDS_PZSD107", 
+        "en": "Gadjah Mada", 
         "id": 4182652112, 
         "index": "PZSD107", 
-        "ja_jp": "IDS_PZSD107", 
+        "ja_jp": "Gadjah Mada", 
         "level": 7, 
         "name": "PZSD107_Gadjah_Mada", 
         "nation": "Pan_Asia", 
@@ -3679,10 +3679,10 @@
         "zh_tw": "IDS_PZSD107"
     }, 
     "PZSD108": {
-        "en": "IDS_PZSD108", 
+        "en": "Hsien Yang", 
         "id": 4181603536, 
         "index": "PZSD108", 
-        "ja_jp": "IDS_PZSD108", 
+        "ja_jp": "Hsien Yang", 
         "level": 8, 
         "name": "PZSD108_Hsien_Yang", 
         "nation": "Pan_Asia", 
@@ -3692,10 +3692,10 @@
         "zh_tw": "IDS_PZSD108"
     }, 
     "PZSD109": {
-        "en": "IDS_PZSD109", 
+        "en": "Chung Mu", 
         "id": 4180554960, 
         "index": "PZSD109", 
-        "ja_jp": "IDS_PZSD109", 
+        "ja_jp": "Chung Mu", 
         "level": 9, 
         "name": "PZSD109_Chung_Mu", 
         "nation": "Pan_Asia", 
@@ -3705,10 +3705,10 @@
         "zh_tw": "IDS_PZSD109"
     }, 
     "PZSD110": {
-        "en": "IDS_PZSD110", 
+        "en": "Hsiang Yang", 
         "id": 4179506384, 
         "index": "PZSD110", 
-        "ja_jp": "IDS_PZSD110", 
+        "ja_jp": "Hsiang Yang", 
         "level": 10, 
         "name": "PZSD110_Hsiang_Yang", 
         "nation": "Pan_Asia", 

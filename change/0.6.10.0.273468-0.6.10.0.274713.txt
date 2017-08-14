@@ -1,0 +1,41 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQM055.startTimeCustom.EU removed in first object
+root.PCQM055.startTimeCustom.RU removed in first object
+root.PCQM055.startTimeCustom.ASIA removed in first object
+root.PCQM055.startTimeCustom.NA removed in first object
+root.PCQM054.startTimeCustom.EU removed in first object
+root.PCQM054.startTimeCustom.RU removed in first object
+root.PCQM054.startTimeCustom.ASIA removed in first object
+root.PCQM054.startTimeCustom.NA removed in first object
+root.PCQM053.startTimeCustom.EU removed in first object
+root.PCQM053.startTimeCustom.RU removed in first object
+root.PCQM053.startTimeCustom.ASIA removed in first object
+root.PCQM053.startTimeCustom.NA removed in first object
+root.PCQM052.startTimeCustom.EU removed in first object
+root.PCQM052.startTimeCustom.RU removed in first object
+root.PCQM052.startTimeCustom.ASIA removed in first object
+root.PCQM052.startTimeCustom.NA removed in first object
+root.PJGT034_610mm2_Type_93_Mod1 removed in second object
+root.PGSA508_Graf_Zeppelin.group changed in second object (was demoWithoutStats, is special)
+root.PGSA508_Graf_Zeppelin.groupCustom.CN removed in second object
+root.PCQT372.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_CA_PVP)
+root.PCQT372.conditions[0] changed in second object (was <isMyShip shipLevel="9,10" />, is <isMyShip shipLevel="9,10" class="Cruiser"/>)
+root.PCQT375.conditions[0] changed in second object (was <isMyShip shipLevel="8,9,10" сlass="Cruiser"/>, is <isMyShip shipLevel="8,9,10" class="Cruiser"/>)
+root.PCQT380_Key.rewards[0] changed in second object (was <Lootbox boxType="epic" count="1"/>, is <Lootbox boxType="epic" count="2"/>)
+root.PBSB517_Nelson.group changed in second object (was demoWithoutStats, is upgradeableExclusive)
+root.PBSB517_Nelson.groupCustom.CN removed in second object
+root.PBSB517_Nelson.groupCustom.PT removed in first object
+root.PBSB517_Nelson.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PBSB517_Nelson.ShipUpgradeInfo.costXP changed in second object (was 0, is 375000)
+root.PBSB517_Nelson.ShipUpgradeInfo.costGold changed in second object (was 9650, is 0)
+root.PBSB517_Nelson.A_Directors.HP_BD_2.gunNode changed in second object (was , is HP_BGM_1)
+root.PBSB517_Nelson.A_Directors.HP_BD_1.gunNode changed in second object (was , is HP_BGM_1)
+root.PBSB517_Nelson.A_Directors.HP_BD_6.gunNode changed in second object (was , is HP_BGM_1)
+root.PBSB517_Nelson.A_Directors.HP_BD_5.gunNode changed in second object (was , is HP_BGM_1)
+root.PCEE132_Kii_flag removed in first object
+root.PCEE128_Iron_duke_flag removed in first object
+root.PCZA005_HappyBirthday removed in first object
+root.PCEE138_TGS07_Flag removed in first object
+>> finished comparing
