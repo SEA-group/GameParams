@@ -1,0 +1,5 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCZA005_HappyBirthday removed in second object
+>> finished comparing
