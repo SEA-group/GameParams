@@ -1,0 +1,15 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PZPT021_MK16_MOD1_D.costCR changed in second object (was 700, is 350)
+root.PZPT022_MK17_C.costCR changed in second object (was 900, is 450)
+root.PZPT020_MK16_MOD1_C.costCR changed in second object (was 600, is 300)
+root.PZPT023_MK17_D.costCR changed in second object (was 1100, is 500)
+root.PZPT019_MK_15_MOD3_D.costCR changed in second object (was 300, is 225)
+root.PJSB508_Kii.A_Engine.HitLocationEngine.splashBoxes[0] changed in second object (was CM_SB_engine_1_1, is CM_SB_engine1_1)
+root.PJSB508_Kii.A_Engine.HitLocationEngine.splashBoxes[1] changed in second object (was CM_SB_engine_1_2, is CM_SB_engine1_2)
+root.PJSB508_Kii.A_Engine.HitLocationEngine.splashBoxes[2] changed in second object (was CM_SB_engine_2_1, is CM_SB_engine2_1)
+root.PCEE124_Gamescom_2017 removed in first object
+root.PCEE139_Dudinka_Flag removed in first object
+root.PCEE137_Admiral_Makarov removed in first object
+>> finished comparing
