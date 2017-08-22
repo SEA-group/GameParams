@@ -1,0 +1,155 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJAD009_Aichi_B7A.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PBSD506_Gallant.groupCustom.EU removed in first object
+root.PBSD506_Gallant.groupCustom.ST removed in first object
+root.PRSC506_Molotov_1943.groupCustom.ASIA removed in first object
+root.PJSC708_ARP_Takao.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Atago_fire_01_Arpeggio.xml, is sfx/vehicles/Atago_Fire_V_01.xml)
+root.PJSC708_ARP_Takao.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Atago_fire_02_Arpeggio.xml, is sfx/vehicles/Atago_Fire_V_02.xml)
+root.PJSC708_ARP_Takao.HullDefault.burnNodes[2][4] changed in second object (was sfx/vehicles/Atago_fire_03_Arpeggio.xml, is sfx/vehicles/Atago_Fire_V_03.xml)
+root.PJSC708_ARP_Takao.HullDefault.burnNodes[3][4] changed in second object (was sfx/vehicles/Atago_fire_04_Arpeggio.xml, is sfx/vehicles/Atago_Fire_V_04.xml)
+root.PJSC707_Ashigara.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC707_Ashigara.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC707_Ashigara.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC707_Ashigara.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC707_Ashigara.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC707_Ashigara.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC707_Ashigara.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC707_Ashigara.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC707_Ashigara.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC707_Ashigara.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC707_Ashigara.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC707_Ashigara.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJAF014_Mitsubishi_1MF.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJAD008_Wakusei.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJAF007_Mitsubishi_A7M2.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PGSC502_Emden_1908.groupCustom.NA removed in second object
+root.PRSC505_KrasniKrym.groupCustom.NA removed in second object
+root.PJSC709_Haguro.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC709_Haguro.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC709_Haguro.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC709_Haguro.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC709_Haguro.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC709_Haguro.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC709_Haguro.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC709_Haguro.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC709_Haguro.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC709_Haguro.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC709_Haguro.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC709_Haguro.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJAF008_Mitsubishi_A8M.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PBSB110_Conqueror.A1_Artillery.sigmaCount changed in second object (was 2.0, is 1.8)
+root.PBEP307_Hood_Permo_2.canBuyCustom.ASIA removed in first object
+root.PBEP307_Hood_Permo_2.hiddenCustom.ASIA removed in first object
+root.PJAF011_Mitsubishi_A6M5.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in second object
+root.PRSC001_Avrora_1917.groupCustom.NA removed in second object
+root.PASC044_Marblehead_1924.groupCustom.ASIA removed in first object
+root.PJSC705_Myoko.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC705_Myoko.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC705_Myoko.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC705_Myoko.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC705_Myoko.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC705_Myoko.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC705_Myoko.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC705_Myoko.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC705_Myoko.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC705_Myoko.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC705_Myoko.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC705_Myoko.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJAF006_Mitsubishi_A7M1.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJAB010_Nakajima_C6N5_1b.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PGPB002_SC500.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PGPB001_SC250.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.ASIA removed in first object
+root.PJAF009_Kawanishi_N1K5_A.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJSB705_Kongou.B_Hull_1941.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB705_Kongou.B_Hull_1941.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB705_Kongou.B_Hull_1941.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB705_Kongou.B_Hull_1941.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSB705_Kongou.C_Hull_1942.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB705_Kongou.C_Hull_1942.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB705_Kongou.C_Hull_1942.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB705_Kongou.C_Hull_1942.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSC503_Katori.groupCustom.NA removed in first object
+root.PJSC503_Katori.groupCustom.ASIA removed in first object
+root.PJAF020_A5M4_KAGA.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PGPB006_PC500.bulletAlwaysRicochetAt changed in second object (was 45.0, is 46.0)
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJAF003_Nikajima_A4N.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PRSC002_Diana_1905.groupCustom.ASIA removed in first object
+root.PJAF001_A6M2.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJAF018_Mitsubishi_A5M4.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PASC003_Albany_1898.groupCustom.NA removed in first object
+root.PASC003_Albany_1898.groupCustom.ASIA removed in first object
+root.PJAF005_Mitsubishi_A5M2.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PRSC503_Oleg.groupCustom.NA removed in first object
+root.PJAF013_Nakajima_A2N2.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJSB011_Mikasa_1905.groupCustom.NA removed in first object
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC717_Yellow_Dragon.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSB707_Haruna.B_Hull_1941.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB707_Haruna.B_Hull_1941.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB707_Haruna.B_Hull_1941.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB707_Haruna.B_Hull_1941.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSB707_Haruna.C_Hull_1942.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB707_Haruna.C_Hull_1942.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB707_Haruna.C_Hull_1942.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB707_Haruna.C_Hull_1942.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PASD502_Smith.groupCustom.NA removed in second object
+root.PGSB503_Koenig_Albert.groupCustom.NA removed in second object
+root.PBSB507_Hood.groupCustom.EU removed in first object
+root.PBSB507_Hood.groupCustom.NA removed in first object
+root.PBSB507_Hood.groupCustom.RU removed in first object
+root.PBSB507_Hood.groupCustom.ST removed in first object
+root.PJSB706_Kirishima.B_Hull_1941.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB706_Kirishima.B_Hull_1941.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB706_Kirishima.B_Hull_1941.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB706_Kirishima.B_Hull_1941.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSB706_Kirishima.C_Hull_1942.burnNodes[0][4] changed in second object (was sfx/vehicles/Kongo_fire_01_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_01.xml)
+root.PJSB706_Kirishima.C_Hull_1942.burnNodes[1][4] changed in second object (was sfx/vehicles/Kongo_fire_02_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_02.xml)
+root.PJSB706_Kirishima.C_Hull_1942.burnNodes[2][4] changed in second object (was sfx/vehicles/Kongo_fire_03_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_03.xml)
+root.PJSB706_Kirishima.C_Hull_1942.burnNodes[3][4] changed in second object (was sfx/vehicles/Kongo_fire_04_Arpeggio.xml, is sfx/vehicles/Kongo_Fire_V_04.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC727_Blue_Dragon.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC727_Blue_Dragon.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC727_Blue_Dragon.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSB506_Mutsu.groupCustom.ASIA removed in first object
+root.PJSC737_Nachi.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC737_Nachi.A_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC737_Nachi.A_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC737_Nachi.A_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC737_Nachi.B_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC737_Nachi.B_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC737_Nachi.B_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC737_Nachi.B_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJSC737_Nachi.C_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Myoko_fire_01_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_01.xml)
+root.PJSC737_Nachi.C_Hull.burnNodes[1][4] changed in second object (was sfx/vehicles/Myoko_fire_02_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_02.xml)
+root.PJSC737_Nachi.C_Hull.burnNodes[2][4] changed in second object (was sfx/vehicles/Myoko_fire_03_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_03.xml)
+root.PJSC737_Nachi.C_Hull.burnNodes[3][4] changed in second object (was sfx/vehicles/Myoko_fire_04_Arpeggio.xml, is sfx/vehicles/Myoko_Fire_V_04.xml)
+root.PJAF019_Mitsubishi_A6M5_C.deathPenalty changed in second object (was 2.5, is 3.0)
+root.PJSA507_Kaga.groupCustom.NA removed in first object
+root.PCH140_BD2_GE removed in first object
+root.PCEC035_Back2School removed in first object
+root.PCEC036_Tokyo_Game_Show removed in first object
+root.PCEC034_Sci_Fi_Space removed in first object
+>> finished comparing
