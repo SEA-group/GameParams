@@ -766,6 +766,19 @@
         "zh_cn": "\u82f1\u52c7", 
         "zh_tw": "\u82f1\u52c7\u865f"
     }, 
+    "3764303056": {
+        "en": "IDS_PZSC506", 
+        "id": 3764303056, 
+        "index": "PZSC506", 
+        "ja_jp": "IDS_PZSC506", 
+        "level": 6, 
+        "name": "PZSC506_Huang_he", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSC506", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PZSC506", 
+        "zh_tw": "IDS_PZSC506"
+    }, 
     "3764303216": {
         "en": "Perth", 
         "id": 3764303216, 
@@ -908,6 +921,19 @@
         "species": "Battleship", 
         "zh_cn": "\u5341\u6708\u9769\u547d", 
         "zh_tw": "\u5341\u6708\u9769\u547d\u865f"
+    }, 
+    "3765384944": {
+        "en": "IDS_PISB505", 
+        "id": 3765384944, 
+        "index": "PISB505", 
+        "ja_jp": "IDS_PISB505", 
+        "level": 5, 
+        "name": "PISB505_Giulio_Cesare", 
+        "nation": "Italy", 
+        "ru": "IDS_PISB505", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PISB505", 
+        "zh_tw": "IDS_PISB505"
     }, 
     "3767416784": {
         "en": "Campbeltown", 

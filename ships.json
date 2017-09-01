@@ -1832,6 +1832,19 @@
         "zh_cn": "Z-52", 
         "zh_tw": "Z-52"
     }, 
+    "PISB505": {
+        "en": "IDS_PISB505", 
+        "id": 3765384944, 
+        "index": "PISB505", 
+        "ja_jp": "IDS_PISB505", 
+        "level": 5, 
+        "name": "PISB505_Giulio_Cesare", 
+        "nation": "Italy", 
+        "ru": "IDS_PISB505", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PISB505", 
+        "zh_tw": "IDS_PISB505"
+    }, 
     "PISC506": {
         "en": "Duca d'Aosta", 
         "id": 3764303600, 
@@ -3599,6 +3612,19 @@
         "species": "Cruiser", 
         "zh_cn": "IDS_PZSC101", 
         "zh_tw": "IDS_PZSC101"
+    }, 
+    "PZSC506": {
+        "en": "IDS_PZSC506", 
+        "id": 3764303056, 
+        "index": "PZSC506", 
+        "ja_jp": "IDS_PZSC506", 
+        "level": 6, 
+        "name": "PZSC506_Huang_he", 
+        "nation": "Pan_Asia", 
+        "ru": "IDS_PZSC506", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PZSC506", 
+        "zh_tw": "IDS_PZSC506"
     }, 
     "PZSD102": {
         "en": "Long Jiang", 
