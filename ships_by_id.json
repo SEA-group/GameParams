@@ -35,7 +35,7 @@
         "nation": "USA", 
         "ru": "Cimarron Test", 
         "species": "Auxiliary", 
-        "zh_cn": "\u897f\u99ac\u9686Test", 
+        "zh_cn": "\u897f\u9a6c\u9686Test", 
         "zh_tw": "\u897f\u99ac\u9686Test"
     }, 
     "3416176336": {
@@ -503,8 +503,8 @@
         "nation": "France", 
         "ru": "IDS_PFSD605", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PFSD605", 
-        "zh_tw": "IDS_PFSD605"
+        "zh_cn": "\u6c14\u65cb", 
+        "zh_tw": "\u6c23\u65cb\u865f"
     }, 
     "3660462032": {
         "en": "Anthony", 
@@ -516,8 +516,8 @@
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSD605", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PBSD605", 
-        "zh_tw": "IDS_PBSD605"
+        "zh_cn": "\u5b89\u4e1c\u5c3c", 
+        "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
     "3752802256": {
         "en": "Nelson", 
@@ -529,8 +529,8 @@
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB517", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PBSB517", 
-        "zh_tw": "IDS_PBSB517"
+        "zh_cn": "\u7eb3\u5c14\u900a", 
+        "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
     "3761190896": {
         "en": "Missouri", 
@@ -633,8 +633,8 @@
         "nation": "Germany", 
         "ru": "IDS_PGSA508", 
         "species": "AirCarrier", 
-        "zh_cn": "IDS_PGSA508", 
-        "zh_tw": "IDS_PGSA508"
+        "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235", 
+        "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f"
     }, 
     "3762272240": {
         "en": "Enterprise", 
@@ -767,10 +767,10 @@
         "zh_tw": "\u82f1\u52c7\u865f"
     }, 
     "3764303056": {
-        "en": "IDS_PZSC506", 
+        "en": "Huang He", 
         "id": 3764303056, 
         "index": "PZSC506", 
-        "ja_jp": "IDS_PZSC506", 
+        "ja_jp": "Huang He", 
         "level": 6, 
         "name": "PZSC506_Huang_he", 
         "nation": "Pan_Asia", 
@@ -923,10 +923,10 @@
         "zh_tw": "\u5341\u6708\u9769\u547d\u865f"
     }, 
     "3765384944": {
-        "en": "IDS_PISB505", 
+        "en": "Giulio Cesare", 
         "id": 3765384944, 
         "index": "PISB505", 
-        "ja_jp": "IDS_PISB505", 
+        "ja_jp": "Giulio Cesare", 
         "level": 5, 
         "name": "PISB505_Giulio_Cesare", 
         "nation": "Italy", 
@@ -1521,17 +1521,17 @@
         "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
     }, 
     "4181669840": {
-        "en": "Monarch", 
+        "en": "King George V", 
         "id": 4181669840, 
         "index": "PBSB108", 
-        "ja_jp": "Monarch", 
+        "ja_jp": "King George V", 
         "level": 8, 
         "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB108", 
         "species": "Battleship", 
-        "zh_cn": "\u82f1\u738b\u4e54\u6cbb\u4e94\u4e16", 
-        "zh_tw": "\u82f1\u738b\u55ac\u6cbb\u4e94\u4e16\u7d1a"
+        "zh_cn": "\u541b\u738b", 
+        "zh_tw": "\u541b\u738b\u7d1a"
     }, 
     "4182652112": {
         "en": "Gadjah Mada", 
@@ -1651,17 +1651,17 @@
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
     }, 
     "4182718416": {
-        "en": "King George\u00a0V", 
+        "en": "Nelson", 
         "id": 4182718416, 
         "index": "PBSB107", 
-        "ja_jp": "King George\u00a0V", 
+        "ja_jp": "Nelson", 
         "level": 7, 
         "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSB107", 
         "species": "Battleship", 
-        "zh_cn": "\u7eb3\u5c14\u900a", 
-        "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
+        "zh_cn": "\u82f1\u738b\u4e54\u6cbb\u4e94\u4e16", 
+        "zh_tw": "\u82f1\u738b\u55ac\u6cbb\u4e94\u4e16\u7d1a"
     }, 
     "4183700688": {
         "en": "Fu Shun", 
@@ -2323,8 +2323,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX043", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX043", 
-        "zh_tw": "IDS_PXSX043"
+        "zh_cn": "\u6885\u5fb7\u97e6\u5973\u738b", 
+        "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
     }, 
     "4255037136": {
         "en": "Atago", 
@@ -2375,8 +2375,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX034", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX034", 
-        "zh_tw": "IDS_PXSX034"
+        "zh_cn": "\u7ea6\u7ff0\u00b7\u5361\u7279\u6797", 
+        "zh_tw": "\u7d04\u7ff0\u00b7\u5361\u7279\u6797"
     }, 
     "4259231440": {
         "en": "Zao", 
@@ -2414,8 +2414,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX033", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX033", 
-        "zh_tw": "IDS_PXSX033"
+        "zh_cn": "\u5e03\u96f7\u8230", 
+        "zh_tw": "\u5e03\u96f7\u8266"
     }, 
     "4264441840": {
         "en": "Sims", 
@@ -2453,8 +2453,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX026", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX026", 
-        "zh_tw": "IDS_PXSX026"
+        "zh_cn": "\u574e\u7279\u4f2f\u96f7", 
+        "zh_tw": "\u574e\u7279\u4f2f\u96f7"
     }, 
     "4267587280": {
         "en": "Kamikaze R", 
@@ -2492,8 +2492,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX025", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX025", 
-        "zh_tw": "IDS_PXSX025"
+        "zh_cn": "\u6885\u5fb7\u97e6\u5973\u738b", 
+        "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
     }, 
     "4268635856": {
         "en": "Kamikaze", 
@@ -2518,8 +2518,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX024", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX024", 
-        "zh_tw": "IDS_PXSX024"
+        "zh_cn": "\u963f\u5c3c\u4e9a", 
+        "zh_tw": "\u963f\u5c3c\u4e9e"
     }, 
     "4269684432": {
         "en": "Wakatake", 
@@ -2557,8 +2557,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX023", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX023", 
-        "zh_tw": "IDS_PXSX023"
+        "zh_cn": "\u7f57\u745e\u5a1c", 
+        "zh_tw": "\u7f85\u745e\u5a1c"
     }, 
     "4272830448": {
         "en": "Fletcher", 
@@ -2674,8 +2674,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX017", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX017", 
-        "zh_tw": "IDS_PXSX017"
+        "zh_cn": "\u5361\u5e03\u7279", 
+        "zh_tw": "\u5361\u5e03\u7279"
     }, 
     "4277024464": {
         "en": "F\u016bjin", 
@@ -2739,8 +2739,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSX016", 
         "species": "Auxiliary", 
-        "zh_cn": "IDS_PXSX016", 
-        "zh_tw": "IDS_PXSX016"
+        "zh_cn": "\u5de8\u4eba", 
+        "zh_tw": "\u5de8\u4eba"
     }, 
     "4278106096": {
         "en": "Worcester", 
@@ -3155,8 +3155,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSD007", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PXSD007", 
-        "zh_tw": "IDS_PXSD007"
+        "zh_cn": "S\u8247", 
+        "zh_tw": "S\u8247"
     }, 
     "4287510224": {
         "en": "Fubuki (old)", 
@@ -3766,7 +3766,7 @@
         "nation": "Events", 
         "ru": "IDS_PXSA001", 
         "species": "AirCarrier", 
-        "zh_cn": "IDS_PXSA001", 
-        "zh_tw": "IDS_PXSA001"
+        "zh_cn": "\u5fb7\u56fd\u7a7a\u519b", 
+        "zh_tw": "\u5fb7\u570b\u7a7a\u8ecd"
     }
 }
