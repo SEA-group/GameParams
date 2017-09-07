@@ -1,0 +1,31 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSB104_Orion.groupCustom.PT removed in second object
+root.PBSB103_Bellerophon.A1_Artillery.HP_BGM_4.horizSector[0] changed in second object (was -145.0, is -142.0)
+root.PBSB103_Bellerophon.A1_Artillery.HP_BGM_4.horizSector[1] changed in second object (was 145.0, is 142.0)
+root.PBSB103_Bellerophon.A1_Artillery.HP_BGM_4.vertSector[0] changed in second object (was -2.0, is 1.0)
+root.PBSB103_Bellerophon.groupCustom.PT removed in second object
+root.PBSB103_Bellerophon.B1_Artillery.HP_BGM_4.horizSector[0] changed in second object (was -145.0, is -142.0)
+root.PBSB103_Bellerophon.B1_Artillery.HP_BGM_4.horizSector[1] changed in second object (was 145.0, is 142.0)
+root.PBSB103_Bellerophon.B1_Artillery.HP_BGM_4.vertSector[0] changed in second object (was -3.0, is 1.0)
+root.PBSB110_Conqueror.groupCustom.PT removed in second object
+root.PBSB107_King_George_V.groupCustom.PT removed in second object
+root.PZSD109_Chung_Mu.B_Hull.visibilityCoefGKInSmoke changed in second object (was 1e-06, is 2.68)
+root.PJSA012_Zuikaku_1944.A_Hull_1941.armor.65632 changed in second object (was 6.0, is 0.0)
+root.PJSA012_Zuikaku_1944.B_Hull_1943.armor.65632 changed in second object (was 6.0, is 0.0)
+root.PJSA012_Zuikaku_1944.C_Hull_1944.armor.65632 changed in second object (was 6.0, is 0.0)
+root.PJSC013_Kuma_1938.B_Hull_1938.visibilityCoefGKInSmoke changed in second object (was 1e-06, is 5.06)
+root.PAGM079_3in50_Mk22_Mod2.deadMesh changed in second object (was content/gameplay/usa/gun/aaircraft/AGA016_3in50_Mk22_Mod2/AGA016_3in50_Mk22_Mod2_dead.model, is content/gameplay/usa/gun/main/AGM079_3in50_Mk22_Mod2/AGM079_3in50_Mk22_Mod2_dead.model)
+root.PBSB106_Queen_Elizabeth.groupCustom.PT removed in second object
+root.PBSB108_Monarch.groupCustom.PT removed in second object
+root.PISB505_Giulio_Cesare.A_Hull.visibilityCoefGKInSmoke changed in second object (was 1e-06, is 10.86)
+root.PZSC506_Huang_he.A_Hull.visibilityCoefGKInSmoke changed in second object (was 1e-06, is 4.2)
+root.PJES308_Kii_Kobayashi.costGold changed in second object (was 5, is 5000)
+root.PJES308_Kii_Kobayashi.afterBattleRepair changed in second object (was 1.0, is 0.5)
+root.PJES308_Kii_Kobayashi.hidden changed in second object (was False, is True)
+root.PJES308_Kii_Kobayashi.creditsFactor changed in second object (was 1.0, is 1.2)
+root.PJES308_Kii_Kobayashi.expFactor changed in second object (was 1.5, is 2.0)
+root.PBSB109_Lion.groupCustom.PT removed in second object
+root.PBSB105_Iron_Duke.groupCustom.PT removed in second object
+>> finished comparing
