@@ -1,0 +1,11 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PZSD109_Chung_Mu.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.68, is 1e-06)
+root.PJSA012_Zuikaku_1944.A_Hull_1941.armor.65632 changed in second object (was 0.0, is 6.0)
+root.PJSA012_Zuikaku_1944.B_Hull_1943.armor.65632 changed in second object (was 0.0, is 6.0)
+root.PJSA012_Zuikaku_1944.C_Hull_1944.armor.65632 changed in second object (was 0.0, is 6.0)
+root.PJSC013_Kuma_1938.B_Hull_1938.visibilityCoefGKInSmoke changed in second object (was 5.06, is 1e-06)
+root.PISB505_Giulio_Cesare.A_Hull.visibilityCoefGKInSmoke changed in second object (was 10.86, is 1e-06)
+root.PZSC506_Huang_he.A_Hull.visibilityCoefGKInSmoke changed in second object (was 4.2, is 1e-06)
+>> finished comparing
