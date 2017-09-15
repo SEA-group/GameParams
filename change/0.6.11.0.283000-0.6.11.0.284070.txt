@@ -1,0 +1,158 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSD308_Pr_48.permoflages[1] removed in first object
+root.PBSD506_Gallant.groupCustom.RU removed in first object
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PZGM013_127mm40_Type89_3.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PZGM013_127mm40_Type89_3.HitLocationArtillery.armorCoeff changed in second object (was 0.8, is 0.5)
+root.PZGM013_127mm40_Type89_3.shotDelay changed in second object (was 7.5, is 5.5)
+root.PZGM013_127mm40_Type89_3.minRadius changed in second object (was 1.1, is 0.5)
+root.PZGM013_127mm40_Type89_3.rotationSpeed[0] changed in second object (was 8.0, is 12.0)
+root.PBSC101_Black_Swan.A1_Artillery.HP_BGM_2.minRadius changed in second object (was 1.1, is 0.5)
+root.PBSC101_Black_Swan.A1_Artillery.HP_BGM_3.minRadius changed in second object (was 1.1, is 0.5)
+root.PBSC101_Black_Swan.A1_Artillery.HP_BGM_1.minRadius changed in second object (was 1.1, is 0.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_2.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_2.HitLocationArtillery.armorCoeff changed in second object (was 0.8, is 0.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_2.shotDelay changed in second object (was 7.5, is 5.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_2.minRadius changed in second object (was 1.1, is 0.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_2.rotationSpeed[0] changed in second object (was 8.0, is 12.0)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_1.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_1.HitLocationArtillery.armorCoeff changed in second object (was 0.8, is 0.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_1.shotDelay changed in second object (was 7.5, is 5.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_1.minRadius changed in second object (was 1.1, is 0.5)
+root.PZSC101_Cheng_An.A_Artillery.HP_ZGM_1.rotationSpeed[0] changed in second object (was 8.0, is 12.0)
+root.PFGM025_138_6mm_40_Mle_1927.minRadius changed in second object (was 1.1, is 0.5)
+root.PCY019_RLSSearch.PAZ_9 removed in first object
+root.PCY019_RLSSearch.PAZ_8 removed in first object
+root.PCY019_RLSSearch.PAZ_10 removed in first object
+root.PASC014_New_Orlean_1944.permoflages[1] removed in first object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PFSC506_De_Grasse.groupCustom.RU removed in first object
+root.PJSD708_HSF_Harekaze.ABC_Hull.nationFlag changed in second object (was yokosuka_school, is japan)
+root.PGSA508_Graf_Zeppelin.permoflages[1] removed in first object
+root.PASB508_Alabama.groupCustom.RU removed in first object
+root.PCBX021.artillery.HP_JGM_1.shotDelay changed in second object (was 35.0, is 31.0)
+root.PISC506_DucadAosta.groupCustom.RU removed in first object
+root.PISC506_DucadAosta.groupCustom.ST removed in first object
+root.PFSC108_Charles_Martel.permoflages[1] removed in first object
+root.PJGM127_410mm45_Type3_RF_old.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJGM127_410mm45_Type3_RF_old.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PCY020_RLSSearchPremium.PAZ_8_PREMIUM removed in first object
+root.PCY020_RLSSearchPremium.PAZ_9_PREMIUM removed in first object
+root.PCY020_RLSSearchPremium.PAZ_10_PREMIUM removed in first object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PZPT009_533_MKII_D.speed changed in second object (was 53.0, is 52.0)
+root.PZPT009_533_MKII_D.maxDist changed in second object (was 200.0, is 167.0)
+root.PZPT007_G6_AV3_D.alphaDamage changed in second object (was 29400.0, is 25300.0)
+root.PZPT007_G6_AV3_D.uwCritical changed in second object (was 2.07, is 1.75)
+root.PZPT007_G6_AV3_D.splashCubeSize changed in second object (was 1.0, is 0.9)
+root.PZPT007_G6_AV3_D.maxDist changed in second object (was 200.0, is 167.0)
+root.PZSD105_Jian_Wei.AB1_Torpedoes.HP_ZGT_2.shotDelay changed in second object (was 80.0, is 73.0)
+root.PZSD105_Jian_Wei.AB1_Torpedoes.HP_ZGT_1.shotDelay changed in second object (was 80.0, is 73.0)
+root.PGSD108_Z_23.permoflages[1] removed in first object
+root.PBGM053_4in45_QF_Mk_XIX.minRadius changed in second object (was 1.1, is 0.5)
+root.PAGM027_6in47_Mk_17.minRadius changed in second object (was 1.1, is 0.5)
+root.PASA508_Enterprise.groupCustom.RU removed in first object
+root.PBSB108_Monarch.permoflages[1] removed in first object
+root.PGUF702_FC2_GRAF_Z removed in second object
+root.PZPT013_533_MKVII_D.speed changed in second object (was 59.0, is 62.0)
+root.PZPT013_533_MKVII_D.alphaDamage changed in second object (was 43900.0, is 46800.0)
+root.PZPT013_533_MKVII_D.uwCritical changed in second object (was 3.19, is 3.41)
+root.PZPT013_533_MKVII_D.visibilityFactor changed in second object (was 0.7, is 0.8)
+root.PZPT013_533_MKVII_D.maxDist changed in second object (was 200.0, is 213.0)
+root.PASC001_Erie_1936.A_Artillery.HP_AGM_1.minRadius changed in second object (was 1.1, is 0.5)
+root.PASC001_Erie_1936.A_Artillery.HP_AGM_3.minRadius changed in second object (was 1.1, is 0.5)
+root.PASC001_Erie_1936.A_Artillery.HP_AGM_2.minRadius changed in second object (was 1.1, is 0.5)
+root.PASC001_Erie_1936.A_Artillery.HP_AGM_4.minRadius changed in second object (was 1.1, is 0.5)
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_3.minRadius changed in second object (was 1.1, is 0.5)
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_1.minRadius changed in second object (was 1.1, is 0.5)
+root.PFSC101_Bougainville.A1_Artillery.HP_FGM_2.minRadius changed in second object (was 1.1, is 0.5)
+root.PJSB508_Kii.A1_Artillery.maxDist changed in second object (was 18680.0, is 19380.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_1.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_1.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_2.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_2.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_3.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_3.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_4.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_4.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_5.shotDelay changed in second object (was 35.0, is 31.0)
+root.PJSB508_Kii.A1_Artillery.HP_JGM_5.rotationSpeed[0] changed in second object (was 3.3, is 4.0)
+root.PGUD703_DBAP_GRAF_Z removed in first object
+root.PCH140_BD2_GE removed in first object
+root.PCT142_BDII_14 removed in first object
+root.PGUH716_GRAF_Z_I removed in first object
+root.PCEE142_Lifesaver_Flag removed in first object
+root.PCH145_BD2_USSR removed in first object
+root.PCH136_BD2_HW2016 removed in first object
+root.PCT135_BDII_7 removed in first object
+root.PCH151_WG_Fest_2017 removed in first object
+root.PGUI702_F_TOP_GRAF_Z_I removed in first object
+root.PCT138_BDII_10 removed in first object
+root.PCH134_BD2_GB removed in first object
+root.PCH146_BD2_FR removed in first object
+root.PGUD704_DBAP_GRAF_Z removed in first object
+root.PCZC104_Wows_FrenchCruiser removed in first object
+root.PCZC103_Wows_MoreSovietDestr removed in first object
+root.PCT131_BDII_3 removed in first object
+root.PCZC102_Wows_SmokeRank removed in first object
+root.PGEP438_Graf_Zeppelin removed in first object
+root.PCT143_BDII_15 removed in first object
+root.PCZC097_Wows_Campaign removed in first object
+root.PCT144_BDII_16 removed in first object
+root.PGUE706_ENG_GRAF_Z_I removed in first object
+root.PCEE131_Second_anniversary removed in first object
+root.PCH137_BD2_CAMO removed in first object
+root.PCZC091_Wows_Eco removed in first object
+root.PGUE716_ENG_GRAF_Z_I removed in first object
+root.PCZC106_Wows_BotRevenge removed in first object
+root.PCZC092_Wows_Brit removed in first object
+root.PGPB026_PC500_II removed in first object
+root.PCH148_BD2_PVE removed in first object
+root.PCZC095_Wows_10Camo removed in first object
+root.PCZC099_Wows_ArpOff removed in first object
+root.PCT130_BDII_2 removed in first object
+root.PGAD003_Ju_87C_APB_GZ_I removed in first object
+root.PCT137_BDII_9 removed in first object
+root.PCH147_BD2_BISMARCK removed in first object
+root.PCH138_BD2_JP removed in first object
+root.PGAD004_Ju_87C_APB_GZ_II removed in first object
+root.PCH141_BD2_ARP removed in first object
+root.PCZC094_Wows_Halloween removed in first object
+root.PGUF712_FC1_GRAF_Z_I removed in first object
+root.PCH133_BD2_CREDITS removed in first object
+root.PCH139_BD2_CAMPAIGNS removed in first object
+root.PCH135_BD2_CONTAINERS removed in first object
+root.PGAF022_Bf109T_GZ_I removed in first object
+root.PGUF702_FC1_GRAF_Z_I removed in first object
+root.PCH142_BD2_NY2016 removed in first object
+root.PCZC101_Wows_CapRework removed in first object
+root.PGUD713_DBAP_GRAF_Z removed in first object
+root.PCZC096_Wows_AltJapan removed in first object
+root.PCT134_BDII_6 removed in first object
+root.PCT129_BDII_1 removed in first object
+root.PCT132_BDII_4 removed in first object
+root.PGUH706_GRAF_Z_I removed in first object
+root.PCZC105_Wows_Bismarck removed in first object
+root.PCZA005_HappyBirthday removed in first object
+root.PGSA509_Graf_Zeppelin_I removed in first object
+root.PCH132_FillAlbum_Wowsbirthday removed in first object
+root.PCEE135_WG_Fest_2017 removed in first object
+root.PCZC100_Wows_NYSpee removed in first object
+root.PCH143_BD2_CREW removed in first object
+root.PCEP306_Birthday_2017 removed in first object
+root.PCZC098_Wows_GermDestr removed in first object
+root.PCT136_BDII_8 removed in first object
+root.PGPB016_PC500_I removed in first object
+root.PGSA510_Graf_Zeppelin_II removed in first object
+root.PCT140_BDII_12 removed in first object
+root.PCT139_BDII_11 removed in first object
+root.PGUI712_F_TOP_GRAF_Z_I removed in first object
+root.PCT133_BDII_5 removed in first object
+root.PCZC093_Wows_Lootbox removed in first object
+root.PCT141_BDII_13 removed in first object
+>> finished comparing

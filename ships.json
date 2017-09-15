@@ -1390,6 +1390,32 @@
         "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235", 
         "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f"
     }, 
+    "PGSA509": {
+        "en": "IDS_PGSA509", 
+        "id": 3761223472, 
+        "index": "PGSA509", 
+        "ja_jp": "IDS_PGSA509", 
+        "level": 8, 
+        "name": "PGSA509_Graf_Zeppelin_I", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA509", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PGSA509", 
+        "zh_tw": "IDS_PGSA509"
+    }, 
+    "PGSA510": {
+        "en": "IDS_PGSA510", 
+        "id": 3760174896, 
+        "index": "PGSA510", 
+        "ja_jp": "IDS_PGSA510", 
+        "level": 8, 
+        "name": "PGSA510_Graf_Zeppelin_II", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA510", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PGSA510", 
+        "zh_tw": "IDS_PGSA510"
+    }, 
     "PGSB002": {
         "en": "Tirpitz", 
         "id": 4292818736, 

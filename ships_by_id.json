@@ -532,6 +532,19 @@
         "zh_cn": "\u7eb3\u5c14\u900a", 
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
+    "3760174896": {
+        "en": "IDS_PGSA510", 
+        "id": 3760174896, 
+        "index": "PGSA510", 
+        "ja_jp": "IDS_PGSA510", 
+        "level": 8, 
+        "name": "PGSA510_Graf_Zeppelin_II", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA510", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PGSA510", 
+        "zh_tw": "IDS_PGSA510"
+    }, 
     "3761190896": {
         "en": "Missouri", 
         "id": 3761190896, 
@@ -544,6 +557,19 @@
         "species": "Battleship", 
         "zh_cn": "\u5bc6\u82cf\u91cc", 
         "zh_tw": "\u5bc6\u8607\u91cc\u865f"
+    }, 
+    "3761223472": {
+        "en": "IDS_PGSA509", 
+        "id": 3761223472, 
+        "index": "PGSA509", 
+        "ja_jp": "IDS_PGSA509", 
+        "level": 8, 
+        "name": "PGSA509_Graf_Zeppelin_I", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA509", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PGSA509", 
+        "zh_tw": "IDS_PGSA509"
     }, 
     "3762173136": {
         "en": "Lo Yang", 
