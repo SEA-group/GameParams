@@ -1,0 +1,53 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC508_Kutuzov_1952.ShipUpgradeInfo.costSaleGold changed in second object (was 10250, is 0)
+root.PASA507_Saipan_1946.A_Hull.armor.131121 changed in second object (was 16.0, is 0.0)
+root.PASA507_Saipan_1946.A_Hull.armor.65639 removed in second object
+root.PASA507_Saipan_1946.A_Hull.armor.196710 removed in second object
+root.PASA507_Saipan_1946.A_Hull.armor.196657 removed in first object
+root.PASA507_Saipan_1946.A_Hull.armor.196696 removed in first object
+root.PUSC506_Perth_1942.ShipUpgradeInfo.costSaleGold changed in second object (was 4800, is 0)
+root.PUSD503_Vampire.A_AirDefense.HP_BGA_3.numBarrels changed in second object (was 2, is 1)
+root.PXY114_RegenCrewPremium.H2016.numConsumables changed in second object (was 4, is 2)
+root.PBSC507_Belfast_1959.ShipUpgradeInfo.costSaleGold changed in second object (was 8200, is 0)
+root.PXPA003_283MM_HE_HYDE.alphaPiercingHE changed in second object (was 71.0, is 100.0)
+root.PXPA013_152MM_HE_DR_FRANKY.alphaPiercingHE changed in second object (was 25.0, is 100.0)
+root.PRSD505_Okhotnik_1917.groupCustom.RU removed in first object
+root.PRSD505_Okhotnik_1917.groupCustom.ST removed in first object
+root.PXPA016_FIREBALL.bulletSpeed changed in second object (was 250.0, is 300.0)
+root.PBGA083_Breda_20mm_65.numBarrels changed in second object (was 2, is 1)
+root.PXY014_RegenCrew.H2016.numConsumables changed in second object (was 3, is 1)
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.RU removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.ST removed in first object
+root.PISB505_Giulio_Cesare.ShipModernization.ModernizationSlot2.mods[0] changed in second object (was PCM006_MainGun_Mod_II, is PCM033_Guidance_Mod_I)
+root.PISB505_Giulio_Cesare.ShipModernization.ModernizationSlot2.mods[1] changed in second object (was PCM011_AirDefense_Mod_II, is PCM006_MainGun_Mod_II)
+root.PISB505_Giulio_Cesare.ShipModernization.ModernizationSlot2.mods[2] changed in second object (was PCM012_SecondaryGun_Mod_II, is PCM011_AirDefense_Mod_II)
+root.PISB505_Giulio_Cesare.ShipModernization.ModernizationSlot2.mods[3] removed in first object
+root.PCBC005.hull.armor.1 changed in second object (was 1.0, is 90.0)
+root.PCBC005.hull.armor.65614 changed in second object (was 1.0, is 90.0)
+root.PCBC005.hull.armor.65613 changed in second object (was 1.0, is 90.0)
+root.PCBC005.hull.armor.131150 changed in second object (was 1.0, is 90.0)
+root.PCBC005.hull.health changed in second object (was 20000.0, is 36000.0)
+root.PCBC005.hull.OCit.volumeCoeff changed in second object (was 0.165, is 1.0)
+root.PCBC005.artillery.HP_GUN_1.armor.1 changed in second object (was 0.0, is 10.0)
+root.PCBC005.artillery.HP_GUN_1.armor.131116 changed in second object (was 0.0, is 10.0)
+root.PCBC005.artillery.HP_GUN_1.rotationSpeed[0] changed in second object (was 15.0, is 30.0)
+root.PCBC005.artillery.HP_GUN_1.rotationSpeed[1] changed in second object (was 15.0, is 30.0)
+root.PXPA015_120MM_HE_HELLSINK.alphaPiercingHE changed in second object (was 20.0, is 100.0)
+root.PXSB005_Bismarck_H2017 removed in first object
+root.PXSB003_Zeekasa removed in first object
+root.PXSB001_Mr_Hyde removed in first object
+root.PXSX001_Transylvania removed in first object
+root.PXSC003_Pr_68_Chapaev_H2017 removed in first object
+root.PXSD003_Kagero_H2017 removed in first object
+root.PXSA003_Lexington_1944_H2017 removed in first object
+root.PXSD001_VanHellsink removed in first object
+root.PXSC001_Dr_Frankenship removed in first object
+root.PXSB004_Tirpiz_1942_H2017 removed in first object
+root.PXSA004_Zuikaku_1944_H2017 removed in first object
+root.PXSC002_Charles_Martel_H2017 removed in first object
+root.PXSD002_Benson_1945_H2017 removed in first object
+root.PXSX743_Hall_Medway_Queen removed in first object
+root.PXSB002_Rasputin removed in first object
+>> finished comparing
