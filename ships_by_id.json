@@ -13,10 +13,10 @@
         "zh_tw": "Test Ship"
     }, 
     "3315513040": {
-        "en": "IDS_PJSC934", 
+        "en": "[Zao]", 
         "id": 3315513040, 
         "index": "PJSC934", 
-        "ja_jp": "IDS_PJSC934", 
+        "ja_jp": "[Zao]", 
         "level": 10, 
         "name": "PJSC934_Zao_1944", 
         "nation": "Japan", 
@@ -26,10 +26,10 @@
         "zh_tw": "IDS_PJSC934"
     }, 
     "3333371888": {
-        "en": "IDS_PASB917", 
+        "en": "[Montana]", 
         "id": 3333371888, 
         "index": "PASB917", 
-        "ja_jp": "IDS_PASB917", 
+        "ja_jp": "[Montana]", 
         "level": 10, 
         "name": "PASB917_Montana_1945", 
         "nation": "USA", 
@@ -39,10 +39,10 @@
         "zh_tw": "IDS_PASB917"
     }, 
     "3333404368": {
-        "en": "IDS_PJSA917", 
+        "en": "[Hakuryu]", 
         "id": 3333404368, 
         "index": "PJSA917", 
-        "ja_jp": "IDS_PJSA917", 
+        "ja_jp": "[Hakuryu]", 
         "level": 10, 
         "name": "PJSA917_Hakuryu_1942", 
         "nation": "Japan", 
@@ -52,10 +52,10 @@
         "zh_tw": "IDS_PJSA917"
     }, 
     "3335501808": {
-        "en": "IDS_PASA915", 
+        "en": "[Midway]", 
         "id": 3335501808, 
         "index": "PASA915", 
-        "ja_jp": "IDS_PASA915", 
+        "ja_jp": "[Midway]", 
         "level": 10, 
         "name": "PASA915_Midway_1945", 
         "nation": "USA", 
@@ -65,10 +65,10 @@
         "zh_tw": "IDS_PASA915"
     }, 
     "3337500656": {
-        "en": "IDS_PASD913", 
+        "en": "[Gearing]", 
         "id": 3337500656, 
         "index": "PASD913", 
-        "ja_jp": "IDS_PASD913", 
+        "ja_jp": "[Gearing]", 
         "level": 10, 
         "name": "PASD913_Gearing_1945", 
         "nation": "USA", 
@@ -78,10 +78,10 @@
         "zh_tw": "IDS_PASD913"
     }, 
     "3338548944": {
-        "en": "IDS_PJSD912", 
+        "en": "[Shimakaze]", 
         "id": 3338548944, 
         "index": "PJSD912", 
-        "ja_jp": "IDS_PJSD912", 
+        "ja_jp": "[Shimakaze]", 
         "level": 10, 
         "name": "PJSD912_Shimakaze_1943", 
         "nation": "Japan", 
@@ -91,10 +91,10 @@
         "zh_tw": "IDS_PJSD912"
     }, 
     "3340645840": {
-        "en": "IDS_PRSD910", 
+        "en": "[Grozovoi]", 
         "id": 3340645840, 
         "index": "PRSD910", 
-        "ja_jp": "IDS_PRSD910", 
+        "ja_jp": "[Grozovoi]", 
         "level": 10, 
         "name": "PRSD910_Grozovoy_pr_40N", 
         "nation": "Russia", 
@@ -104,10 +104,10 @@
         "zh_tw": "IDS_PRSD910"
     }, 
     "3340678608": {
-        "en": "IDS_PRSC910", 
+        "en": "[Moskva]", 
         "id": 3340678608, 
         "index": "PRSC910", 
-        "ja_jp": "IDS_PRSC910", 
+        "ja_jp": "[Moskva]", 
         "level": 10, 
         "name": "PRSC910_Pr_66_Moskva", 
         "nation": "Russia", 
@@ -117,10 +117,10 @@
         "zh_tw": "IDS_PRSC910"
     }, 
     "3340678960": {
-        "en": "IDS_PGSC910", 
+        "en": "[Hindenburg]", 
         "id": 3340678960, 
         "index": "PGSC910", 
-        "ja_jp": "IDS_PGSC910", 
+        "ja_jp": "[Hindenburg]", 
         "level": 10, 
         "name": "PGSC910_Hindenburg", 
         "nation": "Germany", 
@@ -130,10 +130,10 @@
         "zh_tw": "IDS_PGSC910"
     }, 
     "3340711728": {
-        "en": "IDS_PGSB910", 
+        "en": "[G. Kurf\u00fcrst]", 
         "id": 3340711728, 
         "index": "PGSB910", 
-        "ja_jp": "IDS_PGSB910", 
+        "ja_jp": "[G. Kurf\u00fcrst]", 
         "level": 10, 
         "name": "PGSB910_Grossdeutschland", 
         "nation": "Germany", 
@@ -143,10 +143,10 @@
         "zh_tw": "IDS_PGSB910"
     }, 
     "3340711888": {
-        "en": "IDS_PBSB910", 
+        "en": "[Conqueror]", 
         "id": 3340711888, 
         "index": "PBSB910", 
-        "ja_jp": "IDS_PBSB910", 
+        "ja_jp": "[Conqueror]", 
         "level": 10, 
         "name": "PBSB910_Conqueror", 
         "nation": "United_Kingdom", 
@@ -663,10 +663,10 @@
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
     "3751753712": {
-        "en": "IDS_PASB518", 
+        "en": "Massachusetts", 
         "id": 3751753712, 
         "index": "PASB518", 
-        "ja_jp": "IDS_PASB518", 
+        "ja_jp": "Massachusetts", 
         "level": 8, 
         "name": "PASB518_Massachusetts", 
         "nation": "USA", 
@@ -702,10 +702,10 @@
         "zh_tw": "\u5bc6\u8607\u91cc\u865f"
     }, 
     "3762173136": {
-        "en": "Lo Yang", 
+        "en": "Loyang", 
         "id": 3762173136, 
         "index": "PZSD508", 
-        "ja_jp": "Lo Yang", 
+        "ja_jp": "Loyang", 
         "level": 8, 
         "name": "PZSD508_LoYang", 
         "nation": "Pan_Asia", 
@@ -763,8 +763,8 @@
         "nation": "Japan", 
         "ru": "IDS_PJSB508", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PJSB508", 
-        "zh_tw": "IDS_PJSB508"
+        "zh_cn": "\u7eaa\u4f0a", 
+        "zh_tw": "\u7d00\u4f0a\u7d1a"
     }, 
     "3762239472": {
         "en": "Alabama", 
@@ -932,8 +932,8 @@
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSC506", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PZSC506", 
-        "zh_tw": "IDS_PZSC506"
+        "zh_cn": "\u9ec4\u6cb3", 
+        "zh_tw": "\u9ec3\u6cb3\u865f"
     }, 
     "3764303216": {
         "en": "Perth", 
@@ -1088,14 +1088,14 @@
         "nation": "Italy", 
         "ru": "IDS_PISB505", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PISB505", 
-        "zh_tw": "IDS_PISB505"
+        "zh_cn": "\u5c24\u5229\u4e4c\u65af\u00b7\u51ef\u6492", 
+        "zh_tw": "\u5c24\u5229\u70cf\u65af\u00b7\u51f1\u6492\u865f"
     }, 
     "3767416176": {
-        "en": "IDS_PUSD503", 
+        "en": "Vampire", 
         "id": 3767416176, 
         "index": "PUSD503", 
-        "ja_jp": "IDS_PUSD503", 
+        "ja_jp": "Vampire", 
         "level": 3, 
         "name": "PUSD503_Vampire", 
         "nation": "Commonwealth", 
@@ -1348,8 +1348,8 @@
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD110", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD110", 
-        "zh_tw": "IDS_PZSD110"
+        "zh_cn": "\u8944\u9633", 
+        "zh_tw": "\u8944\u967d\u865f"
     }, 
     "4179506640": {
         "en": "Khabarovsk", 
@@ -1465,8 +1465,8 @@
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD109", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD109", 
-        "zh_tw": "IDS_PZSD109"
+        "zh_cn": "\u5fe0\u6b66", 
+        "zh_tw": "\u5fe0\u6b66\u865f"
     }, 
     "4180555216": {
         "en": "Kiev (OLD)", 
@@ -1573,17 +1573,17 @@
         "zh_tw": "\u7345\u7d1a"
     }, 
     "4181603536": {
-        "en": "Hsien Yang", 
+        "en": "Hsienyang", 
         "id": 4181603536, 
         "index": "PZSD108", 
-        "ja_jp": "Hsien Yang", 
+        "ja_jp": "Hsienyang", 
         "level": 8, 
         "name": "PZSD108_Hsien_Yang", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD108", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD108", 
-        "zh_tw": "IDS_PZSD108"
+        "zh_cn": "\u54b8\u9633", 
+        "zh_tw": "\u54b8\u967d\u865f"
     }, 
     "4181603792": {
         "en": "Tashkent (OLD)", 
@@ -1690,10 +1690,10 @@
         "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
     }, 
     "4181669840": {
-        "en": "King George V", 
+        "en": "Monarch", 
         "id": 4181669840, 
         "index": "PBSB108", 
-        "ja_jp": "King George V", 
+        "ja_jp": "Monarch", 
         "level": 8, 
         "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
@@ -1712,8 +1712,8 @@
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD107", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD107", 
-        "zh_tw": "IDS_PZSD107"
+        "zh_cn": "\u52a0\u672d\u9a6c\u8fbe", 
+        "zh_tw": "\u52a0\u672d\u99ac\u9054\u865f"
     }, 
     "4182652368": {
         "en": "Udaloi", 
@@ -1820,10 +1820,10 @@
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
     }, 
     "4182718416": {
-        "en": "Nelson", 
+        "en": "King George V", 
         "id": 4182718416, 
         "index": "PBSB107", 
-        "ja_jp": "Nelson", 
+        "ja_jp": "King George V", 
         "level": 7, 
         "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
@@ -1833,17 +1833,17 @@
         "zh_tw": "\u82f1\u738b\u55ac\u6cbb\u4e94\u4e16\u7d1a"
     }, 
     "4183700688": {
-        "en": "Fu Shun", 
+        "en": "Fushun", 
         "id": 4183700688, 
         "index": "PZSD106", 
-        "ja_jp": "Fu Shun", 
+        "ja_jp": "Fushun", 
         "level": 6, 
         "name": "PZSD106_Fu_Shun", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD106", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD106", 
-        "zh_tw": "IDS_PZSD106"
+        "zh_cn": "\u629a\u987a", 
+        "zh_tw": "\u64ab\u9806\u865f"
     }, 
     "4183700944": {
         "en": "Ognevoi (OLD)", 
@@ -1963,17 +1963,17 @@
         "zh_tw": "\u4f0a\u9e97\u838e\u767d\u5973\u738b\u7d1a"
     }, 
     "4184749264": {
-        "en": "Jian Wei", 
+        "en": "Jianwei", 
         "id": 4184749264, 
         "index": "PZSD105", 
-        "ja_jp": "Jian Wei", 
+        "ja_jp": "Jianwei", 
         "level": 5, 
         "name": "PZSD105_Jian_Wei", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD105", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD105", 
-        "zh_tw": "IDS_PZSD105"
+        "zh_cn": "\u5efa\u5a01", 
+        "zh_tw": "\u5efa\u5a01\u865f"
     }, 
     "4184749520": {
         "en": "Gnevny (OLD)", 
@@ -2093,17 +2093,17 @@
         "zh_tw": "\u9435\u516c\u7235\u7d1a"
     }, 
     "4185797840": {
-        "en": "Shen Yang", 
+        "en": "Shenyang", 
         "id": 4185797840, 
         "index": "PZSD104", 
-        "ja_jp": "Shen Yang", 
+        "ja_jp": "Shenyang", 
         "level": 4, 
         "name": "PZSD104_Shen_Yang", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD104", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD104", 
-        "zh_tw": "IDS_PZSD104"
+        "zh_cn": "\u6c88\u9633", 
+        "zh_tw": "\u700b\u967d\u865f"
     }, 
     "4185798096": {
         "en": "Izyaslav", 
@@ -2219,8 +2219,8 @@
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD103", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD103", 
-        "zh_tw": "IDS_PZSD103"
+        "zh_cn": "\u5e15\u79b3", 
+        "zh_tw": "\u5e15\u79b3\u865f"
     }, 
     "4186846672": {
         "en": "Derzki", 
@@ -2327,17 +2327,17 @@
         "zh_tw": "\u67cf\u52d2\u6d1b\u8c50\u7d1a"
     }, 
     "4187894992": {
-        "en": "Long Jiang", 
+        "en": "Longjiang", 
         "id": 4187894992, 
         "index": "PZSD102", 
-        "ja_jp": "Long Jiang", 
+        "ja_jp": "Longjiang", 
         "level": 2, 
         "name": "PZSD102_Long_Jiang", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSD102", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PZSD102", 
-        "zh_tw": "IDS_PZSD102"
+        "zh_cn": "\u9f99\u6c5f", 
+        "zh_tw": "\u9f8d\u6c5f\u865f"
     }, 
     "4187895248": {
         "en": "Storozhevoi", 
@@ -2405,17 +2405,17 @@
         "zh_tw": "\u97cb\u8305\u65af\u7d1a"
     }, 
     "4188976336": {
-        "en": "Cheng An", 
+        "en": "Chengan", 
         "id": 4188976336, 
         "index": "PZSC101", 
-        "ja_jp": "Cheng An", 
+        "ja_jp": "Chengan", 
         "level": 1, 
         "name": "PZSC101_Cheng_An", 
         "nation": "Pan_Asia", 
         "ru": "IDS_PZSC101", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PZSC101", 
-        "zh_tw": "IDS_PZSC101"
+        "zh_cn": "\u6210\u5b89", 
+        "zh_tw": "\u6210\u5b89\u865f"
     }, 
     "4188976592": {
         "en": "Orlan", 

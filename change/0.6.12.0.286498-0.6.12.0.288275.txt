@@ -1,0 +1,537 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJEP308_Ishizuchi_1921.expFactor changed in second object (was 1.3, is 1.5)
+root.PJSD706_Shinonome.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA002_Bogue_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB104_Orion.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC506_Admiral_Graf_Spee.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD104_V_170.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS011_Curtiss_SC2.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS011_Curtiss_SC2.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGSC106_Nurnberg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRAS007_KOR_3_M_87.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS007_KOR_3_M_87.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PXSX023_HMS_SS_Lorina.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD308_Pr_48.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD001_Gremyashchy_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSD506_Gallant.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD103_G_101.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS006_N3N.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS006_N3N.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASA906_Ranger_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAES404_DR_FRANKENSHIP.peculiarity changed in second object (was halloween, is halloween_16)
+root.PAES404_DR_FRANKENSHIP.costGold changed in second object (was 1000, is 2500)
+root.PAES404_DR_FRANKENSHIP.expFactor changed in second object (was 1.3, is 1.5)
+root.PZSD110_Hsiang_Yang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD206_Hatsuharu.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC508_Kutuzov_1952.groupCustom.RU removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.CN removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.NA removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.ASIA removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.ST removed in second object
+root.PRSC508_Kutuzov_1952.groupCustom.EU removed in second object
+root.PRSC508_Kutuzov_1952.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJGM547_5in54_MK16_HSF.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PGSC110_Hindenburg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAES508_Benson_1945_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PAES508_Benson_1945_H2017.costGold changed in second object (was 3000, is 5000)
+root.PAEP309_New_York_Scull.expFactor changed in second object (was 1.3, is 1.5)
+root.PCY005_Spotter.H2017_Tirpiz removed in second object
+root.PASX904_Cimarron.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC019_Burlington_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC012_Ibuki_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP501_Gremyashchy_1942.expFactor changed in second object (was 1.3, is 1.5)
+root.PXSX033_Dyck.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP403_Katori.expFactor changed in second object (was 1.3, is 1.5)
+root.PASD913_Gearing_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC014_Kitakami_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC101_Black_Swan.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC506_Molotov_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS907_AR196C_HIDE.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS907_AR196C_HIDE.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PZSC101_Cheng_An.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC102_Novik.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD103_Derzky.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD010_Kagero_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB802_FALSE_ENEMY_Michigan.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC707_Flint.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD507_Leningrad_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD109_Z_46.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC708_ARP_Takao.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS002_Curtiss_SOC.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS002_Curtiss_SOC.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PFAS001_LOIRE130.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PFAS001_LOIRE130.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PAAS014_VOUGHT_OS2U_ARIZONA.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS014_VOUGHT_OS2U_ARIZONA.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGSC001_Hermelin_1940.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC110_Minotaur.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD803_False_Isokaze_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD107_Pr_35_Udaloy.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB103_Bellerophon.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSX026_Canterbury.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC003_Murmansk_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC109_Roon.B_Hull.visibilityCoeff changed in second object (was 24.54, is 24.8)
+root.PGSC109_Roon.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC109_Roon.A_Hull.visibilityCoeff changed in second object (was 24.54, is 24.8)
+root.PJES508_HSF_Harekaze.costGold changed in second object (was 1, is 5000)
+root.PRSD205_Podvoisky_pr_1929.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP307_Texas.expFactor changed in second object (was 1.3, is 1.5)
+root.PJSD007_Fubuki_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP502_Smith.expFactor changed in second object (was 1.3, is 1.5)
+root.PJEP514_Tachibana_1912_Asus.expFactor changed in second object (was 1.3, is 1.5)
+root.PAEP308_New_York_1934.expFactor changed in second object (was 1.3, is 1.5)
+root.PJSC707_Ashigara.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASD508_Kidd.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJGM538_5in54_MK16.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PASD029_Sims_1941.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD106_Fu_Shun.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASX005_St_Clair.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSD605_Cyclone_event.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS003_HE42.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS003_HE42.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PCY019_RLSSearch.H2017_Chapaev removed in second object
+root.PJSC838_False_Hashidate_1940.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC004_Yubari_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB006_Fuso_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD208_Kagero.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC106_Pr_94_Budeny.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA017_Hakuryu_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP313_Arkansas_1912.expFactor changed in second object (was 1.3, is 1.5)
+root.PASA507_Saipan_1946.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC014_New_Orlean_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP525_True_Kamikaze.expFactor changed in second object (was 1.3, is 1.5)
+root.PGSC502_Emden_1908.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC107_Algerie.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC016_Worcester_1948.ShipUpgradeInfo.costSaleGold removed in first object
+root.PUSC506_Perth_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PUSC506_Perth_1942.groupCustom.RU removed in second object
+root.PUSC506_Perth_1942.groupCustom.ST removed in second object
+root.PJSC034_Zao_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS007_AR196C.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS007_AR196C.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASC005_Omaha_1923.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSX701_Support.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS015_CURTISS_SC1_ALABAMA.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS015_CURTISS_SC1_ALABAMA.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASB013_Arkansas_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PUSD503_Vampire.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB106_Bayern.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC105_Konigsberg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASD005_Farragut_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC505_KrasniKrym.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC010_Diana_1905_Asus.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW107_Lazar_Kent.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW107_Lazar_Kent.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJSD209_Yugumo.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA006_Zuiho_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD106_Fubuki.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD107_Leberecht_Maass.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC004_St_Louis_1906.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB001_Kawachi_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRAS001_KOR_2.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS001_KOR_2.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASD027_Wickes_1918.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSB506_Dunkerque_1940.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC709_Haguro.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC035_Chikuma_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD105_T_22.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC015_Tatsuta_1919.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFES408_Charles_Martel_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PFES408_Charles_Martel_H2017.costGold changed in second object (was 3000, is 5000)
+root.PRAS002_KOR_1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS002_KOR_1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PBSC104_Danae.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASX815_Bogue_Clone.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP445_Marblehead_1924_Asus.expFactor changed in second object (was 1.3, is 1.5)
+root.PGSB002_Tirpiz_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB008_Colorado_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA015_Taiho_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB910_Grossdeutschland.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC038_Atago_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC706_HSF_Graf_Spee.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSX702_Support.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCY007_SpeedBooster.H2017_Kagero removed in second object
+root.PJSD026_Camo_Kamikaze.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD025_True_Kamikaze.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD110_Pr_24_Khabarovsk.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS002_HE1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS002_HE1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PAES108_Lexington_1944_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PAES108_Lexington_1944_H2017.costGold changed in second object (was 3000, is 5000)
+root.PBSB110_Conqueror.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB107_King_George_V.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW105_Sairus_Gerrero.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW105_Sairus_Gerrero.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJES524_VANHELLSINK.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJES524_VANHELLSINK.costGold changed in second object (was 1000, is 2500)
+root.PJES524_VANHELLSINK.expFactor changed in second object (was 1.3, is 1.5)
+root.PBSC507_Belfast_1959.groupCustom.EU removed in second object
+root.PBSC507_Belfast_1959.groupCustom.NA removed in second object
+root.PBSC507_Belfast_1959.groupCustom.RU removed in second object
+root.PBSC507_Belfast_1959.groupCustom.CN removed in second object
+root.PBSC507_Belfast_1959.groupCustom.ST removed in second object
+root.PBSC507_Belfast_1959.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB518_Massachusetts.A_Directors.HP_AD_5.gunNode changed in second object (was , is HP_AGM_1)
+root.PASB518_Massachusetts.A_Directors.HP_AD_26.gunNode changed in second object (was , is HP_AGM_3)
+root.PASB518_Massachusetts.A1_Artillery.HP_AGM_3.miscFilter[9] removed in first object
+root.PASB518_Massachusetts.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGES338_Tirpiz_1942_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PGES338_Tirpiz_1942_H2017.costGold changed in second object (was 3000, is 5000)
+root.PZSD109_Chung_Mu.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC506_De_Grasse.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB018_Iowa_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD708_HSF_Harekaze.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD708_HSF_Harekaze.C_Artillery.HP_JGM_1.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PJSD708_HSF_Harekaze.C_Artillery.HP_JGM_2.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PJSD708_HSF_Harekaze.C_Artillery.HP_JGM_3.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PAEP444_Marblehead_1924.expFactor changed in second object (was 1.3, is 1.5)
+root.PGSA508_Graf_Zeppelin.A_Hull.armor.65624 changed in second object (was 60.0, is 80.0)
+root.PGSA508_Graf_Zeppelin.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB109_Friedrich_der_Grosse.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA012_Zuikaku_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC013_Kuma_1938.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSD503_Campbeltown_1941.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC507_Indianapolis_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD006_Hatsuharu_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXY102_AgggrPremium removed in second object
+root.PXSX017_Caboteur_de_35_metres.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJAS005_Aichi_E13A1b.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS005_Aichi_E13A1b.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PRSC001_Avrora_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC044_Marblehead_1924.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCVO007_EV_HL_16_50_VanHellsing.difficulty.normal.rewards[2][0] changed in second object (was <Lootbox boxType="halloween2017" count="1" ignoreEpic="1" />, is <Item idx="PCEC003_Camo_Halloween" count="15"/>)
+root.PCVO007_EV_HL_16_50_VanHellsing.difficulty.normal.rewards[2][1] removed in first object
+root.PCVO007_EV_HL_16_50_VanHellsing.difficulty.normal.rewards[3][0] changed in second object (was <Lootbox boxType="halloween2017" count="1" ignoreEpic="1" />, is <Add type = "ELITE_XP" count = "25000"/>)
+root.PCVO007_EV_HL_16_50_VanHellsing.difficulty.normal.rewards[4][0] changed in second object (was <Lootbox boxType="halloween2017" count="1" ignoreEpic="1" />, is <Add type="PREM" count="1"/>)
+root.PJSC705_Myoko.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD207_Minsk.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRES408_Pr_68_Chapaev_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PRES408_Pr_68_Chapaev_H2017.costGold changed in second object (was 3000, is 5000)
+root.PASC017_Baltimore_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB508_Alabama.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC108_Edinburgh.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASX001_Cimarron.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSX034_John_Cattling.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP402_Diana_1905.expFactor changed in second object (was 1.3, is 1.5)
+root.PRAS003_KR_1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS003_KR_1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PRSD910_Grozovoy_pr_40N.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFES306_Dunkerque_Skin.costGold changed in second object (was 2000, is 3000)
+root.PASB509_Missouri.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJGM539_5in54_MK16.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PASD801_FALSE_ENEMY_Sampson.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC105_Emerald.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB002_Warspite_1941.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC108_Charles_Martel.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP526_Camo_Kamikaze.expFactor changed in second object (was 1.3, is 1.5)
+root.PRSD409_Pr_20i_Tashkent.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD005_Mutsuki_1926.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRES301_RASPUTIN.canBuy changed in second object (was False, is True)
+root.PRES301_RASPUTIN.peculiarity changed in second object (was halloween, is halloween_16)
+root.PRES301_RASPUTIN.costGold changed in second object (was 1000, is 4000)
+root.PRES301_RASPUTIN.hidden changed in second object (was True, is False)
+root.PRES301_RASPUTIN.expFactor changed in second object (was 1.3, is 1.5)
+root.PRSC104_Svetlana.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD001_Tachibana_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC107_Yorck.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD102_V_25.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC102_Jurien.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXAS007_KOR_3_M_87.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PXAS007_KOR_3_M_87.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSB802_False_Ally_Kawachi_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP301_Nikolay_I.expFactor changed in second object (was 1.3, is 1.5)
+root.PRSC606_Admiral_Makarov.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD003_Isokaze_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS004_Curtiss_SO3C.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS004_Curtiss_SO3C.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PFSC104_Duguay_Trouin.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB003_Myogi_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP403_Murmansk_1944.expFactor changed in second object (was 1.3, is 1.5)
+root.PRAS004_VOUGHT_OS2U.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS004_VOUGHT_OS2U.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASB506_Arizona_1941.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASD709_Black.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJAS001_F1M2.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS001_F1M2.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PBSC106_Leander.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD208_Pr_30.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB705_Kongou.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB007_Kongo_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD105_Pr_7_Gnevny.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC102_Weymouth.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGES308_Bismarck_Veteran.costGold changed in second object (was 2000, is 5000)
+root.PGES308_Bismarck_Veteran.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGES328_Bismarck_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PGES328_Bismarck_H2017.costGold changed in second object (was 3000, is 5000)
+root.PGES303_MR_HYDE.peculiarity changed in second object (was halloween, is halloween_16)
+root.PGES303_MR_HYDE.costGold changed in second object (was 1000, is 2500)
+root.PGES303_MR_HYDE.expFactor changed in second object (was 1.3, is 1.5)
+root.PXSX025_Medway_Queen.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC503_Katori.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB012_North_Carolina_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB801_False_Michigan_1916.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB034_New_Mexico_1941.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW101_Dr_Van_Helsind.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW101_Dr_Van_Helsind.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PBSB517_Nelson.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP411_Oktyabrskaya_Revolutsiya.expFactor changed in second object (was 1.3, is 1.5)
+root.PASD006_Mahan_1936.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD107_Gadjah_Mada.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD107_Gadjah_Mada.AB_Radars.HP_ZRS_2 removed in first object
+root.PCY003_AirDefenseDisp.H2017_Chapaev removed in second object
+root.PASD014_Leader_1919.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFAS006_LOIRE130_DUNKIRK.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PFAS006_LOIRE130_DUNKIRK.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASD021_Fletcher_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC108_Pr_68_Chapaev.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP311_Mikasa_1905.expFactor changed in second object (was 1.3, is 1.5)
+root.PGEP402_Emden_1908.expFactor changed in second object (was 1.3, is 1.5)
+root.PASD013_Gearing_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRAS008_KL_145.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS008_KL_145.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASB004_Arkansas_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD106_Pr_30_Ognevoy.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB708_Hiei_Arpeggio.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCY006_SmokeGenerator.H2017 removed in second object
+root.PCY006_SmokeGenerator.H2017_Kagero removed in second object
+root.PXY111_SonarSearchPremium removed in second object
+root.PASD019_Clemson_1920.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB001_Michigan_1916.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSA002_Invisible_Air_Ally_1.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS001_Vought_OS2U.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS001_Vought_OS2U.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGSC508_Prinz_Eugen.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC018_Tone.ShipUpgradeInfo.costSaleGold removed in first object
+root.PISC506_DucadAosta.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC110_Pr_66_Moskva.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD108_Hsien_Yang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSB001_Nikolay_I.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCEP103_Permo_Prem_Low_lvl.expFactor changed in second object (was 1.3, is 1.5)
+root.PGSC002_Drezden_1908.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAUF705_FC1_ENTEPRISE.costXP changed in second object (was 1, is 0)
+root.PRAS006_KOR_3_VK_107.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS006_KOR_3_VK_107.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSD002_Umikaze_1925.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAUF621_SAIPAN.costCR changed in second object (was 1, is 0)
+root.PJSB010_Nagato_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASD002_Sampson_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSD605_Anthony_Event.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC106_La_Galissonniere.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD210_Grozovoy_pr_40N.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.expFactor changed in second object (was 1.3, is 1.5)
+root.PASB917_Montana_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC109_Saint_Louis.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA917_Hakuryu_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD109_Pr_48_Kiev.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC009_Mogami_1935.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC002_Diana_1905.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC008_Myoko_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD104_Izyaslav.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD110_Z_52.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC108_Hipper.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP405_KrasniKrym.expFactor changed in second object (was 1.3, is 1.5)
+root.PAAS010_Curtiss_SC1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS010_Curtiss_SC1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PXSD007_Scnellboot_S38.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC002_Chester_1908.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD012_Shimakaze_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASX006_Cimarron_invisible.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW106_Klaus_Teslau.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW106_Klaus_Teslau.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJSC005_Furutaka_1926.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB107_Gneisenau.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC910_Pr_66_Moskva.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC026_Iwaki_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSX016_Goliath.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC910_Hindenburg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA004_Langley_1929.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD104_Shen_Yang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC007_Aoba_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGEP303_Koenig_Albert.expFactor changed in second object (was 1.3, is 1.5)
+root.PASC003_Albany_1898.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB104_Kaiser.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB106_Queen_Elizabeth.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP404_Yubari_1944.expFactor changed in second object (was 1.3, is 1.5)
+root.PJSC934_Zao_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP517_Kamikaze_1930.expFactor changed in second object (was 1.3, is 1.5)
+root.PGSB108_Bismarck.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD102_Long_Jiang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP501_Tachibana_1912.expFactor changed in second object (was 1.3, is 1.5)
+root.PJGM548_5in54_MK16_2_HSF.HitLocationArtillery.maxHP changed in second object (was 1000.0, is 4000.0)
+root.PXW102_Dr_Frankenship.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW102_Dr_Frankenship.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PRSC503_Oleg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC007_Cleveland_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJES108_Zuikaku_1944_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJES108_Zuikaku_1944_H2017.costGold changed in second object (was 3000, is 5000)
+root.PBSC107_Fiji.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBEP503_Campbeltown.expFactor changed in second object (was 1.3, is 1.5)
+root.PBSB910_Conqueror.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCY004_Fighter.H2017_Tirpiz removed in second object
+root.PFAS005_Breguet_Br790.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PFAS005_Breguet_Br790.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PZSD105_Jian_Wei.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD505_Okhotnik_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD004_Minekadze_1920.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS004_HE60.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS004_HE60.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSA009_Ryujo_1933.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD105_Mutsuki.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB008_Ishizuchi_1921.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP403_Albany_1898.expFactor changed in second object (was 1.3, is 1.5)
+root.PGAS901_AR196_HIDE.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS901_AR196_HIDE.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASC803_Cimarron_shooter.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCY021_MGReloader removed in second object
+root.PGSD108_Z_23.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBES317_Hood_Clean.costGold changed in second object (was 2000, is 4000)
+root.PBES317_Hood_Clean.afterBattleRepair changed in second object (was 1.0, is 0.95)
+root.PJSD014_Tachibana_1912_Asus.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC012_Pensacola_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC109_Dmitry_Donskoy.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB105_Koenig.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC109_Neptune.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCH068_F_2016.shipCategories[3] removed in first object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC110_Henri_IV.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW104_Mina_Ura.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW104_Mina_Ura.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PASA015_Midway_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB011_Mikasa_1905.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC717_Yellow_Dragon.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA006_Independence_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB707_Haruna.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAUF721_SAIPAN.costCR changed in second object (was 1, is 0)
+root.PJSD207_Shiratsuyu.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB110_Grossdeutschland.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD206_Pr_7.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSD106_Ernst_Gaede.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB013_Amagi_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXW103_Mr_Hide.CrewPersonality.ships.peculiarity[0] changed in second object (was halloween, is halloween_16)
+root.PXW103_Mr_Hide.CrewPersonality.peculiarity changed in second object (was halloween, is halloween_16)
+root.PASD502_Smith.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJAS002_Yokosuka_E1Y.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS002_Yokosuka_E1Y.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PWSD501_Blyskawica.ShipUpgradeInfo.costSaleGold removed in first object
+root.PFSC103_Friant.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC107_Schors.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSA001_Invisible_Air_Enemy_1.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC020_Des_Moines_1948.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA002_Hosho_1939.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD506_Anshan.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB799_Kirishima.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASX003_Liberty.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB801_False_Kawachi_1912.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD017_Kamikaze_1930.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC037_Hashidate_1940.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC024_Phoenix_1917.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD508_LoYang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP410_Diana_1905_Asus.expFactor changed in second object (was 1.3, is 1.5)
+root.PRSD102_SM_Storojevoy.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA508_Enterprise.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA013_Essex_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB108_Monarch.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGES406_HSF_Graf_Spee.costGold changed in second object (was 1, is 3000)
+root.PASA010_Ranger_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS012_Vought_OS2U_2.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS012_Vought_OS2U_2.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PCEP115_Permo_Upgr_5_lvl.expFactor changed in second object (was 1.3, is 1.5)
+root.PGAS001_Ar196.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS001_Ar196.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PASC802_Cimarron_Target.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBES307_Hood_Veteran.costGold changed in second object (was 2000, is 4000)
+root.PBES307_Hood_Veteran.afterBattleRepair changed in second object (was 1.0, is 0.95)
+root.PRSC105_Kirov.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSD108_Pr_20i_Tashkent.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS016_OS2U_3_MASS.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS016_OS2U_3_MASS.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGSC103_Kolberg.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXSX024_Aronia.ShipUpgradeInfo.costSaleGold removed in first object
+root.PISB505_Giulio_Cesare.A1_Artillery.sigmaCount changed in second object (was 1.5, is 1.9)
+root.PISB505_Giulio_Cesare.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC001_Erie_1936.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB503_Koenig_Albert.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSC104_Karlsruhe.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSD024_Wakatake_1923.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA011_Hiryu_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PXAS901_AR196_HIDE.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PXAS901_AR196_HIDE.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGAS006_FW62.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS006_FW62.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PGES318_Bismarck_Clean.costGold changed in second object (was 2000, is 5000)
+root.PGES318_Bismarck_Clean.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGSB103_Nassau.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB507_Hood.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSD103_Phra_Ruang.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJAS010_Kawanishi_E7k.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS010_Kawanishi_E7k.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSD107_Akatsuki.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB706_Kirishima.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA012_Lexington_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB006_New_York_1934.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS005_Vought_UO1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS005_Vought_UO1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSC727_Blue_Dragon.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJEP426_Iwaki_1944.expFactor changed in second object (was 1.3, is 1.5)
+root.PJAS007_Kawanishi_E15K1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS007_Kawanishi_E15K1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PFSC101_Bougainville.ShipUpgradeInfo.costSaleGold removed in first object
+root.PZSC506_Huang_he.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRAS009_KOR_2_VK_105.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS009_KOR_2_VK_105.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PRSC101_Orlan.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGSB507_Scharnhorst.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC103_Bogatyr.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSC103_Caledon.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCVO006_EV_HL_17_e02_Halloween_2017.difficulty.normal.rewards[0][0] changed in second object (was <Item idx="PCEC003_Camo_Halloween" count="15"/>, is <Lootbox boxType="halloween2017" count="1" ignoreEpic="1" />)
+root.PCVO006_EV_HL_17_e02_Halloween_2017.difficulty.normal.rewards[1][0] changed in second object (was <Item idx="PCEC019_Camo_Halloween_16" count="15"/>, is <Lootbox boxType="halloween2017" count="1" ignoreEpic="1" />)
+root.PJSD108_Akizuki.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJES518_Kagero_H2017.peculiarity changed in second object (was halloween, is halloween_16)
+root.PJES518_Kagero_H2017.costGold changed in second object (was 3000, is 5000)
+root.PXSX043_Medway_Queen_War.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASD008_Benson_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRAS005_KOR_2_M_62.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PRAS005_KOR_2_M_62.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PBSB109_Lion.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASA915_Midway_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PRSC999_Seal.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB705_Texas_1944.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB506_Mutsu.ShipUpgradeInfo.costSaleGold removed in first object
+root.PCEP305_Permo_Emerald_Edition.expFactor changed in second object (was 1.3, is 1.5)
+root.PASC045_Marblehead_1924_Asus.ShipUpgradeInfo.costSaleGold removed in first object
+root.PGAS005_HE9.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PGAS005_HE9.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSB021_Izumo_1938.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJAS003_Yokosuka_K5Y2.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS003_Yokosuka_K5Y2.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJAS004_Aichi_E13A1.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PJAS004_Aichi_E13A1.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PJSC837_False_Hashidate_1940.ShipUpgradeInfo.costSaleGold removed in first object
+root.PBSB105_Iron_Duke.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSC737_Nachi.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASC006_Atlanta_1942.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAAS007_O2U.minVisibilityFactor changed in second object (was 4.0, is 8.0)
+root.PAAS007_O2U.minVisibilityFactorByPlane changed in second object (was 4.0, is 7.0)
+root.PFSC105_Emile_Bertin.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSA507_Kaga.ShipUpgradeInfo.costSaleGold removed in first object
+root.PAEP409_Cleveland_1945.expFactor changed in second object (was 1.3, is 1.5)
+root.PASB708_Alabama.ShipUpgradeInfo.costSaleGold removed in first object
+root.PASB017_Montana_1945.ShipUpgradeInfo.costSaleGold removed in first object
+root.PJSB508_Kii.ShipUpgradeInfo.costSaleGold removed in first object
+root.PREP401_Avrora_1917.expFactor changed in second object (was 1.3, is 1.5)
+root.PCEE154_Indianapolis_Flag removed in first object
+root.PCEE147_message_png removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15 removed in first object
+root.PCEE148_HW_Another_Flag removed in first object
+root.PCEE145_Pigeon_Of_War removed in first object
+root.PCEE155_Tirpitz_Flag removed in first object
+root.PCT147_06mln_credits removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15 removed in first object
+root.PCEE153_Battle_of_Trafalgar removed in first object
+>> finished comparing
