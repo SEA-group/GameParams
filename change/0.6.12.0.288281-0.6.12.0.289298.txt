@@ -1,0 +1,454 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSD706_Shinonome.deathTimeFactor removed in first object
+root.PASA002_Bogue_1942.deathTimeFactor removed in first object
+root.PBSB104_Orion.deathTimeFactor removed in first object
+root.PGSC506_Admiral_Graf_Spee.deathTimeFactor removed in first object
+root.PGSD104_V_170.deathTimeFactor removed in first object
+root.PGSC106_Nurnberg.deathTimeFactor removed in first object
+root.PXSX023_HMS_SS_Lorina.deathTimeFactor removed in first object
+root.PRSD308_Pr_48.deathTimeFactor removed in first object
+root.PRSD001_Gremyashchy_1942.deathTimeFactor removed in first object
+root.PBSD506_Gallant.deathTimeFactor removed in first object
+root.PGSD103_G_101.deathTimeFactor removed in first object
+root.PASA906_Ranger_1944.deathTimeFactor removed in first object
+root.PZSD110_Hsiang_Yang.A_Hull.visibilityFactor changed in second object (was 7.02, is 7.42)
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was US_Lvl_10, is PAZ)
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was US_Lvl_10_Gold, is PAZ_Gold)
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PZSD110_Hsiang_Yang.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PZSD110_Hsiang_Yang.deathTimeFactor removed in first object
+root.PJSD206_Hatsuharu.deathTimeFactor removed in first object
+root.PRSC508_Kutuzov_1952.deathTimeFactor removed in first object
+root.PGSC110_Hindenburg.deathTimeFactor removed in first object
+root.PXSB005_Bismarck_H2017.group changed in second object (was event, is unavailable)
+root.PXSB005_Bismarck_H2017.deathTimeFactor removed in first object
+root.PASX904_Cimarron.deathTimeFactor removed in first object
+root.PASC019_Burlington_1944.deathTimeFactor removed in first object
+root.PJSC012_Ibuki_1944.deathTimeFactor removed in first object
+root.PXSX033_Dyck.deathTimeFactor removed in first object
+root.PASD913_Gearing_1945.deathTimeFactor removed in first object
+root.PJSC014_Kitakami_1945.deathTimeFactor removed in first object
+root.PBSC101_Black_Swan.deathTimeFactor removed in first object
+root.PRSC506_Molotov_1943.deathTimeFactor removed in first object
+root.PZSC101_Cheng_An.deathTimeFactor removed in first object
+root.PRSC102_Novik.deathTimeFactor removed in first object
+root.PRSD103_Derzky.deathTimeFactor removed in first object
+root.PJSD010_Kagero_1943.deathTimeFactor removed in first object
+root.PASB802_FALSE_ENEMY_Michigan.deathTimeFactor removed in first object
+root.PASC707_Flint.deathTimeFactor removed in first object
+root.PRSD507_Leningrad_1944.deathTimeFactor removed in first object
+root.PGSD109_Z_46.deathTimeFactor removed in first object
+root.PJSC708_ARP_Takao.deathTimeFactor removed in first object
+root.PGSC001_Hermelin_1940.deathTimeFactor removed in first object
+root.PBSC110_Minotaur.deathTimeFactor removed in first object
+root.PJSD803_False_Isokaze_1917.deathTimeFactor removed in first object
+root.PRSD107_Pr_35_Udaloy.deathTimeFactor removed in first object
+root.PBSB103_Bellerophon.deathTimeFactor removed in first object
+root.PXSX026_Canterbury.deathTimeFactor removed in first object
+root.PRSC003_Murmansk_1944.deathTimeFactor removed in first object
+root.PGSC109_Roon.deathTimeFactor removed in first object
+root.PRSD205_Podvoisky_pr_1929.deathTimeFactor removed in first object
+root.PJSD007_Fubuki_1944.deathTimeFactor removed in first object
+root.PJSC707_Ashigara.deathTimeFactor removed in first object
+root.PASD508_Kidd.deathTimeFactor removed in first object
+root.PASD029_Sims_1941.deathTimeFactor removed in first object
+root.PZSD106_Fu_Shun.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_6, is PAZ)
+root.PZSD106_Fu_Shun.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_6_Gold, is PAZ_Gold)
+root.PZSD106_Fu_Shun.deathTimeFactor removed in first object
+root.PASX005_St_Clair.deathTimeFactor removed in first object
+root.PXY101_MindControlPremium.Default.numConsumables changed in second object (was 2, is 4)
+root.PXY101_MindControlPremium.H2017_Kagero.workTime changed in second object (was 30.0, is 40.0)
+root.PFSD605_Cyclone_event.deathTimeFactor removed in first object
+root.PCY019_RLSSearch.PAZ_9.workTime changed in second object (was 12.0, is 17.0)
+root.PCY019_RLSSearch.PAZ_8.workTime changed in second object (was 10.0, is 15.0)
+root.PCY019_RLSSearch.PAZ_10.workTime changed in second object (was 15.0, is 20.0)
+root.PJSC838_False_Hashidate_1940.deathTimeFactor removed in first object
+root.PXSB003_Zeekasa.group changed in second object (was event, is unavailable)
+root.PXSB003_Zeekasa.deathTimeFactor removed in first object
+root.PCY014_SmokeGeneratorPremium.PAZ_Gold removed in first object
+root.PJSC004_Yubari_1944.deathTimeFactor removed in first object
+root.PJSB006_Fuso_1943.deathTimeFactor removed in first object
+root.PJSD208_Kagero.deathTimeFactor removed in first object
+root.PRSC106_Pr_94_Budeny.deathTimeFactor removed in first object
+root.PJSA017_Hakuryu_1942.deathTimeFactor removed in first object
+root.PZGM044_152mm_MK4.shotDelay changed in second object (was 7.5, is 7.0)
+root.PZGM044_152mm_MK4.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PASA507_Saipan_1946.deathTimeFactor removed in first object
+root.PASC014_New_Orlean_1944.deathTimeFactor removed in first object
+root.PGSC502_Emden_1908.deathTimeFactor removed in first object
+root.PFSC107_Algerie.deathTimeFactor removed in first object
+root.PASC016_Worcester_1948.deathTimeFactor removed in first object
+root.PUSC506_Perth_1942.deathTimeFactor removed in first object
+root.PJSC034_Zao_1944.deathTimeFactor removed in first object
+root.PASC005_Omaha_1923.deathTimeFactor removed in first object
+root.PJSX701_Support.deathTimeFactor removed in first object
+root.PASB013_Arkansas_1912.deathTimeFactor removed in first object
+root.PUSD503_Vampire.deathTimeFactor removed in first object
+root.PGSB106_Bayern.deathTimeFactor removed in first object
+root.PGSC105_Konigsberg.deathTimeFactor removed in first object
+root.PASD005_Farragut_1944.deathTimeFactor removed in first object
+root.PRSC505_KrasniKrym.deathTimeFactor removed in first object
+root.PRSC010_Diana_1905_Asus.deathTimeFactor removed in first object
+root.PJSD209_Yugumo.deathTimeFactor removed in first object
+root.PJSA006_Zuiho_1944.deathTimeFactor removed in first object
+root.PJSD106_Fubuki.deathTimeFactor removed in first object
+root.PGSD107_Leberecht_Maass.deathTimeFactor removed in first object
+root.PASC004_St_Louis_1906.deathTimeFactor removed in first object
+root.PJSB001_Kawachi_1912.deathTimeFactor removed in first object
+root.PASD027_Wickes_1918.deathTimeFactor removed in first object
+root.PFSB506_Dunkerque_1940.deathTimeFactor removed in first object
+root.PJSC709_Haguro.deathTimeFactor removed in first object
+root.PJSC035_Chikuma_1912.deathTimeFactor removed in first object
+root.PGSD105_T_22.deathTimeFactor removed in first object
+root.PJSC015_Tatsuta_1919.deathTimeFactor removed in first object
+root.PBSC104_Danae.deathTimeFactor removed in first object
+root.PASX815_Bogue_Clone.deathTimeFactor removed in first object
+root.PGSB002_Tirpiz_1942.deathTimeFactor removed in first object
+root.PASB008_Colorado_1945.deathTimeFactor removed in first object
+root.PXSB001_Mr_Hyde.deathTimeFactor removed in first object
+root.PJSA015_Taiho_1944.deathTimeFactor removed in first object
+root.PGSB910_Grossdeutschland.deathTimeFactor removed in first object
+root.PJSC038_Atago_1944.deathTimeFactor removed in first object
+root.PXY110_RLSSearchPremium.H2017_Chapaev.workTime changed in second object (was 20.0, is 45.0)
+root.PXY110_RLSSearchPremium.H2017_Chapaev.distShip changed in second object (was 400.0, is 500.0)
+root.PXY110_RLSSearchPremium.Default.numConsumables changed in second object (was 7, is 6)
+root.PJSB018_Yamato_1944.deathTimeFactor removed in first object
+root.PGSC706_HSF_Graf_Spee.deathTimeFactor removed in first object
+root.PJSX702_Support.deathTimeFactor removed in first object
+root.PJSD026_Camo_Kamikaze.deathTimeFactor removed in first object
+root.PJSD025_True_Kamikaze.deathTimeFactor removed in first object
+root.PRSD110_Pr_24_Khabarovsk.deathTimeFactor removed in first object
+root.PBSB110_Conqueror.A_Hull.visibilityCoefGKInSmoke changed in second object (was 15.85, is 16.69)
+root.PBSB110_Conqueror.A_Hull.visibilityFactor changed in second object (was 14.76, is 15.66)
+root.PBSB110_Conqueror.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was UK_CL, is UK_HT_BB)
+root.PBSB110_Conqueror.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was UK_CL_PREM, is UK_HT_BB_PREM)
+root.PBSB110_Conqueror.deathTimeFactor removed in first object
+root.PBSB107_King_George_V.deathTimeFactor removed in first object
+root.PBSC507_Belfast_1959.deathTimeFactor removed in first object
+root.PASB518_Massachusetts.deathTimeFactor removed in first object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_9, is PAZ)
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_9_Gold, is PAZ_Gold)
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PZSD109_Chung_Mu.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PZSD109_Chung_Mu.deathTimeFactor removed in first object
+root.PFSC506_De_Grasse.deathTimeFactor removed in first object
+root.PXSX001_Transylvania.deathTimeFactor removed in first object
+root.PASB018_Iowa_1944.deathTimeFactor removed in first object
+root.PJSD708_HSF_Harekaze.deathTimeFactor removed in first object
+root.PGSA508_Graf_Zeppelin.deathTimeFactor removed in first object
+root.PGSB109_Friedrich_der_Grosse.deathTimeFactor removed in first object
+root.PJSA012_Zuikaku_1944.deathTimeFactor removed in first object
+root.PXY001_MindControl.Default.numConsumables changed in second object (was 2, is 3)
+root.PXY001_MindControl.H2017_Kagero.workTime changed in second object (was 30.0, is 40.0)
+root.PJSC013_Kuma_1938.deathTimeFactor removed in first object
+root.PBSD503_Campbeltown_1941.deathTimeFactor removed in first object
+root.PASC507_Indianapolis_1945.deathTimeFactor removed in first object
+root.PJSD006_Hatsuharu_1945.deathTimeFactor removed in first object
+root.PXSX017_Caboteur_de_35_metres.deathTimeFactor removed in first object
+root.PRSC001_Avrora_1917.deathTimeFactor removed in first object
+root.PASC044_Marblehead_1924.deathTimeFactor removed in first object
+root.PJSC705_Myoko.deathTimeFactor removed in first object
+root.PRSD207_Minsk.deathTimeFactor removed in first object
+root.PASC017_Baltimore_1944.deathTimeFactor removed in first object
+root.PASB508_Alabama.deathTimeFactor removed in first object
+root.PBSC108_Edinburgh.deathTimeFactor removed in first object
+root.PASX001_Cimarron.deathTimeFactor removed in first object
+root.PXSX034_John_Cattling.deathTimeFactor removed in first object
+root.PRSD910_Grozovoy_pr_40N.deathTimeFactor removed in first object
+root.PASB509_Missouri.deathTimeFactor removed in first object
+root.PASD801_FALSE_ENEMY_Sampson.deathTimeFactor removed in first object
+root.PXSC003_Pr_68_Chapaev_H2017.deathTimeFactor removed in first object
+root.PBSC105_Emerald.deathTimeFactor removed in first object
+root.PBSB002_Warspite_1941.deathTimeFactor removed in first object
+root.PFSC108_Charles_Martel.deathTimeFactor removed in first object
+root.PRSD409_Pr_20i_Tashkent.deathTimeFactor removed in first object
+root.PJSD005_Mutsuki_1926.deathTimeFactor removed in first object
+root.PRSC104_Svetlana.deathTimeFactor removed in first object
+root.PJSD001_Tachibana_1912.deathTimeFactor removed in first object
+root.PGSC107_Yorck.deathTimeFactor removed in first object
+root.PGSD102_V_25.deathTimeFactor removed in first object
+root.PFSC102_Jurien.deathTimeFactor removed in first object
+root.PJSB802_False_Ally_Kawachi_1912.deathTimeFactor removed in first object
+root.PRSC606_Admiral_Makarov.deathTimeFactor removed in first object
+root.PJSD003_Isokaze_1917.deathTimeFactor removed in first object
+root.PFSC104_Duguay_Trouin.deathTimeFactor removed in first object
+root.PJSB003_Myogi_1912.deathTimeFactor removed in first object
+root.PASB506_Arizona_1941.deathTimeFactor removed in first object
+root.PASD709_Black.deathTimeFactor removed in first object
+root.PBSC106_Leander.deathTimeFactor removed in first object
+root.PRSD208_Pr_30.deathTimeFactor removed in first object
+root.PJSB705_Kongou.deathTimeFactor removed in first object
+root.PJSB007_Kongo_1942.deathTimeFactor removed in first object
+root.PRSD105_Pr_7_Gnevny.deathTimeFactor removed in first object
+root.PBSC102_Weymouth.deathTimeFactor removed in first object
+root.PCY020_RLSSearchPremium.PAZ_8_PREMIUM.workTime changed in second object (was 10.0, is 15.0)
+root.PCY020_RLSSearchPremium.PAZ_9_PREMIUM.workTime changed in second object (was 12.0, is 17.0)
+root.PCY020_RLSSearchPremium.PAZ_10_PREMIUM.workTime changed in second object (was 15.0, is 20.0)
+root.PXSX025_Medway_Queen.deathTimeFactor removed in first object
+root.PJSC503_Katori.deathTimeFactor removed in first object
+root.PASB012_North_Carolina_1945.deathTimeFactor removed in first object
+root.PXSD003_Kagero_H2017.EngineDefault.HitLocationEngine.critProb[0] changed in second object (was 0.25, is 0.01)
+root.PXSD003_Kagero_H2017.EngineDefault.HitLocationEngine.critProb[1] changed in second object (was 0.1, is 0.01)
+root.PXSD003_Kagero_H2017.deathTimeFactor removed in first object
+root.PASB801_False_Michigan_1916.deathTimeFactor removed in first object
+root.PASB034_New_Mexico_1941.deathTimeFactor removed in first object
+root.PBSB517_Nelson.deathTimeFactor removed in first object
+root.PCY018_TorpedoReloaderPremium.PAZ_premium removed in first object
+root.PASD006_Mahan_1936.deathTimeFactor removed in first object
+root.PZSD107_Gadjah_Mada.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_7, is PAZ)
+root.PZSD107_Gadjah_Mada.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_7_Gold, is PAZ_Gold)
+root.PZSD107_Gadjah_Mada.deathTimeFactor removed in first object
+root.PASD014_Leader_1919.deathTimeFactor removed in first object
+root.PASD021_Fletcher_1943.deathTimeFactor removed in first object
+root.PRSC108_Pr_68_Chapaev.deathTimeFactor removed in first object
+root.PASD013_Gearing_1945.deathTimeFactor removed in first object
+root.PASB004_Arkansas_1912.deathTimeFactor removed in first object
+root.PRSD106_Pr_30_Ognevoy.deathTimeFactor removed in first object
+root.PJSB708_Hiei_Arpeggio.deathTimeFactor removed in first object
+root.PCY006_SmokeGenerator.PAZ removed in first object
+root.PASD019_Clemson_1920.deathTimeFactor removed in first object
+root.PASB001_Michigan_1916.deathTimeFactor removed in first object
+root.PXSA002_Invisible_Air_Ally_1.deathTimeFactor removed in first object
+root.PGSC508_Prinz_Eugen.deathTimeFactor removed in first object
+root.PJSC018_Tone.deathTimeFactor removed in first object
+root.PISC506_DucadAosta.deathTimeFactor removed in first object
+root.PRSC110_Pr_66_Moskva.deathTimeFactor removed in first object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was US_Lvl_8, is PAZ)
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was US_Lvl_8_Gold, is PAZ_Gold)
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PZSD108_Hsien_Yang.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PZSD108_Hsien_Yang.deathTimeFactor removed in first object
+root.PRSB001_Nikolay_I.deathTimeFactor removed in first object
+root.PXSA003_Lexington_1944_H2017.deathTimeFactor removed in first object
+root.PGSC002_Drezden_1908.deathTimeFactor removed in first object
+root.PJSD002_Umikaze_1925.deathTimeFactor removed in first object
+root.PXY010_RLSSearch.H2017_Chapaev.workTime changed in second object (was 20.0, is 45.0)
+root.PXY010_RLSSearch.H2017_Chapaev.distShip changed in second object (was 400.0, is 500.0)
+root.PXY010_RLSSearch.Default.numConsumables changed in second object (was 6, is 5)
+root.PJSB010_Nagato_1944.deathTimeFactor removed in first object
+root.PASD002_Sampson_1917.deathTimeFactor removed in first object
+root.PBSD605_Anthony_Event.deathTimeFactor removed in first object
+root.PFSC106_La_Galissonniere.deathTimeFactor removed in first object
+root.PRSD210_Grozovoy_pr_40N.deathTimeFactor removed in first object
+root.PASB917_Montana_1945.deathTimeFactor removed in first object
+root.PFSC109_Saint_Louis.deathTimeFactor removed in first object
+root.PXSD001_VanHellsink.deathTimeFactor removed in first object
+root.PJSA917_Hakuryu_1942.deathTimeFactor removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.deathTimeFactor removed in first object
+root.PZPT009_533_MKII_D.speed changed in second object (was 52.0, is 51.0)
+root.PZPT009_533_MKII_D.visibilityFactor changed in second object (was 0.7, is 1.1)
+root.PZPT009_533_MKII_D.maxDist changed in second object (was 167.0, is 244.0)
+root.PRSD109_Pr_48_Kiev.deathTimeFactor removed in first object
+root.PJSC009_Mogami_1935.deathTimeFactor removed in first object
+root.PRSC002_Diana_1905.deathTimeFactor removed in first object
+root.PXSC001_Dr_Frankenship.deathTimeFactor removed in first object
+root.PJSC008_Myoko_1945.deathTimeFactor removed in first object
+root.PRSD104_Izyaslav.deathTimeFactor removed in first object
+root.PGSD110_Z_52.deathTimeFactor removed in first object
+root.PGSC108_Hipper.deathTimeFactor removed in first object
+root.PZPT007_G6_AV3_D.visibilityFactor changed in second object (was 0.6, is 1.1)
+root.PZPT007_G6_AV3_D.maxDist changed in second object (was 167.0, is 280.0)
+root.PXSD007_Scnellboot_S38.deathTimeFactor removed in first object
+root.PASC002_Chester_1908.deathTimeFactor removed in first object
+root.PZGM015_4_7in45_BL_Mark_I.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZGM015_4_7in45_BL_Mark_I.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PJSD012_Shimakaze_1943.deathTimeFactor removed in first object
+root.PXSB004_Tirpiz_1942_H2017.ATBADefault.maxDist changed in second object (was 6000.0, is 5300.0)
+root.PXSB004_Tirpiz_1942_H2017.deathTimeFactor removed in first object
+root.PASX006_Cimarron_invisible.deathTimeFactor removed in first object
+root.PJSC005_Furutaka_1926.deathTimeFactor removed in first object
+root.PGSB107_Gneisenau.deathTimeFactor removed in first object
+root.PRSC910_Pr_66_Moskva.deathTimeFactor removed in first object
+root.PJSC026_Iwaki_1944.deathTimeFactor removed in first object
+root.PXSX016_Goliath.deathTimeFactor removed in first object
+root.PGSC910_Hindenburg.deathTimeFactor removed in first object
+root.PXSA004_Zuikaku_1944_H2017.group changed in second object (was event, is unavailable)
+root.PXSA004_Zuikaku_1944_H2017.deathTimeFactor removed in first object
+root.PASA004_Langley_1929.deathTimeFactor removed in first object
+root.PZSD104_Shen_Yang.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_4, is PAZ)
+root.PZSD104_Shen_Yang.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_4_Gold, is PAZ_Gold)
+root.PZSD104_Shen_Yang.deathTimeFactor removed in first object
+root.PCY017_TorpedoReloader.PAZ removed in first object
+root.PJSC007_Aoba_1943.deathTimeFactor removed in first object
+root.PZPT011_MK_11_D.speed changed in second object (was 56.0, is 64.0)
+root.PZPT011_MK_11_D.visibilityFactor changed in second object (was 0.7, is 1.1)
+root.PZPT011_MK_11_D.maxDist changed in second object (was 183.0, is 213.0)
+root.PASC003_Albany_1898.deathTimeFactor removed in first object
+root.PGSB104_Kaiser.deathTimeFactor removed in first object
+root.PBSB106_Queen_Elizabeth.deathTimeFactor removed in first object
+root.PJSC934_Zao_1944.deathTimeFactor removed in first object
+root.PGSB108_Bismarck.deathTimeFactor removed in first object
+root.PZSD102_Long_Jiang.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was DE_Lvl_2, is PAZ)
+root.PZSD102_Long_Jiang.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was DE_Lvl_2_Gold, is PAZ_Gold)
+root.PZSD102_Long_Jiang.deathTimeFactor removed in first object
+root.PRSC503_Oleg.deathTimeFactor removed in first object
+root.PASC007_Cleveland_1945.deathTimeFactor removed in first object
+root.PBSC107_Fiji.deathTimeFactor removed in first object
+root.PBSB910_Conqueror.deathTimeFactor removed in first object
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_2.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_2.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_3.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_3.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_1.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_1.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_4.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_4.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_5.shotDelay changed in second object (was 10.0, is 8.0)
+root.PZSD105_Jian_Wei.AB1_Artillery.HP_ZGM_5.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PZSD105_Jian_Wei.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_5, is PAZ)
+root.PZSD105_Jian_Wei.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_5_Gold, is PAZ_Gold)
+root.PZSD105_Jian_Wei.deathTimeFactor removed in first object
+root.PRSD505_Okhotnik_1917.deathTimeFactor removed in first object
+root.PJSD004_Minekadze_1920.deathTimeFactor removed in first object
+root.PJSA009_Ryujo_1933.deathTimeFactor removed in first object
+root.PJSD105_Mutsuki.deathTimeFactor removed in first object
+root.PJSB008_Ishizuchi_1921.deathTimeFactor removed in first object
+root.PASC803_Cimarron_shooter.deathTimeFactor removed in first object
+root.PGSD108_Z_23.deathTimeFactor removed in first object
+root.PJSD014_Tachibana_1912_Asus.deathTimeFactor removed in first object
+root.PASC012_Pensacola_1944.deathTimeFactor removed in first object
+root.PRSC109_Dmitry_Donskoy.A_Hull.visibilityCoefGKInSmoke changed in second object (was 6.96, is 9.69)
+root.PRSC109_Dmitry_Donskoy.B_Hull.visibilityCoefGKInSmoke changed in second object (was 6.96, is 9.69)
+root.PRSC109_Dmitry_Donskoy.C_Hull.visibilityCoefGKInSmoke changed in second object (was 6.96, is 9.69)
+root.PRSC109_Dmitry_Donskoy.deathTimeFactor removed in first object
+root.PGSB105_Koenig.deathTimeFactor removed in first object
+root.PBSC109_Neptune.deathTimeFactor removed in first object
+root.PJSD912_Shimakaze_1943.deathTimeFactor removed in first object
+root.PFSC110_Henri_IV.deathTimeFactor removed in first object
+root.PASA015_Midway_1945.deathTimeFactor removed in first object
+root.PJSB011_Mikasa_1905.deathTimeFactor removed in first object
+root.PJSC717_Yellow_Dragon.deathTimeFactor removed in first object
+root.PASA006_Independence_1945.deathTimeFactor removed in first object
+root.PXSC002_Charles_Martel_H2017.group changed in second object (was event, is unavailable)
+root.PXSC002_Charles_Martel_H2017.deathTimeFactor removed in first object
+root.PJSB707_Haruna.deathTimeFactor removed in first object
+root.PJSD207_Shiratsuyu.deathTimeFactor removed in first object
+root.PGSB110_Grossdeutschland.deathTimeFactor removed in first object
+root.PRSD206_Pr_7.deathTimeFactor removed in first object
+root.PGSD106_Ernst_Gaede.deathTimeFactor removed in first object
+root.PJSB013_Amagi_1942.deathTimeFactor removed in first object
+root.PASD502_Smith.deathTimeFactor removed in first object
+root.PWSD501_Blyskawica.deathTimeFactor removed in first object
+root.PFSC103_Friant.deathTimeFactor removed in first object
+root.PRSC107_Schors.deathTimeFactor removed in first object
+root.PXSA001_Invisible_Air_Enemy_1.deathTimeFactor removed in first object
+root.PASC020_Des_Moines_1948.deathTimeFactor removed in first object
+root.PJSA002_Hosho_1939.deathTimeFactor removed in first object
+root.PASC804_FALSE_ENEMY_Erie_1936.deathTimeFactor removed in first object
+root.PZSD506_Anshan.deathTimeFactor removed in first object
+root.PJSB799_Kirishima.deathTimeFactor removed in first object
+root.PASX003_Liberty.deathTimeFactor removed in first object
+root.PJSB801_False_Kawachi_1912.deathTimeFactor removed in first object
+root.PJSD017_Kamikaze_1930.deathTimeFactor removed in first object
+root.PJSC037_Hashidate_1940.deathTimeFactor removed in first object
+root.PASC024_Phoenix_1917.deathTimeFactor removed in first object
+root.PZSD508_LoYang.deathTimeFactor removed in first object
+root.PRSD102_SM_Storojevoy.deathTimeFactor removed in first object
+root.PCY010_RegenCrewPremium.UK_HT_BB_PREM removed in first object
+root.PASA508_Enterprise.deathTimeFactor removed in first object
+root.PASA013_Essex_1945.deathTimeFactor removed in first object
+root.PBSB108_Monarch.deathTimeFactor removed in first object
+root.PGUF702_FC2_GRAF_Z removed in second object
+root.PASA010_Ranger_1944.deathTimeFactor removed in first object
+root.PASC802_Cimarron_Target.deathTimeFactor removed in first object
+root.PRSC105_Kirov.deathTimeFactor removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.deathTimeFactor removed in first object
+root.PRSD108_Pr_20i_Tashkent.deathTimeFactor removed in first object
+root.PGSC103_Kolberg.deathTimeFactor removed in first object
+root.PXSX024_Aronia.deathTimeFactor removed in first object
+root.PISB505_Giulio_Cesare.deathTimeFactor removed in first object
+root.PASC001_Erie_1936.deathTimeFactor removed in first object
+root.PGSB503_Koenig_Albert.deathTimeFactor removed in first object
+root.PGSC104_Karlsruhe.deathTimeFactor removed in first object
+root.PXSD002_Benson_1945_H2017.group changed in second object (was event, is unavailable)
+root.PXSD002_Benson_1945_H2017.deathTimeFactor removed in first object
+root.PJSD024_Wakatake_1923.deathTimeFactor removed in first object
+root.PJSA011_Hiryu_1942.deathTimeFactor removed in first object
+root.PGSB103_Nassau.deathTimeFactor removed in first object
+root.PBSB507_Hood.deathTimeFactor removed in first object
+root.PZSD103_Phra_Ruang.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was DE_Lvl_3, is PAZ)
+root.PZSD103_Phra_Ruang.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was DE_Lvl_3_Gold, is PAZ_Gold)
+root.PZSD103_Phra_Ruang.deathTimeFactor removed in first object
+root.PJSD107_Akatsuki.deathTimeFactor removed in first object
+root.PCY002_RegenCrew.UK_HT_BB removed in first object
+root.PJSB706_Kirishima.deathTimeFactor removed in first object
+root.PASA012_Lexington_1944.deathTimeFactor removed in first object
+root.PASB006_New_York_1934.deathTimeFactor removed in first object
+root.PJSC727_Blue_Dragon.deathTimeFactor removed in first object
+root.PFSC101_Bougainville.deathTimeFactor removed in first object
+root.PXSX743_Hall_Medway_Queen.deathTimeFactor removed in first object
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_2.shotDelay changed in second object (was 7.5, is 7.0)
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_2.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_3.shotDelay changed in second object (was 7.5, is 7.0)
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_3.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_1.shotDelay changed in second object (was 7.5, is 7.0)
+root.PZSC506_Huang_he.A1_Artillery.HP_ZGM_1.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PZSC506_Huang_he.A1_Torpedoes.HP_ZGT_2.torpedoAngles[0] changed in second object (was 3.6, is 2.7)
+root.PZSC506_Huang_he.A1_Torpedoes.HP_ZGT_2.torpedoAngles[1] changed in second object (was 12.0, is 2.7)
+root.PZSC506_Huang_he.A1_Torpedoes.HP_ZGT_1.torpedoAngles[0] changed in second object (was 3.6, is 2.7)
+root.PZSC506_Huang_he.A1_Torpedoes.HP_ZGT_1.torpedoAngles[1] changed in second object (was 12.0, is 2.7)
+root.PZSC506_Huang_he.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PZSC506_Huang_he.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PZSC506_Huang_he.deathTimeFactor removed in first object
+root.PRSC101_Orlan.deathTimeFactor removed in first object
+root.PGSB507_Scharnhorst.deathTimeFactor removed in first object
+root.PRSC103_Bogatyr.deathTimeFactor removed in first object
+root.PBSC103_Caledon.deathTimeFactor removed in first object
+root.PJSD108_Akizuki.deathTimeFactor removed in first object
+root.PXSX043_Medway_Queen_War.deathTimeFactor removed in first object
+root.PXSB002_Rasputin.group changed in second object (was event, is unavailable)
+root.PXSB002_Rasputin.deathTimeFactor removed in first object
+root.PASD008_Benson_1945.deathTimeFactor removed in first object
+root.PBSB109_Lion.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was UK_CL, is UK_HT_BB)
+root.PBSB109_Lion.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was UK_CL_PREM, is UK_HT_BB_PREM)
+root.PBSB109_Lion.deathTimeFactor removed in first object
+root.PASA915_Midway_1945.deathTimeFactor removed in first object
+root.PRSC999_Seal.deathTimeFactor removed in first object
+root.PASB705_Texas_1944.permoflages[2] removed in first object
+root.PASB705_Texas_1944.deathTimeFactor removed in first object
+root.PJSB506_Mutsu.deathTimeFactor removed in first object
+root.PASC045_Marblehead_1924_Asus.deathTimeFactor removed in first object
+root.PJSB021_Izumo_1938.deathTimeFactor removed in first object
+root.PJSC837_False_Hashidate_1940.deathTimeFactor removed in first object
+root.PBSB105_Iron_Duke.deathTimeFactor removed in first object
+root.PJSC737_Nachi.deathTimeFactor removed in first object
+root.PASC006_Atlanta_1942.deathTimeFactor removed in first object
+root.PFSC105_Emile_Bertin.deathTimeFactor removed in first object
+root.PJSA507_Kaga.deathTimeFactor removed in first object
+root.PASB708_Alabama.deathTimeFactor removed in first object
+root.PASB017_Montana_1945.deathTimeFactor removed in first object
+root.PJSB508_Kii.deathTimeFactor removed in first object
+root.PCBR002 removed in first object
+root.PGUD703_DBAP_GRAF_Z removed in first object
+root.PGUH716_GRAF_Z_I removed in first object
+root.PGUI702_F_TOP_GRAF_Z_I removed in first object
+root.PCEC040_NVIDIA_camo removed in first object
+root.PGUD704_DBAP_GRAF_Z removed in first object
+root.PGUE706_ENG_GRAF_Z_I removed in first object
+root.PCEC042_Super_ECO_camo removed in first object
+root.PGUE716_ENG_GRAF_Z_I removed in first object
+root.PGPB026_PC500_II removed in first object
+root.PGAD003_Ju_87C_APB_GZ_I removed in first object
+root.PAEP314_Texas_Lone_star removed in first object
+root.PGAD004_Ju_87C_APB_GZ_II removed in first object
+root.PGUF712_FC1_GRAF_Z_I removed in first object
+root.PGAF022_Bf109T_GZ_I removed in first object
+root.PCEC041_MSI_camo removed in first object
+root.PGUF702_FC1_GRAF_Z_I removed in first object
+root.PGUI712_F_TOP_GRAF_Z_I removed in first object
+root.PGUD713_DBAP_GRAF_Z removed in first object
+root.PCEC038_ASUS_camo removed in first object
+root.PGUH706_GRAF_Z_I removed in first object
+root.PGSA509_Graf_Zeppelin_I removed in first object
+root.PGPB016_PC500_I removed in first object
+root.PGSA510_Graf_Zeppelin_II removed in first object
+root.PCEC039_GIGABYTE_camo removed in first object
+>> finished comparing
