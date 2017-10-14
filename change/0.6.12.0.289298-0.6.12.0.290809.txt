@@ -1,0 +1,12 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGAD003_Ju_87C_APB_GZ_I.numFloats changed in second object (was 0, is 2)
+root.PGAD004_Ju_87C_APB_GZ_II.numFloats changed in second object (was 0, is 2)
+root.PGAF022_Bf109T_GZ_I.numFloats changed in second object (was 0, is 2)
+root.PGAD002_Ju_87C_APB_GZ.numFloats changed in second object (was 0, is 2)
+root.PISB505_Giulio_Cesare.group changed in second object (was demoWithoutStats, is special)
+root.PISB505_Giulio_Cesare.groupCustom.CN removed in second object
+root.PISB505_Giulio_Cesare.ShipUpgradeInfo.costGold changed in second object (was 5100, is 5200)
+root.PZSC506_Huang_he.ShipUpgradeInfo.costGold changed in second object (was 4750, is 5400)
+>> finished comparing
