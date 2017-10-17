@@ -1,0 +1,22 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC508_Kutuzov_1952.ShipUpgradeInfo.costSaleGold changed in second object (was 0, is 10250)
+root.PXSB005_Bismarck_H2017 removed in second object
+root.PXSB003_Zeekasa removed in second object
+root.PUSC506_Perth_1942.ShipUpgradeInfo.costSaleGold changed in second object (was 0, is 4800)
+root.PXSB001_Mr_Hyde removed in second object
+root.PBSC507_Belfast_1959.ShipUpgradeInfo.costSaleGold changed in second object (was 0, is 8200)
+root.PXSX001_Transylvania removed in second object
+root.PXSC003_Pr_68_Chapaev_H2017 removed in second object
+root.PXSD003_Kagero_H2017 removed in second object
+root.PXSA003_Lexington_1944_H2017 removed in second object
+root.PXSD001_VanHellsink removed in second object
+root.PXSC001_Dr_Frankenship removed in second object
+root.PXSB004_Tirpiz_1942_H2017 removed in second object
+root.PXSA004_Zuikaku_1944_H2017 removed in second object
+root.PXSC002_Charles_Martel_H2017 removed in second object
+root.PXSD002_Benson_1945_H2017 removed in second object
+root.PXSX743_Hall_Medway_Queen removed in second object
+root.PXSB002_Rasputin removed in second object
+>> finished comparing
