@@ -2248,6 +2248,19 @@
         "zh_cn": "\u9646\u5965", 
         "zh_tw": "\u9678\u5967\u865f"
     }, 
+    "PJSB507": {
+        "en": "Ashitaka", 
+        "id": 3763287760, 
+        "index": "PJSB507", 
+        "ja_jp": "Ashitaka", 
+        "level": 7, 
+        "name": "PJSB507_Ashitaka", 
+        "nation": "Japan", 
+        "ru": "Ashitaka", 
+        "species": "Battleship", 
+        "zh_cn": "\u7231\u9e70", 
+        "zh_tw": "\u611b\u9df9\u865f"
+    }, 
     "PJSB508": {
         "en": "Kii", 
         "id": 3762239184, 

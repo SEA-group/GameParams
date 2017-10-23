@@ -896,6 +896,19 @@
         "zh_cn": "\u5370\u7b2c\u5b89\u7eb3\u6ce2\u8482\u65af", 
         "zh_tw": "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u8482\u65af\u865f"
     }, 
+    "3763287760": {
+        "en": "Ashitaka", 
+        "id": 3763287760, 
+        "index": "PJSB507", 
+        "ja_jp": "Ashitaka", 
+        "level": 7, 
+        "name": "PJSB507_Ashitaka", 
+        "nation": "Japan", 
+        "ru": "Ashitaka", 
+        "species": "Battleship", 
+        "zh_cn": "\u7231\u9e70", 
+        "zh_tw": "\u611b\u9df9\u865f"
+    }, 
     "3763287856": {
         "en": "Scharnhorst", 
         "id": 3763287856, 
