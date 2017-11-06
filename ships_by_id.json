@@ -20,7 +20,7 @@
         "level": 10, 
         "name": "PJSC934_Zao_1944", 
         "nation": "Japan", 
-        "ru": "IDS_PJSC934", 
+        "ru": "[Zao]", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PJSC934", 
         "zh_tw": "IDS_PJSC934"
@@ -33,7 +33,7 @@
         "level": 10, 
         "name": "PJSB918_Yamato_1944", 
         "nation": "Japan", 
-        "ru": "IDS_PJSB918", 
+        "ru": "[Yamato]", 
         "species": "Battleship", 
         "zh_cn": "IDS_PJSB918", 
         "zh_tw": "IDS_PJSB918"
@@ -46,7 +46,7 @@
         "level": 10, 
         "name": "PASB917_Montana_1945", 
         "nation": "USA", 
-        "ru": "IDS_PASB917", 
+        "ru": "[Montana]", 
         "species": "Battleship", 
         "zh_cn": "IDS_PASB917", 
         "zh_tw": "IDS_PASB917"
@@ -59,7 +59,7 @@
         "level": 10, 
         "name": "PJSA917_Hakuryu_1942", 
         "nation": "Japan", 
-        "ru": "IDS_PJSA917", 
+        "ru": "[Hakuryu]", 
         "species": "AirCarrier", 
         "zh_cn": "IDS_PJSA917", 
         "zh_tw": "IDS_PJSA917"
@@ -72,7 +72,7 @@
         "level": 10, 
         "name": "PASA915_Midway_1945", 
         "nation": "USA", 
-        "ru": "IDS_PASA915", 
+        "ru": "[Midway]", 
         "species": "AirCarrier", 
         "zh_cn": "IDS_PASA915", 
         "zh_tw": "IDS_PASA915"
@@ -85,7 +85,7 @@
         "level": 10, 
         "name": "PASD913_Gearing_1945", 
         "nation": "USA", 
-        "ru": "IDS_PASD913", 
+        "ru": "[Gearing]", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PASD913", 
         "zh_tw": "IDS_PASD913"
@@ -98,7 +98,7 @@
         "level": 10, 
         "name": "PJSD912_Shimakaze_1943", 
         "nation": "Japan", 
-        "ru": "IDS_PJSD912", 
+        "ru": "[Shimakaze]", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PJSD912", 
         "zh_tw": "IDS_PJSD912"
@@ -111,7 +111,7 @@
         "level": 10, 
         "name": "PRSD910_Grozovoy_pr_40N", 
         "nation": "Russia", 
-        "ru": "IDS_PRSD910", 
+        "ru": "[\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439]", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PRSD910", 
         "zh_tw": "IDS_PRSD910"
@@ -124,7 +124,7 @@
         "level": 10, 
         "name": "PRSC910_Pr_66_Moskva", 
         "nation": "Russia", 
-        "ru": "IDS_PRSC910", 
+        "ru": "[\u041c\u043e\u0441\u043a\u0432\u0430]", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PRSC910", 
         "zh_tw": "IDS_PRSC910"
@@ -137,7 +137,7 @@
         "level": 10, 
         "name": "PGSC910_Hindenburg", 
         "nation": "Germany", 
-        "ru": "IDS_PGSC910", 
+        "ru": "[Hindenburg]", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PGSC910", 
         "zh_tw": "IDS_PGSC910"
@@ -150,7 +150,7 @@
         "level": 10, 
         "name": "PGSB910_Grossdeutschland", 
         "nation": "Germany", 
-        "ru": "IDS_PGSB910", 
+        "ru": "[G. Kurf\u00fcrst]", 
         "species": "Battleship", 
         "zh_cn": "IDS_PGSB910", 
         "zh_tw": "IDS_PGSB910"
@@ -163,7 +163,7 @@
         "level": 10, 
         "name": "PBSB910_Conqueror", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB910", 
+        "ru": "[Conqueror]", 
         "species": "Battleship", 
         "zh_cn": "IDS_PBSB910", 
         "zh_tw": "IDS_PBSB910"
@@ -384,7 +384,7 @@
         "level": 11, 
         "name": "PXSX743_Hall_Medway_Queen", 
         "nation": "Events", 
-        "ru": "IDS_PXSX743", 
+        "ru": "Intania Queen", 
         "species": "Auxiliary", 
         "zh_cn": "IDS_PXSX743", 
         "zh_tw": "IDS_PXSX743"
@@ -670,7 +670,7 @@
         "level": 5, 
         "name": "PFSD605_Cyclone_event", 
         "nation": "France", 
-        "ru": "IDS_PFSD605", 
+        "ru": "Cyclone", 
         "species": "Destroyer", 
         "zh_cn": "\u6c14\u65cb", 
         "zh_tw": "\u6c23\u65cb\u865f"
@@ -683,7 +683,7 @@
         "level": 5, 
         "name": "PBSD605_Anthony_Event", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSD605", 
+        "ru": "Anthony", 
         "species": "Destroyer", 
         "zh_cn": "\u5b89\u4e1c\u5c3c", 
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
@@ -696,7 +696,7 @@
         "level": 8, 
         "name": "PASB518_Massachusetts", 
         "nation": "USA", 
-        "ru": "IDS_PASB518", 
+        "ru": "Massachusetts", 
         "species": "Battleship", 
         "zh_cn": "IDS_PASB518", 
         "zh_tw": "IDS_PASB518"
@@ -709,7 +709,7 @@
         "level": 7, 
         "name": "PBSB517_Nelson", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB517", 
+        "ru": "Nelson", 
         "species": "Battleship", 
         "zh_cn": "\u7eb3\u5c14\u900a", 
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
@@ -722,7 +722,7 @@
         "level": 9, 
         "name": "PJSB509_Musashi", 
         "nation": "Japan", 
-        "ru": "IDS_PJSB509", 
+        "ru": "Musashi", 
         "species": "Battleship", 
         "zh_cn": "IDS_PJSB509", 
         "zh_tw": "IDS_PJSB509"
@@ -748,7 +748,7 @@
         "level": 8, 
         "name": "PZSD508_LoYang", 
         "nation": "Pan_Asia", 
-        "ru": "Lo Yang", 
+        "ru": "Loyang", 
         "species": "Destroyer", 
         "zh_cn": "\u6d1b\u9633", 
         "zh_tw": "\u6d1b\u967d\u865f"
@@ -800,7 +800,7 @@
         "level": 8, 
         "name": "PJSB508_Kii", 
         "nation": "Japan", 
-        "ru": "IDS_PJSB508", 
+        "ru": "Kii", 
         "species": "Battleship", 
         "zh_cn": "\u7eaa\u4f0a", 
         "zh_tw": "\u7d00\u4f0a\u7d1a"
@@ -826,7 +826,7 @@
         "level": 8, 
         "name": "PGSA508_Graf_Zeppelin", 
         "nation": "Germany", 
-        "ru": "IDS_PGSA508", 
+        "ru": "Graf Zeppelin", 
         "species": "AirCarrier", 
         "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235", 
         "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f"
@@ -865,7 +865,7 @@
         "level": 7, 
         "name": "PISC507_Duca_degli_Abruzzi", 
         "nation": "Italy", 
-        "ru": "IDS_PISC507", 
+        "ru": "Abruzzi", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PISC507", 
         "zh_tw": "IDS_PISC507"
@@ -982,7 +982,7 @@
         "level": 6, 
         "name": "PGSD506_T_61", 
         "nation": "Germany", 
-        "ru": "IDS_PGSD506", 
+        "ru": "T-61", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PGSD506", 
         "zh_tw": "IDS_PGSD506"
@@ -995,7 +995,7 @@
         "level": 6, 
         "name": "PFSD506_Aigle", 
         "nation": "France", 
-        "ru": "IDS_PFSD506", 
+        "ru": "Aigle", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PFSD506", 
         "zh_tw": "IDS_PFSD506"
@@ -1021,7 +1021,7 @@
         "level": 6, 
         "name": "PZSC506_Huang_he", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSC506", 
+        "ru": "Huanghe", 
         "species": "Cruiser", 
         "zh_cn": "\u9ec4\u6cb3", 
         "zh_tw": "\u9ec3\u6cb3\u865f"
@@ -1164,7 +1164,7 @@
         "level": 5, 
         "name": "PRSB505_Oktyabrskaya_Revolutsiya", 
         "nation": "Russia", 
-        "ru": "IDS_PRSB505", 
+        "ru": "\u041e\u043a\u0442.\u00a0\u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u044f", 
         "species": "Battleship", 
         "zh_cn": "\u5341\u6708\u9769\u547d", 
         "zh_tw": "\u5341\u6708\u9769\u547d\u865f"
@@ -1177,7 +1177,7 @@
         "level": 5, 
         "name": "PISB505_Giulio_Cesare", 
         "nation": "Italy", 
-        "ru": "IDS_PISB505", 
+        "ru": "Giulio Cesare", 
         "species": "Battleship", 
         "zh_cn": "\u5c24\u5229\u4e4c\u65af\u00b7\u51ef\u6492", 
         "zh_tw": "\u5c24\u5229\u70cf\u65af\u00b7\u51f1\u6492\u865f"
@@ -1190,7 +1190,7 @@
         "level": 3, 
         "name": "PUSD503_Vampire", 
         "nation": "Commonwealth", 
-        "ru": "IDS_PUSD503", 
+        "ru": "Vampire", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PUSD503", 
         "zh_tw": "IDS_PUSD503"
@@ -1437,7 +1437,7 @@
         "level": 10, 
         "name": "PZSD110_Hsiang_Yang", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD110", 
+        "ru": "Yueyang", 
         "species": "Destroyer", 
         "zh_cn": "\u8944\u9633", 
         "zh_tw": "\u8944\u967d\u865f"
@@ -1541,7 +1541,7 @@
         "level": 10, 
         "name": "PBSB110_Conqueror", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB110", 
+        "ru": "Conqueror", 
         "species": "Battleship", 
         "zh_cn": "\u5f81\u670d\u8005", 
         "zh_tw": "\u5f81\u670d\u8005\u7d1a"
@@ -1554,7 +1554,7 @@
         "level": 9, 
         "name": "PZSD109_Chung_Mu", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD109", 
+        "ru": "Chung Mu", 
         "species": "Destroyer", 
         "zh_cn": "\u5fe0\u6b66", 
         "zh_tw": "\u5fe0\u6b66\u865f"
@@ -1658,7 +1658,7 @@
         "level": 9, 
         "name": "PBSB109_Lion", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB109", 
+        "ru": "Lion", 
         "species": "Battleship", 
         "zh_cn": "\u72ee", 
         "zh_tw": "\u7345\u7d1a"
@@ -1671,7 +1671,7 @@
         "level": 8, 
         "name": "PZSD108_Hsien_Yang", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD108", 
+        "ru": "Hsienyang", 
         "species": "Destroyer", 
         "zh_cn": "\u54b8\u9633", 
         "zh_tw": "\u54b8\u967d\u865f"
@@ -1788,7 +1788,7 @@
         "level": 8, 
         "name": "PBSB108_Monarch", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB108", 
+        "ru": "Monarch", 
         "species": "Battleship", 
         "zh_cn": "\u541b\u738b", 
         "zh_tw": "\u541b\u738b\u7d1a"
@@ -1801,7 +1801,7 @@
         "level": 7, 
         "name": "PZSD107_Gadjah_Mada", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD107", 
+        "ru": "Gadjah Mada", 
         "species": "Destroyer", 
         "zh_cn": "\u52a0\u672d\u9a6c\u8fbe", 
         "zh_tw": "\u52a0\u672d\u99ac\u9054\u865f"
@@ -1918,7 +1918,7 @@
         "level": 7, 
         "name": "PBSB107_King_George_V", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB107", 
+        "ru": "King George V", 
         "species": "Battleship", 
         "zh_cn": "\u82f1\u738b\u4e54\u6cbb\u4e94\u4e16", 
         "zh_tw": "\u82f1\u738b\u55ac\u6cbb\u4e94\u4e16\u7d1a"
@@ -1931,7 +1931,7 @@
         "level": 6, 
         "name": "PZSD106_Fu_Shun", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD106", 
+        "ru": "Fushun", 
         "species": "Destroyer", 
         "zh_cn": "\u629a\u987a", 
         "zh_tw": "\u64ab\u9806\u865f"
@@ -2048,7 +2048,7 @@
         "level": 6, 
         "name": "PBSB106_Queen_Elizabeth", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB106", 
+        "ru": "Queen Elizabeth", 
         "species": "Battleship", 
         "zh_cn": "\u4f0a\u4e3d\u838e\u767d\u5973\u738b", 
         "zh_tw": "\u4f0a\u9e97\u838e\u767d\u5973\u738b\u7d1a"
@@ -2061,7 +2061,7 @@
         "level": 5, 
         "name": "PZSD105_Jian_Wei", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD105", 
+        "ru": "Jianwei", 
         "species": "Destroyer", 
         "zh_cn": "\u5efa\u5a01", 
         "zh_tw": "\u5efa\u5a01\u865f"
@@ -2178,7 +2178,7 @@
         "level": 5, 
         "name": "PBSB105_Iron_Duke", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB105", 
+        "ru": "Iron Duke", 
         "species": "Battleship", 
         "zh_cn": "\u94c1\u516c\u7235", 
         "zh_tw": "\u9435\u516c\u7235\u7d1a"
@@ -2191,7 +2191,7 @@
         "level": 4, 
         "name": "PZSD104_Shen_Yang", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD104", 
+        "ru": "Shenyang", 
         "species": "Destroyer", 
         "zh_cn": "\u6c88\u9633", 
         "zh_tw": "\u700b\u967d\u865f"
@@ -2295,7 +2295,7 @@
         "level": 4, 
         "name": "PBSB104_Orion", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB104", 
+        "ru": "Orion", 
         "species": "Battleship", 
         "zh_cn": "\u4fc4\u91cc\u7fc1", 
         "zh_tw": "\u4fc4\u91cc\u7fc1\u7d1a"
@@ -2308,7 +2308,7 @@
         "level": 3, 
         "name": "PZSD103_Phra_Ruang", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD103", 
+        "ru": "Phra Ruang", 
         "species": "Destroyer", 
         "zh_cn": "\u5e15\u79b3", 
         "zh_tw": "\u5e15\u79b3\u865f"
@@ -2412,7 +2412,7 @@
         "level": 3, 
         "name": "PBSB103_Bellerophon", 
         "nation": "United_Kingdom", 
-        "ru": "IDS_PBSB103", 
+        "ru": "Bellerophon", 
         "species": "Battleship", 
         "zh_cn": "\u67cf\u52d2\u6d1b\u4e30", 
         "zh_tw": "\u67cf\u52d2\u6d1b\u8c50\u7d1a"
@@ -2425,7 +2425,7 @@
         "level": 2, 
         "name": "PZSD102_Long_Jiang", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSD102", 
+        "ru": "Longjiang", 
         "species": "Destroyer", 
         "zh_cn": "\u9f99\u6c5f", 
         "zh_tw": "\u9f8d\u6c5f\u865f"
@@ -2503,7 +2503,7 @@
         "level": 1, 
         "name": "PZSC101_Cheng_An", 
         "nation": "Pan_Asia", 
-        "ru": "IDS_PZSC101", 
+        "ru": "Chengan", 
         "species": "Cruiser", 
         "zh_cn": "\u6210\u5b89", 
         "zh_tw": "\u6210\u5b89\u865f"
@@ -2581,7 +2581,7 @@
         "level": 2, 
         "name": "PXSX043_Medway_Queen_War", 
         "nation": "Events", 
-        "ru": "IDS_PXSX043", 
+        "ru": "Medway Queen", 
         "species": "Auxiliary", 
         "zh_cn": "\u6885\u5fb7\u97e6\u5973\u738b", 
         "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
@@ -2633,7 +2633,7 @@
         "level": 2, 
         "name": "PXSX034_John_Cattling", 
         "nation": "Events", 
-        "ru": "IDS_PXSX034", 
+        "ru": "John Cattling", 
         "species": "Auxiliary", 
         "zh_cn": "\u7ea6\u7ff0\u00b7\u5361\u7279\u6797", 
         "zh_tw": "\u7d04\u7ff0\u00b7\u5361\u7279\u6797"
@@ -2672,7 +2672,7 @@
         "level": 2, 
         "name": "PXSX033_Dyck", 
         "nation": "Events", 
-        "ru": "IDS_PXSX033", 
+        "ru": "\u041c\u0438\u043d\u043d\u044b\u0439 \u0437\u0430\u0433\u0440\u0430\u0434\u0438\u0442\u0435\u043b\u044c", 
         "species": "Auxiliary", 
         "zh_cn": "\u5e03\u96f7\u8230", 
         "zh_tw": "\u5e03\u96f7\u8266"
@@ -2711,7 +2711,7 @@
         "level": 2, 
         "name": "PXSX026_Canterbury", 
         "nation": "Events", 
-        "ru": "IDS_PXSX026", 
+        "ru": "Canterbury", 
         "species": "Auxiliary", 
         "zh_cn": "\u574e\u7279\u4f2f\u96f7", 
         "zh_tw": "\u574e\u7279\u4f2f\u96f7"
@@ -2750,7 +2750,7 @@
         "level": 2, 
         "name": "PXSX025_Medway_Queen", 
         "nation": "Events", 
-        "ru": "IDS_PXSX025", 
+        "ru": "Medway Queen", 
         "species": "Auxiliary", 
         "zh_cn": "\u6885\u5fb7\u97e6\u5973\u738b", 
         "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
@@ -2776,7 +2776,7 @@
         "level": 2, 
         "name": "PXSX024_Aronia", 
         "nation": "Events", 
-        "ru": "IDS_PXSX024", 
+        "ru": "Aronia", 
         "species": "Auxiliary", 
         "zh_cn": "\u963f\u5c3c\u4e9a", 
         "zh_tw": "\u963f\u5c3c\u4e9e"
@@ -2815,7 +2815,7 @@
         "level": 2, 
         "name": "PXSX023_HMS_SS_Lorina", 
         "nation": "Events", 
-        "ru": "IDS_PXSX023", 
+        "ru": "Lorina", 
         "species": "Auxiliary", 
         "zh_cn": "\u7f57\u745e\u5a1c", 
         "zh_tw": "\u7f85\u745e\u5a1c"
@@ -2932,7 +2932,7 @@
         "level": 2, 
         "name": "PXSX017_Caboteur_de_35_metres", 
         "nation": "Events", 
-        "ru": "IDS_PXSX017", 
+        "ru": "Caboteur", 
         "species": "Auxiliary", 
         "zh_cn": "\u5361\u5e03\u7279", 
         "zh_tw": "\u5361\u5e03\u7279"
@@ -2997,7 +2997,7 @@
         "level": 2, 
         "name": "PXSX016_Goliath", 
         "nation": "Events", 
-        "ru": "IDS_PXSX016", 
+        "ru": "Goliath", 
         "species": "Auxiliary", 
         "zh_cn": "\u5de8\u4eba", 
         "zh_tw": "\u5de8\u4eba"
@@ -3413,7 +3413,7 @@
         "level": 1, 
         "name": "PXSD007_Scnellboot_S38", 
         "nation": "Events", 
-        "ru": "IDS_PXSD007", 
+        "ru": "Schnellboot", 
         "species": "Destroyer", 
         "zh_cn": "S\u8247", 
         "zh_tw": "S\u8247"
@@ -3582,7 +3582,7 @@
         "level": 5, 
         "name": "PASX005_St_Clair", 
         "nation": "USA", 
-        "ru": "Cimarron", 
+        "ru": "St. Clair", 
         "species": "Auxiliary", 
         "zh_cn": "\u5723\u514b\u83b1\u5c14", 
         "zh_tw": "\u8056\u514b\u840a\u723e\u865f"
@@ -3647,7 +3647,7 @@
         "level": 8, 
         "name": "PXSB005_Bismarck_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSB005", 
+        "ru": "Varg", 
         "species": "Battleship", 
         "zh_cn": "IDS_PXSB005", 
         "zh_tw": "IDS_PXSB005"
@@ -3699,7 +3699,7 @@
         "level": 8, 
         "name": "PXSB004_Tirpiz_1942_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSB004", 
+        "ru": "Magnu-S", 
         "species": "Battleship", 
         "zh_cn": "IDS_PXSB004", 
         "zh_tw": "IDS_PXSB004"
@@ -3725,7 +3725,7 @@
         "level": 8, 
         "name": "PXSA004_Zuikaku_1944_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSA004", 
+        "ru": "\u00ab\u0413\u043e\u0440\u0433\u043e\u043d \u0412\u0435\u043b\u0438\u043a\u0438\u0439\u00bb", 
         "species": "AirCarrier", 
         "zh_cn": "IDS_PXSA004", 
         "zh_tw": "IDS_PXSA004"
@@ -3764,7 +3764,7 @@
         "level": 8, 
         "name": "PXSD003_Kagero_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSD003", 
+        "ru": "Urashima", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PXSD003", 
         "zh_tw": "IDS_PXSD003"
@@ -3790,7 +3790,7 @@
         "level": 8, 
         "name": "PXSC003_Pr_68_Chapaev_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSC003", 
+        "ru": "\u0421\u0432\u044f\u0442\u043e\u0437\u0430\u0440", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PXSC003", 
         "zh_tw": "IDS_PXSC003"
@@ -3855,7 +3855,7 @@
         "level": 8, 
         "name": "PXSA003_Lexington_1944_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSA003", 
+        "ru": "Nobilium", 
         "species": "AirCarrier", 
         "zh_cn": "IDS_PXSA003", 
         "zh_tw": "IDS_PXSA003"
@@ -3868,7 +3868,7 @@
         "level": 8, 
         "name": "PXSD002_Benson_1945_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSD002", 
+        "ru": "Ghoul", 
         "species": "Destroyer", 
         "zh_cn": "IDS_PXSD002", 
         "zh_tw": "IDS_PXSD002"
@@ -3907,7 +3907,7 @@
         "level": 8, 
         "name": "PXSC002_Charles_Martel_H2017", 
         "nation": "Events", 
-        "ru": "IDS_PXSC002", 
+        "ru": "Scarab", 
         "species": "Cruiser", 
         "zh_cn": "IDS_PXSC002", 
         "zh_tw": "IDS_PXSC002"
@@ -3998,7 +3998,7 @@
         "level": 4, 
         "name": "PXSA002_Invisible_Air_Ally_1", 
         "nation": "Events", 
-        "ru": "\u0410\u0432\u0438\u0430\u043d\u043e\u0441\u0435\u0446", 
+        "ru": "Air Force", 
         "species": "AirCarrier", 
         "zh_cn": "\u822a\u7a7a\u6bcd\u8230", 
         "zh_tw": "\u822a\u7a7a\u6bcd\u8266"
@@ -4206,7 +4206,7 @@
         "level": 4, 
         "name": "PXSA001_Invisible_Air_Enemy_1", 
         "nation": "Events", 
-        "ru": "IDS_PXSA001", 
+        "ru": "Luftwaffe", 
         "species": "AirCarrier", 
         "zh_cn": "\u5fb7\u56fd\u7a7a\u519b", 
         "zh_tw": "\u5fb7\u570b\u7a7a\u8ecd"

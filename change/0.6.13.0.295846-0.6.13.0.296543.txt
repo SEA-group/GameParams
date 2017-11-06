@@ -1,0 +1,10 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRPA037_180_AP_B_32_S.bulletSpeed changed in second object (was 920.0, is 800.0)
+root.PASD508_Kidd.group changed in second object (was demoWithoutStats, is special)
+root.PASD508_Kidd.groupCustom.CN removed in second object
+root.PRPA031_180_HE_OF_42_S.bulletSpeed changed in second object (was 920.0, is 800.0)
+root.PJSB508_Kii.groupCustom.EU removed in first object
+root.PJSB508_Kii.groupCustom.ST removed in first object
+>> finished comparing
