@@ -26,10 +26,10 @@
         "zh_tw": "IDS_PJSC934"
     }, 
     "3332323024": {
-        "en": "IDS_PJSB918", 
+        "en": "[Yamato]", 
         "id": 3332323024, 
         "index": "PJSB918", 
-        "ja_jp": "IDS_PJSB918", 
+        "ja_jp": "[Yamato]", 
         "level": 10, 
         "name": "PJSB918_Yamato_1944", 
         "nation": "Japan", 
@@ -377,10 +377,10 @@
         "zh_tw": "\u6d77\u9727-\u9727\u5cf6"
     }, 
     "3515102480": {
-        "en": "IDS_PXSX743", 
+        "en": "Intania Queen", 
         "id": 3515102480, 
         "index": "PXSX743", 
-        "ja_jp": "IDS_PXSX743", 
+        "ja_jp": "Intania Queen", 
         "level": 11, 
         "name": "PXSX743_Hall_Medway_Queen", 
         "nation": "Events", 
@@ -427,6 +427,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u6731\u96c0", 
         "zh_tw": "\u6731\u96c0"
+    }, 
+    "3550394352": {
+        "en": "IDS_PASC710", 
+        "id": 3550394352, 
+        "index": "PASC710", 
+        "ja_jp": "IDS_PASC710", 
+        "level": 10, 
+        "name": "PASC710_Salem", 
+        "nation": "USA", 
+        "ru": "IDS_PASC710", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC710", 
+        "zh_tw": "IDS_PASC710"
     }, 
     "3551410160": {
         "en": "Black", 
@@ -688,6 +701,19 @@
         "zh_cn": "\u5b89\u4e1c\u5c3c", 
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
+    "3742316496": {
+        "en": "IDS_PBSB527", 
+        "id": 3742316496, 
+        "index": "PBSB527", 
+        "ja_jp": "IDS_PBSB527", 
+        "level": 7, 
+        "name": "PBSB527_Duke_of_York", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB527", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB527", 
+        "zh_tw": "IDS_PBSB527"
+    }, 
     "3751753712": {
         "en": "Massachusetts", 
         "id": 3751753712, 
@@ -715,10 +741,10 @@
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
     "3761190608": {
-        "en": "IDS_PJSB509", 
+        "en": "Musashi", 
         "id": 3761190608, 
         "index": "PJSB509", 
-        "ja_jp": "IDS_PJSB509", 
+        "ja_jp": "Musashi", 
         "level": 9, 
         "name": "PJSB509_Musashi", 
         "nation": "Japan", 
@@ -805,6 +831,19 @@
         "zh_cn": "\u7eaa\u4f0a", 
         "zh_tw": "\u7d00\u4f0a\u7d1a"
     }, 
+    "3762239216": {
+        "en": "IDS_PISB508", 
+        "id": 3762239216, 
+        "index": "PISB508", 
+        "ja_jp": "IDS_PISB508", 
+        "level": 8, 
+        "name": "PISB508_Roma", 
+        "nation": "Italy", 
+        "ru": "IDS_PISB508", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PISB508", 
+        "zh_tw": "IDS_PISB508"
+    }, 
     "3762239472": {
         "en": "Alabama", 
         "id": 3762239472, 
@@ -858,10 +897,10 @@
         "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
     }, 
     "3763255024": {
-        "en": "IDS_PISC507", 
+        "en": "Abruzzi", 
         "id": 3763255024, 
         "index": "PISC507", 
-        "ja_jp": "IDS_PISC507", 
+        "ja_jp": "Abruzzi", 
         "level": 7, 
         "name": "PISC507_Duca_degli_Abruzzi", 
         "nation": "Italy", 
@@ -975,10 +1014,10 @@
         "zh_tw": "\u978d\u5c71\u865f"
     }, 
     "3764270896": {
-        "en": "IDS_PGSD506", 
+        "en": "T-61", 
         "id": 3764270896, 
         "index": "PGSD506", 
-        "ja_jp": "IDS_PGSD506", 
+        "ja_jp": "T-61", 
         "level": 6, 
         "name": "PGSD506_T_61", 
         "nation": "Germany", 
@@ -988,10 +1027,10 @@
         "zh_tw": "IDS_PGSD506"
     }, 
     "3764270928": {
-        "en": "IDS_PFSD506", 
+        "en": "Aigle", 
         "id": 3764270928, 
         "index": "PFSD506", 
-        "ja_jp": "IDS_PFSD506", 
+        "ja_jp": "Aigle", 
         "level": 6, 
         "name": "PFSD506_Aigle", 
         "nation": "France", 
@@ -1014,10 +1053,10 @@
         "zh_tw": "\u82f1\u52c7\u865f"
     }, 
     "3764303056": {
-        "en": "Huang He", 
+        "en": "Huanghe", 
         "id": 3764303056, 
         "index": "PZSC506", 
-        "ja_jp": "Huang He", 
+        "ja_jp": "Huanghe", 
         "level": 6, 
         "name": "PZSC506_Huang_he", 
         "nation": "Pan_Asia", 
@@ -1430,10 +1469,10 @@
         "zh_tw": "\u6ce2\u5fb7\u6c83\u4f0a\u65af\u57fa\u7d1a"
     }, 
     "4179506384": {
-        "en": "Hsiang Yang", 
+        "en": "Yueyang", 
         "id": 4179506384, 
         "index": "PZSD110", 
-        "ja_jp": "Hsiang Yang", 
+        "ja_jp": "Yueyang", 
         "level": 10, 
         "name": "PZSD110_Hsiang_Yang", 
         "nation": "Pan_Asia", 
@@ -1780,6 +1819,19 @@
         "zh_cn": "\u4ffe\u65af\u9ea6", 
         "zh_tw": "\u4ffe\u65af\u9ea5\u865f"
     }, 
+    "4181669712": {
+        "en": "IDS_PFSB108", 
+        "id": 4181669712, 
+        "index": "PFSB108", 
+        "ja_jp": "IDS_PFSB108", 
+        "level": 8, 
+        "name": "PFSB108_Richelieu", 
+        "nation": "France", 
+        "ru": "IDS_PFSB108", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB108", 
+        "zh_tw": "IDS_PFSB108"
+    }, 
     "4181669840": {
         "en": "Monarch", 
         "id": 4181669840, 
@@ -1909,6 +1961,19 @@
         "species": "Battleship", 
         "zh_cn": "\u683c\u5948\u68ee\u7459", 
         "zh_tw": "\u683c\u5948\u68ee\u7459\u865f"
+    }, 
+    "4182718288": {
+        "en": "IDS_PFSB107", 
+        "id": 4182718288, 
+        "index": "PFSB107", 
+        "ja_jp": "IDS_PFSB107", 
+        "level": 7, 
+        "name": "PFSB107_Lyon", 
+        "nation": "France", 
+        "ru": "IDS_PFSB107", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB107", 
+        "zh_tw": "IDS_PFSB107"
     }, 
     "4182718416": {
         "en": "King George V", 
@@ -2040,6 +2105,19 @@
         "zh_cn": "\u5df4\u4f10\u5229\u4e9a", 
         "zh_tw": "\u5df4\u4f10\u5229\u4e9e\u7d1a"
     }, 
+    "4183766864": {
+        "en": "IDS_PFSB106", 
+        "id": 4183766864, 
+        "index": "PFSB106", 
+        "ja_jp": "IDS_PFSB106", 
+        "level": 6, 
+        "name": "PFSB106_Normandie", 
+        "nation": "France", 
+        "ru": "IDS_PFSB106", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB106", 
+        "zh_tw": "IDS_PFSB106"
+    }, 
     "4183766992": {
         "en": "Queen Elizabeth", 
         "id": 4183766992, 
@@ -2169,6 +2247,19 @@
         "species": "Battleship", 
         "zh_cn": "\u56fd\u738b", 
         "zh_tw": "\u570b\u738b\u7d1a"
+    }, 
+    "4184815440": {
+        "en": "IDS_PFSB105", 
+        "id": 4184815440, 
+        "index": "PFSB105", 
+        "ja_jp": "IDS_PFSB105", 
+        "level": 5, 
+        "name": "PFSB105_Bretagne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB105", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB105", 
+        "zh_tw": "IDS_PFSB105"
     }, 
     "4184815568": {
         "en": "Iron Duke", 
@@ -2547,6 +2638,19 @@
         "zh_cn": "\u9ed1\u5929\u9e45", 
         "zh_tw": "\u9ed1\u5929\u9d5d\u7d1a"
     }, 
+    "4247008528": {
+        "en": "IDS_PXSX045", 
+        "id": 4247008528, 
+        "index": "PXSX045", 
+        "ja_jp": "IDS_PXSX045", 
+        "level": 5, 
+        "name": "PXSX045_Liberty", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX045", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX045", 
+        "zh_tw": "IDS_PXSX045"
+    }, 
     "4247697392": {
         "en": "Marblehead L", 
         "id": 4247697392, 
@@ -2559,6 +2663,19 @@
         "species": "Cruiser", 
         "zh_cn": "\u8f9b\u8f9b\u90a3\u63d0", 
         "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
+    }, 
+    "4248057104": {
+        "en": "IDS_PXSX044", 
+        "id": 4248057104, 
+        "index": "PXSX044", 
+        "ja_jp": "IDS_PXSX044", 
+        "level": 5, 
+        "name": "PXSX044_Cimarron", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX044", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX044", 
+        "zh_tw": "IDS_PXSX044"
     }, 
     "4248745968": {
         "en": "Marblehead", 
@@ -3640,10 +3757,10 @@
         "zh_tw": "\u5967\u99ac\u54c8\u7d1a"
     }, 
     "4289672464": {
-        "en": "IDS_PXSB005", 
+        "en": "Varg", 
         "id": 4289672464, 
         "index": "PXSB005", 
-        "ja_jp": "IDS_PXSB005", 
+        "ja_jp": "Varg", 
         "level": 8, 
         "name": "PXSB005_Bismarck_H2017", 
         "nation": "Events", 
@@ -3692,10 +3809,10 @@
         "zh_tw": "\u8056\u00b7\u8def\u6613\u65af\u7d1a"
     }, 
     "4290721040": {
-        "en": "IDS_PXSB004", 
+        "en": "Magnu-S", 
         "id": 4290721040, 
         "index": "PXSB004", 
-        "ja_jp": "IDS_PXSB004", 
+        "ja_jp": "Magnu-S", 
         "level": 8, 
         "name": "PXSB004_Tirpiz_1942_H2017", 
         "nation": "Events", 
@@ -3718,10 +3835,10 @@
         "zh_tw": "\u61f7\u4fc4\u660e\u7d1a"
     }, 
     "4290753808": {
-        "en": "IDS_PXSA004", 
+        "en": "The Great Gorgon", 
         "id": 4290753808, 
         "index": "PXSA004", 
-        "ja_jp": "IDS_PXSA004", 
+        "ja_jp": "The Great Gorgon", 
         "level": 8, 
         "name": "PXSA004_Zuikaku_1944_H2017", 
         "nation": "Events", 
@@ -3757,10 +3874,10 @@
         "zh_tw": "\u81ea\u7531\u865f"
     }, 
     "4291704080": {
-        "en": "IDS_PXSD003", 
+        "en": "Urashima", 
         "id": 4291704080, 
         "index": "PXSD003", 
-        "ja_jp": "IDS_PXSD003", 
+        "ja_jp": "Urashima", 
         "level": 8, 
         "name": "PXSD003_Kagero_H2017", 
         "nation": "Events", 
@@ -3783,10 +3900,10 @@
         "zh_tw": "\u78ef\u98a8\u578b"
     }, 
     "4291736848": {
-        "en": "IDS_PXSC003", 
+        "en": "Svyatozar", 
         "id": 4291736848, 
         "index": "PXSC003", 
-        "ja_jp": "IDS_PXSC003", 
+        "ja_jp": "Svyatozar", 
         "level": 8, 
         "name": "PXSC003_Pr_68_Chapaev_H2017", 
         "nation": "Events", 
@@ -3848,10 +3965,10 @@
         "zh_tw": "\u5999\u7fa9\u578b"
     }, 
     "4291802384": {
-        "en": "IDS_PXSA003", 
+        "en": "Nobilium", 
         "id": 4291802384, 
         "index": "PXSA003", 
-        "ja_jp": "IDS_PXSA003", 
+        "ja_jp": "Nobilium", 
         "level": 8, 
         "name": "PXSA003_Lexington_1944_H2017", 
         "nation": "Events", 
@@ -3861,10 +3978,10 @@
         "zh_tw": "IDS_PXSA003"
     }, 
     "4292752656": {
-        "en": "IDS_PXSD002", 
+        "en": "Ghoul", 
         "id": 4292752656, 
         "index": "PXSD002", 
-        "ja_jp": "IDS_PXSD002", 
+        "ja_jp": "Ghoul", 
         "level": 8, 
         "name": "PXSD002_Benson_1945_H2017", 
         "nation": "Events", 
@@ -3900,10 +4017,10 @@
         "zh_tw": "\u6851\u666e\u68ee\u7d1a"
     }, 
     "4292785424": {
-        "en": "IDS_PXSC002", 
+        "en": "Scarab", 
         "id": 4292785424, 
         "index": "PXSC002", 
-        "ja_jp": "IDS_PXSC002", 
+        "ja_jp": "Scarab", 
         "level": 8, 
         "name": "PXSC002_Charles_Martel_H2017", 
         "nation": "Events", 

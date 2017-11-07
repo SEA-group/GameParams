@@ -610,6 +610,19 @@
         "zh_cn": "\u5f17\u6797\u7279", 
         "zh_tw": "\u5f17\u6797\u7279\u865f"
     }, 
+    "PASC710": {
+        "en": "IDS_PASC710", 
+        "id": 3550394352, 
+        "index": "PASC710", 
+        "ja_jp": "IDS_PASC710", 
+        "level": 10, 
+        "name": "PASC710_Salem", 
+        "nation": "USA", 
+        "ru": "IDS_PASC710", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC710", 
+        "zh_tw": "IDS_PASC710"
+    }, 
     "PASC802": {
         "en": "Cimarron", 
         "id": 3453925360, 
@@ -1078,6 +1091,19 @@
         "zh_cn": "\u7eb3\u5c14\u900a", 
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
+    "PBSB527": {
+        "en": "IDS_PBSB527", 
+        "id": 3742316496, 
+        "index": "PBSB527", 
+        "ja_jp": "IDS_PBSB527", 
+        "level": 7, 
+        "name": "PBSB527_Duke_of_York", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSB527", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PBSB527", 
+        "zh_tw": "IDS_PBSB527"
+    }, 
     "PBSB910": {
         "en": "[Conqueror]", 
         "id": 3340711888, 
@@ -1273,6 +1299,58 @@
         "zh_cn": "\u5b89\u4e1c\u5c3c", 
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
+    "PFSB105": {
+        "en": "IDS_PFSB105", 
+        "id": 4184815440, 
+        "index": "PFSB105", 
+        "ja_jp": "IDS_PFSB105", 
+        "level": 5, 
+        "name": "PFSB105_Bretagne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB105", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB105", 
+        "zh_tw": "IDS_PFSB105"
+    }, 
+    "PFSB106": {
+        "en": "IDS_PFSB106", 
+        "id": 4183766864, 
+        "index": "PFSB106", 
+        "ja_jp": "IDS_PFSB106", 
+        "level": 6, 
+        "name": "PFSB106_Normandie", 
+        "nation": "France", 
+        "ru": "IDS_PFSB106", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB106", 
+        "zh_tw": "IDS_PFSB106"
+    }, 
+    "PFSB107": {
+        "en": "IDS_PFSB107", 
+        "id": 4182718288, 
+        "index": "PFSB107", 
+        "ja_jp": "IDS_PFSB107", 
+        "level": 7, 
+        "name": "PFSB107_Lyon", 
+        "nation": "France", 
+        "ru": "IDS_PFSB107", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB107", 
+        "zh_tw": "IDS_PFSB107"
+    }, 
+    "PFSB108": {
+        "en": "IDS_PFSB108", 
+        "id": 4181669712, 
+        "index": "PFSB108", 
+        "ja_jp": "IDS_PFSB108", 
+        "level": 8, 
+        "name": "PFSB108_Richelieu", 
+        "nation": "France", 
+        "ru": "IDS_PFSB108", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB108", 
+        "zh_tw": "IDS_PFSB108"
+    }, 
     "PFSB506": {
         "en": "Dunkerque", 
         "id": 3764336464, 
@@ -1430,10 +1508,10 @@
         "zh_tw": "\u5fb7\u00b7\u683c\u62c9\u65af\u865f"
     }, 
     "PFSD506": {
-        "en": "IDS_PFSD506", 
+        "en": "Aigle", 
         "id": 3764270928, 
         "index": "PFSD506", 
-        "ja_jp": "IDS_PFSD506", 
+        "ja_jp": "Aigle", 
         "level": 6, 
         "name": "PFSD506_Aigle", 
         "nation": "France", 
@@ -1937,10 +2015,10 @@
         "zh_tw": "Z-52"
     }, 
     "PGSD506": {
-        "en": "IDS_PGSD506", 
+        "en": "T-61", 
         "id": 3764270896, 
         "index": "PGSD506", 
-        "ja_jp": "IDS_PGSD506", 
+        "ja_jp": "T-61", 
         "level": 6, 
         "name": "PGSD506_T_61", 
         "nation": "Germany", 
@@ -1962,6 +2040,19 @@
         "zh_cn": "\u5c24\u5229\u4e4c\u65af\u00b7\u51ef\u6492", 
         "zh_tw": "\u5c24\u5229\u70cf\u65af\u00b7\u51f1\u6492\u865f"
     }, 
+    "PISB508": {
+        "en": "IDS_PISB508", 
+        "id": 3762239216, 
+        "index": "PISB508", 
+        "ja_jp": "IDS_PISB508", 
+        "level": 8, 
+        "name": "PISB508_Roma", 
+        "nation": "Italy", 
+        "ru": "IDS_PISB508", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PISB508", 
+        "zh_tw": "IDS_PISB508"
+    }, 
     "PISC506": {
         "en": "Duca d'Aosta", 
         "id": 3764303600, 
@@ -1976,10 +2067,10 @@
         "zh_tw": "\u5967\u65af\u5854\u516c\u7235\u865f"
     }, 
     "PISC507": {
-        "en": "IDS_PISC507", 
+        "en": "Abruzzi", 
         "id": 3763255024, 
         "index": "PISC507", 
-        "ja_jp": "IDS_PISC507", 
+        "ja_jp": "Abruzzi", 
         "level": 7, 
         "name": "PISC507_Duca_degli_Abruzzi", 
         "nation": "Italy", 
@@ -2275,10 +2366,10 @@
         "zh_tw": "\u7d00\u4f0a\u7d1a"
     }, 
     "PJSB509": {
-        "en": "IDS_PJSB509", 
+        "en": "Musashi", 
         "id": 3761190608, 
         "index": "PJSB509", 
-        "ja_jp": "IDS_PJSB509", 
+        "ja_jp": "Musashi", 
         "level": 9, 
         "name": "PJSB509_Musashi", 
         "nation": "Japan", 
@@ -2379,10 +2470,10 @@
         "zh_tw": "\u6cb3\u5167"
     }, 
     "PJSB918": {
-        "en": "IDS_PJSB918", 
+        "en": "[Yamato]", 
         "id": 3332323024, 
         "index": "PJSB918", 
-        "ja_jp": "IDS_PJSB918", 
+        "ja_jp": "[Yamato]", 
         "level": 10, 
         "name": "PJSB918_Yamato_1944", 
         "nation": "Japan", 
@@ -3718,10 +3809,10 @@
         "zh_tw": "\u822a\u7a7a\u6bcd\u8266"
     }, 
     "PXSA003": {
-        "en": "IDS_PXSA003", 
+        "en": "Nobilium", 
         "id": 4291802384, 
         "index": "PXSA003", 
-        "ja_jp": "IDS_PXSA003", 
+        "ja_jp": "Nobilium", 
         "level": 8, 
         "name": "PXSA003_Lexington_1944_H2017", 
         "nation": "Events", 
@@ -3731,10 +3822,10 @@
         "zh_tw": "IDS_PXSA003"
     }, 
     "PXSA004": {
-        "en": "IDS_PXSA004", 
+        "en": "The Great Gorgon", 
         "id": 4290753808, 
         "index": "PXSA004", 
-        "ja_jp": "IDS_PXSA004", 
+        "ja_jp": "The Great Gorgon", 
         "level": 8, 
         "name": "PXSA004_Zuikaku_1944_H2017", 
         "nation": "Events", 
@@ -3783,10 +3874,10 @@
         "zh_tw": "Zikasa"
     }, 
     "PXSB004": {
-        "en": "IDS_PXSB004", 
+        "en": "Magnu-S", 
         "id": 4290721040, 
         "index": "PXSB004", 
-        "ja_jp": "IDS_PXSB004", 
+        "ja_jp": "Magnu-S", 
         "level": 8, 
         "name": "PXSB004_Tirpiz_1942_H2017", 
         "nation": "Events", 
@@ -3796,10 +3887,10 @@
         "zh_tw": "IDS_PXSB004"
     }, 
     "PXSB005": {
-        "en": "IDS_PXSB005", 
+        "en": "Varg", 
         "id": 4289672464, 
         "index": "PXSB005", 
-        "ja_jp": "IDS_PXSB005", 
+        "ja_jp": "Varg", 
         "level": 8, 
         "name": "PXSB005_Bismarck_H2017", 
         "nation": "Events", 
@@ -3822,10 +3913,10 @@
         "zh_tw": "Igor"
     }, 
     "PXSC002": {
-        "en": "IDS_PXSC002", 
+        "en": "Scarab", 
         "id": 4292785424, 
         "index": "PXSC002", 
-        "ja_jp": "IDS_PXSC002", 
+        "ja_jp": "Scarab", 
         "level": 8, 
         "name": "PXSC002_Charles_Martel_H2017", 
         "nation": "Events", 
@@ -3835,10 +3926,10 @@
         "zh_tw": "IDS_PXSC002"
     }, 
     "PXSC003": {
-        "en": "IDS_PXSC003", 
+        "en": "Svyatozar", 
         "id": 4291736848, 
         "index": "PXSC003", 
-        "ja_jp": "IDS_PXSC003", 
+        "ja_jp": "Svyatozar", 
         "level": 8, 
         "name": "PXSC003_Pr_68_Chapaev_H2017", 
         "nation": "Events", 
@@ -3861,10 +3952,10 @@
         "zh_tw": "Blade"
     }, 
     "PXSD002": {
-        "en": "IDS_PXSD002", 
+        "en": "Ghoul", 
         "id": 4292752656, 
         "index": "PXSD002", 
-        "ja_jp": "IDS_PXSD002", 
+        "ja_jp": "Ghoul", 
         "level": 8, 
         "name": "PXSD002_Benson_1945_H2017", 
         "nation": "Events", 
@@ -3874,10 +3965,10 @@
         "zh_tw": "IDS_PXSD002"
     }, 
     "PXSD003": {
-        "en": "IDS_PXSD003", 
+        "en": "Urashima", 
         "id": 4291704080, 
         "index": "PXSD003", 
-        "ja_jp": "IDS_PXSD003", 
+        "ja_jp": "Urashima", 
         "level": 8, 
         "name": "PXSD003_Kagero_H2017", 
         "nation": "Events", 
@@ -4029,11 +4120,37 @@
         "zh_cn": "\u6885\u5fb7\u97e6\u5973\u738b", 
         "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
     }, 
+    "PXSX044": {
+        "en": "IDS_PXSX044", 
+        "id": 4248057104, 
+        "index": "PXSX044", 
+        "ja_jp": "IDS_PXSX044", 
+        "level": 5, 
+        "name": "PXSX044_Cimarron", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX044", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX044", 
+        "zh_tw": "IDS_PXSX044"
+    }, 
+    "PXSX045": {
+        "en": "IDS_PXSX045", 
+        "id": 4247008528, 
+        "index": "PXSX045", 
+        "ja_jp": "IDS_PXSX045", 
+        "level": 5, 
+        "name": "PXSX045_Liberty", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX045", 
+        "species": "Auxiliary", 
+        "zh_cn": "IDS_PXSX045", 
+        "zh_tw": "IDS_PXSX045"
+    }, 
     "PXSX743": {
-        "en": "IDS_PXSX743", 
+        "en": "Intania Queen", 
         "id": 3515102480, 
         "index": "PXSX743", 
-        "ja_jp": "IDS_PXSX743", 
+        "ja_jp": "Intania Queen", 
         "level": 11, 
         "name": "PXSX743_Hall_Medway_Queen", 
         "nation": "Events", 
@@ -4056,10 +4173,10 @@
         "zh_tw": "\u6210\u5b89\u865f"
     }, 
     "PZSC506": {
-        "en": "Huang He", 
+        "en": "Huanghe", 
         "id": 3764303056, 
         "index": "PZSC506", 
-        "ja_jp": "Huang He", 
+        "ja_jp": "Huanghe", 
         "level": 6, 
         "name": "PZSC506_Huang_he", 
         "nation": "Pan_Asia", 
@@ -4173,10 +4290,10 @@
         "zh_tw": "\u5fe0\u6b66\u865f"
     }, 
     "PZSD110": {
-        "en": "Hsiang Yang", 
+        "en": "Yueyang", 
         "id": 4179506384, 
         "index": "PZSD110", 
-        "ja_jp": "Hsiang Yang", 
+        "ja_jp": "Yueyang", 
         "level": 10, 
         "name": "PZSD110_Hsiang_Yang", 
         "nation": "Pan_Asia", 
