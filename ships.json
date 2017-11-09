@@ -611,10 +611,10 @@
         "zh_tw": "\u5f17\u6797\u7279\u865f"
     }, 
     "PASC710": {
-        "en": "IDS_PASC710", 
+        "en": "Salem", 
         "id": 3550394352, 
         "index": "PASC710", 
-        "ja_jp": "IDS_PASC710", 
+        "ja_jp": "Salem", 
         "level": 10, 
         "name": "PASC710_Salem", 
         "nation": "USA", 
@@ -1092,10 +1092,10 @@
         "zh_tw": "\u7d0d\u723e\u905c\u7d1a"
     }, 
     "PBSB527": {
-        "en": "IDS_PBSB527", 
+        "en": "Duke of York", 
         "id": 3742316496, 
         "index": "PBSB527", 
-        "ja_jp": "IDS_PBSB527", 
+        "ja_jp": "Duke of York", 
         "level": 7, 
         "name": "PBSB527_Duke_of_York", 
         "nation": "United_Kingdom", 
@@ -1300,10 +1300,10 @@
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
     "PFSB105": {
-        "en": "IDS_PFSB105", 
+        "en": "Bretagne", 
         "id": 4184815440, 
         "index": "PFSB105", 
-        "ja_jp": "IDS_PFSB105", 
+        "ja_jp": "Bretagne", 
         "level": 5, 
         "name": "PFSB105_Bretagne", 
         "nation": "France", 
@@ -1313,10 +1313,10 @@
         "zh_tw": "IDS_PFSB105"
     }, 
     "PFSB106": {
-        "en": "IDS_PFSB106", 
+        "en": "Normandie", 
         "id": 4183766864, 
         "index": "PFSB106", 
-        "ja_jp": "IDS_PFSB106", 
+        "ja_jp": "Normandie", 
         "level": 6, 
         "name": "PFSB106_Normandie", 
         "nation": "France", 
@@ -1326,10 +1326,10 @@
         "zh_tw": "IDS_PFSB106"
     }, 
     "PFSB107": {
-        "en": "IDS_PFSB107", 
+        "en": "Lyon", 
         "id": 4182718288, 
         "index": "PFSB107", 
-        "ja_jp": "IDS_PFSB107", 
+        "ja_jp": "Lyon", 
         "level": 7, 
         "name": "PFSB107_Lyon", 
         "nation": "France", 
@@ -1339,10 +1339,10 @@
         "zh_tw": "IDS_PFSB107"
     }, 
     "PFSB108": {
-        "en": "IDS_PFSB108", 
+        "en": "Richelieu", 
         "id": 4181669712, 
         "index": "PFSB108", 
-        "ja_jp": "IDS_PFSB108", 
+        "ja_jp": "Richelieu", 
         "level": 8, 
         "name": "PFSB108_Richelieu", 
         "nation": "France", 
@@ -2041,10 +2041,10 @@
         "zh_tw": "\u5c24\u5229\u70cf\u65af\u00b7\u51f1\u6492\u865f"
     }, 
     "PISB508": {
-        "en": "IDS_PISB508", 
+        "en": "Roma", 
         "id": 3762239216, 
         "index": "PISB508", 
-        "ja_jp": "IDS_PISB508", 
+        "ja_jp": "Roma", 
         "level": 8, 
         "name": "PISB508_Roma", 
         "nation": "Italy", 
@@ -4121,10 +4121,10 @@
         "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
     }, 
     "PXSX044": {
-        "en": "IDS_PXSX044", 
+        "en": "Cimarron_civil", 
         "id": 4248057104, 
         "index": "PXSX044", 
-        "ja_jp": "IDS_PXSX044", 
+        "ja_jp": "Cimarron_civil", 
         "level": 5, 
         "name": "PXSX044_Cimarron", 
         "nation": "Events", 
@@ -4134,10 +4134,10 @@
         "zh_tw": "IDS_PXSX044"
     }, 
     "PXSX045": {
-        "en": "IDS_PXSX045", 
+        "en": "Liberty_civil", 
         "id": 4247008528, 
         "index": "PXSX045", 
-        "ja_jp": "IDS_PXSX045", 
+        "ja_jp": "Liberty_civil", 
         "level": 5, 
         "name": "PXSX045_Liberty", 
         "nation": "Events", 
