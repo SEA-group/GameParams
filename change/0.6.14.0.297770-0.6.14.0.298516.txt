@@ -1,0 +1,9 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC508_Kutuzov_1952.ShipUpgradeInfo.costSaleGold changed in second object (was 10250, is 0)
+root.PRPA037_180_AP_B_32_S.bulletSpeed changed in second object (was 920.0, is 800.0)
+root.PUSC506_Perth_1942.ShipUpgradeInfo.costSaleGold changed in second object (was 4800, is 0)
+root.PRPA031_180_HE_OF_42_S.bulletSpeed changed in second object (was 920.0, is 800.0)
+root.PBSC507_Belfast_1959.ShipUpgradeInfo.costSaleGold changed in second object (was 8200, is 0)
+>> finished comparing
