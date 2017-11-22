@@ -1,0 +1,11 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSB002_Tirpiz_1942.permoflages[4] removed in first object
+root.PJSC038_Atago_1944.permoflages[1] removed in first object
+root.PGSB507_Scharnhorst.permoflages[1] removed in first object
+root.PCEC044_Steam_Camo removed in first object
+root.PJEP439_Atago_CN_OB removed in first object
+root.PGEP508_Scharnhorst_CN_OB removed in first object
+root.PGEP305_Tirpiz_1942_CN_OB removed in first object
+>> finished comparing
