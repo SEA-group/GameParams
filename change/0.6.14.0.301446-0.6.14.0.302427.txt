@@ -1,0 +1,34 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PUSC506_Perth_1942.groupCustom.RU removed in first object
+root.PUSC506_Perth_1942.groupCustom.ST removed in first object
+root.PISC507_Duca_degli_Abruzzi.group changed in second object (was demoWithoutStats, is special)
+root.PISC507_Duca_degli_Abruzzi.groupCustom.CN removed in second object
+root.PUSD503_Vampire.group changed in second object (was demoWithoutStats, is special)
+root.PUSD503_Vampire.groupCustom.CN removed in second object
+root.PASB518_Massachusetts.group changed in second object (was demoWithoutStats, is special)
+root.PASB518_Massachusetts.groupCustom.CN removed in second object
+root.PGSD506_T_61.group changed in second object (was demoWithoutStats, is special)
+root.PGSD506_T_61.groupCustom.CN removed in second object
+root.PJSB507_Ashitaka.groupCustom.CN removed in second object
+root.PJSB507_Ashitaka.group changed in second object (was demoWithoutStats, is special)
+root.PCM024_Engine_Mod_II.excludes[6] removed in first object
+root.PBSB527_Duke_of_York.A1_Artillery.sigmaCount changed in second object (was 1.8, is 2.05)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_2.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_3.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_1.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY008_SonarSearch)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Duke, is DukeOfYork)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY016_SonarSearchPremium)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Duke_Gold, is DukeOfYork_Premium)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PJSB509_Musashi.group changed in second object (was disabled, is demoWithoutStats)
+root.PJSB509_Musashi.groupCustom.ST removed in second object
+root.PJSB509_Musashi.groupCustom.CN removed in first object
+root.PZSC506_Huang_he.group changed in second object (was demoWithoutStats, is special)
+root.PZSC506_Huang_he.groupCustom.CN removed in second object
+>> finished comparing
