@@ -1299,6 +1299,32 @@
         "zh_cn": "\u5b89\u4e1c\u5c3c", 
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
+    "PFSB103": {
+        "en": "Turenne", 
+        "id": 4186912592, 
+        "index": "PFSB103", 
+        "ja_jp": "Turenne", 
+        "level": 3, 
+        "name": "PFSB103_Turenne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB103", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB103", 
+        "zh_tw": "IDS_PFSB103"
+    }, 
+    "PFSB104": {
+        "en": "Courbet", 
+        "id": 4185864016, 
+        "index": "PFSB104", 
+        "ja_jp": "Courbet", 
+        "level": 4, 
+        "name": "PFSB104_Courbet", 
+        "nation": "France", 
+        "ru": "IDS_PFSB104", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB104", 
+        "zh_tw": "IDS_PFSB104"
+    }, 
     "PFSB105": {
         "en": "Bretagne", 
         "id": 4184815440, 
@@ -1351,6 +1377,32 @@
         "zh_cn": "IDS_PFSB108", 
         "zh_tw": "IDS_PFSB108"
     }, 
+    "PFSB109": {
+        "en": "Alsace", 
+        "id": 4180621136, 
+        "index": "PFSB109", 
+        "ja_jp": "Alsace", 
+        "level": 9, 
+        "name": "PFSB109_Alsace", 
+        "nation": "France", 
+        "ru": "IDS_PFSB109", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB109", 
+        "zh_tw": "IDS_PFSB109"
+    }, 
+    "PFSB110": {
+        "en": "France", 
+        "id": 4179572560, 
+        "index": "PFSB110", 
+        "ja_jp": "France", 
+        "level": 10, 
+        "name": "PFSB110_France", 
+        "nation": "France", 
+        "ru": "IDS_PFSB110", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB110", 
+        "zh_tw": "IDS_PFSB110"
+    }, 
     "PFSB506": {
         "en": "Dunkerque", 
         "id": 3764336464, 
@@ -1363,6 +1415,19 @@
         "species": "Battleship", 
         "zh_cn": "\u6566\u523b\u5c14\u514b", 
         "zh_tw": "\u6566\u523b\u723e\u514b\u865f"
+    }, 
+    "PFSB508": {
+        "en": "IDS_PFSB508", 
+        "id": 3762239312, 
+        "index": "PFSB508", 
+        "ja_jp": "IDS_PFSB508", 
+        "level": 8, 
+        "name": "PFSB508_Gascogne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB508", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB508", 
+        "zh_tw": "IDS_PFSB508"
     }, 
     "PFSC101": {
         "en": "Bougainville", 

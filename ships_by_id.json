@@ -844,6 +844,19 @@
         "zh_cn": "IDS_PISB508", 
         "zh_tw": "IDS_PISB508"
     }, 
+    "3762239312": {
+        "en": "IDS_PFSB508", 
+        "id": 3762239312, 
+        "index": "PFSB508", 
+        "ja_jp": "IDS_PFSB508", 
+        "level": 8, 
+        "name": "PFSB508_Gascogne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB508", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB508", 
+        "zh_tw": "IDS_PFSB508"
+    }, 
     "3762239472": {
         "en": "Alabama", 
         "id": 3762239472, 
@@ -1572,6 +1585,19 @@
         "zh_cn": "\u5927\u9009\u5e1d\u4faf", 
         "zh_tw": "\u5927\u9078\u5e1d\u4faf\u7d1a"
     }, 
+    "4179572560": {
+        "en": "France", 
+        "id": 4179572560, 
+        "index": "PFSB110", 
+        "ja_jp": "France", 
+        "level": 10, 
+        "name": "PFSB110_France", 
+        "nation": "France", 
+        "ru": "IDS_PFSB110", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB110", 
+        "zh_tw": "IDS_PFSB110"
+    }, 
     "4179572688": {
         "en": "Conqueror", 
         "id": 4179572688, 
@@ -1688,6 +1714,19 @@
         "species": "Battleship", 
         "zh_cn": "\u8153\u7279\u70c8\u5927\u5e1d", 
         "zh_tw": "\u8153\u7279\u70c8\u5927\u5e1d\u7d1a"
+    }, 
+    "4180621136": {
+        "en": "Alsace", 
+        "id": 4180621136, 
+        "index": "PFSB109", 
+        "ja_jp": "Alsace", 
+        "level": 9, 
+        "name": "PFSB109_Alsace", 
+        "nation": "France", 
+        "ru": "IDS_PFSB109", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB109", 
+        "zh_tw": "IDS_PFSB109"
     }, 
     "4180621264": {
         "en": "Lion", 
@@ -2378,6 +2417,19 @@
         "zh_cn": "\u51ef\u6492", 
         "zh_tw": "\u51f1\u6492\u7d1a"
     }, 
+    "4185864016": {
+        "en": "Courbet", 
+        "id": 4185864016, 
+        "index": "PFSB104", 
+        "ja_jp": "Courbet", 
+        "level": 4, 
+        "name": "PFSB104_Courbet", 
+        "nation": "France", 
+        "ru": "IDS_PFSB104", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB104", 
+        "zh_tw": "IDS_PFSB104"
+    }, 
     "4185864144": {
         "en": "Orion", 
         "id": 4185864144, 
@@ -2494,6 +2546,19 @@
         "species": "Battleship", 
         "zh_cn": "\u62ff\u9a9a", 
         "zh_tw": "\u62ff\u9a37\u7d1a"
+    }, 
+    "4186912592": {
+        "en": "Turenne", 
+        "id": 4186912592, 
+        "index": "PFSB103", 
+        "ja_jp": "Turenne", 
+        "level": 3, 
+        "name": "PFSB103_Turenne", 
+        "nation": "France", 
+        "ru": "IDS_PFSB103", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB103", 
+        "zh_tw": "IDS_PFSB103"
     }, 
     "4186912720": {
         "en": "Bellerophon", 

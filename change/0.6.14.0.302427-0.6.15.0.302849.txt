@@ -1,0 +1,556 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFUS211_B3_SUO_STOCK.histEnginePower removed in second object
+root.PFUE510_B6_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PFUE411_B5_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PZSD110_Hsiang_Yang.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.62, is 2.77)
+root.PFPA040_139MM_55_1910_HE.ownTracerTexture changed in second object (was particles/trails/Trail_Gk_HE.tga, is particles/trails/Trail_Pmk.tga)
+root.PFPA040_139MM_55_1910_HE.tracerOpacity changed in second object (was 1.0, is 0.8)
+root.PFPA040_139MM_55_1910_HE.ownHatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat_HE.tga, is particles/trails/Trail_Shell_Hat.tga)
+root.PFPA040_139MM_55_1910_HE.shellGlow changed in second object (was 10.0, is 5.0)
+root.PFPA040_139MM_55_1910_HE.smokeAlphaFalloff changed in second object (was 70.0, is 20.0)
+root.PFPA040_139MM_55_1910_HE.tracerThickness changed in second object (was 0.11, is 0.035)
+root.PFPA040_139MM_55_1910_HE.smokeThickness changed in second object (was 0.2, is 0.1)
+root.PFPA040_139MM_55_1910_HE.shellModelScale changed in second object (was 0.11, is 0.06)
+root.PFPA040_139MM_55_1910_HE.hatTracerTexture changed in second object (was particles/trails/Trail_Shell_Hat_HE_Enemy.tga, is particles/trails/Trail_Shell_Hat_Enemy.tga)
+root.PFPA040_139MM_55_1910_HE.tracerLength changed in second object (was 75.0, is 22.0)
+root.PFPA040_139MM_55_1910_HE.smokeOpacity changed in second object (was 0.37, is 0.65)
+root.PFPA040_139MM_55_1910_HE.bulletKrupp changed in second object (was 3.0, is 360.0)
+root.PFPA040_139MM_55_1910_HE.shellLength changed in second object (was 3.5, is 1.05)
+root.PFPA040_139MM_55_1910_HE.tracerTexture changed in second object (was particles/trails/Trail_Gk_HE_Enemy.tga, is particles/trails/Trail_Pmk_Enemy.tga)
+root.PFPA040_139MM_55_1910_HE.crewSmokeTexture changed in second object (was particles/trails/Trail_smoke_commander_R.tga, is )
+root.PRSC506_Molotov_1943.A_Hull.HP_RGM_1_HP_RGA_1 removed in first object
+root.PRSC506_Molotov_1943.A_Hull.HP_RGM_1_HP_RGA_2 removed in first object
+root.PZSC101_Cheng_An.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.19, is 2.31)
+root.PRSC102_Novik.A_Hull.visibilityCoefGKInSmoke changed in second object (was 3.74, is 3.38)
+root.PRSC102_Novik.B_Hull.visibilityCoefGKInSmoke changed in second object (was 3.74, is 3.38)
+root.PFUH311_B4_HULL_A.histEnginePower removed in second object
+root.PFUE210_B3_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_4.index changed in second object (was PAGA008, is PAGA175)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_4.name changed in second object (was PAGA008_40mm_Bofors_Mk2, is PAGA175_40mm_Bofors_Mk2_MK19)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_4.deadMesh changed in second object (was content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2_dead.model, is content/gameplay/usa/gun/aaircraft/AGA175_40mm_Bofors_Mk2_MK19/AGA175_40mm_Bofors_Mk2_MK19_dead.model)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_4.model changed in second object (was content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2.model, is content/gameplay/usa/gun/aaircraft/AGA175_40mm_Bofors_Mk2_MK19/AGA175_40mm_Bofors_Mk2_MK19.model)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_4.id changed in second object (was 4286572528, is 4111460336)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_3.index changed in second object (was PAGA008, is PAGA175)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_3.name changed in second object (was PAGA008_40mm_Bofors_Mk2, is PAGA175_40mm_Bofors_Mk2_MK19)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_3.deadMesh changed in second object (was content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2_dead.model, is content/gameplay/usa/gun/aaircraft/AGA175_40mm_Bofors_Mk2_MK19/AGA175_40mm_Bofors_Mk2_MK19_dead.model)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_3.model changed in second object (was content/gameplay/usa/gun/aaircraft/AGA008_40mm_Bofors_Mk2/AGA008_40mm_Bofors_Mk2.model, is content/gameplay/usa/gun/aaircraft/AGA175_40mm_Bofors_Mk2_MK19/AGA175_40mm_Bofors_Mk2_MK19.model)
+root.PASD508_Kidd.A_AirDefense.HP_AGA_3.id changed in second object (was 4286572528, is 4111460336)
+root.PFUS612_B7_SUO_TOP.histEnginePower removed in second object
+root.PFUH522_B6_HULL_B.histEnginePower removed in second object
+root.PZSD106_Fu_Shun.permoflages[1] removed in first object
+root.PFUE211_B3_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PFUE310_B4_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PFUS812_B9_SUO_TOP.histEnginePower removed in second object
+root.PASC014_New_Orlean_1944.B_Hull_1944.visibilityCoefGKByPlane changed in second object (was 4.02, is 4.06)
+root.PASC014_New_Orlean_1944.B_Hull_1944.visibilityCoefGKInSmoke changed in second object (was 7.05, is 6.62)
+root.PASC014_New_Orlean_1944.A_Hull_1942.visibilityCoefGKByPlane changed in second object (was 4.02, is 4.06)
+root.PASC014_New_Orlean_1944.A_Hull_1942.visibilityCoefGKInSmoke changed in second object (was 7.05, is 6.62)
+root.PUSC506_Perth_1942.groupCustom.RU removed in second object
+root.PUSC506_Perth_1942.groupCustom.ST removed in second object
+root.PFUH521_B6_HULL_A.histEnginePower removed in second object
+root.PFUS811_B9_SUO_STOCK.histEnginePower removed in second object
+root.PGSD105_T_22.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.26, is 2.08)
+root.PGSD105_T_22.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.26, is 2.08)
+root.PFUA510_B6_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA510_B6_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA510_B6_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PISB508_Roma.A_Hull.dockYOffset changed in second object (was 0.0, is 0.08)
+root.PISB508_Roma.A_Directors.HP_ID_3.gunNode changed in second object (was HP_IGM_1, is HP_IGM_2)
+root.PASB008_Colorado_1945.B_Hull_1945.HP_AD_14_HP_ARF_01 removed in second object
+root.PFUS911_B10_SUO_STOCK.histEnginePower removed in second object
+root.PBSB107_King_George_V.A_Hull.armor.131173 removed in first object
+root.PBSB107_King_George_V.B_Hull.armor.131173 removed in first object
+root.PBSC507_Belfast_1959.A_Hull.HP_BGM_2_HP_BGA_1 removed in first object
+root.PBSC507_Belfast_1959.A_Hull.HP_BGM_1_HP_BGA_1 removed in first object
+root.PBSC507_Belfast_1959.A_Hull.HP_BGM_4_HP_BGA_1 removed in first object
+root.PBSC507_Belfast_1959.A_Hull.HP_BGM_3_HP_BGA_1 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_5 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_4 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_7 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_6 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_1 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_3 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_3_HP_AGA_2 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_10 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_9 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_8 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_7 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_6 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_5 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_4 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_3 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_2 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_1 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_4 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_5 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_2 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_3 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_1 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_8 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_2_HP_AGA_9 removed in first object
+root.PASB518_Massachusetts.A_Hull.HP_AGM_1_HP_AGA_10 removed in first object
+root.PFUS521_B6_SUO_STOCK.histEnginePower removed in second object
+root.PFUS311_B4_SUO_STOCK.histEnginePower removed in second object
+root.PFUE710_B8_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PGSA508_Graf_Zeppelin.A_AirArmament.HP_GC_2.rotateTime changed in second object (was 0.0, is 0.1)
+root.PGSA508_Graf_Zeppelin.A_AirArmament.HP_GC_2.dist changed in second object (was 0.0, is 0.66)
+root.PGSA508_Graf_Zeppelin.A_AirArmament.HP_GC_1.rotateTime changed in second object (was 0.0, is 0.1)
+root.PGSA508_Graf_Zeppelin.A_AirArmament.HP_GC_1.dist changed in second object (was 0.0, is 0.66)
+root.PFUH811_B9_HULL_A.histEnginePower removed in second object
+root.PFUS611_B7_SUO_STOCK.histEnginePower removed in second object
+root.PFUH712_B8_HULL_B.histEnginePower removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.visibilityCoefGKInSmoke changed in second object (was 8.18, is 7.26)
+root.PFUA710_B8_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA710_B8_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA710_B8_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PCQC002_CampaignSB.uiNumber changed in second object (was 2, is 4)
+root.PFUE910_B10_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PFUA310_B4_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA310_B4_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA310_B4_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PFUH911_B10_HULL_A.histEnginePower removed in second object
+root.PGSC107_Yorck.B_Hull.Ammo_1.maxHP changed in second object (was 13600.0, is 16300.0)
+root.PGSC107_Yorck.B_Hull.Ammo_2.maxHP changed in second object (was 13600.0, is 16300.0)
+root.PGSC107_Yorck.B_Hull.burnNodes[0][1] changed in second object (was 0.7336, is 0.7003)
+root.PGSC107_Yorck.B_Hull.burnNodes[1][1] changed in second object (was 0.7336, is 0.7003)
+root.PGSC107_Yorck.B_Hull.burnNodes[2][1] changed in second object (was 0.7336, is 0.7003)
+root.PGSC107_Yorck.B_Hull.burnNodes[3][1] changed in second object (was 0.7336, is 0.7003)
+root.PGSC107_Yorck.B_Hull.health changed in second object (was 27200.0, is 32600.0)
+root.PGSC107_Yorck.B_Hull.Cas.maxHP changed in second object (was 5200.0, is 6200.0)
+root.PGSC107_Yorck.B_Hull.rudderTime changed in second object (was 14.81, is 10.58)
+root.PGSC107_Yorck.B_Hull.St.maxHP changed in second object (was 700.0, is 900.0)
+root.PGSC107_Yorck.B_Hull.Hull.maxHP changed in second object (was 20400.0, is 24500.0)
+root.PGSC107_Yorck.B_Hull.SS.maxHP changed in second object (was 1300.0, is 1500.0)
+root.PGSC107_Yorck.B_Hull.SG.maxHP changed in second object (was 8200.0, is 9800.0)
+root.PGSC107_Yorck.B_Hull.Bow.maxHP changed in second object (was 900.0, is 1100.0)
+root.PGSC107_Yorck.C_Hull removed in second object
+root.PGSC107_Yorck.ShipUpgradeInfo.PGUH601_YORK_A.components.hull[0] changed in second object (was B_Hull, is A_Hull)
+root.PGSC107_Yorck.ShipUpgradeInfo.PGUH602_YORK_B.components.hull[0] changed in second object (was C_Hull, is B_Hull)
+root.PGSC107_Yorck.A_Hull removed in first object
+root.PFUS312_B4_SUO_TOP.histEnginePower removed in second object
+root.PFUH411_B5_HULL_A.histEnginePower removed in second object
+root.PJSB003_Myogi_1912.B_Hull.burnNodes[0][1] changed in second object (was 0.9334, is 0.9001)
+root.PJSB003_Myogi_1912.B_Hull.burnNodes[1][1] changed in second object (was 0.9334, is 0.9001)
+root.PJSB003_Myogi_1912.B_Hull.burnNodes[2][1] changed in second object (was 0.9334, is 0.9001)
+root.PJSB003_Myogi_1912.B_Hull.burnNodes[3][1] changed in second object (was 0.9334, is 0.9001)
+root.PBSC106_Leander.A_Hull.HP_BD_9 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGM_2_HP_BGA_1 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGM_1_HP_BGA_1 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGM_4_HP_BGA_1 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BD_10 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGM_3_HP_BGA_1 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGA_4 removed in first object
+root.PBSC106_Leander.A_Hull.HP_BGA_3 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BD_7 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BD_8 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BGM_2_HP_BGA_1 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BGM_1_HP_BGA_1 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BGM_4_HP_BGA_1 removed in first object
+root.PBSC106_Leander.B_Hull.HP_BGM_3_HP_BGA_1 removed in first object
+root.PFUS522_B6_SUO_TOP.histEnginePower removed in second object
+root.PJSB705_Kongou.Cameras.Obstacle_B.hulls[0] removed in second object
+root.PJSB705_Kongou.Cameras.Obstacle_B.hulls[1] removed in second object
+root.PJSB705_Kongou.Cameras.Guns1_B.hulls[0] removed in second object
+root.PJSB705_Kongou.Cameras.Guns1_B.hulls[1] removed in second object
+root.PJSB705_Kongou.Cameras.Guns2_B.hulls[0] removed in second object
+root.PJSB705_Kongou.Cameras.Guns2_B.hulls[1] removed in second object
+root.PJSB705_Kongou.B_Hull_1941 removed in second object
+root.PJSB705_Kongou.ShipUpgradeInfo.PJUH495_Kongou.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PJSB705_Kongou.C_Hull_1942 removed in second object
+root.PJSB705_Kongou.A_Hull_1941 removed in first object
+root.PJSB705_Kongou.B_Hull_1942 removed in first object
+root.PJSB007_Kongo_1942.Cameras.Obstacle_B.hulls[0] removed in second object
+root.PJSB007_Kongo_1942.Cameras.Obstacle_B.hulls[1] removed in second object
+root.PJSB007_Kongo_1942.Cameras.Guns1_B.hulls[0] removed in second object
+root.PJSB007_Kongo_1942.Cameras.Guns1_B.hulls[1] removed in second object
+root.PJSB007_Kongo_1942.Cameras.Guns2_B.hulls[0] removed in second object
+root.PJSB007_Kongo_1942.Cameras.Guns2_B.hulls[1] removed in second object
+root.PJSB007_Kongo_1942.B_Hull_1941 removed in second object
+root.PJSB007_Kongo_1942.ShipUpgradeInfo.PJUH411_Kongo_1941.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PJSB007_Kongo_1942.ShipUpgradeInfo.PJUH413_Kongo_1913.components.hull[0] changed in second object (was B_Hull_1941, is A_Hull_1941)
+root.PJSB007_Kongo_1942.C_Hull_1942 removed in second object
+root.PJSB007_Kongo_1942.A_Hull_1941 removed in first object
+root.PJSB007_Kongo_1942.B_Hull_1942 removed in first object
+root.PASB012_North_Carolina_1945.Cameras.Obstacle_C.hulls[0] changed in second object (was C_Hull, is B_Hull)
+root.PASB012_North_Carolina_1945.Cameras.Obstacle.hulls[0] changed in second object (was B_Hull, is A_Hull)
+root.PASB012_North_Carolina_1945.Cameras.Guns2_C.hulls[0] changed in second object (was C_Hull, is B_Hull)
+root.PASB012_North_Carolina_1945.Cameras.Guns2.hulls[0] changed in second object (was B_Hull, is A_Hull)
+root.PASB012_North_Carolina_1945.B_Hull_1942 removed in second object
+root.PASB012_North_Carolina_1945.ShipUpgradeInfo.PAUH732_North_Carolina_1942.components.hull[0] changed in second object (was B_Hull_1942, is A_Hull_1942)
+root.PASB012_North_Carolina_1945.ShipUpgradeInfo.PAUH733_North_Carolina_1945.components.hull[0] changed in second object (was C_Hull_1945, is B_Hull_1945)
+root.PASB012_North_Carolina_1945.C_Hull_1945 removed in second object
+root.PASB012_North_Carolina_1945.B_Hull_1945 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942 removed in first object
+root.PFUE810_B9_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PASB034_New_Mexico_1941.permoflages[1] removed in first object
+root.PFUE610_B7_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PJSB708_Hiei_Arpeggio.Cameras.Obstacle_B.hulls[0] removed in second object
+root.PJSB708_Hiei_Arpeggio.Cameras.Obstacle_B.hulls[1] removed in second object
+root.PJSB708_Hiei_Arpeggio.Cameras.Guns1_B.hulls[0] removed in second object
+root.PJSB708_Hiei_Arpeggio.Cameras.Guns1_B.hulls[1] removed in second object
+root.PJSB708_Hiei_Arpeggio.Cameras.Guns2_B.hulls[0] removed in second object
+root.PJSB708_Hiei_Arpeggio.Cameras.Guns2_B.hulls[1] removed in second object
+root.PJSB708_Hiei_Arpeggio.B_Hull_1941 removed in second object
+root.PJSB708_Hiei_Arpeggio.ShipUpgradeInfo.PJUH498_Hiei_Arpeggio.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PJSB708_Hiei_Arpeggio.C_Hull_1942 removed in second object
+root.PJSB708_Hiei_Arpeggio.A_Hull_1941 removed in first object
+root.PJSB708_Hiei_Arpeggio.B_Hull_1942 removed in first object
+root.PCQC001_Campaign1.uiNumber changed in second object (was 1, is 3)
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_2_HP_RGA_2 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_1_HP_RGA_1 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_1_HP_RGA_2 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_2_HP_RGA_1 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_3_HP_RGA_2 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_3_HP_RGA_1 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_4_HP_RGA_2 removed in first object
+root.PRSB001_Nikolay_I.HullDefault.HP_RGM_4_HP_RGA_1 removed in first object
+root.PFUE311_B4_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PFUA210_B3_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA210_B3_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA210_B3_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PFSC106_La_Galissonniere.permoflages[1] removed in first object
+root.PJSC009_Mogami_1935.A_Hull_1935.visibilityCoefGKByPlane changed in second object (was 3.1, is 4.06)
+root.PJSC026_Iwaki_1944.A_Hull.visibilityCoefGKInSmoke changed in second object (was 4.71, is 4.29)
+root.PZSD104_Shen_Yang.B_Hull.HP_JF_2 removed in first object
+root.PZSD104_Shen_Yang.A_Hull.HP_JF_2 removed in first object
+root.PCQC006_Yamamoto.uiNumber changed in second object (was 6, is 5)
+root.PBSB106_Queen_Elizabeth.permoflages[1] removed in first object
+root.PFSB107_Lyon.permoflages[0] removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_11 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGM_1_HP_BGA_1 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BD_9 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_10 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_12 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGM_4_HP_BGA_1 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BD_10 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGM_3_HP_BGA_1 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_2 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_1 removed in first object
+root.PBSC107_Fiji.A_Hull.HP_BGA_9 removed in first object
+root.PBSC107_Fiji.B_Hull.HP_BGM_1_HP_BGA_1 removed in first object
+root.PBSC107_Fiji.B_Hull.HP_BGA_14 removed in first object
+root.PBSC107_Fiji.B_Hull.HP_BGA_13 removed in first object
+root.PBSC107_Fiji.B_Hull.HP_BGM_4_HP_BGA_1 removed in first object
+root.PBSC107_Fiji.B_Hull.HP_BGM_3_HP_BGA_1 removed in first object
+root.PFUH611_B7_HULL_A.histEnginePower removed in second object
+root.PFUH412_B5_HULL_B.histEnginePower removed in second object
+root.PZSD105_Jian_Wei.B_Hull.HP_ZGA_2 removed in first object
+root.PZSD105_Jian_Wei.B_Hull.HP_ZGA_1 removed in first object
+root.PZSD105_Jian_Wei.A_Hull.HP_ZGA_3 removed in first object
+root.PJSB507_Ashitaka.A_Hull_1926.HP_JF_3 removed in second object
+root.PRSC109_Dmitry_Donskoy.B_Hull.burnNodes[0][1] changed in second object (was 0.6004, is 0.5671)
+root.PRSC109_Dmitry_Donskoy.B_Hull.burnNodes[1][1] changed in second object (was 0.6004, is 0.5671)
+root.PRSC109_Dmitry_Donskoy.B_Hull.burnNodes[2][1] changed in second object (was 0.6004, is 0.5671)
+root.PRSC109_Dmitry_Donskoy.B_Hull.burnNodes[3][1] changed in second object (was 0.6004, is 0.5671)
+root.PFUA410_B5_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA410_B5_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA410_B5_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PFUH212_B3_HULL_B.histEnginePower removed in second object
+root.PJSB707_Haruna.Cameras.Obstacle_B.hulls[0] removed in second object
+root.PJSB707_Haruna.Cameras.Obstacle_B.hulls[1] removed in second object
+root.PJSB707_Haruna.Cameras.Guns1_B.hulls[0] removed in second object
+root.PJSB707_Haruna.Cameras.Guns1_B.hulls[1] removed in second object
+root.PJSB707_Haruna.Cameras.Guns2_B.hulls[0] removed in second object
+root.PJSB707_Haruna.Cameras.Guns2_B.hulls[1] removed in second object
+root.PJSB707_Haruna.B_Hull_1941 removed in second object
+root.PJSB707_Haruna.ShipUpgradeInfo.PJUH497_Haruna.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PJSB707_Haruna.C_Hull_1942 removed in second object
+root.PJSB707_Haruna.A_Hull_1941 removed in first object
+root.PJSB707_Haruna.B_Hull_1942 removed in first object
+root.PGSD106_Ernst_Gaede.permoflages[1] removed in first object
+root.PGSD106_Ernst_Gaede.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.9, is 3.23)
+root.PGSD106_Ernst_Gaede.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.9, is 3.23)
+root.PJSA002_Hosho_1939.ShipUpgradeInfo.PJUH353_Hosho_1941.components.hull[0] changed in second object (was C_Hull_1941, is B_Hull_1941)
+root.PJSA002_Hosho_1939.ShipUpgradeInfo.PJUH352_Hosho_1939.components.hull[0] changed in second object (was B_Hull_1939, is A_Hull_1939)
+root.PJSA002_Hosho_1939.B_Hull_1939 removed in second object
+root.PJSA002_Hosho_1939.C_Hull_1941 removed in second object
+root.PJSA002_Hosho_1939.B_Hull_1941 removed in first object
+root.PJSA002_Hosho_1939.A_Hull_1939 removed in first object
+root.PASC024_Phoenix_1917.B_Hull_1924.burnNodes[0][1] changed in second object (was 0.9334, is 0.9001)
+root.PASC024_Phoenix_1917.B_Hull_1924.burnNodes[1][1] changed in second object (was 0.9334, is 0.9001)
+root.PASC024_Phoenix_1917.B_Hull_1924.burnNodes[2][1] changed in second object (was 0.9334, is 0.9001)
+root.PASC024_Phoenix_1917.B_Hull_1924.burnNodes[3][1] changed in second object (was 0.9334, is 0.9001)
+root.PBSB527_Duke_of_York.permoflages[1] removed in first object
+root.PBSB527_Duke_of_York.A1_Artillery.sigmaCount changed in second object (was 2.05, is 1.8)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_2.shotDelay changed in second object (was 25.0, is 30.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_3.shotDelay changed in second object (was 25.0, is 30.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_3.miscFilter[16] removed in first object
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_1.shotDelay changed in second object (was 25.0, is 30.0)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY003_AirDefenseDisp)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was DukeOfYork, is Duke)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY011_AirDefenseDispPremium)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was DukeOfYork_Premium, is Duke_Gold)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PFUS711_B8_SUO_STOCK.histEnginePower removed in second object
+root.PFUH312_B4_HULL_B.histEnginePower removed in second object
+root.PCBX017.hull.deathPlaneEffect changed in second object (was sfx/vehicles/Death_for_fort_2.xml, is sfx/vehicles/Death_for_fort_3.xml)
+root.PCBX018.hull.deathPlaneEffect changed in second object (was sfx/vehicles/Death_for_fort_2.xml, is sfx/vehicles/Death_for_fort_3.xml)
+root.PBSB108_Monarch.A_Hull.armor.131173 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_41 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_40 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BRS_3 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BRS_1 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BD_7 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BD_6 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_38 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_39 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_36 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_37 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_34 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_35 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_32 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_33 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_14 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_15 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_16 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_17 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BD_15 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BD_14 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_6 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_7 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_8 removed in first object
+root.PBSB108_Monarch.A_Hull.HP_BGA_9 removed in first object
+root.PBSB108_Monarch.B_Hull.armor.131173 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BRS_4 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BRS_1 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BD_13 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BD_12 removed in first object
+root.PFSB106_Normandie.permoflages[0] removed in first object
+root.PFUE410_B5_ENG_STOCK.histEnginePower changed in second object (was 15000, is 0)
+root.PCQC004_NewYear2017EliteCampaign.uiNumber changed in second object (was 4, is 2)
+root.PFUA910_B10_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA910_B10_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA910_B10_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PRSC105_Kirov.A_Hull.HP_RGM_1_HP_RGA_1 removed in first object
+root.PRSC105_Kirov.A_Hull.HP_RGM_1_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.A_Hull.HP_RGM_2_HP_RGA_1 removed in first object
+root.PRSC105_Kirov.A_Hull.HP_RGM_2_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.A_Hull.HP_RGM_3_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.A_Hull.HP_RGM_3_HP_RGA_1 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_1_HP_RGA_1 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_1_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_2_HP_RGA_1 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_2_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_3_HP_RGA_2 removed in first object
+root.PRSC105_Kirov.B_Hull.HP_RGM_3_HP_RGA_1 removed in first object
+root.PFUA610_B7_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA610_B7_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA610_B7_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PFUS412_B5_SUO_TOP.histEnginePower removed in second object
+root.PFUE509_B6_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PFUE811_B9_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PJSA011_Hiryu_1942.B_Hull_1942 removed in second object
+root.PJSA011_Hiryu_1942.ShipUpgradeInfo.PJUH633_Hiryu_1945.components.hull[0] changed in second object (was C_Hull_1945, is B_Hull_1945)
+root.PJSA011_Hiryu_1942.ShipUpgradeInfo.PJUH632_Hiryu_1942.components.hull[0] changed in second object (was B_Hull_1942, is A_Hull_1942)
+root.PJSA011_Hiryu_1942.C_Hull_1945 removed in second object
+root.PJSA011_Hiryu_1942.A_Hull_1942 removed in first object
+root.PJSA011_Hiryu_1942.B_Hull_1945 removed in first object
+root.PFUH812_B9_HULL_B.histEnginePower removed in second object
+root.PJSB706_Kirishima.Cameras.Obstacle_B.hulls[0] removed in second object
+root.PJSB706_Kirishima.Cameras.Obstacle_B.hulls[1] removed in second object
+root.PJSB706_Kirishima.Cameras.Guns1_B.hulls[0] removed in second object
+root.PJSB706_Kirishima.Cameras.Guns1_B.hulls[1] removed in second object
+root.PJSB706_Kirishima.Cameras.Guns2_B.hulls[0] removed in second object
+root.PJSB706_Kirishima.Cameras.Guns2_B.hulls[1] removed in second object
+root.PJSB706_Kirishima.B_Hull_1941 removed in second object
+root.PJSB706_Kirishima.ShipUpgradeInfo.PJUH496_Kirishima.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PJSB706_Kirishima.C_Hull_1942 removed in second object
+root.PJSB706_Kirishima.A_Hull_1941 removed in first object
+root.PJSB706_Kirishima.B_Hull_1942 removed in first object
+root.PASB006_New_York_1934.ShipUpgradeInfo.PAUH443_New_York_1942.components.hull[0] changed in second object (was C_Hull_1942, is B_Hull_1942)
+root.PASB006_New_York_1934.ShipUpgradeInfo.PAUH442_New_York_1934.components.hull[0] changed in second object (was B_Hull_1934, is A_Hull_1934)
+root.PASB006_New_York_1934.C_Hull_1942 removed in second object
+root.PASB006_New_York_1934.B_Hull_1934 removed in second object
+root.PASB006_New_York_1934.B_Hull_1942 removed in first object
+root.PASB006_New_York_1934.A_Hull_1934 removed in first object
+root.PJSB509_Musashi.permoflages[0] changed in second object (was PCEP107_Permo_Prem_High_lvl, is PCEP109_Permo_Prem_9_lvl)
+root.PJSB509_Musashi.nativePermoflage changed in second object (was PCEP107_Permo_Prem_High_lvl, is PCEP109_Permo_Prem_9_lvl)
+root.PFUS712_B8_SUO_TOP.histEnginePower removed in second object
+root.PFUS212_B3_SUO_TOP.histEnginePower removed in second object
+root.PGSB507_Scharnhorst.permoflages[1] changed in second object (was PGEP508_Scharnhorst_CN_OB, is PGES307_Scharnhorst_Ice)
+root.PRSC103_Bogatyr.A_Hull.visibilityCoefGKInSmoke changed in second object (was 4.21, is 4.6)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_2.position[1] changed in second object (was 2.0, is 1.75)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_3.position[1] changed in second object (was 0.0, is 0.25)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_8.position[0] changed in second object (was 5.0, is 4.5)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_9.position[0] changed in second object (was 5.0, is 4.5)
+root.PRSC103_Bogatyr.A1_Artillery.HP_RGM_10.position[0] changed in second object (was 6.0, is 5.5)
+root.PRSC103_Bogatyr.B_Hull.visibilityCoefGKByPlane changed in second object (was 2.6, is 3.04)
+root.PRSC103_Bogatyr.B_Hull.visibilityCoefGKInSmoke changed in second object (was 4.21, is 4.6)
+root.PFUE611_B7_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PFUH211_B3_HULL_A.histEnginePower removed in second object
+root.PASD008_Benson_1945.B_Hull_1942.burnNodes[0][1] changed in second object (was 0.667, is 0.6337)
+root.PASD008_Benson_1945.B_Hull_1942.burnNodes[1][1] changed in second object (was 0.667, is 0.6337)
+root.PASD008_Benson_1945.B_Hull_1942.burnNodes[2][1] changed in second object (was 0.667, is 0.6337)
+root.PASD008_Benson_1945.B_Hull_1942.burnNodes[3][1] changed in second object (was 0.667, is 0.6337)
+root.PFUH612_B7_HULL_B.histEnginePower removed in second object
+root.PFUS411_B5_SUO_STOCK.histEnginePower removed in second object
+root.PFUE711_B8_ENG_TOP.histEnginePower changed in second object (was 15000, is 0)
+root.PASB017_Montana_1945.HullDefault.HP_AGM_3_HP_AGA_1 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_3_HP_AGA_3 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_3_HP_AGA_2 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_1_HP_AGA_4 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_1_HP_AGA_3 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_1_HP_AGA_2 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_4_HP_AGA_4 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_4_HP_AGA_2 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_4_HP_AGA_3 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_2_HP_AGA_4 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_2_HP_AGA_2 removed in first object
+root.PASB017_Montana_1945.HullDefault.HP_AGM_2_HP_AGA_3 removed in first object
+root.PFUA810_B9_ART_STOCK.damage[0] changed in second object (was 2300, is 0)
+root.PFUA810_B9_ART_STOCK.damage[1] changed in second object (was 2230, is 0)
+root.PFUA810_B9_ART_STOCK.barrelDiametr changed in second object (was 128, is 0)
+root.PFUH711_B8_HULL_A.histEnginePower removed in second object
+root.PFSB108_Richelieu.B_Directors.HP_FD_12.gunNode changed in second object (was HP_FGM_1, is )
+root.PFSB108_Richelieu.ShipUpgradeInfo.PFUH712_B8_HULL_B.nextShips[0] removed in first object
+root.PFSB108_Richelieu.A_Directors.HP_FD_4.gunNode changed in second object (was HP_FGM_1, is )
+root.PGGS517_150mm_SK_C29_Ice removed in first object
+root.PCQM059 removed in first object
+root.PCQM058 removed in first object
+root.PCQM057 removed in first object
+root.PCQM056 removed in first object
+root.PCQT460_Key removed in first object
+root.PCH153_FillAlbum_HappyNewYear2018 removed in first object
+root.PCZC110_NY2018_NorfolkGK removed in first object
+root.PCH156_NewYear2018EliteCompleted removed in first object
+root.PCQC007_NewYear2018Basic removed in first object
+root.PFPA046_380MM_AP_GASCOGNE removed in first object
+root.PBGS516_5_25in_50_QF_MK_I_Ice removed in first object
+root.PCZC111_NY2018_DukeOfYorkEmblem removed in first object
+root.PCH154_NewYear2018BasicCompleted removed in first object
+root.PCQT456 removed in first object
+root.PCZC116_NY2018_Scharnhorst_Ship removed in first object
+root.PBGA515_20mm_Oerlikon_MK4_Ice removed in first object
+root.PBD504_Director_Mk51_Ice removed in first object
+root.PCQT438 removed in first object
+root.PCQT439 removed in first object
+root.PCQT437 removed in first object
+root.PCQT435 removed in first object
+root.PCQT430 removed in first object
+root.PCQT431 removed in first object
+root.PFSB110_France removed in first object
+root.PGGS513_150mm_SKC_28_Ice removed in first object
+root.PCQT434_Key removed in first object
+root.PCEE159_Happy_New_Year2018 removed in first object
+root.PCQT459 removed in first object
+root.PCQT450 removed in first object
+root.PCQT451 removed in first object
+root.PCQT453 removed in first object
+root.PCQT454 removed in first object
+root.PCQT455 removed in first object
+root.PCQT457 removed in first object
+root.PCEC043_Camo_New_Year_18 removed in first object
+root.PCQT476_Key removed in first object
+root.PCZC119_NY2018_Bani removed in first object
+root.PCZC109_NY2018_Scharnhorst_Radar removed in first object
+root.PCQT462 removed in first object
+root.PCQT473 removed in first object
+root.PCQT470 removed in first object
+root.PCQT471 removed in first object
+root.PCQT477 removed in first object
+root.PCQT474 removed in first object
+root.PCQT475 removed in first object
+root.PCQT472_Key removed in first object
+root.PCZC115_NY2018_DukeOfYork_Ship removed in first object
+root.PBGA513_2_pdr_MkVIII_8barrel_Ice removed in first object
+root.PGF506_10_5m_Forteop_Rangefinder_Ice removed in first object
+root.PCZA006_HappyNewYear2018 removed in first object
+root.PAGA175_40mm_Bofors_Mk2_MK19 removed in first object
+root.PCZC121_NY2018_NorwayCross removed in first object
+root.PCH155_NewYear2018BasicCompletedExcellent removed in first object
+root.PFC007_Catapult removed in first object
+root.PBES327_Duke_of_York_Ice removed in first object
+root.PBGA517_20mm_Oerlikon_MK_V_Ice removed in first object
+root.PFUH713_GASCOGNE removed in first object
+root.PCZC108_NY2018_HMSDuke_of_york_gk356 removed in first object
+root.PCZC112_NY2018_BelfastEmblem removed in first object
+root.PFD056_OPL_8_metre_SRF_380mm removed in first object
+root.PFUA711_ART_GASCOGNE removed in first object
+root.PCEE160_Secret_Santa18 removed in first object
+root.PCQT478_Key removed in first object
+root.PCEP309_Permo_NY_3 removed in first object
+root.PFD055_OPL_14_metre_SRF removed in first object
+root.PBGM514_14in45_BL_MkVII_Twin_Ice removed in first object
+root.PFUE712_ENG_GASCOGNE removed in first object
+root.PCQM060 removed in first object
+root.PGGM514_280mm54_5_C34_Ice removed in first object
+root.PBGA519_2_pdr_MkVII_Quad_Ice removed in first object
+root.PCQT442 removed in first object
+root.PCQT468_Key removed in first object
+root.PCH157_NewYear2018EliteCompletedExcellent removed in first object
+root.PCQT446_Key removed in first object
+root.PGGA518_37mm_SKC_30_twin_Ice removed in first object
+root.PCZC120_NY2018_DService_Order removed in first object
+root.PBD503_2pdr_with_radar_type282_Ice removed in first object
+root.PGF505_4m_Rangefinder_Type_SL_8_Ice removed in first object
+root.PCQM066 removed in first object
+root.PCQM064 removed in first object
+root.PCQM065 removed in first object
+root.PCQM062 removed in first object
+root.PCQM063 removed in first object
+root.PCQM061 removed in first object
+root.PFSB109_Alsace removed in first object
+root.PCQT440_Key removed in first object
+root.PCQT464_Key removed in first object
+root.PCQT429 removed in first object
+root.PFD058_OPL_5_metre_SRF_100mm removed in first object
+root.PCQT449 removed in first object
+root.PCQT448 removed in first object
+root.PCQT443 removed in first object
+root.PCQT441 removed in first object
+root.PCQT447 removed in first object
+root.PCQT445 removed in first object
+root.PCQT444 removed in first object
+root.PGGA516_20mm_Flak_38_Ice removed in first object
+root.PGGA512_20mm_Flack_38_quad_Ice removed in first object
+root.PBRS508_RDF_Type_281b_Ice removed in first object
+root.PBGM512_14in45_BL_MkVII_Quadro_Ice removed in first object
+root.PCQT465 removed in first object
+root.PCQT467 removed in first object
+root.PCQT466 removed in first object
+root.PCQT461 removed in first object
+root.PCQT463 removed in first object
+root.PCQT469 removed in first object
+root.PCQT452_Key removed in first object
+root.PGES307_Scharnhorst_Ice removed in first object
+root.PGF509_3m_rangefinder_Ice removed in first object
+root.PCQC008_NewYear2018Elite removed in first object
+root.PBGA518_40mm_Bofors_Mk2_Ice removed in first object
+root.PCQT458_Key removed in first object
+root.PGGT519_533mm_Torpedo_Tubes_Triple_Ice removed in first object
+root.PCZC107_NY2018_TorpedoTube533mk8 removed in first object
+root.PBRS509_Radar_Type_293Q_Outfit_ANS_Ice removed in first object
+root.PBD505_14in_DCT_secondary_Ice removed in first object
+root.PBD502_HACS_MK_V_with_Radar_type285_Ice removed in first object
+root.PCEE169_Gascogne_Flag removed in first object
+root.PCZC117_NY2018_Jamaica_Ship removed in first object
+root.PGC009_Catapult_4_Ice removed in first object
+root.PFPA047_380MM_HE_GASCOGNE removed in first object
+root.PFD054_Rangefinder_3m removed in first object
+root.PCZC113_NY2018_SaumarezEmblem removed in first object
+root.PGD507_Zeilsaule_C38_Night_Dir6_Ice removed in first object
+root.PBRF507_Anemometer_Ice removed in first object
+root.PFSB104_Courbet removed in first object
+root.PFUS713_SUO_GASCOGNE removed in first object
+root.PCQT436 removed in first object
+root.PFSB103_Turenne removed in first object
+root.PCQT433 removed in first object
+root.PBD500_14in_DCT_main_Ice removed in first object
+root.PFSB508_Gascogne removed in first object
+root.PGGS515_105_mm_SKC_38_Ice removed in first object
+root.PCZC118_NY2018_Z29_Ship removed in first object
+root.PBRS506_Type_251_surface_radar_Ice removed in first object
+root.PCEE166_Curry_Flag removed in first object
+root.PBD068_HACS_MK_V_with_Radar_type285_Ice removed in first object
+root.PBD501_Ster_Shell_Sight_Ice removed in first object
+root.PGF504_7m_Bridge_rangefinder_Ice removed in first object
+root.PCQT432 removed in first object
+root.PBRS510_Radar_Type_277_Outfit_AUK_Ice removed in first object
+root.PCZC114_NY2018_OpportuneEmblem removed in first object
+root.PCZC122_NY2018_KriegsmarineFlag removed in first object
+>> finished comparing
