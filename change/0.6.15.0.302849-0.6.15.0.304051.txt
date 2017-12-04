@@ -1,0 +1,379 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJEP308_Ishizuchi_1921.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBR002.hull.permanentlyVisible removed in second object
+root.PCBR002.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBR002.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBR001.hull.permanentlyVisible removed in second object
+root.PCBR001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBR001.hull.permanentlyVisibleByEnemies removed in first object
+root.PFSB105_Bretagne.AB_Directors.HP_FD_1.gunNode changed in second object (was , is HP_FGM_2)
+root.PGEP302_Tirpiz_1942.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBB001.hull.permanentlyVisible removed in second object
+root.PCBB001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBB001.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBM221.hull.permanentlyVisible removed in second object
+root.PCBM221.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM221.hull.permanentlyVisibleByEnemies removed in first object
+root.PAES404_DR_FRANKENSHIP.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP309_New_York_Scull.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX024_PCGM004.hull.permanentlyVisible removed in second object
+root.PCBX024_PCGM004.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX024_PCGM004.hull.permanentlyVisibleByEnemies removed in first object
+root.PREP501_Gremyashchy_1942.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP403_Katori.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX016.hull.permanentlyVisible removed in second object
+root.PCBX016.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX016.hull.permanentlyVisibleByEnemies removed in first object
+root.PREP407_Schors.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PGEP407_Yorck.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJEP438_Atago_1944.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJES508_HSF_Harekaze.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PBES317_Hood_Clean.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAEP307_Texas.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP303_Permo_NY_2_CN.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP502_Smith.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP514_Tachibana_1912_Asus.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP308_New_York_1934.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBM006.hull.permanentlyVisible removed in second object
+root.PCBM006.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM006.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBM005.hull.permanentlyVisible removed in second object
+root.PCBM005.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM005.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBM009.hull.permanentlyVisible removed in second object
+root.PCBM009.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM009.hull.permanentlyVisibleByEnemies removed in first object
+root.PJEP504_Minekadze_1920.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PFSB110_France.A_ATBA.HP_FGS_5.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_6.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_7.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65568 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.1 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65571 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65636 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65569 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65633 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65635 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.131171 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.131169 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.196705 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_1.armor.65580 removed in first object
+root.PFSB110_France.A_ATBA.HP_FGS_1.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65568 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.1 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65571 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65636 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65569 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65633 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65635 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.131171 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.131169 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.196705 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_2.armor.65580 removed in first object
+root.PFSB110_France.A_ATBA.HP_FGS_2.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_3.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65568 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.1 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65571 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65636 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65569 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65633 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65635 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.131171 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.131169 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.196705 removed in second object
+root.PFSB110_France.A_ATBA.HP_FGS_11.armor.65580 removed in first object
+root.PFSB110_France.A_ATBA.HP_FGS_11.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_9.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_8.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_10.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB110_France.A_ATBA.HP_FGS_4.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PCBM012_H2017.hull.permanentlyVisible removed in second object
+root.PCBM012_H2017.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM012_H2017.hull.permanentlyVisibleByEnemies removed in first object
+root.PGEP438_Graf_Zeppelin.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP508_HSF_Harekaze.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAEP313_Arkansas_1912.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP109_Permo_Prem_9_lvl.afterBattleRepair changed in second object (was 1.0, is 0.8)
+root.PJEP525_True_Kamikaze.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PUSC506_Perth_1942.groupCustom.RU removed in first object
+root.PUSC506_Perth_1942.groupCustom.ST removed in first object
+root.PCBX202.hull.permanentlyVisible removed in second object
+root.PCBX202.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX202.hull.permanentlyVisibleByEnemies removed in first object
+root.PGEP304_Tirpiz_1942_2.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP302_Permo_NY_2.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGEP418_Prinz_Eugen.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP319_Alabama.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCH115_PVE_HON_DONE_CLASS.constants.mapNames[5] removed in first object
+root.PAEP445_Marblehead_1924_Asus.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBC022_PCGM002.hull.permanentlyVisible removed in second object
+root.PCBC022_PCGM002.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBC022_PCGM002.hull.permanentlyVisibleByEnemies removed in first object
+root.PBES327_Duke_of_York_Ice.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PAEP509_Black.afterBattleRepair changed in second object (was 1.0, is 0.8)
+root.PCJM018_Dummy.cost changed in second object (was 9999999, is 100)
+root.PCBA001.hull.permanentlyVisible removed in second object
+root.PCBA001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBA001.hull.permanentlyVisibleByEnemies removed in first object
+root.PCEP301_Permo_NY.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBC023_PCGM003.hull.permanentlyVisible removed in second object
+root.PCBC023_PCGM003.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBC023_PCGM003.hull.permanentlyVisibleByEnemies removed in first object
+root.PJES524_VANHELLSINK.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PBEP307_Hood_Permo_2.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJSD708_HSF_Harekaze.ABC_Hull.SG.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PAEP444_Marblehead_1924.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP309_Permo_NY_3.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX004.hull.permanentlyVisible removed in second object
+root.PCBX004.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX004.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX006.hull.permanentlyVisible removed in second object
+root.PCBX006.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX006.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX007.hull.permanentlyVisible removed in second object
+root.PCBX007.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX007.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX001.hull.permanentlyVisible removed in second object
+root.PCBX001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX001.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX003.hull.permanentlyVisible removed in second object
+root.PCBX003.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX003.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX008.hull.permanentlyVisible removed in second object
+root.PCBX008.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX008.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX009.hull.permanentlyVisible removed in second object
+root.PCBX009.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX009.hull.permanentlyVisibleByEnemies removed in first object
+root.PCEP304_Permo_NY_2_CN_Red.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP111_Hiryu_1942.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PCEP139_Permo_Prem_9_lvl.afterBattleRepair changed in second object (was 1.0, is 0.8)
+root.PREP402_Diana_1905.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX021.hull.permanentlyVisible removed in second object
+root.PCBX021.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX021.hull.permanentlyVisibleByEnemies removed in first object
+root.PAEP314_Texas_Lone_star.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PFES306_Dunkerque_Skin.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP505_Pr_7_Gnevny.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP526_Camo_Kamikaze.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PRES301_RASPUTIN.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP301_Nikolay_I.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PFGS053_152_55_Mle_1950.armor.65568 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.1 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65571 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65636 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65569 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65633 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65635 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.131171 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.131169 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.196705 removed in second object
+root.PFGS053_152_55_Mle_1950.armor.65580 removed in first object
+root.PREP403_Murmansk_1944.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP307_Liberty.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX025_PCGM005.hull.permanentlyVisible removed in second object
+root.PCBX025_PCGM005.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX025_PCGM005.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX020.hull.permanentlyVisible removed in second object
+root.PCBX020.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX020.hull.permanentlyVisibleByEnemies removed in first object
+root.PGEP507_Scharnhorst.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGES303_MR_HYDE.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGEP406_HSF_Graf_Spee.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PREP411_Oktyabrskaya_Revolutsiya.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX005.hull.permanentlyVisible removed in second object
+root.PCBX005.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX005.hull.permanentlyVisibleByEnemies removed in first object
+root.PJEP311_Mikasa_1905.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGEP402_Emden_1908.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP103_Permo_Prem_Low_lvl.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PBEP302_Warspite_1941.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP116_Permo_Upgr_6_lvl.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP602_Albany_Military_Veteran.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_5.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_6.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_7.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_1.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_2.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_3.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_9.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_8.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_14.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_15.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_12.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_13.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_10.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_11.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB109_Alsace.A_ATBA.HP_FGS_4.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PREP405_KrasniKrym.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBC005.hull.permanentlyVisible removed in second object
+root.PCBC005.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBC005.hull.permanentlyVisibleByEnemies removed in first object
+root.PGEP303_Koenig_Albert.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBM010.hull.permanentlyVisible removed in second object
+root.PCBM010.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM010.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBM011.hull.permanentlyVisible removed in second object
+root.PCBM011.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM011.hull.permanentlyVisibleByEnemies removed in first object
+root.PGEP508_Scharnhorst_CN_OB.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJEP404_Yubari_1944.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP108_Permo_Prem_High_lvl_2.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP517_Kamikaze_1930.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP407_Cleveland_1945.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP501_Tachibana_1912.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP107_Permo_Prem_High_lvl.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP117_Permo_Upgr_7_lvl.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PCEP308_Cimarron.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PBEP503_Campbeltown.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGES307_Scharnhorst_Ice.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PREP509_Pr_48_Kiev.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJSD912_Shimakaze_1943.group changed in second object (was preserved, is demoWithoutStats)
+root.PJSD912_Shimakaze_1943.groupCustom.CN removed in first object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH976_SHIM.disabledAbilities[0] removed in first object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH976_SHIM.disabledAbilities[1] removed in first object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH979_SHIM2 removed in first object
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_3.shotDelay changed in second object (was 150.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT001_Sea_Torpedo_Type93, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_2.shotDelay changed in second object (was 150.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT001_Sea_Torpedo_Type93, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_1.shotDelay changed in second object (was 150.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT001_Sea_Torpedo_Type93, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_3.shotDelay changed in second object (was 131.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT031_Sea_Torpedo_Type93_DW)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_2.shotDelay changed in second object (was 131.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT031_Sea_Torpedo_Type93_DW)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_1.shotDelay changed in second object (was 131.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT031_Sea_Torpedo_Type93_DW)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_3.shotDelay changed in second object (was 153.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_2.shotDelay changed in second object (was 153.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_1.shotDelay changed in second object (was 153.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.ShipAbilities.AbilitySlot1.abils[2] removed in first object
+root.PJSD912_Shimakaze_1943.ShipAbilities.AbilitySlot1.abils[3] removed in first object
+root.PJEP506_Hatsuharu_1945.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJPT031_Sea_Torpedo_Type93_DW.speed changed in second object (was 62.0, is 67.0)
+root.PAEP406_Atlanta_1942.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP306_Birthday_2017.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PWEP501_Blyskawica.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PBSB527_Duke_of_York.A1_Artillery.sigmaCount changed in second object (was 1.8, is 2.05)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_2.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_3.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.A1_Artillery.HP_BGM_1.shotDelay changed in second object (was 30.0, is 25.0)
+root.PBSB527_Duke_of_York.A_Directors.HP_BD_22.gunNode changed in second object (was , is HP_BGM_3)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY008_SonarSearch)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Duke, is DukeOfYork)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY016_SonarSearchPremium)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Duke_Gold, is DukeOfYork_Premium)
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PBSB527_Duke_of_York.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PZEP506_Anshan.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP410_Diana_1905_Asus.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP306_Arizona.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCBX017.hull.permanentlyVisible removed in second object
+root.PCBX017.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX017.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX015.hull.permanentlyVisible removed in second object
+root.PCBX015.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX015.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX014.hull.permanentlyVisible removed in second object
+root.PCBX014.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX014.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX013.hull.permanentlyVisible removed in second object
+root.PCBX013.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX013.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX012.hull.permanentlyVisible removed in second object
+root.PCBX012.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX012.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX011.hull.permanentlyVisible removed in second object
+root.PCBX011.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX011.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX010.hull.permanentlyVisible removed in second object
+root.PCBX010.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX010.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX019.hull.permanentlyVisible removed in second object
+root.PCBX019.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX019.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBX018.hull.permanentlyVisible removed in second object
+root.PCBX018.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBX018.hull.permanentlyVisibleByEnemies removed in first object
+root.PFEP306_Dunkerque_1940.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGES406_HSF_Graf_Spee.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PJEP418_Tone.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PCEP115_Permo_Upgr_5_lvl.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PBES307_Hood_Veteran.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PCBM007.hull.permanentlyVisible removed in second object
+root.PCBM007.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM007.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBM008.hull.permanentlyVisible removed in second object
+root.PCBM008.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBM008.hull.permanentlyVisibleByEnemies removed in first object
+root.PFUE509_B6_ENG_TOP.costXP changed in second object (was 4000, is 5500)
+root.PAEP408_Flint.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP406_Molotov.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PFSB104_Courbet.AB1_Artillery.HP_FGM_4.position[1] changed in second object (was 0.0, is 0.25)
+root.PFSB104_Courbet.AB1_Artillery.HP_FGM_5.position[0] changed in second object (was 5.0, is 4.25)
+root.PFSB104_Courbet.AB1_Artillery.HP_FGM_3.position[1] changed in second object (was 2.0, is 1.75)
+root.PFSB104_Courbet.AB1_Artillery.HP_FGM_6.position[0] changed in second object (was 5.75, is 5.25)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_4.position[0] changed in second object (was 3.0, is 4.0)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_4.position[1] changed in second object (was 2.0, is 1.75)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_5.position[0] changed in second object (was 3.0, is 4.0)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_5.position[1] changed in second object (was 0.0, is 0.25)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_2.position[1] changed in second object (was 2.0, is 1.75)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_3.position[1] changed in second object (was 0.0, is 0.25)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_1.position[0] changed in second object (was 1.0, is 0.5)
+root.PFSB103_Turenne.AB1_Artillery.HP_FGM_6.position[0] changed in second object (was 5.0, is 5.5)
+root.PFSB508_Gascogne.ShipUpgradeInfo.costGold changed in second object (was 99999, is 12400)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_5.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_6.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_7.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_1.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_2.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_3.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_11.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_9.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_8.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_10.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PFSB508_Gascogne.A_ATBA.HP_FGS_4.shotEffect changed in second object (was sfx/guns/Gk_DoubleShot_100.xml, is sfx/guns/Gk_OwnShot_100_Pmk.xml)
+root.PZEP508_LoYang.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP426_Iwaki_1944.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP529_Sims_1941.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJSB509_Musashi.A_ATBA.HP_JGS_10.miscFilter[1] removed in first object
+root.PJSB509_Musashi.A_ATBA.HP_JGS_1.miscFilter[2] removed in first object
+root.PJSB509_Musashi.A_ATBA.HP_JGS_1.miscFilter[3] removed in first object
+root.PCBS001.hull.permanentlyVisible removed in second object
+root.PCBS001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBS001.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBS003.hull.permanentlyVisible removed in second object
+root.PCBS003.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBS003.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBS002.hull.permanentlyVisible removed in second object
+root.PCBS002.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBS002.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBS004.hull.permanentlyVisible removed in second object
+root.PCBS004.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBS004.hull.permanentlyVisibleByEnemies removed in first object
+root.PJEP408_Myoko_1945.afterBattleRepair changed in second object (was 0.95, is 0.9)
+root.PCBC001.hull.permanentlyVisible removed in second object
+root.PCBC001.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBC001.hull.permanentlyVisibleByEnemies removed in first object
+root.PCBC002.hull.permanentlyVisible removed in second object
+root.PCBC002.hull.permanentlyVisibleByTeammates removed in first object
+root.PCBC002.hull.permanentlyVisibleByEnemies removed in first object
+root.PCEP305_Permo_Emerald_Edition.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP408_Kutuzov_1952.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP403_Albany_1898.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PAEP409_Cleveland_1945.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJEP414_Kitakami_1945.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PGEP428_Prinz_Eugen.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PREP401_Avrora_1917.afterBattleRepair changed in second object (was 1.0, is 0.9)
+root.PJUH979_SHIM2 removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI removed in first object
+>> finished comparing
