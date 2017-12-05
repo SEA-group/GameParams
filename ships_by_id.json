@@ -2704,10 +2704,10 @@
         "zh_tw": "\u9ed1\u5929\u9d5d\u7d1a"
     }, 
     "4247008528": {
-        "en": "Liberty_civil", 
+        "en": "Liberty civil", 
         "id": 4247008528, 
         "index": "PXSX045", 
-        "ja_jp": "Liberty_civil", 
+        "ja_jp": "Liberty civil", 
         "level": 5, 
         "name": "PXSX045_Liberty", 
         "nation": "Events", 
@@ -2730,10 +2730,10 @@
         "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
     }, 
     "4248057104": {
-        "en": "Cimarron_civil", 
+        "en": "Cimarron civil", 
         "id": 4248057104, 
         "index": "PXSX044", 
-        "ja_jp": "Cimarron_civil", 
+        "ja_jp": "Cimarron civil", 
         "level": 5, 
         "name": "PXSX044_Cimarron", 
         "nation": "Events", 

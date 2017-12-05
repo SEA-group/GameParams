@@ -4186,10 +4186,10 @@
         "zh_tw": "\u6885\u5fb7\u97cb\u5973\u738b"
     }, 
     "PXSX044": {
-        "en": "Cimarron_civil", 
+        "en": "Cimarron civil", 
         "id": 4248057104, 
         "index": "PXSX044", 
-        "ja_jp": "Cimarron_civil", 
+        "ja_jp": "Cimarron civil", 
         "level": 5, 
         "name": "PXSX044_Cimarron", 
         "nation": "Events", 
@@ -4199,10 +4199,10 @@
         "zh_tw": "IDS_PXSX044"
     }, 
     "PXSX045": {
-        "en": "Liberty_civil", 
+        "en": "Liberty civil", 
         "id": 4247008528, 
         "index": "PXSX045", 
-        "ja_jp": "Liberty_civil", 
+        "ja_jp": "Liberty civil", 
         "level": 5, 
         "name": "PXSX045_Liberty", 
         "nation": "Events", 
