@@ -1,0 +1,203 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSC506_Admiral_Graf_Spee.groupCustom.NA removed in first object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ASIA removed in first object
+root.PBSD506_Gallant.groupCustom.NA removed in first object
+root.PBSD506_Gallant.groupCustom.ASIA removed in first object
+root.PZSD110_Hsiang_Yang.groupCustom.PT removed in second object
+root.PZSC101_Cheng_An.groupCustom.PT removed in second object
+root.PRSD507_Leningrad_1944.groupCustom.NA removed in first object
+root.PRSD507_Leningrad_1944.groupCustom.ASIA removed in first object
+root.PCQT456.rewards[1] removed in first object
+root.PCQT456.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT456.conditions[2] changed in second object (was <isDamage count="900" damageTypes="torps" />, is <isDamage count="10000" damageTypes="torps" />)
+root.PRSC003_Murmansk_1944.groupCustom.NA removed in first object
+root.PASD029_Sims_1941.groupCustom.RU removed in first object
+root.PASD029_Sims_1941.groupCustom.ASIA removed in first object
+root.PASD029_Sims_1941.groupCustom.EU removed in first object
+root.PZSD106_Fu_Shun.groupCustom.PT removed in second object
+root.PCQT438.rewards[1] removed in first object
+root.PCQT438.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT438.conditions[2] changed in second object (was <isWeaponHits count="20" weaponTypes = "main" class = "Battleship"/>, is <isWeaponHits count="50" weaponTypes = "main" class = "Battleship"/>)
+root.PCQT439.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="2" ignoreEpic="1"/> )
+root.PCQT439.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_TIRPITZ)
+root.PCQT439.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT439.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT439.conditions[2] changed in second object (was <isPotentialDamage count="100"/>, is <isPotentialDamage count="5000"/>)
+root.PCQT439.conditions[3] changed in second object (was <isAlive isAlive="true" />, is <isBattleResult battleResult="win" />)
+root.PCQT439.conditions[4] removed in second object
+root.PCQT437.rewards[1] removed in first object
+root.PCQT437.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT437.conditions[2] changed in second object (was <isDamage count="100" nation="Germany"/>, is <isDamage count="8000" nation="Germany"/>)
+root.PCQT435.rewards[1] removed in first object
+root.PCQT435.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT435.conditions[2] changed in second object (was <isPotentialDamage count="250" />, is <isPotentialDamage count="25000" />)
+root.PCQT435.conditions[3] changed in second object (was <isAlive isAlive="true" />, is <isBattleResult battleResult="win" />)
+root.PCQT435.conditions[4] removed in second object
+root.PCQT430.rewards[1] removed in first object
+root.PCQT430.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT430.conditions[2] changed in second object (was <isWeaponHits count="10" class = "Cruiser" />, is <isWeaponHits count="5" class = "Cruiser" />)
+root.PCQT431.rewards[1] removed in first object
+root.PCQT431.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT431.conditions[2] changed in second object (was <isWeaponHits count="25" class = "Battleship"/>, is <isWeaponHits count="50" class = "Battleship"/>)
+root.PCQT434_Key.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT434_Key.conditions[2] changed in second object (was <isTotalXP  count="800"/>, is <isTotalXP  count="2000"/>)
+root.PJSC004_Yubari_1944.groupCustom.EU removed in first object
+root.PJSC004_Yubari_1944.groupCustom.NA removed in first object
+root.PJSC004_Yubari_1944.groupCustom.RU removed in first object
+root.PJSC004_Yubari_1944.groupCustom.ASIA removed in first object
+root.PJSC004_Yubari_1944.groupCustom.ST removed in first object
+root.PASA507_Saipan_1946.groupCustom.ASIA removed in first object
+root.PCQT459.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_TIRPITZ)
+root.PCQT459.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT450.rewards[1] removed in first object
+root.PCQT451.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> )
+root.PCQT451.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_TIRPITZ)
+root.PCQT451.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT451.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT451.conditions[2] changed in second object (was <isDamage count="500" class="Battleship"/>, is <isDamage count="10000" class="Battleship"/>)
+root.PCQT453.rewards[1] removed in first object
+root.PCQT453.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT453.conditions[2] changed in second object (was <isWeaponHits count="1" weaponTypes="torps"/>, is <isWeaponHits count="2" weaponTypes="torps"/>)
+root.PCQT454.rewards[1] removed in first object
+root.PCQT454.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT454.conditions[2] changed in second object (was <isKillShips count="1" class = "Battleship" />, is <isKillShips count="3" class = "Battleship" />)
+root.PCQT455.rewards[1] removed in first object
+root.PCQT455.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT455.conditions[2] changed in second object (was <isTotalXP  count="750"/>, is <isTotalXP  count="3000"/>)
+root.PCQT457.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> )
+root.PCQT457.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_TIRPITZ)
+root.PCQT457.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT457.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PGSC502_Emden_1908.groupCustom.NA removed in first object
+root.PGSC502_Emden_1908.groupCustom.ASIA removed in first object
+root.PUSC506_Perth_1942.groupCustom.EU removed in first object
+root.PUSC506_Perth_1942.groupCustom.NA removed in first object
+root.PUSC506_Perth_1942.groupCustom.ASIA removed in first object
+root.PRSC505_KrasniKrym.groupCustom.NA removed in first object
+root.PCZA006_HappyNewYear2018.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PGSB108_Bismarck" idx="PGES328_Bismarck_H2017" count="1" />)
+root.PCZA006_HappyNewYear2018.rewards[1] removed in first object
+root.PZSD109_Chung_Mu.groupCustom.PT removed in second object
+root.PFSC506_De_Grasse.groupCustom.NA removed in first object
+root.PFSC506_De_Grasse.groupCustom.ASIA removed in first object
+root.PCQT478_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PGSB002_Tirpiz_1942" idx="PGES338_Tirpiz_1942_H2017" />)
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in first object
+root.PASC044_Marblehead_1924.groupCustom.NA removed in first object
+root.PASB508_Alabama.groupCustom.NA removed in first object
+root.PASB508_Alabama.groupCustom.ASIA removed in first object
+root.PZSD103_Phra_Ruang.groupCustom.PT removed in second object
+root.PCQT442.rewards[1] removed in first object
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in first object
+root.PRSC606_Admiral_Makarov.groupCustom.EU removed in first object
+root.PRSC606_Admiral_Makarov.groupCustom.NA removed in first object
+root.PRSC606_Admiral_Makarov.groupCustom.ASIA removed in first object
+root.PCQT446_Key.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT446_Key.conditions[2] changed in second object (was <isTotalXP  count="100"/>, is <isTotalXP  count="3000"/>)
+root.PJSC503_Katori.groupCustom.EU removed in first object
+root.PZSD107_Gadjah_Mada.groupCustom.PT removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.NA removed in first object
+root.PCQM066.startTimeCustom.RU removed in first object
+root.PCQM064.startTimeCustom.RU removed in first object
+root.PCQM065.startTimeCustom.RU removed in first object
+root.PCQM062.startTimeCustom.RU removed in first object
+root.PCQM063.startTimeCustom.RU removed in first object
+root.PISC506_DucadAosta.groupCustom.EU removed in first object
+root.PISC506_DucadAosta.groupCustom.NA removed in first object
+root.PISC506_DucadAosta.groupCustom.ASIA removed in first object
+root.PZSD108_Hsien_Yang.groupCustom.PT removed in second object
+root.PRSC002_Diana_1905.groupCustom.NA removed in first object
+root.PCQT440_Key.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT440_Key.conditions[2] changed in second object (was <isTotalXP  count="900"/>, is <isTotalXP  count="3000"/>)
+root.PCQT429.rewards[1] removed in first object
+root.PZSD104_Shen_Yang.groupCustom.PT removed in second object
+root.PASC003_Albany_1898.groupCustom.EU removed in first object
+root.PCQT449.rewards[1] removed in first object
+root.PCQT448.rewards[1] removed in first object
+root.PCQT448.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT443.rewards[1] removed in first object
+root.PCQT443.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT443.conditions[2] changed in second object (was <isSpotShips count="1" class="Battleship"/>, is <isSpotShips count="3" class="Battleship"/>)
+root.PCQT441.rewards[1] removed in first object
+root.PCQT447.rewards[1] removed in first object
+root.PCQT447.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT447.conditions[2] changed in second object (was <isDamage  count="150" class= "Battleship" />, is <isDamage  count="15000" class= "Battleship" />)
+root.PCQT445.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> )
+root.PCQT445.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_TIRPITZ)
+root.PCQT445.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT445.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT444.rewards[1] removed in first object
+root.PCQT444.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT444.conditions[2] changed in second object (was <isDamage count="500" class = "Battleship" />, is <isDamage count="10000" class = "Battleship" />)
+root.PZSD102_Long_Jiang.groupCustom.PT removed in second object
+root.PFSB107_Lyon.A_Hull.customMiscs.A_Hull removed in second object
+root.PFSB107_Lyon.A_Hull.customMiscs.battle removed in first object
+root.PFSB107_Lyon.A_Hull.customMiscs.dock removed in first object
+root.PFSB107_Lyon.B_Hull.customMiscs.B_Hull removed in second object
+root.PFSB107_Lyon.B_Hull.customMiscs.battle removed in first object
+root.PFSB107_Lyon.B_Hull.customMiscs.dock removed in first object
+root.PRSC503_Oleg.groupCustom.ASIA removed in first object
+root.PCQT452_Key.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT452_Key.conditions[2] changed in second object (was <isTotalXP  count="110"/>, is <isTotalXP  count="3000"/>)
+root.PZSD105_Jian_Wei.groupCustom.PT removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.EU removed in first object
+root.PRSD505_Okhotnik_1917.groupCustom.NA removed in first object
+root.PRSD505_Okhotnik_1917.groupCustom.ASIA removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.EU removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.RU removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.ASIA removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.PT removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.NA removed in first object
+root.PCQT458_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Ship shipId="PGSB002_Tirpiz_1942" level="3" count="1"/>)
+root.PCQT458_Key.rewards[1] removed in first object
+root.PCQT458_Key.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT458_Key.conditions[2] changed in second object (was <isTotalXP  count="120"/>, is <isTotalXP  count="3500"/>)
+root.PJSB011_Mikasa_1905.groupCustom.RU removed in first object
+root.PJSB011_Mikasa_1905.groupCustom.ASIA removed in first object
+root.PASD502_Smith.groupCustom.EU removed in first object
+root.PASD502_Smith.groupCustom.NA removed in first object
+root.PASD502_Smith.groupCustom.ASIA removed in first object
+root.PWSD501_Blyskawica.groupCustom.NA removed in first object
+root.PZSD506_Anshan.groupCustom.NA removed in first object
+root.PZSD506_Anshan.groupCustom.ASIA removed in first object
+root.PZSD508_LoYang.groupCustom.NA removed in first object
+root.PZSD508_LoYang.groupCustom.ASIA removed in first object
+root.PASA508_Enterprise.groupCustom.NA removed in first object
+root.PASA508_Enterprise.groupCustom.ASIA removed in first object
+root.PRSC001_Avrora_1917.groupCustom.NA removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.EU removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.NA removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.ASIA removed in first object
+root.PISB505_Giulio_Cesare.groupCustom.EU removed in first object
+root.PISB505_Giulio_Cesare.groupCustom.NA removed in first object
+root.PISB505_Giulio_Cesare.groupCustom.RU removed in first object
+root.PISB505_Giulio_Cesare.groupCustom.ASIA removed in first object
+root.PISB505_Giulio_Cesare.groupCustom.ST removed in first object
+root.PGSB503_Koenig_Albert.groupCustom.EU removed in second object
+root.PGSB503_Koenig_Albert.groupCustom.RU removed in second object
+root.PGSB503_Koenig_Albert.groupCustom.ST removed in second object
+root.PBSB507_Hood.groupCustom.ASIA removed in first object
+root.PCQT436.rewards[1] removed in first object
+root.PCQT436.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT436.conditions[2] changed in second object (was <isModuleHits count="2" />, is <isModuleHits count="10" />)
+root.PCQT433.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> )
+root.PCQT433.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_TIRPITZ)
+root.PCQT433.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PGSB002_Tirpiz_1942"/>)
+root.PCQT433.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT433.conditions[2] changed in second object (was <isDamage count="100" class = "Cruiser"/>, is <isDamage count="5000" class = "Cruiser"/>)
+root.PCQT433.conditions[3] changed in second object (was <isAlive isAlive="true" />, is <isBattleResult battleResult="win" />)
+root.PCQT433.conditions[4] removed in second object
+root.PGSB507_Scharnhorst.groupCustom.ASIA removed in first object
+root.PCQT432.rewards[1] removed in first object
+root.PCQT432.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT432.conditions[2] changed in second object (was <isDamage count="7000" class = "Battleship"/>, is <isDamage count="25000" class = "Battleship"/>)
+root.PJSB506_Mutsu.groupCustom.NA removed in first object
+root.PJSB506_Mutsu.groupCustom.RU removed in first object
+root.PASC006_Atlanta_1942.groupCustom.EU removed in second object
+root.PASC006_Atlanta_1942.groupCustom.RU removed in second object
+root.PASC006_Atlanta_1942.groupCustom.ASIA removed in second object
+root.PJSA507_Kaga.groupCustom.ASIA removed in first object
+root.PJSB508_Kii.groupCustom.NA removed in first object
+root.PJSB508_Kii.groupCustom.RU removed in first object
+root.PJSB508_Kii.groupCustom.ASIA removed in first object
+>> finished comparing
