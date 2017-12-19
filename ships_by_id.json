@@ -714,6 +714,19 @@
         "zh_cn": "\u7ea6\u514b\u516c\u7235", 
         "zh_tw": "\u7d04\u514b\u516c\u7235\u865f"
     }, 
+    "3751687888": {
+        "en": "Asashio", 
+        "id": 3751687888, 
+        "index": "PJSD518", 
+        "ja_jp": "Asashio", 
+        "level": 8, 
+        "name": "PJSD518_Asashio", 
+        "nation": "Japan", 
+        "ru": "IDS_PJSD518", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PJSD518", 
+        "zh_tw": "IDS_PJSD518"
+    }, 
     "3751753712": {
         "en": "Massachusetts", 
         "id": 3751753712, 
@@ -909,6 +922,19 @@
         "zh_cn": "\u5217\u5b81\u683c\u52d2", 
         "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
     }, 
+    "3763222480": {
+        "en": "Cossack", 
+        "id": 3763222480, 
+        "index": "PBSD507", 
+        "ja_jp": "Cossack", 
+        "level": 7, 
+        "name": "PBSD507_Cossack", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD507", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD507", 
+        "zh_tw": "IDS_PBSD507"
+    }, 
     "3763255024": {
         "en": "Abruzzi", 
         "id": 3763255024, 
@@ -1064,6 +1090,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u82f1\u52c7", 
         "zh_tw": "\u82f1\u52c7\u865f"
+    }, 
+    "3764271088": {
+        "en": "Monaghan", 
+        "id": 3764271088, 
+        "index": "PASD506", 
+        "ja_jp": "Monaghan", 
+        "level": 6, 
+        "name": "PASD506_Monaghan", 
+        "nation": "USA", 
+        "ru": "IDS_PASD506", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PASD506", 
+        "zh_tw": "IDS_PASD506"
     }, 
     "3764303056": {
         "en": "Huanghe", 

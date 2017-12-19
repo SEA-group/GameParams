@@ -1,0 +1,1176 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PAUD974_DB_MIDWAY.planeType removed in second object
+root.PJUD010_D1A2_KAGA.planeType removed in second object
+root.PJUI008_Mitsubishi_A8M.planeType removed in second object
+root.PJSD706_Shinonome.DockCamera removed in first object
+root.PASA002_Bogue_1942.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA002_Bogue_1942.DockCamera removed in first object
+root.PBSB104_Orion.DockCamera removed in first object
+root.PXUD703_CV8_DB_STOCK.planeType removed in second object
+root.PJUB801_CV9_TB_STOCK.planeType removed in second object
+root.PCQM059.startTimeCustom.EU removed in first object
+root.PCQM059.startTimeCustom.RU removed in first object
+root.PCQM059.startTimeCustom.CN removed in first object
+root.PCQM059.startTimeCustom.ASIA removed in first object
+root.PCQM059.startTimeCustom.NA removed in first object
+root.PCQM058.startTimeCustom.EU removed in first object
+root.PCQM058.startTimeCustom.RU removed in first object
+root.PCQM058.startTimeCustom.CN removed in first object
+root.PCQM058.startTimeCustom.ASIA removed in first object
+root.PCQM058.startTimeCustom.NA removed in first object
+root.PCQM057.startTimeCustom.EU removed in first object
+root.PCQM057.startTimeCustom.RU removed in first object
+root.PCQM057.startTimeCustom.CN removed in first object
+root.PCQM057.startTimeCustom.ASIA removed in first object
+root.PCQM057.startTimeCustom.NA removed in first object
+root.PCQT460_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PASB034_New_Mexico_1941" idx="PCEP309_Permo_NY_3" />)
+root.PCQT460_Key.rewards[1] removed in first object
+root.PGSC506_Admiral_Graf_Spee.DockCamera removed in first object
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_5.horizSector[0] changed in second object (was -142.0, is -139.0)
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_5.horizSector[1] changed in second object (was 142.0, is 139.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_5.horizSector[0] changed in second object (was -142.0, is -139.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_5.horizSector[1] changed in second object (was 142.0, is 139.0)
+root.PFSB105_Bretagne.DockCamera removed in first object
+root.PGSD104_V_170.DockCamera removed in first object
+root.PGSC106_Nurnberg.DockCamera removed in first object
+root.PCGM352_350mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM352_350mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PJUD975_DB2_HAKU.planeType removed in second object
+root.PXSX023_HMS_SS_Lorina.DockCamera removed in first object
+root.PCGS071_070mm_BASIC_1_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS071_070mm_BASIC_1_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PRSD308_Pr_48.DockCamera removed in first object
+root.PRSD001_Gremyashchy_1942.DockCamera removed in first object
+root.PJUI000_Fighter_Default.planeType removed in second object
+root.PBSD506_Gallant.DockCamera removed in first object
+root.PGSD103_G_101.DockCamera removed in first object
+root.PASA906_Ranger_1944.DockCamera removed in first object
+root.PZSD110_Hsiang_Yang.DockCamera removed in first object
+root.PJSD206_Hatsuharu.DockCamera removed in first object
+root.PRSC508_Kutuzov_1952.DockCamera removed in first object
+root.PAUB001_Douglas_TBD.planeType removed in second object
+root.PGSC110_Hindenburg.DockCamera removed in first object
+root.PXSB005_Bismarck_H2017.DockCamera removed in first object
+root.PASX904_Cimarron.DockCamera removed in first object
+root.PASC019_Burlington_1944.DockCamera removed in first object
+root.PJSC012_Ibuki_1944.DockCamera removed in first object
+root.PAUI016_McDonnell_F2H.planeType removed in second object
+root.PXSX033_Dyck.DockCamera removed in first object
+root.PASD913_Gearing_1945.DockCamera removed in first object
+root.PJSC014_Kitakami_1945.DockCamera removed in first object
+root.PBSC101_Black_Swan.DockCamera removed in first object
+root.PRSC506_Molotov_1943.DockCamera removed in first object
+root.PJUB005_Mitsubishi_1MT.planeType removed in second object
+root.PZSC101_Cheng_An.DockCamera removed in first object
+root.PAUD006_Vought_SBU.planeType removed in second object
+root.PCGS142_140mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS142_140mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PRSC102_Novik.DockCamera removed in first object
+root.PRSD103_Derzky.DockCamera removed in first object
+root.PJSD010_Kagero_1943.DockCamera removed in first object
+root.PASB802_FALSE_ENEMY_Michigan.DockCamera removed in first object
+root.PXSX045_Liberty.DockCamera removed in first object
+root.PJUD702_CV8_DB_TOP.planeType removed in second object
+root.PASC707_Flint.DockCamera removed in first object
+root.PRSD507_Leningrad_1944.DockCamera removed in first object
+root.PGSD109_Z_46.DockCamera removed in first object
+root.PJSC708_ARP_Takao.DockCamera removed in first object
+root.PAUI902_XP54_HALLOWEEN.planeType removed in second object
+root.PAUI901_CV10_F_STOCK.planeType removed in second object
+root.PAUD002_Curtiss_SBC4.planeType removed in second object
+root.PGSC001_Hermelin_1940.DockCamera removed in first object
+root.PBSC110_Minotaur.DockCamera removed in first object
+root.PJUI602_CV7_F_TOP.planeType removed in second object
+root.PAUI008_F2A.planeType removed in second object
+root.PCQT456.rewards[1] removed in second object
+root.PCQT456.conditions[2] changed in second object (was <isDamage count="10000" damageTypes="torps" />, is <isDamage count="90000" damageTypes="torps" />)
+root.PJSD803_False_Isokaze_1917.DockCamera removed in first object
+root.PAUI003_Boeing_XF7B.planeType removed in second object
+root.PRSD107_Pr_35_Udaloy.DockCamera removed in first object
+root.PCGM072_070mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM072_070mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PBSB103_Bellerophon.DockCamera removed in first object
+root.PXSX026_Canterbury.DockCamera removed in first object
+root.PJUB012_B5N2_KAGA.planeType removed in second object
+root.PRSC003_Murmansk_1944.DockCamera removed in first object
+root.PGSC109_Roon.DockCamera removed in first object
+root.PRSD205_Podvoisky_pr_1929.DockCamera removed in first object
+root.PJSD007_Fubuki_1944.DockCamera removed in first object
+root.PAUI502_CV6_F_TOP.planeType removed in second object
+root.PJUI401_CV5_F_STOCK.planeType removed in second object
+root.PJUI020_A5M4_KAGA.planeType removed in second object
+root.PAUB052_Grumman_TBM3.planeType removed in second object
+root.PAUI710_F8F_Bearcat.planeType removed in second object
+root.PJUB702_CV8_TB_TOP.planeType removed in second object
+root.PJSC707_Ashigara.DockCamera removed in first object
+root.PAUI974_F1_MIDWAY.planeType removed in second object
+root.PASD508_Kidd.DockCamera removed in first object
+root.PASD029_Sims_1941.DockCamera removed in first object
+root.PFSD506_Aigle.DockCamera removed in first object
+root.PZSD106_Fu_Shun.DockCamera removed in first object
+root.PASX005_St_Clair.DockCamera removed in first object
+root.PFSD605_Cyclone_event.DockCamera removed in first object
+root.PJUI022_A6M2_KAGA.planeType removed in second object
+root.PCQT438.rewards[1] removed in second object
+root.PCQT438.conditions[2] changed in second object (was <isWeaponHits count="50" weaponTypes = "main" class = "Battleship"/>, is <isWeaponHits count="200" weaponTypes = "main" class = "Battleship"/>)
+root.PCQT439.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="2" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> )
+root.PCQT439.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK)
+root.PCQT439.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT439.conditions[2] changed in second object (was <isPotentialDamage count="5000"/>, is <isPotentialDamage count="500000"/>)
+root.PCQT439.conditions[3] changed in second object (was <isBattleResult battleResult="win" />, is <isAlive isAlive="true" />)
+root.PCQT439.conditions[4] removed in first object
+root.PCQT437.rewards[1] removed in second object
+root.PCQT437.conditions[2] changed in second object (was <isDamage count="8000" nation="Germany"/>, is <isDamage count="100000" nation="Germany"/>)
+root.PCQT435.rewards[1] removed in second object
+root.PCQT435.conditions[2] changed in second object (was <isPotentialDamage count="25000" />, is <isPotentialDamage count="250000" />)
+root.PCQT435.conditions[3] changed in second object (was <isBattleResult battleResult="win" />, is <isAlive isAlive="true" />)
+root.PCQT435.conditions[4] removed in first object
+root.PCQT430.rewards[1] removed in second object
+root.PCQT430.conditions[2] changed in second object (was <isWeaponHits count="5" class = "Cruiser" />, is <isWeaponHits count="50" class = "Cruiser" />)
+root.PCQT431.rewards[1] removed in second object
+root.PCQT431.conditions[2] changed in second object (was <isWeaponHits count="50" class = "Battleship"/>, is <isWeaponHits count="250" class = "Battleship"/>)
+root.PJUD401_CV5_DB_STOCK.planeType removed in second object
+root.PFSB110_France.DockCamera removed in first object
+root.PJSC838_False_Hashidate_1940.DockCamera removed in first object
+root.PXSB003_Zeekasa.HullDefault.HP_XF_3 removed in first object
+root.PXSB003_Zeekasa.HullDefault.HP_XF_2 removed in first object
+root.PXSB003_Zeekasa.HullDefault.HP_XF_1 removed in first object
+root.PXSB003_Zeekasa.DockCamera removed in first object
+root.PCQT434_Key.conditions[2] changed in second object (was <isTotalXP  count="2000"/>, is <isTotalXP  count="25000"/>)
+root.PJSC004_Yubari_1944.DockCamera removed in first object
+root.PJUI010_NAKAJIMA_J8N1.planeType removed in second object
+root.PJSB006_Fuso_1943.DockCamera removed in first object
+root.PJSD208_Kagero.DockCamera removed in first object
+root.PRSC106_Pr_94_Budeny.DockCamera removed in first object
+root.PAUB011_Grumman_TBM2.planeType removed in second object
+root.PJSA017_Hakuryu_1942.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA017_Hakuryu_1942.A2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA017_Hakuryu_1942.A2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA017_Hakuryu_1942.DockCamera removed in first object
+root.PASA507_Saipan_1946.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA507_Saipan_1946.A2_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA507_Saipan_1946.DockCamera removed in first object
+root.PCQT459.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_DUKEOFYORK)
+root.PCQT459.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT450.rewards[1] removed in second object
+root.PCQT451.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> )
+root.PCQT451.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK)
+root.PCQT451.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT451.conditions[2] changed in second object (was <isDamage count="10000" class="Battleship"/>, is <isDamage count="50000" class="Battleship"/>)
+root.PCQT453.rewards[1] removed in second object
+root.PCQT453.conditions[2] changed in second object (was <isWeaponHits count="2" weaponTypes="torps"/>, is <isWeaponHits count="11" weaponTypes="torps"/>)
+root.PCQT454.rewards[1] removed in second object
+root.PCQT454.conditions[2] changed in second object (was <isKillShips count="3" class = "Battleship" />, is <isKillShips count="10" class = "Battleship" />)
+root.PCQT455.rewards[1] removed in second object
+root.PCQT455.conditions[2] changed in second object (was <isTotalXP  count="3000"/>, is <isTotalXP  count="75000"/>)
+root.PCQT457.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> )
+root.PCQT457.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK)
+root.PCQT457.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PASC014_New_Orlean_1944.DockCamera removed in first object
+root.PAGM087_5in38_Mk21.armor.1 removed in first object
+root.PGSC502_Emden_1908.DockCamera removed in first object
+root.PAUI029_Vought_F4U_1A.planeType removed in second object
+root.PCGM071_070mm_BASIC_1_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM071_070mm_BASIC_1_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PUSC506_Perth_1942.DockCamera removed in first object
+root.PCQT476_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PZSD106_Fu_Shun" idx="PCEP309_Permo_NY_3" />)
+root.PCQT476_Key.rewards[1] removed in first object
+root.PFSC107_Algerie.DockCamera removed in first object
+root.PJUD008_Wakusei.planeType removed in second object
+root.PASC016_Worcester_1948.FlightControlDefault.planesReserveAssignment.Auxiliary removed in first object
+root.PASC016_Worcester_1948.DockCamera removed in first object
+root.PJSC034_Zao_1944.DockCamera removed in first object
+root.PAUD011_Kaiser_Fleetwings_XBTK.planeType removed in second object
+root.PAUI030_F4F_4.planeType removed in second object
+root.PASC005_Omaha_1923.DockCamera removed in first object
+root.PCQT462.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT462.conditions[2] changed in second object (was <isModuleHits count="6" />, is <isModuleHits count="60" />)
+root.PJSX701_Support.DockCamera removed in first object
+root.PASB013_Arkansas_1912.DockCamera removed in first object
+root.PAUB509_DOUGLAS_AD1_SAIPAN.planeType removed in second object
+root.PCQT473.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT473.conditions[2] changed in second object (was <isSpotShips count="1" class="Destroyer"/>, is <isSpotShips count="15" class="Destroyer"/>)
+root.PCQT470.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT471.conditions[2] changed in second object (was <isTotalCrewXP count="250" />, is <isTotalCrewXP count="25000" />)
+root.PCQT477.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_NAGATO, is IDS_TASKRESTRICTIONSPECIAL_COOPPVPRANKED_DUKEOFYORK)
+root.PCQT477.conditions[0] changed in second object (was <isMyShip shipIds="PJSB010_Nagato_1944"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT477.conditions[3] changed in second object (was <isTopXP teamLevel="5" />, is <isTopXP teamLevel="3" />)
+root.PCQT474.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT474.conditions[2] changed in second object (was <isDamage count="150" class="Destroyer" />, is <isDamage count="150000" class="Destroyer" />)
+root.PCQT475.conditions[2] changed in second object (was <isTotalCredits count="3000" />, is <isTotalCredits count="3000000" />)
+root.PISC507_Duca_degli_Abruzzi.DockCamera removed in first object
+root.PUSD503_Vampire.DockCamera removed in first object
+root.PJUB301_CV4_TB_STOCK.planeType removed in second object
+root.PGSB106_Bayern.DockCamera removed in first object
+root.PCQT472_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PBSB106_Queen_Elizabeth" idx="PCEP309_Permo_NY_3" />)
+root.PCQT472_Key.rewards[1] removed in first object
+root.PGSC105_Konigsberg.DockCamera removed in first object
+root.PASD005_Farragut_1944.C1_127_38.HP_AGM_1.armor.1 removed in first object
+root.PASD005_Farragut_1944.C1_127_38.HP_AGM_2.armor.1 removed in first object
+root.PASD005_Farragut_1944.AB1_127_38.HP_AGM_1.armor.1 removed in first object
+root.PASD005_Farragut_1944.AB1_127_38.HP_AGM_2.armor.1 removed in first object
+root.PASD005_Farragut_1944.DockCamera removed in first object
+root.PRSC505_KrasniKrym.DockCamera removed in first object
+root.PAUB051_Douglas_BTD_1.planeType removed in second object
+root.PRSC010_Diana_1905_Asus.DockCamera removed in first object
+root.PJUD011_D3A1_KAGA.planeType removed in second object
+root.PJSD209_Yugumo.DockCamera removed in first object
+root.PJSA006_Zuiho_1944.ABC1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA006_Zuiho_1944.ABC2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA006_Zuiho_1944.DockCamera removed in first object
+root.PJSD106_Fubuki.DockCamera removed in first object
+root.PAUD913_CV10_DB_AP_TOP.planeType removed in second object
+root.PGSD107_Leberecht_Maass.DockCamera removed in first object
+root.PAUB903_XP67_HALLOWEEN.planeType removed in second object
+root.PXUB711_CV8_TB_STOCK.planeType removed in second object
+root.PASC004_St_Louis_1906.A_Hull_1906.dockYOffset changed in second object (was 0.0, is -0.053)
+root.PASC004_St_Louis_1906.B_Hull_1924.dockYOffset changed in second object (was 0.0, is -0.053)
+root.PASC004_St_Louis_1906.DockCamera removed in first object
+root.PJSB001_Kawachi_1912.DockCamera removed in first object
+root.PJUD602_CV7_DB_TOP.planeType removed in second object
+root.PASD027_Wickes_1918.Cameras.Guns2.InnerTrajectory.posCenter[1] changed in second object (was 0.407, is 0.5)
+root.PASD027_Wickes_1918.Cameras.Guns2.InnerTrajectory.inclineV changed in second object (was -3, is 5)
+root.PASD027_Wickes_1918.DockCamera removed in first object
+root.PFSB506_Dunkerque_1940.DockCamera removed in first object
+root.PCZA006_HappyNewYear2018.rewards[0] changed in second object (was <Permoflage shipId="PGSB108_Bismarck" idx="PGES328_Bismarck_H2017" count="1" />, is <Permoflage shipId="PBSB527_Duke_of_York" idx="PBES327_Duke_of_York_Ice" count="1" />)
+root.PJSC709_Haguro.DockCamera removed in first object
+root.PAUD802_CV9_DB_TOP.planeType removed in second object
+root.PIPA008_120MM_AP_ANSALDO1926.bulletDetonatorThreshold changed in second object (was 25.0, is 20.0)
+root.PJSC035_Chikuma_1912.DockCamera removed in first object
+root.PGSD105_T_22.DockCamera removed in first object
+root.PJSC015_Tatsuta_1919.DockCamera removed in first object
+root.PAUD302_CV4_DB_TOP.planeType removed in second object
+root.PAUD903_CV10_DB_TOP.planeType removed in second object
+root.PCGM302_300mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM302_300mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PBSC104_Danae.DockCamera removed in first object
+root.PISB508_Roma.permoflages[1] removed in first object
+root.PISB508_Roma.DockCamera removed in first object
+root.PJUD801_CV9_DB_STOCK.planeType removed in second object
+root.PJUD001_D1A2.planeType removed in second object
+root.PAUI401_CV5_F_STOCK.planeType removed in second object
+root.PASX815_Bogue_Clone.DockCamera removed in first object
+root.PJUI601_CV7_F_STOCK.planeType removed in second object
+root.PGSB002_Tirpiz_1942.DockCamera removed in first object
+root.PASB008_Colorado_1945.DockCamera removed in first object
+root.PAUD004_Douglas_SBD2.planeType removed in second object
+root.PXSB001_Mr_Hyde.DockCamera removed in first object
+root.PJSA015_Taiho_1944.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA015_Taiho_1944.AB2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA015_Taiho_1944.AB2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA015_Taiho_1944.DockCamera removed in first object
+root.PGSB910_Grossdeutschland.DockCamera removed in first object
+root.PAUI403_CV5_F_TOP.planeType removed in second object
+root.PJUI402_CV5_F_TOP.planeType removed in second object
+root.PAUB005_Martin_T4M.planeType removed in second object
+root.PGUB701_TB_GRAF_Z.planeType removed in second object
+root.PJSC038_Atago_1944.DockCamera removed in first object
+root.PJSB018_Yamato_1944.ATBADefault removed in second object
+root.PJSB018_Yamato_1944.permoflages[1] removed in first object
+root.PJSB018_Yamato_1944.AirDefenseDefault removed in second object
+root.PJSB018_Yamato_1944.RadarsDefault removed in second object
+root.PJSB018_Yamato_1944.AirArmamentDefault removed in second object
+root.PJSB018_Yamato_1944.ArtilleryDefault removed in second object
+root.PJSB018_Yamato_1944.HullDefault removed in second object
+root.PJSB018_Yamato_1944.DirectorsDefault removed in second object
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUA911_B10_ART_STOCK.components.artillery[0] changed in second object (was ArtilleryDefault, is A_Artillery)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.airDefense[0] changed in second object (was AirDefenseDefault, is A_AirDefense)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.hull[0] changed in second object (was HullDefault, is A_Hull)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.artillery[0] changed in second object (was ArtilleryDefault, is A_Artillery)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.atba[0] changed in second object (was ATBADefault, is A_ATBA)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.directors[0] changed in second object (was DirectorsDefault, is A_Directors)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.airArmament[0] changed in second object (was AirArmamentDefault, is A_AirArmament)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.radars[0] changed in second object (was RadarsDefault, is A_Radars)
+root.PJSB018_Yamato_1944.ShipUpgradeInfo.PJUH911_Yamato_1944.components.finders[0] changed in second object (was FindersDefault, is A_Finders)
+root.PJSB018_Yamato_1944.FindersDefault removed in second object
+root.PJSB018_Yamato_1944.A_Hull removed in first object
+root.PJSB018_Yamato_1944.A_Directors removed in first object
+root.PJSB018_Yamato_1944.A_Artillery removed in first object
+root.PJSB018_Yamato_1944.A_ATBA removed in first object
+root.PJSB018_Yamato_1944.A_AirArmament removed in first object
+root.PJSB018_Yamato_1944.A_AirDefense removed in first object
+root.PJSB018_Yamato_1944.DockCamera removed in first object
+root.PJSB018_Yamato_1944.A_Radars removed in first object
+root.PJSB018_Yamato_1944.A_Finders removed in first object
+root.PGSC706_HSF_Graf_Spee.DockCamera removed in first object
+root.PJSX702_Support.DockCamera removed in first object
+root.PJSD026_Camo_Kamikaze.DockCamera removed in first object
+root.PJUB975_TB2_HAKU.planeType removed in second object
+root.PJSD025_True_Kamikaze.DockCamera removed in first object
+root.PRSD110_Pr_24_Khabarovsk.DockCamera removed in first object
+root.PBSB110_Conqueror.DockCamera removed in first object
+root.PBSB107_King_George_V.DockCamera removed in first object
+root.PAUB801_CV9_TB_STOCK.planeType removed in second object
+root.PJUD802_CV9_DB_TOP.planeType removed in second object
+root.PAGS047_6in50_MK6.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PAUD008_Douglas_AD2.planeType removed in second object
+root.PBSC507_Belfast_1959.DockCamera removed in first object
+root.PASB518_Massachusetts.DockCamera removed in first object
+root.PGES338_Tirpiz_1942_H2017.nodesConfig.FindersDefault removed in first object
+root.PZSD109_Chung_Mu.DockCamera removed in first object
+root.PAUD704_DB_ENTERPISE.planeType removed in second object
+root.PAUB974_TB1_MIDWAY.planeType removed in second object
+root.PFSC506_De_Grasse.DockCamera removed in first object
+root.PAUB701_CV8_TB_STOCK.planeType removed in second object
+root.PXSX001_Transylvania.DockCamera removed in first object
+root.PCGM202_200mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM202_200mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PASB018_Iowa_1944.DockCamera removed in first object
+root.PJSD708_HSF_Harekaze.permoflages[2] removed in first object
+root.PJSD708_HSF_Harekaze.DockCamera removed in first object
+root.PJUB007_R2Y1_Keiun.planeType removed in second object
+root.PAUB012_Consolidated_TBY_1.planeType removed in second object
+root.PGSA508_Graf_Zeppelin.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PGSA508_Graf_Zeppelin.A2_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PGSA508_Graf_Zeppelin.DockCamera removed in first object
+root.PJUB011_B4Y_KAGA.planeType removed in second object
+root.PGSB109_Friedrich_der_Grosse.DockCamera removed in first object
+root.PJSA012_Zuikaku_1944.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA012_Zuikaku_1944.A2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA012_Zuikaku_1944.A2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA012_Zuikaku_1944.DockCamera removed in first object
+root.PAUB008_Douglas_DT.planeType removed in second object
+root.PJSC013_Kuma_1938.DockCamera removed in first object
+root.PCQT478_Key.rewards[0] changed in second object (was <Permoflage shipId="PGSB002_Tirpiz_1942" idx="PGES338_Tirpiz_1942_H2017" />, is <Permoflage shipId="PGSB507_Scharnhorst" idx="PGES307_Scharnhorst_Ice" />)
+root.PJUB000_TorpedoBomber_Default.planeType removed in second object
+root.PJSB003_Myogi_1912.DockCamera removed in first object
+root.PBSD503_Campbeltown_1941.DockCamera removed in first object
+root.PASC507_Indianapolis_1945.DockCamera removed in first object
+root.PJSD006_Hatsuharu_1945.DockCamera removed in first object
+root.PAUD701_Curtiss_SB2C.planeType removed in second object
+root.PXSX017_Caboteur_de_35_metres.DockCamera removed in first object
+root.PAUD501_CV6_DB_STOCK.planeType removed in second object
+root.PASC044_Marblehead_1924.DockCamera removed in first object
+root.PAGS044_6in50_MK6.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PJUI004_J7W1_A.planeType removed in second object
+root.PJSC705_Myoko.DockCamera removed in first object
+root.PRSD207_Minsk.DockCamera removed in first object
+root.PASC017_Baltimore_1944.DockCamera removed in first object
+root.PRPA050_AP_LGD.bulletCapNormalizeMaxAngle changed in second object (was 8.0, is 10.0)
+root.PAUI002_Grumman_F6F.planeType removed in second object
+root.PJUD002_D3A1.planeType removed in second object
+root.PASB508_Alabama.DockCamera removed in first object
+root.PAGM138_5in38_Mk21.armor.1 removed in first object
+root.PJUI975_F2_HAKU.planeType removed in second object
+root.PZSD103_Phra_Ruang.DockCamera removed in first object
+root.PBSC108_Edinburgh.DockCamera removed in first object
+root.PASX001_Cimarron.DockCamera removed in first object
+root.PAUB601_CV7_TB_STOCK.planeType removed in second object
+root.PAUB904_CV10_TB_STOCK.planeType removed in second object
+root.PXSX034_John_Cattling.DockCamera removed in first object
+root.PJUI901_CV10_F_STOCK.planeType removed in second object
+root.PRSD910_Grozovoy_pr_40N.DockCamera removed in first object
+root.PCQM060.startTimeCustom.EU removed in first object
+root.PCQM060.startTimeCustom.RU removed in first object
+root.PCQM060.startTimeCustom.CN removed in first object
+root.PCQM060.startTimeCustom.ASIA removed in first object
+root.PCQM060.startTimeCustom.NA removed in first object
+root.PASB509_Missouri.DockCamera removed in first object
+root.PJUB003_Aichi_B7A.planeType removed in second object
+root.PAUD301_CV4_DB_STOCK.planeType removed in second object
+root.PAUI017_Boeing_F4B.planeType removed in second object
+root.PCGM203_200mm_BASIC_3_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM203_200mm_BASIC_3_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PAUB003_Martin_T3M.planeType removed in second object
+root.PIPA005_320MM_AP_Model1936.bulletDetonatorThreshold changed in second object (was 55.0, is 53.0)
+root.PCQT442.rewards[1] removed in second object
+root.PCQT468_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PGSD106_Ernst_Gaede" idx="PCEP309_Permo_NY_3" />)
+root.PCQT468_Key.rewards[1] removed in first object
+root.PASD801_FALSE_ENEMY_Sampson.DockCamera removed in first object
+root.PJGS139_127mm40_Type89_Mod_A3.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS003_127mm40_Type89_Mod_A/JGS003_127mm40_Type89_Mod_A_dead.model, is content/gameplay/japan/gun/secondary/JGS157_127mm40_Type89_Mod_A/JGS157_127mm40_Type89_Mod_A_dead.model)
+root.PJGS139_127mm40_Type89_Mod_A3.model changed in second object (was content/gameplay/japan/gun/secondary/JGS003_127mm40_Type89_Mod_A/JGS003_127mm40_Type89_Mod_A.model, is content/gameplay/japan/gun/secondary/JGS157_127mm40_Type89_Mod_A/JGS157_127mm40_Type89_Mod_A.model)
+root.PXSC003_Pr_68_Chapaev_H2017.DockCamera removed in first object
+root.PJUD003_D4Y2.planeType removed in second object
+root.PBSC105_Emerald.DockCamera removed in first object
+root.PBSB002_Warspite_1941.DockCamera removed in first object
+root.PFSC108_Charles_Martel.A_Hull.HP_FRS_3 removed in second object
+root.PFSC108_Charles_Martel.B_Hull.HP_FRS_3 removed in second object
+root.PFSC108_Charles_Martel.AB_Radars.HP_FRS_3 removed in first object
+root.PFSC108_Charles_Martel.DockCamera removed in first object
+root.PCGS143_140mm_BASIC_3_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS143_140mm_BASIC_3_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PRSD409_Pr_20i_Tashkent.DockCamera removed in first object
+root.PJSD005_Mutsuki_1926.DockCamera removed in first object
+root.PRSC104_Svetlana.DockCamera removed in first object
+root.PJSD001_Tachibana_1912.DockCamera removed in first object
+root.PGSC107_Yorck.DockCamera removed in first object
+root.PGSD102_V_25.DockCamera removed in first object
+root.PFSC102_Jurien.DockCamera removed in first object
+root.PJUI005_Mitsubishi_A5M2.planeType removed in second object
+root.PJSB802_False_Ally_Kawachi_1912.DockCamera removed in first object
+root.PRSC606_Admiral_Makarov.DockCamera removed in first object
+root.PJSD003_Isokaze_1917.DockCamera removed in first object
+root.PJD014_Director_Type_98_10m removed in second object
+root.PFSC104_Duguay_Trouin.DockCamera removed in first object
+root.PCQT446_Key.conditions[2] changed in second object (was <isTotalXP  count="3000"/>, is <isTotalXP  count="35000"/>)
+root.PXSX743_Hall_Medway_Queen.DockCamera removed in first object
+root.PCGM353_350mm_BASIC_3_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM353_350mm_BASIC_3_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PXUI701_CV8_F_STOCK.planeType removed in second object
+root.PCGM303_300mm_BASIC_3_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM303_300mm_BASIC_3_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PASB506_Arizona_1941.DockCamera removed in first object
+root.PASD709_Black.DockCamera removed in first object
+root.PJUB008_MITSUBISHI_B1M.planeType removed in second object
+root.PBSC106_Leander.DockCamera removed in first object
+root.PRSD208_Pr_30.DockCamera removed in first object
+root.PGUD702_DBAP_GRAF_Z.planeType removed in second object
+root.PJSB705_Kongou.DockCamera removed in first object
+root.PJSB007_Kongo_1942.DockCamera removed in first object
+root.PRSD105_Pr_7_Gnevny.DockCamera removed in first object
+root.PBSC102_Weymouth.B_Hull.dockYOffset changed in second object (was 0.0, is -0.06)
+root.PBSC102_Weymouth.A_Hull.dockYOffset changed in second object (was 0.0, is -0.06)
+root.PBSC102_Weymouth.DockCamera removed in first object
+root.PAUI801_CV9_F_STOCK.planeType removed in second object
+root.PAUI301_CV4_F_STOCK.planeType removed in second object
+root.PAUB902_CV10_TB_TOP.planeType removed in second object
+root.PAUB401_CV5_TB_STOCK.planeType removed in second object
+root.PXSX025_Medway_Queen.DockCamera removed in first object
+root.PJSC503_Katori.DockCamera removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_3_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_3_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_3_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_3_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_2_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_1_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_1_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_1_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_1_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_2_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_2_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_3_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_2_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_2_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.B_Hull_1945.HP_AGM_1_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_3_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_3_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_3_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_3_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_2_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_1_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_1_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_1_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_1_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_2_HP_AGA_6 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_2_HP_AGA_7 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_3_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_2_HP_AGA_8 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_2_HP_AGA_9 removed in first object
+root.PASB012_North_Carolina_1945.A_Hull_1942.HP_AGM_1_HP_AGA_10 removed in first object
+root.PASB012_North_Carolina_1945.DockCamera removed in first object
+root.PXSD003_Kagero_H2017.DockCamera removed in first object
+root.PASB801_False_Michigan_1916.DockCamera removed in first object
+root.PASB034_New_Mexico_1941.DockCamera removed in first object
+root.PXUB701_CV8_TB_STOCK.planeType removed in second object
+root.PBSB517_Nelson.DockCamera removed in first object
+root.PJUB009_Nakajima_B3N.planeType removed in second object
+root.PAUI701_CV8_F_STOCK.planeType removed in second object
+root.PASD006_Mahan_1936.C_Artillery.HP_AGM_1.armor.1 removed in first object
+root.PASD006_Mahan_1936.C_Artillery.HP_AGM_2.armor.1 removed in first object
+root.PASD006_Mahan_1936.AB_Artillery.HP_AGM_1.armor.1 removed in first object
+root.PASD006_Mahan_1936.AB_Artillery.HP_AGM_2.armor.1 removed in first object
+root.PASD006_Mahan_1936.DockCamera removed in first object
+root.PZSD107_Gadjah_Mada.DockCamera removed in first object
+root.PJUD006_D1A1.planeType removed in second object
+root.PJUB902_CV10_TB_TOP.planeType removed in second object
+root.PJUD502_CV6_DB_TOP.planeType removed in second object
+root.PJUD501_CV6_DB_STOCK.planeType removed in second object
+root.PASD014_Leader_1919.B2_Artillery.HP_AGM_1.armor.1 removed in first object
+root.PASD014_Leader_1919.B2_Artillery.HP_AGM_2.armor.1 removed in first object
+root.PASD014_Leader_1919.DockCamera removed in first object
+root.PJUB401_CV5_TB_STOCK.planeType removed in second object
+root.PCGS072_070mm_BASIC_2_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS072_070mm_BASIC_2_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PAUB975_TB2_MIDWAY.planeType removed in second object
+root.PASD021_Fletcher_1943.DockCamera removed in first object
+root.PRSC108_Pr_68_Chapaev.DockCamera removed in first object
+root.PASD013_Gearing_1945.DockCamera removed in first object
+root.PASB004_Arkansas_1912.DockCamera removed in first object
+root.PXSX044_Cimarron.DockCamera removed in first object
+root.PRSD106_Pr_30_Ognevoy.DockCamera removed in first object
+root.PJSB708_Hiei_Arpeggio.DockCamera removed in first object
+root.PASD019_Clemson_1920.DockCamera removed in first object
+root.PASB001_Michigan_1916.DockCamera removed in first object
+root.PXSA002_Invisible_Air_Ally_1.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PXSA002_Invisible_Air_Ally_1.DockCamera removed in first object
+root.PAUI601_CV7_F_STOCK.planeType removed in second object
+root.PJUB002_Nakajima_B6N.planeType removed in second object
+root.PGSC508_Prinz_Eugen.DockCamera removed in first object
+root.PJSC018_Tone.DockCamera removed in first object
+root.PCQM066.startTimeCustom.RU removed in second object
+root.PCQM064.startTimeCustom.RU removed in second object
+root.PCQM065.startTimeCustom.RU removed in second object
+root.PCQM062.startTimeCustom.RU removed in second object
+root.PCQM063.startTimeCustom.RU removed in second object
+root.PISC506_DucadAosta.DockCamera removed in first object
+root.PRSC110_Pr_66_Moskva.DockCamera removed in first object
+root.PCGS144_140mm_BASIC_4_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS144_140mm_BASIC_4_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PZSD108_Hsien_Yang.DockCamera removed in first object
+root.PRSB001_Nikolay_I.DockCamera removed in first object
+root.PJUB010_Nakajima_C6N5_1b.planeType removed in second object
+root.PJUB601_CV7_TB_STOCK.planeType removed in second object
+root.PXSA003_Lexington_1944_H2017.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PXSA003_Lexington_1944_H2017.DockCamera removed in first object
+root.PGSC002_Drezden_1908.DockCamera removed in first object
+root.PGSD506_T_61.DockCamera removed in first object
+root.PJSD002_Umikaze_1925.DockCamera removed in first object
+root.PJUD701_CV8_DB_STOCK.planeType removed in second object
+root.PCGM354_350mm_BASIC_4_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM354_350mm_BASIC_4_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PJSB010_Nagato_1944.DockCamera removed in first object
+root.PASD002_Sampson_1917.DockCamera removed in first object
+root.PBSD605_Anthony_Event.DockCamera removed in first object
+root.PFSC106_La_Galissonniere.DockCamera removed in first object
+root.PRSD210_Grozovoy_pr_40N.DockCamera removed in first object
+root.PAUI001_Grumman_F3F.planeType removed in second object
+root.PXSX043_Medway_Queen_War.DockCamera removed in first object
+root.PASB917_Montana_1945.DockCamera removed in first object
+root.PFSC109_Saint_Louis.DockCamera removed in first object
+root.PXSD001_VanHellsink.DockCamera removed in first object
+root.PAUI302_CV4_F_TOP.planeType removed in second object
+root.PJSA917_Hakuryu_1942.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA917_Hakuryu_1942.A2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA917_Hakuryu_1942.A2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA917_Hakuryu_1942.DockCamera removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.DockCamera removed in first object
+root.PRSD109_Pr_48_Kiev.DockCamera removed in first object
+root.PJSC009_Mogami_1935.DockCamera removed in first object
+root.PRSC002_Diana_1905.DockCamera removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_9 removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_7 removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_8 removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_10 removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_11 removed in first object
+root.PXSC001_Dr_Frankenship.HullDefault.HP_XGS_12 removed in first object
+root.PXSC001_Dr_Frankenship.DockCamera removed in first object
+root.PAUI602_CV7_F_TOP.planeType removed in second object
+root.PFSB109_Alsace.AB_Directors.HP_FD_16.gunNode changed in second object (was , is HP_FGM_3)
+root.PFSB109_Alsace.AB_Directors.HP_FD_15.gunNode changed in second object (was HP_FGM_3, is )
+root.PFSB109_Alsace.AB_Directors.HP_FD_9.gunNode changed in second object (was HP_FGM_1, is )
+root.PFSB109_Alsace.AB_Finders.HP_FF_1.gunNode changed in second object (was , is HP_FGM_1)
+root.PFSB109_Alsace.DockCamera removed in first object
+root.PJSC008_Myoko_1945.DockCamera removed in first object
+root.PRSD104_Izyaslav.DockCamera removed in first object
+root.PGSD110_Z_52.DockCamera removed in first object
+root.PGSC108_Hipper.DockCamera removed in first object
+root.PCQT440_Key.conditions[2] changed in second object (was <isTotalXP  count="3000"/>, is <isTotalXP  count="30000"/>)
+root.PJUI501_CV6_F_STOCK.planeType removed in second object
+root.PCQT464_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="2018"/>, is <Permoflage shipId="PFSC106_La_Galissonniere" idx="PCEP309_Permo_NY_3" />)
+root.PCQT464_Key.rewards[1] removed in first object
+root.PXUI711_CV8_F_STOCK.planeType removed in second object
+root.PXSD007_Scnellboot_S38.DockCamera removed in first object
+root.PASC002_Chester_1908.DockCamera removed in first object
+root.PJD018_Director_Type_98_15m removed in second object
+root.PJUD902_CV10_DB_TOP.planeType removed in second object
+root.PAUD904_CV10_DB_STOCK.planeType removed in second object
+root.PAUI903_CV10_F_TOP.planeType removed in second object
+root.PJUD000_DiveBomber_Default.planeType removed in second object
+root.PCQT429.rewards[1] removed in second object
+root.PAUB802_CV9_TB_TOP.planeType removed in second object
+root.PJSD012_Shimakaze_1943.DockCamera removed in first object
+root.PAUI011_Curtiss_TS1.planeType removed in second object
+root.PXSB004_Tirpiz_1942_H2017.DockCamera removed in first object
+root.PASX006_Cimarron_invisible.DockCamera removed in first object
+root.PAUD975_DB2_MIDWAY.planeType removed in second object
+root.PJSC005_Furutaka_1926.DockCamera removed in first object
+root.PGSB107_Gneisenau.DockCamera removed in first object
+root.PRSC910_Pr_66_Moskva.DockCamera removed in first object
+root.PJSC026_Iwaki_1944.DockCamera removed in first object
+root.PXSX016_Goliath.DockCamera removed in first object
+root.PAUD401_CV5_DB_STOCK.planeType removed in second object
+root.PGSC910_Hindenburg.DockCamera removed in first object
+root.PXSA004_Zuikaku_1944_H2017.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PXSA004_Zuikaku_1944_H2017.DockCamera removed in first object
+root.PASA004_Langley_1929.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA004_Langley_1929.DockCamera removed in first object
+root.PZSD104_Shen_Yang.DockCamera removed in first object
+root.PJSC007_Aoba_1943.DockCamera removed in first object
+root.PASC003_Albany_1898.DockCamera removed in first object
+root.PCQT449.rewards[1] removed in second object
+root.PCQT448.rewards[1] removed in second object
+root.PCQT448.conditions[2] changed in second object (was <isModuleHits  count="1" moduleTypes= "main" />, is <isModuleHits  count="3" moduleTypes= "main" />)
+root.PCQT443.rewards[1] removed in second object
+root.PCQT443.conditions[2] changed in second object (was <isSpotShips count="3" class="Battleship"/>, is <isSpotShips count="12" class="Battleship"/>)
+root.PJUI802_CV9_F_TOP.planeType removed in second object
+root.PCQT441.rewards[1] removed in second object
+root.PCQT447.rewards[1] removed in second object
+root.PCQT447.conditions[2] changed in second object (was <isDamage  count="15000" class= "Battleship" />, is <isDamage  count="150000" class= "Battleship" />)
+root.PCQT445.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> )
+root.PCQT445.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK)
+root.PCQT445.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT445.conditions[2] changed in second object (was <isCitadelHits count="1" />, is <isCitadelHits count="5" />)
+root.PCQT444.rewards[1] removed in second object
+root.PCQT444.conditions[2] changed in second object (was <isDamage count="10000" class = "Battleship" />, is <isDamage count="50000" class = "Battleship" />)
+root.PGSB104_Kaiser.DockCamera removed in first object
+root.PJSB918_Yamato_1944.ATBADefault removed in second object
+root.PJSB918_Yamato_1944.AirDefenseDefault removed in second object
+root.PJSB918_Yamato_1944.RadarsDefault removed in second object
+root.PJSB918_Yamato_1944.AirArmamentDefault removed in second object
+root.PJSB918_Yamato_1944.ArtilleryDefault removed in second object
+root.PJSB918_Yamato_1944.HullDefault removed in second object
+root.PJSB918_Yamato_1944.DirectorsDefault removed in second object
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.airDefense[0] changed in second object (was AirDefenseDefault, is A_AirDefense)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.hull[0] changed in second object (was HullDefault, is A_Hull)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.artillery[0] changed in second object (was ArtilleryDefault, is A_Artillery)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.atba[0] changed in second object (was ATBADefault, is A_ATBA)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.directors[0] changed in second object (was DirectorsDefault, is A_Directors)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.airArmament[0] changed in second object (was AirArmamentDefault, is A_AirArmament)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.radars[0] changed in second object (was RadarsDefault, is A_Radars)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUH978_YAM.components.finders[0] changed in second object (was FindersDefault, is A_Finders)
+root.PJSB918_Yamato_1944.ShipUpgradeInfo.PJUA978_ART1_YAM.components.artillery[0] changed in second object (was ArtilleryDefault, is A_Artillery)
+root.PJSB918_Yamato_1944.FindersDefault removed in second object
+root.PJSB918_Yamato_1944.A_Hull removed in first object
+root.PJSB918_Yamato_1944.A_Directors removed in first object
+root.PJSB918_Yamato_1944.A_Artillery removed in first object
+root.PJSB918_Yamato_1944.A_ATBA removed in first object
+root.PJSB918_Yamato_1944.A_AirArmament removed in first object
+root.PJSB918_Yamato_1944.A_AirDefense removed in first object
+root.PJSB918_Yamato_1944.DockCamera removed in first object
+root.PJSB918_Yamato_1944.A_Radars removed in first object
+root.PJSB918_Yamato_1944.A_Finders removed in first object
+root.PBSB106_Queen_Elizabeth.DockCamera removed in first object
+root.PJUB974_TB1_HAKU.planeType removed in second object
+root.PJSC934_Zao_1944.DockCamera removed in first object
+root.PAUD705_DB_ENTERPISE.planeType removed in second object
+root.PAUI512_VOUGHT_F4U_SAIPAN.planeType removed in second object
+root.PGSB108_Bismarck.DockCamera removed in first object
+root.PZSD102_Long_Jiang.DockCamera removed in first object
+root.PAUI802_CV9_F_TOP.planeType removed in second object
+root.PFSB107_Lyon.DockCamera removed in first object
+root.PJUB302_CV4_TB_TOP.planeType removed in second object
+root.PAUD003_Vought_SB2U.planeType removed in second object
+root.PRSC503_Oleg.DockCamera removed in first object
+root.PJUD004_J5N.planeType removed in second object
+root.PAUB703_TB_ENTERPRISE.planeType removed in second object
+root.PASC007_Cleveland_1945.DockCamera removed in first object
+root.PJUB802_CV9_TB_TOP.planeType removed in second object
+root.PBSC107_Fiji.DockCamera removed in first object
+root.PCQT465.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT465.conditions[2] changed in second object (was <isKillShips count="1" class="Destroyer"/>, is <isKillShips count="5" class="Destroyer"/>)
+root.PCQT467.conditions[2] changed in second object (was <isTotalCredits count="1500" />, is <isTotalCredits count="1500000" />)
+root.PCQT466.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT466.conditions[3] changed in second object (was <isWeaponHits count="1" weaponTypes="torps"/>, is <isWeaponHits count="6" weaponTypes="torps"/>)
+root.PCQT461.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PCQT461.conditions[2] changed in second object (was <isDamage count="1200" damageTypes="fire" />, is <isDamage count="120000" damageTypes="fire" />)
+root.PCQT463.conditions[2] changed in second object (was <isTotalXP count="750" />, is <isTotalXP count="7500" />)
+root.PCQT469.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,RANKED,COOPERATIVE" />, is <isBattleType battleTypes="PVP,RANKED" />)
+root.PJUB701_CV8_TB_STOCK.planeType removed in second object
+root.PCGS141_140mm_BASIC_1_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS141_140mm_BASIC_1_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PJUI013_Nakajima_A2N2.planeType removed in second object
+root.PCQT452_Key.conditions[2] changed in second object (was <isTotalXP  count="3000"/>, is <isTotalXP  count="40000"/>)
+root.PBSB910_Conqueror.DockCamera removed in first object
+root.PZSD105_Jian_Wei.DockCamera removed in first object
+root.PRSD505_Okhotnik_1917.DockCamera removed in first object
+root.PJSD004_Minekadze_1920.DockCamera removed in first object
+root.PJSA009_Ryujo_1933.ABC1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA009_Ryujo_1933.ABC2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA009_Ryujo_1933.ABC2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA009_Ryujo_1933.DockCamera removed in first object
+root.PJSD105_Mutsuki.DockCamera removed in first object
+root.PJSB008_Ishizuchi_1921.DockCamera removed in first object
+root.PJUB402_CV5_TB_TOP.planeType removed in second object
+root.PJUI009_Kawanishi_N1K5_A.planeType removed in second object
+root.PASC803_Cimarron_shooter.DockCamera removed in first object
+root.PJSB507_Ashitaka.DockCamera removed in first object
+root.PGSD108_Z_23.DockCamera removed in first object
+root.PJSD014_Tachibana_1912_Asus.DockCamera removed in first object
+root.PAUB013_A2D_Skyshark.planeType removed in second object
+root.PJUB501_CV6_TB_STOCK.planeType removed in second object
+root.PAUD703_CV8_DB_STOCK.planeType removed in second object
+root.PASC012_Pensacola_1944.DockCamera removed in first object
+root.PRSC109_Dmitry_Donskoy.DockCamera removed in first object
+root.PGSB105_Koenig.DockCamera removed in first object
+root.PAUD013_Douglas_SBD5.planeType removed in second object
+root.PCQC008_NewYear2018Elite.startTimeCustom.EU removed in second object
+root.PCQC008_NewYear2018Elite.startTimeCustom.RU removed in second object
+root.PCQC008_NewYear2018Elite.startTimeCustom.ASIA removed in second object
+root.PCQC008_NewYear2018Elite.startTimeCustom.PT removed in second object
+root.PCQC008_NewYear2018Elite.startTimeCustom.NA removed in second object
+root.PAUI402_CV5_F_MED.planeType removed in second object
+root.PGUI701_F_TOP_GRAF_Z.planeType removed in second object
+root.PAUB002_Grumman_TBF.planeType removed in second object
+root.PCQT458_Key.rewards[0] changed in second object (was <Ship shipId="PGSB002_Tirpiz_1942" level="3" count="1"/>, is <Ship shipId="PBSB527_Duke_of_York" level="3" count="1"/>)
+root.PCQT458_Key.rewards[1] removed in second object
+root.PCQT458_Key.conditions[2] changed in second object (was <isTotalXP  count="3500"/>, is <isTotalXP  count="45000"/>)
+root.PBSC109_Neptune.DockCamera removed in first object
+root.PAUI031_FM_2.planeType removed in second object
+root.PASC710_Salem.DockCamera removed in first object
+root.PAUI009_Grumman_F4F.planeType removed in second object
+root.PJSD912_Shimakaze_1943.group changed in second object (was demoWithoutStats, is preserved)
+root.PJSD912_Shimakaze_1943.groupCustom.CN removed in second object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH979_SHIM2 removed in second object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH976_SHIM.disabledAbilities[0] removed in second object
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.PJUH976_SHIM.disabledAbilities[1] removed in second object
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_3.shotDelay changed in second object (was 153.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT001_Sea_Torpedo_Type93)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_2.shotDelay changed in second object (was 153.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT001_Sea_Torpedo_Type93)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_1.shotDelay changed in second object (was 153.0, is 150.0)
+root.PJSD912_Shimakaze_1943.A1_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT020_610_Type93_model_3, is PJPT001_Sea_Torpedo_Type93)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_3.shotDelay changed in second object (was 150.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT031_Sea_Torpedo_Type93_DW, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_2.shotDelay changed in second object (was 150.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT031_Sea_Torpedo_Type93_DW, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_1.shotDelay changed in second object (was 150.0, is 131.0)
+root.PJSD912_Shimakaze_1943.A3_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT031_Sea_Torpedo_Type93_DW, is PJPT011_Type_F3)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_3.shotDelay changed in second object (was 131.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_3.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_2.shotDelay changed in second object (was 131.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_2.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_1.shotDelay changed in second object (was 131.0, is 153.0)
+root.PJSD912_Shimakaze_1943.A2_610.HP_JGT_1.ammoList[0] changed in second object (was PJPT011_Type_F3, is PJPT020_610_Type93_model_3)
+root.PJSD912_Shimakaze_1943.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PJSD912_Shimakaze_1943.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PJSD912_Shimakaze_1943.DockCamera removed in first object
+root.PFSC110_Henri_IV.DockCamera removed in first object
+root.PASA015_Midway_1945.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA015_Midway_1945.DockCamera removed in first object
+root.PJSB011_Mikasa_1905.DockCamera removed in first object
+root.PJUI018_Mitsubishi_A5M4.planeType removed in second object
+root.PJSC717_Yellow_Dragon.DockCamera removed in first object
+root.PAUD511_CV6_DB_TOP.planeType removed in second object
+root.PASA006_Independence_1945.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA006_Independence_1945.DockCamera removed in first object
+root.PXSC002_Charles_Martel_H2017.DockCamera removed in first object
+root.PXUD701_CV8_DB_STOCK.planeType removed in second object
+root.PJSB707_Haruna.DockCamera removed in first object
+root.PJUI502_CV6_F_TOP.planeType removed in second object
+root.PAUI028_Grumman_F6F_3.planeType removed in second object
+root.PAUD010_Douglas_BTD_1.planeType removed in second object
+root.PJSD207_Shiratsuyu.DockCamera removed in first object
+root.PGSB110_Grossdeutschland.DockCamera removed in first object
+root.PRSD206_Pr_7.DockCamera removed in first object
+root.PGSD106_Ernst_Gaede.DockCamera removed in first object
+root.PAUD601_CV7_DB_STOCK.planeType removed in second object
+root.PJSB013_Amagi_1942.DockCamera removed in first object
+root.PJUD007_D4Y3.planeType removed in second object
+root.PJPT031_Sea_Torpedo_Type93_DW.speed changed in second object (was 67.0, is 62.0)
+root.PAUB702_CV8_TB_TOP.planeType removed in second object
+root.PJUD009_Aichi_B7A.planeType removed in second object
+root.PASD502_Smith.DockCamera removed in first object
+root.PJUI006_Mitsubishi_A7M1.planeType removed in second object
+root.PWSD501_Blyskawica.DockCamera removed in first object
+root.PFSC103_Friant.DockCamera removed in first object
+root.PAUB009_Douglas_AD1.planeType removed in second object
+root.PRSC107_Schors.B_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PRSC107_Schors.A_Hull.armor.65629 changed in second object (was 13.0, is 16.0)
+root.PRSC107_Schors.DockCamera removed in first object
+root.PJUI301_CV4_F_STOCK.planeType removed in second object
+root.PAGS039_4in50_Mk12.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PAUB301_CV4_TB_STOCK.planeType removed in second object
+root.PXSA001_Invisible_Air_Enemy_1.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PXSA001_Invisible_Air_Enemy_1.AB2_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PXSA001_Invisible_Air_Enemy_1.DockCamera removed in first object
+root.PJUI974_F1_HAKU.planeType removed in second object
+root.PASC020_Des_Moines_1948.DockCamera removed in first object
+root.PJSA002_Hosho_1939.ABC1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA002_Hosho_1939.ABC2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA002_Hosho_1939.DockCamera removed in first object
+root.PAGS046_6in50_MK6.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PASC804_FALSE_ENEMY_Erie_1936.DockCamera removed in first object
+root.PJUB004_Yokosuka_B4Y.planeType removed in second object
+root.PJUD005_D3A2.planeType removed in second object
+root.PZSD506_Anshan.DockCamera removed in first object
+root.PJSB799_Kirishima.DockCamera removed in first object
+root.PASX003_Liberty.DockCamera removed in first object
+root.PJUI701_CV8_F_STOCK.planeType removed in second object
+root.PJSB801_False_Kawachi_1912.DockCamera removed in first object
+root.PJSD017_Kamikaze_1930.DockCamera removed in first object
+root.PJSC037_Hashidate_1940.DockCamera removed in first object
+root.PASC024_Phoenix_1917.DockCamera removed in first object
+root.PZSD508_LoYang.DockCamera removed in first object
+root.PBSB527_Duke_of_York.DockCamera removed in first object
+root.PAUI010_F8F_Bearcat.planeType removed in second object
+root.PAUB709_Douglas_AD1.planeType removed in second object
+root.PAUI702_CV8_F_TOP.planeType removed in second object
+root.PRSD102_SM_Storojevoy.DockCamera removed in first object
+root.PAUB501_CV6_TB_STOCK.planeType removed in second object
+root.PASA508_Enterprise.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA508_Enterprise.DockCamera removed in first object
+root.PAUB053_Douglas_XSB2D.planeType removed in second object
+root.PJUI801_CV9_F_STOCK.planeType removed in second object
+root.PAUD702_CV8_DB_TOP.planeType removed in second object
+root.PASA013_Essex_1945.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA013_Essex_1945.DockCamera removed in first object
+root.PJUH979_SHIM2 removed in second object
+root.PAUD012_Douglas_SBD3.planeType removed in second object
+root.PRSC001_Avrora_1917.DockCamera removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_21 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_20 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_12 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_13 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_18 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_19 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_6 removed in first object
+root.PBSB108_Monarch.B_Hull.HP_BGA_7 removed in first object
+root.PBSB108_Monarch.DockCamera removed in first object
+root.PFSB106_Normandie.DockCamera removed in first object
+root.PAUD901_X5FU_HALLOWEEN.planeType removed in second object
+root.PASA010_Ranger_1944.A_Hull_1941.SG.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PASA010_Ranger_1944.B_Hull_1943.SG.armorCoeff changed in second object (was 1.0, is 0.8)
+root.PASA010_Ranger_1944.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA010_Ranger_1944.DockCamera removed in first object
+root.PJUB901_CV10_TB_STOCK.planeType removed in second object
+root.PASC802_Cimarron_Target.DockCamera removed in first object
+root.PJUI302_CV4_F_TOP.planeType removed in second object
+root.PAUD973_CV10_DB_AP_TOP.planeType removed in second object
+root.PRSC105_Kirov.DockCamera removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.DockCamera removed in first object
+root.PRSD108_Pr_20i_Tashkent.DockCamera removed in first object
+root.PGSC103_Kolberg.DockCamera removed in first object
+root.PJUD901_CV10_DB_STOCK.planeType removed in second object
+root.PJGM001_460mm45_Type96 removed in second object
+root.PJUB001_B5N2.planeType removed in second object
+root.PJUI001_A6M2.planeType removed in second object
+root.PXSX024_Aronia.DockCamera removed in first object
+root.PISB505_Giulio_Cesare.DockCamera removed in first object
+root.PAUB302_CV4_TB_TOP.planeType removed in second object
+root.PASC001_Erie_1936.DockCamera removed in first object
+root.PGSB503_Koenig_Albert.DockCamera removed in first object
+root.PGSC104_Karlsruhe.DockCamera removed in first object
+root.PJUD974_DB1_HAKU.planeType removed in second object
+root.PXSD002_Benson_1945_H2017.DockCamera removed in first object
+root.PJSD024_Wakatake_1923.DockCamera removed in first object
+root.PAUD712_CV8_DB_AP_TOP.planeType removed in second object
+root.PJUI702_CV8_F_TOP.planeType removed in second object
+root.PJSA011_Hiryu_1942.ABC1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA011_Hiryu_1942.ABC2A_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA011_Hiryu_1942.ABC2U_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA011_Hiryu_1942.DockCamera removed in first object
+root.PFSB104_Courbet.DockCamera removed in first object
+root.PGSB103_Nassau.DockCamera removed in first object
+root.PBSB507_Hood.DockCamera removed in first object
+root.PJSD107_Akatsuki.DockCamera removed in first object
+root.PCQT436.rewards[1] removed in second object
+root.PCQT436.conditions[2] changed in second object (was <isModuleHits count="10" />, is <isModuleHits count="25" />)
+root.PFSB103_Turenne.DockCamera removed in first object
+root.PCQT433.rewards[0] changed in second object (was <Lootbox boxType="newyear2018" count="3" ignoreEpic="1"/> , is <Lootbox boxType="newyear2018" count="1" ignoreEpic="1"/> )
+root.PCQT433.uiCondition[2] changed in second object (was IDS_TASKRESTRICTIONSPECIAL_TIRPITZ, is IDS_TASKRESTRICTIONSPECIAL_DUKEOFYORK)
+root.PCQT433.conditions[0] changed in second object (was <isMyShip shipIds="PGSB002_Tirpiz_1942"/>, is <isMyShip shipIds="PBSB527_Duke_of_York"/>)
+root.PCQT433.conditions[2] changed in second object (was <isDamage count="5000" class = "Cruiser"/>, is <isDamage count="20000" class = "Cruiser"/>)
+root.PCQT433.conditions[3] changed in second object (was <isBattleResult battleResult="win" />, is <isAlive isAlive="true" />)
+root.PCQT433.conditions[4] removed in first object
+root.PJSB706_Kirishima.DockCamera removed in first object
+root.PAUI018_Grumman_F4F_5.planeType removed in second object
+root.PASA012_Lexington_1944.AB1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA012_Lexington_1944.DockCamera removed in first object
+root.PASB006_New_York_1934.DockCamera removed in first object
+root.PJSC727_Blue_Dragon.DockCamera removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_1_HP_FGA_4 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_1_HP_FGA_1 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_1_HP_FGA_3 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_1_HP_FGA_2 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_1_HP_FGA_1 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_2_HP_FGA_4 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_2_HP_FGA_2 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_2_HP_FGA_3 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_2_HP_FGA_2 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_2_HP_FGA_1 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGM_2_HP_FGA_1 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_1_HP_FGA_2 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_11_HP_FGA_1 removed in first object
+root.PFSB508_Gascogne.A_Hull.HP_FGS_11_HP_FGA_2 removed in first object
+root.PFSB508_Gascogne.DockCamera removed in first object
+root.PFSC101_Bougainville.DockCamera removed in first object
+root.PJSB509_Musashi.permoflages[1] removed in first object
+root.PJSB509_Musashi.DockCamera removed in first object
+root.PJUD601_CV7_DB_STOCK.planeType removed in second object
+root.PZSC506_Huang_he.DockCamera removed in first object
+root.PRSC101_Orlan.DockCamera removed in first object
+root.PCGM143_140mm_BASIC_3_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM143_140mm_BASIC_3_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PGSB507_Scharnhorst.DockCamera removed in first object
+root.PRSC103_Bogatyr.DockCamera removed in first object
+root.PBSC103_Caledon.DockCamera removed in first object
+root.PJSD108_Akizuki.DockCamera removed in first object
+root.PAUD007_Martin_BM2.planeType removed in second object
+root.PAUI013_Curtiss_F6C_1.planeType removed in second object
+root.PCGM201_200mm_BASIC_1_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96_dead.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96_dead.model)
+root.PCGM201_200mm_BASIC_1_barrel.model changed in second object (was content/gameplay/japan/gun/main/JGM001_460mm45_Type96/JGM001_460mm45_Type96.model, is content/gameplay/japan/gun/main/JGM164_460mm45_Type96/JGM164_460mm45_Type96.model)
+root.PXSB002_Rasputin.HullDefault.HP_RGA_7 removed in first object
+root.PXSB002_Rasputin.HullDefault.HP_RGA_8 removed in first object
+root.PXSB002_Rasputin.DockCamera removed in first object
+root.PJUI014_MITSUBISHI_1MF.planeType removed in second object
+root.PJUI003_Nikajima_A4N.planeType removed in second object
+root.PAUI975_F2_MIDWAY.planeType removed in second object
+root.PFPA028_130MM_40_1919_AP.bulletCapNormalizeMaxAngle changed in second object (was 8.5, is 10.0)
+root.PASD008_Benson_1945.DockCamera removed in first object
+root.PBSB109_Lion.DockCamera removed in first object
+root.PCQT432.rewards[1] removed in second object
+root.PCQT432.conditions[2] changed in second object (was <isDamage count="25000" class = "Battleship"/>, is <isDamage count="75000" class = "Battleship"/>)
+root.PASA915_Midway_1945.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PASA915_Midway_1945.DockCamera removed in first object
+root.PRSC999_Seal.DockCamera removed in first object
+root.PASB705_Texas_1944.DockCamera removed in first object
+root.PJSB506_Mutsu.DockCamera removed in first object
+root.PAUI012_Vought_F4U.planeType removed in second object
+root.PASC045_Marblehead_1924_Asus.DockCamera removed in first object
+root.PJSB021_Izumo_1938.DockCamera removed in first object
+root.PJUI902_CV10_F_TOP.planeType removed in second object
+root.PAUD005_Douglas_XSB2D.planeType removed in second object
+root.PCGS201_200mm_BASIC_1_barrel.deadMesh changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3_dead.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3_dead.model)
+root.PCGS201_200mm_BASIC_1_barrel.model changed in second object (was content/gameplay/japan/gun/secondary/JGS002_155mm60_Type3/JGS002_155mm60_Type3.model, is content/gameplay/japan/gun/secondary/JGS156_155mm_60_Type3/JGS156_155mm_60_Type3.model)
+root.PAUD801_CV9_DB_STOCK.planeType removed in second object
+root.PJSC837_False_Hashidate_1940.DockCamera removed in first object
+root.PBSB105_Iron_Duke.DockCamera removed in first object
+root.PGUD701_DB_GRAF_Z.planeType removed in second object
+root.PJSC737_Nachi.DockCamera removed in first object
+root.PJUI019_Mitsubishi_A6M5_C.planeType removed in second object
+root.PAUD009_Douglas_XTB2D.planeType removed in second object
+root.PASC006_Atlanta_1942.DockCamera removed in first object
+root.PAUD001_Curtiss_SB2C.planeType removed in second object
+root.PFSC105_Emile_Bertin.DockCamera removed in first object
+root.PJSA507_Kaga.A1_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA507_Kaga.A2_FlightControl.planesReserveAssignment.Auxiliary removed in first object
+root.PJSA507_Kaga.DockCamera removed in first object
+root.PAUI703_F_ENTERPRISE.planeType removed in second object
+root.PASB708_Alabama.DockCamera removed in first object
+root.PASB017_Montana_1945.DockCamera removed in first object
+root.PJSB508_Kii.DockCamera removed in first object
+root.PAUI501_CV6_F_STOCK.planeType removed in second object
+root.PAUB007_Douglas_XTB2D.planeType removed in second object
+root.PAUD812_CV9_DB_AP_TOP.planeType removed in second object
+root.PFSB108_Richelieu.A_Hull.dockYOffset changed in second object (was 0.0, is 0.06)
+root.PFSB108_Richelieu.B_Hull.dockYOffset changed in second object (was 0.0, is 0.06)
+root.PFSB108_Richelieu.flagsScale changed in second object (was 0.8, is 0.45)
+root.PFSB108_Richelieu.DockCamera removed in first object
+root.PCZC147_HSF_Wazumi_Hime removed in first object
+root.PBPA060_120_HE_COSSACK removed in first object
+root.PCZC133_HSF_Matsunaga_Ritsuko removed in first object
+root.PJGM591_127mm50_Type_C_HSF_cat removed in first object
+root.PJGS555_155mm_60_Type3_HSF removed in first object
+root.PCNA019 removed in first object
+root.PCNA013 removed in first object
+root.PAUT506_MONAGHAN removed in first object
+root.PCH160_CLAN_LEAGUE_3 removed in first object
+root.PCZC129_HSF_Kaede_Marikouji removed in first object
+root.PBF063_Rangefinder_MkII_3_65m removed in first object
+root.PCZC157_HSF_Thea_Kreutzer removed in first object
+root.PCZC123_HSF_Misaki_Akeno removed in first object
+root.PJF505_Rangefinder_5m_HSF removed in first object
+root.PCNB033 removed in first object
+root.PCNB032 removed in first object
+root.PCNB031 removed in first object
+root.PCNB030 removed in first object
+root.PCNB037 removed in first object
+root.PCNB035 removed in first object
+root.PCNB034 removed in first object
+root.PJES528_HSF_Harekaze_Cat removed in first object
+root.PCNS001 removed in first object
+root.PCNS000 removed in first object
+root.PJGM588_5in54_MK16_HSF_Cat removed in first object
+root.PCZC150_HSF_Akane_Kinesaki removed in first object
+root.PCNB019 removed in first object
+root.PCNB018 removed in first object
+root.PCNB015 removed in first object
+root.PCNB014 removed in first object
+root.PCNB017 removed in first object
+root.PCNB016 removed in first object
+root.PCNB011 removed in first object
+root.PCNB010 removed in first object
+root.PCNB013 removed in first object
+root.PJGS582_127mm40_Type89_Mod_A_Yamato_3_HSF removed in first object
+root.PJW204_Kouko_Nosa removed in first object
+root.PJD576_Director_Type_98_10m_HSF removed in first object
+root.PCZC155_HSF_Moeka_China removed in first object
+root.PCNA021 removed in first object
+root.PBUS627_SUO_COSSACK removed in first object
+root.PJGA586_25mm_Type96_Triple_Yamato_3_HSF removed in first object
+root.PCZC142_HSF_Kuroki_Hiromi removed in first object
+root.PCNA009 removed in first object
+root.PCNA008 removed in first object
+root.PCNA003 removed in first object
+root.PCNA002 removed in first object
+root.PCNA001 removed in first object
+root.PCNA006 removed in first object
+root.PCNA005 removed in first object
+root.PCNA004 removed in first object
+root.PCZC127_HSF_Kouko_Nosa removed in first object
+root.PASD506_Monaghan removed in first object
+root.PBUT603_TORP_COSSACK removed in first object
+root.PAUH506_MONAGHAN removed in first object
+root.PCZC126_HSF_Mei_Irizaki removed in first object
+root.PBUE625_ENG_COSSACK removed in first object
+root.PJF102_Rangefinder_66cm_Shield removed in first object
+root.PCNA025 removed in first object
+root.PCNA024 removed in first object
+root.PCNA020 removed in first object
+root.PCNA023 removed in first object
+root.PCNA022 removed in first object
+root.PCZC146_HSF_Ise_Sakura removed in first object
+root.PJD579_Machine_Gun_ControlTower_Yamato_1_HSF removed in first object
+root.PJPA083_127_AP_ASASHIO removed in first object
+root.PAD109_Director_Mk33 removed in first object
+root.PCNB012 removed in first object
+root.PJD577_Director_Type_98_15m_HSF removed in first object
+root.PAPA086_127MM_AP_MONAGHAN removed in first object
+root.PCEE174_HSF_Musashi_Flag removed in first object
+root.PCZC148_HSF_Aoki_Momo removed in first object
+root.PJGS578_127mm40_Type89_Mod_A_2_HSF removed in first object
+root.PCEE171_Cossack_Flag removed in first object
+root.PCZC131_HSF_Ogasawara_Hikari removed in first object
+root.PBPA061_120_AP_COSSACK removed in first object
+root.PJW203_Moeka_China removed in first object
+root.PJW205_Mei_Irizaki removed in first object
+root.PBGA082_12mm62_HI removed in first object
+root.PCZC140_HSF_Machiko_Noma removed in first object
+root.PJUT782_TORP_ASASHIO removed in first object
+root.PCH163_FillAlbum_HSF2018 removed in first object
+root.PCZC136_HSF_Yamashita_Hideko removed in first object
+root.PCZC125_HSF_Shima_Tateishi removed in first object
+root.PJGA585_25mm_Type96_Triple_Yamato_2_HSF removed in first object
+root.PJD578_Machine_Gun_ControlTower_Yamato_HSF removed in first object
+root.PBUH627_HULL_COSSACK removed in first object
+root.PJF504_Rangefinder_4_5m removed in first object
+root.PCNU015 removed in first object
+root.PCNU016 removed in first object
+root.PCNU010 removed in first object
+root.PCNU011 removed in first object
+root.PCNU012 removed in first object
+root.PCNU018 removed in first object
+root.PCNU019 removed in first object
+root.PAUE506_MONAGHAN removed in first object
+root.PIES308_Roma_Kobayashi removed in first object
+root.PJGM592_100mm65_Type98_HSF_cat removed in first object
+root.PJD583_Director_Type_95_Mod2_HSF removed in first object
+root.PJGS581_127mm40_Type89_Mod_A_Yamato_2_HSF removed in first object
+root.PCZC128_HSF_Rin_Shiretoko removed in first object
+root.PCNU039 removed in first object
+root.PCNU036 removed in first object
+root.PCNU037 removed in first object
+root.PCNU034 removed in first object
+root.PCNU032 removed in first object
+root.PCNU030 removed in first object
+root.PCNU031 removed in first object
+root.PCZC135_HSF_Satoko_Katsuta removed in first object
+root.PCEE172_Asashio_Flag removed in first object
+root.PCZC151_HSF_Mikan_Irako removed in first object
+root.PBUA624_ART_COSSACK removed in first object
+root.PCNB036 removed in first object
+root.PCZC154_HSF_Wilhelmina removed in first object
+root.PCH159_CLAN_LEAGUE_2 removed in first object
+root.PCZC134_HSF_Takeda_Michiru removed in first object
+root.PCNU014 removed in first object
+root.PCNU017 removed in first object
+root.PCNU013 removed in first object
+root.PCZC138_HSF_Uda_Megumi removed in first object
+root.PJGS590_155mm_60_Type3_grey_HSF removed in first object
+root.PJSD518_Asashio removed in first object
+root.PCZC137_HSF_Mayumi_Uchida removed in first object
+root.PCNB020 removed in first object
+root.PCNB021 removed in first object
+root.PCNB022 removed in first object
+root.PCNB023 removed in first object
+root.PCNB024 removed in first object
+root.PCNB025 removed in first object
+root.PCNB026 removed in first object
+root.PCNB027 removed in first object
+root.PCNB028 removed in first object
+root.PCNB029 removed in first object
+root.PCZC124_HSF_Mashiro_Munetani removed in first object
+root.PJUS762_SUO_ASASHIO removed in first object
+root.PBSD507_Cossack removed in first object
+root.PJGM573_460mm45_Type96_HSF removed in first object
+root.PBGM079_120mm_45_QF_CP_MkXIX_Twin removed in first object
+root.PCNB008 removed in first object
+root.PCNB009 removed in first object
+root.PCNB002 removed in first object
+root.PCNB003 removed in first object
+root.PCNB001 removed in first object
+root.PCNB006 removed in first object
+root.PCNB007 removed in first object
+root.PCNB004 removed in first object
+root.PCNB005 removed in first object
+root.PJW206_Maron_Yanagiwara removed in first object
+root.PCEE176_Navigation_Department_Flag removed in first object
+root.PJES310_Yamato_HSF removed in first object
+root.PAGM176_5in38_Mk24_Mod11 removed in first object
+root.PCEE170_Monaghan_Flag removed in first object
+root.PJD582_Director_Type_95_Mod2_HSF removed in first object
+root.PJPA084_127_HE_ASASHIO removed in first object
+root.PCEE178_Logistics_Department_Flag removed in first object
+root.PCNA018 removed in first object
+root.PCNA010 removed in first object
+root.PCNA011 removed in first object
+root.PCNA012 removed in first object
+root.PCNA014 removed in first object
+root.PCNA015 removed in first object
+root.PCNA016 removed in first object
+root.PCNA017 removed in first object
+root.PJUH773_ASASHIO removed in first object
+root.PJGS575_127mm40_Type89_Mod_A_HSF removed in first object
+root.PJGA583_25mm_Type96_Triple_Yamato_HSF removed in first object
+root.PBPT012_533_COSSACK removed in first object
+root.PAUA506_MONAGHAN removed in first object
+root.PJD575_Director_Type_95_Mod2_HSF removed in first object
+root.PJPT032_610_ASASHIO removed in first object
+root.PCNU038 removed in first object
+root.PCNU035 removed in first object
+root.PCNU033 removed in first object
+root.PJES309_Musashi_HSF removed in first object
+root.PJGS580_127mm40_Type89_Mod_A_Yamato_1_HSF removed in first object
+root.PJUA783_ART_ASASHIO removed in first object
+root.PCH158_CLAN_LEAGUE_1 removed in first object
+root.PCZC141_HSF_Maron_Yanagiwara removed in first object
+root.PAPA085_127MM_HE_MONAGHAN removed in first object
+root.PJF580_Rangefinder_4_5m_Yamato_HSF removed in first object
+root.PCZC130_HSF_Himeji_Kayoko removed in first object
+root.PCZC153_HSF_Minami_Kaburagi removed in first object
+root.PJGT589_610mm4_Type_93_HSF_Cat removed in first object
+root.PJGA584_25mm_Type96_Triple_Yamato_1_HSF removed in first object
+root.PCZC145_HSF_Wakasa_Reo removed in first object
+root.PJF583_Rangefinder_1_5m_Yamato_HSF removed in first object
+root.PJGS577_127mm40_Type89_Mod_A_1_HSF removed in first object
+root.PJUE782_ENG_ASASHIO removed in first object
+root.PAGS174_5in38_Mk24_Mod11 removed in first object
+root.PCZC139_HSF_Yagi_Tsugumi removed in first object
+root.PCEE173_Kure_Maritime_Flag removed in first object
+root.PAPT032_MONAGHAN removed in first object
+root.PCZC143_HSF_Hirota_Sora removed in first object
+root.PCNU043 removed in first object
+root.PCEE175_Weapons_Department_Flag removed in first object
+root.PCZC149_HSF_Homare_Kinesaki removed in first object
+root.PCZC132_HSF_Heki_Junko removed in first object
+root.PCZA007_HSF2018 removed in first object
+root.PBGA088_2_pdr_MkVII_Quad removed in first object
+root.PJGA587_25mm_Type96_Triple_Yamato_4_HSF removed in first object
+root.PCH161_CLAN_LEAGUE_4 removed in first object
+root.PJGA576_25mm_Type96_Triple_1_HSF removed in first object
+root.PCNU007 removed in first object
+root.PCNU006 removed in first object
+root.PCNU005 removed in first object
+root.PCNU004 removed in first object
+root.PCNU003 removed in first object
+root.PCNU002 removed in first object
+root.PCNU001 removed in first object
+root.PCNU009 removed in first object
+root.PCNU008 removed in first object
+root.PJF581_Rangefinder_4_5m_Yamato_1_HSF removed in first object
+root.PJGA574_25mm_Type96_Triple_1_HSF removed in first object
+root.PCNA007 removed in first object
+root.PCZC152_HSF_Toumatsu_Mimi removed in first object
+root.PCNU021 removed in first object
+root.PCNU020 removed in first object
+root.PCNU023 removed in first object
+root.PCNU022 removed in first object
+root.PCNU025 removed in first object
+root.PCNU024 removed in first object
+root.PCNU027 removed in first object
+root.PCNU026 removed in first object
+root.PCNU029 removed in first object
+root.PCNU028 removed in first object
+root.PCEE177_Engineering_Department_Flag removed in first object
+root.PJGS579_127mm40_Type89_Mod_A_Yamato_HSF removed in first object
+root.PAUS506_MONAGHAN removed in first object
+root.PCZC156_HSF_Isoroku removed in first object
+root.PJF503_Rangefinder_1_5m_HSF removed in first object
+root.PCNU042 removed in first object
+root.PCNU041 removed in first object
+root.PCNU040 removed in first object
+root.PCNU044 removed in first object
+root.PCZC144_HSF_Suruga_Runa removed in first object
+>> finished comparing

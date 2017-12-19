@@ -818,6 +818,19 @@
         "zh_cn": "\u53f2\u5bc6\u65af", 
         "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
     }, 
+    "PASD506": {
+        "en": "Monaghan", 
+        "id": 3764271088, 
+        "index": "PASD506", 
+        "ja_jp": "Monaghan", 
+        "level": 6, 
+        "name": "PASD506_Monaghan", 
+        "nation": "USA", 
+        "ru": "IDS_PASD506", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PASD506", 
+        "zh_tw": "IDS_PASD506"
+    }, 
     "PASD508": {
         "en": "Kidd", 
         "id": 3762173936, 
@@ -1285,6 +1298,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u82f1\u52c7", 
         "zh_tw": "\u82f1\u52c7\u865f"
+    }, 
+    "PBSD507": {
+        "en": "Cossack", 
+        "id": 3763222480, 
+        "index": "PBSD507", 
+        "ja_jp": "Cossack", 
+        "level": 7, 
+        "name": "PBSD507_Cossack", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD507", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD507", 
+        "zh_tw": "IDS_PBSD507"
     }, 
     "PBSD605": {
         "en": "Anthony", 
@@ -3170,6 +3196,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u5915\u4e91", 
         "zh_tw": "\u5915\u96f2\u578b"
+    }, 
+    "PJSD518": {
+        "en": "Asashio", 
+        "id": 3751687888, 
+        "index": "PJSD518", 
+        "ja_jp": "Asashio", 
+        "level": 8, 
+        "name": "PJSD518_Asashio", 
+        "nation": "Japan", 
+        "ru": "IDS_PJSD518", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PJSD518", 
+        "zh_tw": "IDS_PJSD518"
     }, 
     "PJSD706": {
         "en": "Shinonome", 
