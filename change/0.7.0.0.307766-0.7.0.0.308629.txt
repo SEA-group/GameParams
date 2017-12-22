@@ -1,0 +1,188 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQM059.startTimeCustom.EU changed in second object (was 03-01-2018 05:00:01, is 04-01-2018 05:00:01)
+root.PCQM058.startTimeCustom.EU changed in second object (was 29-12-2017 05:00:01, is 30-12-2017 05:00:01)
+root.PCQM057.startTimeCustom.EU changed in second object (was 24-12-2017 05:00:01, is 25-12-2017 05:00:01)
+root.PCQC007_NewYear2018Basic.endTimeCustom.EU removed in first object
+root.PCQC007_NewYear2018Basic.endTimeCustom.RU removed in first object
+root.PCQC007_NewYear2018Basic.endTimeCustom.CN removed in first object
+root.PCQC007_NewYear2018Basic.endTimeCustom.ASIA removed in first object
+root.PCQC007_NewYear2018Basic.endTimeCustom.NA removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.EU removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.RU removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.CN removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.ASIA removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.NA removed in first object
+root.PJES528_HSF_Harekaze_Cat.canBuy changed in second object (was False, is True)
+root.PJES528_HSF_Harekaze_Cat.hidden changed in second object (was True, is False)
+root.PFSD506_Aigle.group changed in second object (was demoWithoutStats, is special)
+root.PFSD506_Aigle.groupCustom.CN removed in second object
+root.PISB508_Roma.group changed in second object (was demoWithoutStats, is special)
+root.PISB508_Roma.groupCustom.CN removed in second object
+root.PJSD708_HSF_Harekaze.ABC_Hull.armor.65587 changed in second object (was 6.0, is 0.0)
+root.PCQM060.startTimeCustom.EU changed in second object (was 08-01-2018 05:00:01, is 09-01-2018 05:00:01)
+root.PCNU015.battleTypes[1] removed in first object
+root.PCNU015.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU015.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU016.battleTypes[1] removed in first object
+root.PCNU016.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU016.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU010.battleTypes[1] removed in first object
+root.PCNU010.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU010.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU011.battleTypes[1] removed in first object
+root.PCNU011.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU011.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU012.battleTypes[1] removed in first object
+root.PCNU012.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU012.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU018.battleTypes[1] removed in first object
+root.PCNU018.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU018.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU019.battleTypes[1] removed in first object
+root.PCNU019.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU019.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU039.battleTypes[1] removed in first object
+root.PCNU039.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU039.constants.damage changed in second object (was 97000, is 32000)
+root.PCNU036.battleTypes[1] removed in first object
+root.PCNU036.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU036.constants.damage changed in second object (was 95000, is 30000)
+root.PCNU037.battleTypes[1] removed in first object
+root.PCNU037.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU037.constants.damage changed in second object (was 64000, is 24000)
+root.PCNU034.battleTypes[1] removed in first object
+root.PCNU034.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU034.constants.damage changed in second object (was 55000, is 22000)
+root.PCNU032.battleTypes[1] removed in first object
+root.PCNU032.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU032.constants.damage changed in second object (was 64000, is 30000)
+root.PCNU030.battleTypes[1] removed in first object
+root.PCNU030.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU030.constants.damage changed in second object (was 40000, is 20000)
+root.PCNU031.battleTypes[1] removed in first object
+root.PCNU031.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU031.constants.damage changed in second object (was 55000, is 25000)
+root.PCNU014.battleTypes[1] removed in first object
+root.PCNU014.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU014.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU017.battleTypes[1] removed in first object
+root.PCNU017.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU017.constants.teamPosition changed in second object (was 3, is 6)
+root.PASD014_Leader_1919.A1_Artillery.HP_AGM_4.pitchDeadZones[0][3] changed in second object (was 0.0, is 15.0)
+root.PCNU013.battleTypes[1] removed in first object
+root.PCNU013.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU013.constants.teamPosition changed in second object (was 3, is 6)
+root.PFSB109_Alsace.AB1_Artillery.sigmaCount changed in second object (was 2.0, is 1.7)
+root.PJES310_Yamato_HSF.canBuy changed in second object (was True, is False)
+root.PJES310_Yamato_HSF.hidden changed in second object (was False, is True)
+root.PFSB107_Lyon.A1_Artillery.sigmaCount changed in second object (was 1.8, is 1.5)
+root.PFSB107_Lyon.B1_Artillery.sigmaCount changed in second object (was 1.8, is 1.5)
+root.PCNU038.battleTypes[1] removed in first object
+root.PCNU038.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU038.constants.damage changed in second object (was 72000, is 30000)
+root.PCNU035.battleTypes[1] removed in first object
+root.PCNU035.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU035.constants.damage changed in second object (was 83000, is 25000)
+root.PCNU033.battleTypes[1] removed in first object
+root.PCNU033.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU033.constants.damage changed in second object (was 47000, is 20000)
+root.PCQC008_NewYear2018Elite.endTimeCustom.EU removed in first object
+root.PCQC008_NewYear2018Elite.endTimeCustom.RU removed in first object
+root.PCQC008_NewYear2018Elite.endTimeCustom.CN removed in first object
+root.PCQC008_NewYear2018Elite.endTimeCustom.ASIA removed in first object
+root.PCQC008_NewYear2018Elite.endTimeCustom.NA removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.EU removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.RU removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.CN removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.ASIA removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.NA removed in first object
+root.PBSB527_Duke_of_York.group changed in second object (was demoWithoutStats, is special)
+root.PBSB527_Duke_of_York.groupCustom.CN removed in second object
+root.PFSB106_Normandie.A1_Artillery.sigmaCount changed in second object (was 1.8, is 1.6)
+root.PFSB106_Normandie.A1_Artillery.HP_FGM_2.horizSector[0] changed in second object (was 0.0, is -154.0)
+root.PFSB106_Normandie.A1_Artillery.HP_FGM_2.horizSector[1] changed in second object (was 0.0, is 154.0)
+root.PFSB106_Normandie.A1_Artillery.HP_FGM_2.deadZone[1] removed in second object
+root.PFSB106_Normandie.B1_Artillery.sigmaCount changed in second object (was 1.8, is 1.6)
+root.PFSB106_Normandie.B1_Artillery.HP_FGM_2.horizSector[0] changed in second object (was 0.0, is -154.0)
+root.PFSB106_Normandie.B1_Artillery.HP_FGM_2.horizSector[1] changed in second object (was 0.0, is 154.0)
+root.PFSB106_Normandie.B1_Artillery.HP_FGM_2.deadZone[1] removed in second object
+root.PCNU043.battleTypes[1] removed in first object
+root.PCNU043.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU043.constants.damage changed in second object (was 113000, is 27000)
+root.PCZA007_HSF2018.rewards[0] changed in second object (was <Permoflage shipId="PJSB509_Musashi" idx="PJES309_Musashi_HSF" count="1" />, is <Permoflage shipId="PJSB018_Yamato_1944" idx="PJES310_Yamato_HSF" count="1" />)
+root.PCZA007_HSF2018.rewards[1] changed in second object (was <Item idx="PCEE174_HSF_Musashi_Flag" count="1" />, is <Item idx="PCEE173_Kure_Maritime_Flag" count="1" />)
+root.PCZA007_HSF2018.subAlbumDiscribtions[5][2][0] changed in second object (was <Item idx="PCEE082_Blue_Mermaid" count="1" />, is <Item idx="PCEE174_HSF_Musashi_Flag" count="1" />)
+root.PCNU007.battleTypes[1] removed in first object
+root.PCNU007.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU007.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU006.battleTypes[1] removed in first object
+root.PCNU006.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU006.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU005.battleTypes[1] removed in first object
+root.PCNU005.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU005.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU004.battleTypes[1] removed in first object
+root.PCNU004.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU004.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU003.battleTypes[1] removed in first object
+root.PCNU003.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU003.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU002.battleTypes[1] removed in first object
+root.PCNU002.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU002.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU001.battleTypes[1] removed in first object
+root.PCNU001.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU001.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU009.battleTypes[1] removed in first object
+root.PCNU009.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU009.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU008.battleTypes[1] removed in first object
+root.PCNU008.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU008.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU021.battleTypes[1] removed in first object
+root.PCNU021.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU021.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU020.battleTypes[1] removed in first object
+root.PCNU020.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU020.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU023.battleTypes[1] removed in first object
+root.PCNU023.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU023.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU022.battleTypes[1] removed in first object
+root.PCNU022.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU022.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU025.battleTypes[1] removed in first object
+root.PCNU025.constants.achievementCount changed in second object (was 15, is 1)
+root.PCNU025.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU024.battleTypes[1] removed in first object
+root.PCNU024.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU024.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU027.battleTypes[1] removed in first object
+root.PCNU027.constants.achievementCount changed in second object (was 50, is 3)
+root.PCNU027.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU026.battleTypes[1] removed in first object
+root.PCNU026.constants.achievementCount changed in second object (was 25, is 2)
+root.PCNU026.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU029.battleTypes[1] removed in first object
+root.PCNU029.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU029.constants.damage changed in second object (was 33000, is 15000)
+root.PCNU028.battleTypes[1] removed in first object
+root.PCNU028.constants.achievementCount changed in second object (was 100, is 5)
+root.PCNU028.constants.teamPosition changed in second object (was 3, is 6)
+root.PCNU042.battleTypes[1] removed in first object
+root.PCNU042.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU042.constants.damage changed in second object (was 84000, is 24000)
+root.PCNU041.battleTypes[1] removed in first object
+root.PCNU041.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU041.constants.damage changed in second object (was 71000, is 21000)
+root.PCNU040.battleTypes[1] removed in first object
+root.PCNU040.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU040.constants.damage changed in second object (was 108000, is 35000)
+root.PCNU044.battleTypes[1] removed in first object
+root.PCNU044.constants.battleCount changed in second object (was 100, is 5)
+root.PCNU044.constants.damage changed in second object (was 130000, is 30000)
+root.PCH162_CLAN_LEAGUE_TOP removed in first object
+root.PCEE180_Community_Contributor_Flag removed in first object
+>> finished comparing
