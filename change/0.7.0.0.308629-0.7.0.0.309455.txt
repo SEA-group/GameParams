@@ -1,0 +1,13 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCH156_NewYear2018EliteCompleted.hidden changed in second object (was False, is True)
+root.PCH156_NewYear2018EliteCompleted.enabled changed in second object (was True, is False)
+root.PCH154_NewYear2018BasicCompleted.hidden changed in second object (was False, is True)
+root.PCH154_NewYear2018BasicCompleted.enabled changed in second object (was True, is False)
+root.PCH155_NewYear2018BasicCompletedExcellent.hidden changed in second object (was False, is True)
+root.PCH155_NewYear2018BasicCompletedExcellent.enabled changed in second object (was True, is False)
+root.PCH157_NewYear2018EliteCompletedExcellent.hidden changed in second object (was False, is True)
+root.PCH157_NewYear2018EliteCompletedExcellent.enabled changed in second object (was True, is False)
+root.PCM040_AirDefenseDisp_Mod_I.ships[46] removed in second object
+>> finished comparing
