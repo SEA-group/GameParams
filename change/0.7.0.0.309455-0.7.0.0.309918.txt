@@ -1,0 +1,164 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSC506_Admiral_Graf_Spee.groupCustom.EU removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.NA removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.RU removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ASIA removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ST removed in second object
+root.PRSC506_Molotov_1943.groupCustom.RU removed in second object
+root.PRSC506_Molotov_1943.groupCustom.NA removed in second object
+root.PRSC506_Molotov_1943.groupCustom.ASIA removed in second object
+root.PRSC506_Molotov_1943.groupCustom.EU removed in second object
+root.PRSC003_Murmansk_1944.groupCustom.RU removed in second object
+root.PRSC003_Murmansk_1944.groupCustom.NA removed in second object
+root.PRSC003_Murmansk_1944.groupCustom.ASIA removed in second object
+root.PRSC003_Murmansk_1944.groupCustom.EU removed in second object
+root.PAUH506_MONAGHAN.costXP changed in second object (was 9800, is 0)
+root.PAUH506_MONAGHAN.costCR changed in second object (was 780000, is 0)
+root.PASA507_Saipan_1946.groupCustom.RU removed in second object
+root.PASA507_Saipan_1946.groupCustom.NA removed in second object
+root.PASA507_Saipan_1946.groupCustom.ASIA removed in second object
+root.PASA507_Saipan_1946.groupCustom.EU removed in second object
+root.PGSC502_Emden_1908.groupCustom.EU removed in second object
+root.PGSC502_Emden_1908.groupCustom.NA removed in second object
+root.PGSC502_Emden_1908.groupCustom.RU removed in second object
+root.PGSC502_Emden_1908.groupCustom.ASIA removed in second object
+root.PGSC502_Emden_1908.groupCustom.ST removed in second object
+root.PRSC505_KrasniKrym.groupCustom.EU removed in second object
+root.PRSC505_KrasniKrym.groupCustom.NA removed in second object
+root.PRSC505_KrasniKrym.groupCustom.RU removed in second object
+root.PRSC505_KrasniKrym.groupCustom.ASIA removed in second object
+root.PRSC505_KrasniKrym.groupCustom.ST removed in second object
+root.PBSD506_Gallant.groupCustom.EU removed in second object
+root.PBSD506_Gallant.groupCustom.NA removed in second object
+root.PBSD506_Gallant.groupCustom.RU removed in second object
+root.PBSD506_Gallant.groupCustom.ASIA removed in second object
+root.PBSD506_Gallant.groupCustom.ST removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.EU removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.NA removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.RU removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.ASIA removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.ST removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.RU removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.NA removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.ASIA removed in second object
+root.PBSD503_Campbeltown_1941.groupCustom.EU removed in second object
+root.PASC507_Indianapolis_1945.groupCustom.RU removed in second object
+root.PASC507_Indianapolis_1945.groupCustom.NA removed in second object
+root.PASC507_Indianapolis_1945.groupCustom.ASIA removed in second object
+root.PASC507_Indianapolis_1945.groupCustom.EU removed in second object
+root.PASC044_Marblehead_1924.groupCustom.RU removed in second object
+root.PASC044_Marblehead_1924.groupCustom.NA removed in second object
+root.PASC044_Marblehead_1924.groupCustom.ASIA removed in second object
+root.PASC044_Marblehead_1924.groupCustom.EU removed in second object
+root.PAUE506_MONAGHAN.costCR changed in second object (was 155000, is 0)
+root.PBSB002_Warspite_1941.groupCustom.RU removed in second object
+root.PBSB002_Warspite_1941.groupCustom.NA removed in second object
+root.PBSB002_Warspite_1941.groupCustom.ASIA removed in second object
+root.PBSB002_Warspite_1941.groupCustom.EU removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.RU removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.NA removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.ASIA removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.EU removed in second object
+root.PRSC606_Admiral_Makarov.groupCustom.EU changed in second object (was premium, is special)
+root.PRSC606_Admiral_Makarov.groupCustom.NA changed in second object (was premium, is special)
+root.PRSC606_Admiral_Makarov.groupCustom.ASIA changed in second object (was premium, is special)
+root.PASB506_Arizona_1941.groupCustom.RU removed in second object
+root.PASB506_Arizona_1941.groupCustom.NA removed in second object
+root.PASB506_Arizona_1941.groupCustom.ASIA removed in second object
+root.PASB506_Arizona_1941.groupCustom.EU removed in second object
+root.PJSC503_Katori.groupCustom.RU removed in second object
+root.PJSC503_Katori.groupCustom.NA removed in second object
+root.PJSC503_Katori.groupCustom.ASIA removed in second object
+root.PJSC503_Katori.groupCustom.EU removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.RU removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.NA removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.ASIA removed in second object
+root.PGSC508_Prinz_Eugen.groupCustom.EU removed in second object
+root.PRSC002_Diana_1905.groupCustom.RU removed in second object
+root.PRSC002_Diana_1905.groupCustom.NA removed in second object
+root.PRSC002_Diana_1905.groupCustom.ASIA removed in second object
+root.PRSC002_Diana_1905.groupCustom.EU removed in second object
+root.PJES310_Yamato_HSF.costGold changed in second object (was 6000, is 4000)
+root.PJES310_Yamato_HSF.creditsFactor changed in second object (was 1.2, is 1.0)
+root.PJES310_Yamato_HSF.expFactor changed in second object (was 2.0, is 1.5)
+root.PASC003_Albany_1898.groupCustom.RU removed in second object
+root.PASC003_Albany_1898.groupCustom.NA removed in second object
+root.PASC003_Albany_1898.groupCustom.ASIA removed in second object
+root.PASC003_Albany_1898.groupCustom.EU removed in second object
+root.PRSC503_Oleg.groupCustom.EU removed in second object
+root.PRSC503_Oleg.groupCustom.NA removed in second object
+root.PRSC503_Oleg.groupCustom.RU removed in second object
+root.PRSC503_Oleg.groupCustom.ASIA removed in second object
+root.PRSC503_Oleg.groupCustom.ST removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.EU removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.NA removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.RU removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.ASIA removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.ST removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.RU removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.NA removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.ASIA removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.EU removed in second object
+root.PAUA506_MONAGHAN.costCR changed in second object (was 198500, is 0)
+root.PJSB011_Mikasa_1905.groupCustom.RU removed in second object
+root.PJSB011_Mikasa_1905.groupCustom.NA removed in second object
+root.PJSB011_Mikasa_1905.groupCustom.ASIA removed in second object
+root.PJSB011_Mikasa_1905.groupCustom.EU removed in second object
+root.PASD502_Smith.groupCustom.EU removed in second object
+root.PASD502_Smith.groupCustom.NA removed in second object
+root.PASD502_Smith.groupCustom.RU removed in second object
+root.PASD502_Smith.groupCustom.ASIA removed in second object
+root.PASD502_Smith.groupCustom.ST removed in second object
+root.PWSD501_Blyskawica.groupCustom.RU removed in second object
+root.PWSD501_Blyskawica.groupCustom.NA removed in second object
+root.PWSD501_Blyskawica.groupCustom.ASIA removed in second object
+root.PWSD501_Blyskawica.groupCustom.EU removed in second object
+root.PZSD506_Anshan.groupCustom.RU removed in second object
+root.PZSD506_Anshan.groupCustom.NA removed in second object
+root.PZSD506_Anshan.groupCustom.ASIA removed in second object
+root.PZSD506_Anshan.groupCustom.EU removed in second object
+root.PASA508_Enterprise.groupCustom.EU removed in second object
+root.PASA508_Enterprise.groupCustom.NA removed in second object
+root.PASA508_Enterprise.groupCustom.RU removed in second object
+root.PASA508_Enterprise.groupCustom.ASIA removed in second object
+root.PASA508_Enterprise.groupCustom.ST removed in second object
+root.PRSC001_Avrora_1917.groupCustom.RU removed in second object
+root.PRSC001_Avrora_1917.groupCustom.NA removed in second object
+root.PRSC001_Avrora_1917.groupCustom.ASIA removed in second object
+root.PRSC001_Avrora_1917.groupCustom.EU removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.EU removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.NA removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.RU removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.ASIA removed in second object
+root.PRSB505_Oktyabrskaya_Revolutsiya.groupCustom.ST removed in second object
+root.PISB505_Giulio_Cesare.groupCustom.EU removed in second object
+root.PISB505_Giulio_Cesare.groupCustom.NA removed in second object
+root.PISB505_Giulio_Cesare.groupCustom.RU removed in second object
+root.PISB505_Giulio_Cesare.groupCustom.ASIA removed in second object
+root.PISB505_Giulio_Cesare.groupCustom.ST removed in second object
+root.PJSB509_Musashi.ShipUpgradeInfo.costXP changed in second object (was 0, is 920000)
+root.PJSB509_Musashi.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PJSB509_Musashi.ShipUpgradeInfo.costGold changed in second object (was 99999, is 0)
+root.PGSB507_Scharnhorst.groupCustom.RU removed in second object
+root.PGSB507_Scharnhorst.groupCustom.NA removed in second object
+root.PGSB507_Scharnhorst.groupCustom.ASIA removed in second object
+root.PGSB507_Scharnhorst.groupCustom.EU removed in second object
+root.PASB705_Texas_1944.groupCustom.RU removed in second object
+root.PASB705_Texas_1944.groupCustom.NA removed in second object
+root.PASB705_Texas_1944.groupCustom.ASIA removed in second object
+root.PASB705_Texas_1944.groupCustom.EU removed in second object
+root.PJSB506_Mutsu.groupCustom.EU removed in second object
+root.PJSB506_Mutsu.groupCustom.NA removed in second object
+root.PJSB506_Mutsu.groupCustom.RU removed in second object
+root.PJSB506_Mutsu.groupCustom.ASIA removed in second object
+root.PJSB506_Mutsu.groupCustom.ST removed in second object
+root.PAUS506_MONAGHAN.costXP changed in second object (was 5500, is 0)
+root.PAUS506_MONAGHAN.costCR changed in second object (was 440000, is 0)
+root.PJSA507_Kaga.groupCustom.EU removed in second object
+root.PJSA507_Kaga.groupCustom.NA removed in second object
+root.PJSA507_Kaga.groupCustom.RU removed in second object
+root.PJSA507_Kaga.groupCustom.ASIA removed in second object
+root.PJSA507_Kaga.groupCustom.ST removed in second object
+>> finished comparing
