@@ -1,0 +1,244 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCM038_Spotter_Mod_I.excludes[18] removed in first object
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourCit[0] removed in first object
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourCit[1] removed in first object
+root.PXSX023_HMS_SS_Lorina.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/HMS_SS_Lorina_fire_01.xml, is sfx/vehicles/HMS_SS_Lorina_Fire_V_01.xml)
+root.PXSX023_HMS_SS_Lorina.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/HMS_SS_Lorina_fire_02.xml, is sfx/vehicles/HMS_SS_Lorina_Fire_V_02.xml)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX023_HMS_SS_Lorina.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PCQC007_NewYear2018Basic.endTimeCustom.EU changed in second object (was 18-01-2018 06:00:00, is 20-01-2018 06:00:00)
+root.PCQC007_NewYear2018Basic.endTimeCustom.RU changed in second object (was 17-01-2018 05:00:00, is 19-01-2018 05:00:00)
+root.PCQC007_NewYear2018Basic.endTimeCustom.CN changed in second object (was 17-01-2018 20:00:00, is 19-01-2018 20:00:00)
+root.PCQC007_NewYear2018Basic.endTimeCustom.ASIA changed in second object (was 17-01-2018 22:00:00, is 19-01-2018 22:00:00)
+root.PCQC007_NewYear2018Basic.endTimeCustom.NA changed in second object (was 17-01-2018 11:00:00, is 19-01-2018 11:00:00)
+root.PCY005_Spotter.PJY006_Aichi_Musashi removed in first object
+root.PXSX033_Dyck.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX033_Dyck.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX033_Dyck.HullDefault.armourCit[0] removed in first object
+root.PXSX033_Dyck.HullDefault.armourCit[1] removed in first object
+root.PXSX033_Dyck.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Dyck_fire_01.xml, is sfx/vehicles/Dyck_Fire_V_01.xml)
+root.PXSX033_Dyck.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Dyck_fire_02.xml, is sfx/vehicles/Dyck_Fire_V_02.xml)
+root.PXSX033_Dyck.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX033_Dyck.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX033_Dyck.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX033_Dyck.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PCY013_SpotterPremium.PJY106_Aichi_Musashi removed in first object
+root.PRSC506_Molotov_1943.groupCustom.ST removed in second object
+root.PASC707_Flint.permoflages[1] removed in first object
+root.PXSX026_Canterbury.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX026_Canterbury.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX026_Canterbury.HullDefault.armourCit[0] removed in first object
+root.PXSX026_Canterbury.HullDefault.armourCit[1] removed in first object
+root.PXSX026_Canterbury.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Canterbury_fire_01.xml, is sfx/vehicles/Canterbury_Fire_V_01.xml)
+root.PXSX026_Canterbury.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Canterbury_fire_02.xml, is sfx/vehicles/Canterbury_Fire_V_02.xml)
+root.PXSX026_Canterbury.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX026_Canterbury.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX026_Canterbury.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX026_Canterbury.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PRSC003_Murmansk_1944.groupCustom.ST removed in second object
+root.PCY019_RLSSearch.Salem removed in first object
+root.PFSB110_France.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 30.0, is 24.0)
+root.PFSB110_France.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 30.0, is 24.0)
+root.PASA507_Saipan_1946.groupCustom.ST removed in second object
+root.PCQT455.isSingleBattle changed in second object (was True, is False)
+root.PCY016_SonarSearchPremium.Salem_Premium removed in first object
+root.PFGM066_Tower_340_4.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PBSD503_Campbeltown_1941.groupCustom.ST removed in second object
+root.PASC507_Indianapolis_1945.groupCustom.ST removed in second object
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourCit[0] removed in first object
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourCit[1] removed in first object
+root.PXSX017_Caboteur_de_35_metres.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Caboteur_de_35_metres_fire_01.xml, is sfx/vehicles/Caboteur_de_35_metres_Fire_V_01.xml)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX017_Caboteur_de_35_metres.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PASC044_Marblehead_1924.groupCustom.ST removed in second object
+root.PXSX034_John_Cattling.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX034_John_Cattling.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX034_John_Cattling.HullDefault.armourCit[0] removed in first object
+root.PXSX034_John_Cattling.HullDefault.armourCit[1] removed in first object
+root.PXSX034_John_Cattling.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/John_Catting_fire_01.xml, is sfx/vehicles/John_Catting_Fire_V_01.xml)
+root.PXSX034_John_Cattling.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX034_John_Cattling.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX034_John_Cattling.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX034_John_Cattling.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PBSB002_Warspite_1941.groupCustom.ST removed in second object
+root.PJSD001_Tachibana_1912.groupCustom.ST removed in second object
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourCit[0] removed in first object
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourCit[1] removed in first object
+root.PXSX743_Hall_Medway_Queen.HullDefault.burnNodes[0][0] changed in second object (was HP_Fire_Burn_2, is HP_Fire_Burn_1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Medway_Queen_War_fire_01.xml, is sfx/vehicles/Medway_Queen_War_Fire_V_01.xml)
+root.PXSX743_Hall_Medway_Queen.HullDefault.burnNodes[1][0] changed in second object (was HP_Fire_Burn_3, is HP_Fire_Burn_2)
+root.PXSX743_Hall_Medway_Queen.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Medway_Queen_War_fire_02.xml, is sfx/vehicles/Medway_Queen_War_Fire_V_02.xml)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX743_Hall_Medway_Queen.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PASB506_Arizona_1941.groupCustom.ST removed in second object
+root.PASD709_Black.permoflages[1] removed in first object
+root.PCY020_RLSSearchPremium.Salem_PREMIUM removed in first object
+root.PXSX025_Medway_Queen.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX025_Medway_Queen.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX025_Medway_Queen.HullDefault.armourCit[0] removed in first object
+root.PXSX025_Medway_Queen.HullDefault.armourCit[1] removed in first object
+root.PXSX025_Medway_Queen.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Medway_Queen_fire_01.xml, is sfx/vehicles/Medway_Queen_Fire_V_01.xml)
+root.PXSX025_Medway_Queen.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Medway_Queen_fire_02.xml, is sfx/vehicles/Medway_Queen_Fire_V_02.xml)
+root.PXSX025_Medway_Queen.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX025_Medway_Queen.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX025_Medway_Queen.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX025_Medway_Queen.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PJSC503_Katori.groupCustom.ST removed in second object
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourDeck[0] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourDeck[1] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourCit[0] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourCit[1] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.burnNodes[0][4] changed in second object (was sfx/vehicles/Langley_fire_01.xml, is sfx/vehicles/Langley_Fire_V_01.xml)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.burnNodes[1][4] changed in second object (was sfx/vehicles/Langley_fire_02.xml, is sfx/vehicles/Langley_Fire_V_02.xml)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.burnNodes[2][4] changed in second object (was sfx/vehicles/Langley_fire_03.xml, is sfx/vehicles/Langley_Fire_V_03.xml)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.burnNodes[3][4] changed in second object (was sfx/vehicles/Langley_fire_04.xml, is sfx/vehicles/Langley_Fire_V_04.xml)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourCas[0] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourCas[1] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourExtremities[0] changed in second object (was 13.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.B_Hull_1944.armourExtremities[1] changed in second object (was 13.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourDeck[0] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourDeck[1] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourCit[0] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourCit[1] changed in second object (was 20.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.burnNodes[0][4] changed in second object (was sfx/vehicles/Langley_fire_01.xml, is sfx/vehicles/Langley_Fire_V_01.xml)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.burnNodes[1][4] changed in second object (was sfx/vehicles/Langley_fire_02.xml, is sfx/vehicles/Langley_Fire_V_02.xml)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.burnNodes[2][4] changed in second object (was sfx/vehicles/Langley_fire_03.xml, is sfx/vehicles/Langley_Fire_V_03.xml)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.burnNodes[3][4] changed in second object (was sfx/vehicles/Langley_fire_04.xml, is sfx/vehicles/Langley_Fire_V_04.xml)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourCas[0] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourCas[1] changed in second object (was 10.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourExtremities[0] changed in second object (was 13.0, is -1)
+root.PXSA002_Invisible_Air_Ally_1.A_Hull_1929.armourExtremities[1] changed in second object (was 13.0, is -1)
+root.PGSC508_Prinz_Eugen.groupCustom.ST removed in second object
+root.PXSX043_Medway_Queen_War.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX043_Medway_Queen_War.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX043_Medway_Queen_War.HullDefault.armourCit[0] removed in first object
+root.PXSX043_Medway_Queen_War.HullDefault.armourCit[1] removed in first object
+root.PXSX043_Medway_Queen_War.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Medway_Queen_War_fire_01.xml, is sfx/vehicles/Medway_Queen_War_Fire_V_01.xml)
+root.PXSX043_Medway_Queen_War.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Medway_Queen_War_fire_02.xml, is sfx/vehicles/Medway_Queen_War_Fire_V_02.xml)
+root.PXSX043_Medway_Queen_War.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX043_Medway_Queen_War.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX043_Medway_Queen_War.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX043_Medway_Queen_War.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PRSC002_Diana_1905.groupCustom.ST removed in second object
+root.PFSB109_Alsace.AB1_Artillery.maxDist changed in second object (was 21530.0, is 18450.0)
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY005_Spotter, is PCY004_Fighter)
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PFY009_Breguet790_BB_5, is PAY801_VG_39_BB_5)
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY013_SpotterPremium, is PCY012_FighterPremium)
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PFY109_Breguet790_BB_5, is PAY701_VG_39_BB_5)
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PFSB109_Alsace.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PXSD007_Scnellboot_S38.A_Hull.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSD007_Scnellboot_S38.A_Hull.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSD007_Scnellboot_S38.A_Hull.armourCit[0] removed in first object
+root.PXSD007_Scnellboot_S38.A_Hull.armourCit[1] removed in first object
+root.PXSD007_Scnellboot_S38.A_Hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Scnellboot_S38_fire_01.xml, is sfx/vehicles/Scnellboot_S38_Fire_V_01.xml)
+root.PXSD007_Scnellboot_S38.A_Hull.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSD007_Scnellboot_S38.A_Hull.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSD007_Scnellboot_S38.A_Hull.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSD007_Scnellboot_S38.A_Hull.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourCit[0] removed in first object
+root.PXSX016_Goliath.HullDefault.armourCit[1] removed in first object
+root.PXSX016_Goliath.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Goliath_fire_01.xml, is sfx/vehicles/Goliath_Fire_V_01.xml)
+root.PXSX016_Goliath.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Goliath_fire_02.xml, is sfx/vehicles/Goliath_Fire_V_02.xml)
+root.PXSX016_Goliath.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX016_Goliath.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PASC003_Albany_1898.groupCustom.ST removed in second object
+root.PFSB107_Lyon.A1_Artillery.HP_FGM_4.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.A1_Artillery.HP_FGM_3.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.A1_Artillery.HP_FGM_1.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.A1_Artillery.maxDist changed in second object (was 18750.0, is 16930.0)
+root.PFSB107_Lyon.A1_Artillery.HP_FGM_2.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.B1_Artillery.HP_FGM_4.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.B1_Artillery.HP_FGM_3.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.B1_Artillery.HP_FGM_1.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PFSB107_Lyon.B1_Artillery.maxDist changed in second object (was 18750.0, is 16930.0)
+root.PFSB107_Lyon.B1_Artillery.HP_FGM_2.rotationSpeed[0] changed in second object (was 4.0, is 3.5)
+root.PCY012_FighterPremium.PJY617_Mitsubishi_Musashi removed in first object
+root.PCY008_SonarSearch.Salem removed in first object
+root.PCY004_Fighter.PJY517_Mitsubishi_Musashi removed in first object
+root.PJSB008_Ishizuchi_1921.groupCustom.ST removed in second object
+root.PFGM051_430_50_Mle_1940.shotDelay changed in second object (was 30.0, is 24.0)
+root.PCQC008_NewYear2018Elite.endTimeCustom.EU changed in second object (was 18-01-2018 06:00:00, is 20-01-2018 06:00:00)
+root.PCQC008_NewYear2018Elite.endTimeCustom.RU changed in second object (was 17-01-2018 05:00:00, is 19-01-2018 05:00:00)
+root.PCQC008_NewYear2018Elite.endTimeCustom.CN changed in second object (was 17-01-2018 20:00:00, is 19-01-2018 20:00:00)
+root.PCQC008_NewYear2018Elite.endTimeCustom.ASIA changed in second object (was 17-01-2018 22:00:00, is 19-01-2018 22:00:00)
+root.PCQC008_NewYear2018Elite.endTimeCustom.NA changed in second object (was 17-01-2018 11:00:00, is 19-01-2018 11:00:00)
+root.PASC710_Salem.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PAZ_10, is Salem)
+root.PASC710_Salem.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PAZ_10_PREMIUM, is Salem_PREMIUM)
+root.PASC710_Salem.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PASC710_Salem.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PASC710_Salem.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PASC710_Salem.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PJSB011_Mikasa_1905.groupCustom.ST removed in second object
+root.PWSD501_Blyskawica.groupCustom.ST removed in second object
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourDeck[0] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourDeck[1] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourCit[0] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourCit[1] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.burnNodes[0][4] changed in second object (was sfx/vehicles/Langley_fire_01.xml, is sfx/vehicles/Langley_Fire_V_01.xml)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.burnNodes[1][4] changed in second object (was sfx/vehicles/Langley_fire_02.xml, is sfx/vehicles/Langley_Fire_V_02.xml)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.burnNodes[2][4] changed in second object (was sfx/vehicles/Langley_fire_03.xml, is sfx/vehicles/Langley_Fire_V_03.xml)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.burnNodes[3][4] changed in second object (was sfx/vehicles/Langley_fire_04.xml, is sfx/vehicles/Langley_Fire_V_04.xml)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourCas[0] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourCas[1] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourExtremities[0] changed in second object (was 13.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.B_Hull_1944.armourExtremities[1] changed in second object (was 13.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourDeck[0] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourDeck[1] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourCit[0] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourCit[1] changed in second object (was 20.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.burnNodes[0][4] changed in second object (was sfx/vehicles/Langley_fire_01.xml, is sfx/vehicles/Langley_Fire_V_01.xml)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.burnNodes[1][4] changed in second object (was sfx/vehicles/Langley_fire_02.xml, is sfx/vehicles/Langley_Fire_V_02.xml)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.burnNodes[2][4] changed in second object (was sfx/vehicles/Langley_fire_03.xml, is sfx/vehicles/Langley_Fire_V_03.xml)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.burnNodes[3][4] changed in second object (was sfx/vehicles/Langley_fire_04.xml, is sfx/vehicles/Langley_Fire_V_04.xml)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourCas[0] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourCas[1] changed in second object (was 10.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourExtremities[0] changed in second object (was 13.0, is -1)
+root.PXSA001_Invisible_Air_Enemy_1.A_Hull_1929.armourExtremities[1] changed in second object (was 13.0, is -1)
+root.PZSD506_Anshan.groupCustom.ST removed in second object
+root.PRSC001_Avrora_1917.groupCustom.ST removed in second object
+root.PXSX024_Aronia.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PXSX024_Aronia.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PXSX024_Aronia.HullDefault.armourCit[0] removed in first object
+root.PXSX024_Aronia.HullDefault.armourCit[1] removed in first object
+root.PXSX024_Aronia.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Aronia_fire_01.xml, is sfx/vehicles/Aronia_Fire_V_01.xml)
+root.PXSX024_Aronia.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Aronia_fire_02.xml, is sfx/vehicles/Aronia_Fire_V_02.xml)
+root.PXSX024_Aronia.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PXSX024_Aronia.HullDefault.armourCas[1] changed in second object (was 6.0, is -1)
+root.PXSX024_Aronia.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PXSX024_Aronia.HullDefault.armourExtremities[1] changed in second object (was 6.0, is -1)
+root.PJSB509_Musashi.A1_Artillery.HP_JGM_1.shotDelay changed in second object (was 35.0, is 30.0)
+root.PJSB509_Musashi.A1_Artillery.HP_JGM_2.shotDelay changed in second object (was 35.0, is 30.0)
+root.PJSB509_Musashi.A1_Artillery.HP_JGM_3.shotDelay changed in second object (was 35.0, is 30.0)
+root.PJSB509_Musashi.group changed in second object (was demoWithoutStats, is upgradeableExclusive)
+root.PJSB509_Musashi.groupCustom.CN removed in second object
+root.PJSB509_Musashi.groupCustom.PT removed in first object
+root.PJSB509_Musashi.groupCustom.ST removed in first object
+root.PJSB509_Musashi.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PJY006_Aichi_E16A1_Battleship_5, is PJY006_Aichi_Musashi)
+root.PJSB509_Musashi.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PJY106_Aichi_E16A1_Battleship_5, is PJY106_Aichi_Musashi)
+root.PJSB509_Musashi.ShipAbilities.AbilitySlot2.abils[2][1] changed in second object (was PJY517_Mitsubishi_A6M2_N_Battleship_5, is PJY517_Mitsubishi_Musashi)
+root.PJSB509_Musashi.ShipAbilities.AbilitySlot2.abils[3][1] changed in second object (was PJY617_Mitsubishi_A6M2_N_Battleship_5, is PJY617_Mitsubishi_Musashi)
+root.PGSB507_Scharnhorst.groupCustom.ST removed in second object
+root.PASB705_Texas_1944.groupCustom.ST removed in second object
+root.PASC006_Atlanta_1942.groupCustom.ST removed in second object
+root.PAEP907_Mustang removed in first object
+root.PAEP909_Crocodile removed in first object
+>> finished comparing
