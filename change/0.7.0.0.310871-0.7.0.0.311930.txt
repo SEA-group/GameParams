@@ -1,0 +1,583 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFSB105_Bretagne.group changed in second object (was demoWithoutStats, is special)
+root.PFSB105_Bretagne.ShipUpgradeInfo.PFUH412_B5_HULL_B.nextShips[0] removed in second object
+root.PFSB105_Bretagne.groupCustom.CN removed in second object
+root.PCNA019.costCR changed in second object (was -1, is 15000)
+root.PCNA019.costGold changed in second object (was 1, is -1)
+root.PCNA019.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA013.costCR changed in second object (was -1, is 15000)
+root.PCNA013.costGold changed in second object (was 1, is -1)
+root.PCNA013.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB033.costCR changed in second object (was -1, is 15000)
+root.PCNB033.costGold changed in second object (was 1, is -1)
+root.PCNB033.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB032.costCR changed in second object (was -1, is 15000)
+root.PCNB032.costGold changed in second object (was 1, is -1)
+root.PCNB032.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB031.costCR changed in second object (was -1, is 15000)
+root.PCNB031.costGold changed in second object (was 1, is -1)
+root.PCNB031.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB030.costCR changed in second object (was -1, is 15000)
+root.PCNB030.costGold changed in second object (was 1, is -1)
+root.PCNB030.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB037.costCR changed in second object (was -1, is 15000)
+root.PCNB037.costGold changed in second object (was 1, is -1)
+root.PCNB037.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB035.costCR changed in second object (was -1, is 15000)
+root.PCNB035.costGold changed in second object (was 1, is -1)
+root.PCNB035.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB034.costCR changed in second object (was -1, is 15000)
+root.PCNB034.costGold changed in second object (was 1, is -1)
+root.PCNB034.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB019.costCR changed in second object (was -1, is 15000)
+root.PCNB019.costGold changed in second object (was 1, is -1)
+root.PCNB019.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB018.costCR changed in second object (was -1, is 15000)
+root.PCNB018.costGold changed in second object (was 1, is -1)
+root.PCNB018.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB015.costCR changed in second object (was -1, is 15000)
+root.PCNB015.costGold changed in second object (was 1, is -1)
+root.PCNB015.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB014.costCR changed in second object (was -1, is 15000)
+root.PCNB014.costGold changed in second object (was 1, is -1)
+root.PCNB014.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB017.costCR changed in second object (was -1, is 15000)
+root.PCNB017.costGold changed in second object (was 1, is -1)
+root.PCNB017.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB016.costCR changed in second object (was -1, is 15000)
+root.PCNB016.costGold changed in second object (was 1, is -1)
+root.PCNB016.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB011.costCR changed in second object (was -1, is 15000)
+root.PCNB011.costGold changed in second object (was 1, is -1)
+root.PCNB011.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB010.costCR changed in second object (was -1, is 15000)
+root.PCNB010.costGold changed in second object (was 1, is -1)
+root.PCNB010.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB013.costCR changed in second object (was -1, is 15000)
+root.PCNB013.costGold changed in second object (was 1, is -1)
+root.PCNB013.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA021.costCR changed in second object (was -1, is 15000)
+root.PCNA021.costGold changed in second object (was 1, is -1)
+root.PFSD506_Aigle.group changed in second object (was special, is demoWithoutStats)
+root.PFSD506_Aigle.groupCustom.CN removed in first object
+root.PCNA009.costCR changed in second object (was -1, is 15000)
+root.PCNA009.costGold changed in second object (was 1, is -1)
+root.PCNA009.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA008.costCR changed in second object (was -1, is 15000)
+root.PCNA008.costGold changed in second object (was 1, is -1)
+root.PCNA008.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA003.costCR changed in second object (was -1, is 15000)
+root.PCNA003.costGold changed in second object (was 1, is -1)
+root.PCNA003.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA002.costCR changed in second object (was -1, is 15000)
+root.PCNA002.costGold changed in second object (was 1, is -1)
+root.PCNA002.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA001.costCR changed in second object (was -1, is 15000)
+root.PCNA001.costGold changed in second object (was 1, is -1)
+root.PCNA006.costCR changed in second object (was -1, is 15000)
+root.PCNA006.costGold changed in second object (was 1, is -1)
+root.PCNA005.costCR changed in second object (was -1, is 15000)
+root.PCNA005.costGold changed in second object (was 1, is -1)
+root.PCNA005.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA004.costCR changed in second object (was -1, is 15000)
+root.PCNA004.costGold changed in second object (was 1, is -1)
+root.PCNA004.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA025.costCR changed in second object (was -1, is 15000)
+root.PCNA025.costGold changed in second object (was 1, is -1)
+root.PCNA025.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA024.costCR changed in second object (was -1, is 15000)
+root.PCNA024.costGold changed in second object (was 1, is -1)
+root.PCNA024.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA020.costCR changed in second object (was -1, is 15000)
+root.PCNA020.costGold changed in second object (was 1, is -1)
+root.PCNA020.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA023.costCR changed in second object (was -1, is 15000)
+root.PCNA023.costGold changed in second object (was 1, is -1)
+root.PCNA023.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA022.costCR changed in second object (was -1, is 15000)
+root.PCNA022.costGold changed in second object (was 1, is -1)
+root.PCNA022.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB012.costCR changed in second object (was -1, is 15000)
+root.PCNB012.costGold changed in second object (was 1, is -1)
+root.PCNB012.lootBoxAvailable changed in second object (was False, is True)
+root.PCZA006_HappyNewYear2018.startTimeDescriptionCustom removed in first object
+root.PCZA006_HappyNewYear2018.endTimeDescription removed in first object
+root.PCZA006_HappyNewYear2018.startTimeDescription removed in first object
+root.PCZA006_HappyNewYear2018.endTimeDescriptionCustom removed in first object
+root.PISB508_Roma.group changed in second object (was special, is demoWithoutStats)
+root.PISB508_Roma.groupCustom.CN removed in first object
+root.PCZA003_Dunkirk.startTimeDescriptionCustom removed in first object
+root.PCZA003_Dunkirk.endTimeDescription removed in first object
+root.PCZA003_Dunkirk.startTimeDescription removed in first object
+root.PCZA003_Dunkirk.endTimeDescriptionCustom removed in first object
+root.PCNU015.battleTypes[1] removed in second object
+root.PCNU015.costCR changed in second object (was -1, is 15000)
+root.PCNU015.costGold changed in second object (was 1, is -1)
+root.PCNU015.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU015.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU016.battleTypes[1] removed in second object
+root.PCNU016.costCR changed in second object (was -1, is 15000)
+root.PCNU016.costGold changed in second object (was 1, is -1)
+root.PCNU016.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU016.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU010.battleTypes[1] removed in second object
+root.PCNU010.costCR changed in second object (was -1, is 15000)
+root.PCNU010.costGold changed in second object (was 1, is -1)
+root.PCNU010.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU010.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU011.battleTypes[1] removed in second object
+root.PCNU011.costCR changed in second object (was -1, is 15000)
+root.PCNU011.costGold changed in second object (was 1, is -1)
+root.PCNU011.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU011.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU012.battleTypes[1] removed in second object
+root.PCNU012.costCR changed in second object (was -1, is 15000)
+root.PCNU012.costGold changed in second object (was 1, is -1)
+root.PCNU012.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU012.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU018.battleTypes[1] removed in second object
+root.PCNU018.costCR changed in second object (was -1, is 15000)
+root.PCNU018.costGold changed in second object (was 1, is -1)
+root.PCNU018.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU018.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU019.battleTypes[1] removed in second object
+root.PCNU019.costCR changed in second object (was -1, is 15000)
+root.PCNU019.costGold changed in second object (was 1, is -1)
+root.PCNU019.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU019.constants.teamPosition changed in second object (was 6, is 3)
+root.PCZA004_Yamamoto.startTimeDescriptionCustom removed in first object
+root.PCZA004_Yamamoto.endTimeDescription removed in first object
+root.PCZA004_Yamamoto.startTimeDescription removed in first object
+root.PCZA004_Yamamoto.endTimeDescriptionCustom removed in first object
+root.PCNU039.battleTypes[1] removed in second object
+root.PCNU039.costCR changed in second object (was -1, is 15000)
+root.PCNU039.costGold changed in second object (was 1, is -1)
+root.PCNU039.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU039.constants.damage changed in second object (was 32000, is 97000)
+root.PCNU036.battleTypes[1] removed in second object
+root.PCNU036.costCR changed in second object (was -1, is 15000)
+root.PCNU036.costGold changed in second object (was 1, is -1)
+root.PCNU036.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU036.constants.damage changed in second object (was 30000, is 95000)
+root.PCNU037.battleTypes[1] removed in second object
+root.PCNU037.costCR changed in second object (was -1, is 15000)
+root.PCNU037.costGold changed in second object (was 1, is -1)
+root.PCNU037.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU037.constants.damage changed in second object (was 24000, is 64000)
+root.PCNU034.battleTypes[1] removed in second object
+root.PCNU034.costCR changed in second object (was -1, is 15000)
+root.PCNU034.costGold changed in second object (was 1, is -1)
+root.PCNU034.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU034.constants.damage changed in second object (was 22000, is 55000)
+root.PCNU032.battleTypes[1] removed in second object
+root.PCNU032.costCR changed in second object (was -1, is 15000)
+root.PCNU032.costGold changed in second object (was 1, is -1)
+root.PCNU032.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU032.constants.damage changed in second object (was 30000, is 64000)
+root.PCNU030.battleTypes[1] removed in second object
+root.PCNU030.costCR changed in second object (was -1, is 15000)
+root.PCNU030.costGold changed in second object (was 1, is -1)
+root.PCNU030.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU030.constants.damage changed in second object (was 20000, is 40000)
+root.PCNU031.battleTypes[1] removed in second object
+root.PCNU031.costCR changed in second object (was -1, is 15000)
+root.PCNU031.costGold changed in second object (was 1, is -1)
+root.PCNU031.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU031.constants.damage changed in second object (was 25000, is 55000)
+root.PCNB036.costCR changed in second object (was -1, is 15000)
+root.PCNB036.costGold changed in second object (was 1, is -1)
+root.PCNB036.lootBoxAvailable changed in second object (was False, is True)
+root.PCNU014.battleTypes[1] removed in second object
+root.PCNU014.costCR changed in second object (was -1, is 15000)
+root.PCNU014.costGold changed in second object (was 1, is -1)
+root.PCNU014.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU014.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU017.battleTypes[1] removed in second object
+root.PCNU017.costCR changed in second object (was -1, is 15000)
+root.PCNU017.costGold changed in second object (was 1, is -1)
+root.PCNU017.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU017.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU013.battleTypes[1] removed in second object
+root.PCNU013.costCR changed in second object (was -1, is 15000)
+root.PCNU013.costGold changed in second object (was 1, is -1)
+root.PCNU013.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU013.constants.teamPosition changed in second object (was 6, is 3)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_2.deadMesh changed in second object (was content/gameplay/japan/gun/torpedo/JGT012_610mm4_Type_93/JGT012_610mm4_Type_93_dead.model, is content/gameplay/japan/gun/torpedo/JGT166_610mm4_Type_92/JGT166_610mm4_Type_92_dead.model)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_2.id changed in second object (was 4281755344, is 4120274640)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_2.index changed in second object (was PJGT012, is PJGT166)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_2.name changed in second object (was PJGT012_610mm4_Type_93, is PJGT166_610mm4_Type_92)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_2.model changed in second object (was content/gameplay/japan/gun/torpedo/JGT012_610mm4_Type_93/JGT012_610mm4_Type_93.model, is content/gameplay/japan/gun/torpedo/JGT166_610mm4_Type_92/JGT166_610mm4_Type_92.model)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_1.deadMesh changed in second object (was content/gameplay/japan/gun/torpedo/JGT012_610mm4_Type_93/JGT012_610mm4_Type_93_dead.model, is content/gameplay/japan/gun/torpedo/JGT166_610mm4_Type_92/JGT166_610mm4_Type_92_dead.model)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_1.id changed in second object (was 4281755344, is 4120274640)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_1.index changed in second object (was PJGT012, is PJGT166)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_1.name changed in second object (was PJGT012_610mm4_Type_93, is PJGT166_610mm4_Type_92)
+root.PJSD518_Asashio.A1_Torpedoes.HP_JGT_1.model changed in second object (was content/gameplay/japan/gun/torpedo/JGT012_610mm4_Type_93/JGT012_610mm4_Type_93.model, is content/gameplay/japan/gun/torpedo/JGT166_610mm4_Type_92/JGT166_610mm4_Type_92.model)
+root.PCNB020.costCR changed in second object (was -1, is 15000)
+root.PCNB020.costGold changed in second object (was 1, is -1)
+root.PCNB020.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB021.costCR changed in second object (was -1, is 15000)
+root.PCNB021.costGold changed in second object (was 1, is -1)
+root.PCNB021.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB022.costCR changed in second object (was -1, is 15000)
+root.PCNB022.costGold changed in second object (was 1, is -1)
+root.PCNB022.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB023.costCR changed in second object (was -1, is 15000)
+root.PCNB023.costGold changed in second object (was 1, is -1)
+root.PCNB023.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB024.costCR changed in second object (was -1, is 15000)
+root.PCNB024.costGold changed in second object (was 1, is -1)
+root.PCNB024.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB025.costCR changed in second object (was -1, is 15000)
+root.PCNB025.costGold changed in second object (was 1, is -1)
+root.PCNB025.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB026.costCR changed in second object (was -1, is 15000)
+root.PCNB026.costGold changed in second object (was 1, is -1)
+root.PCNB026.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB027.costCR changed in second object (was -1, is 15000)
+root.PCNB027.costGold changed in second object (was 1, is -1)
+root.PCNB027.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB028.costCR changed in second object (was -1, is 15000)
+root.PCNB028.costGold changed in second object (was 1, is -1)
+root.PCNB028.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB029.costCR changed in second object (was -1, is 15000)
+root.PCNB029.costGold changed in second object (was 1, is -1)
+root.PCNB029.lootBoxAvailable changed in second object (was False, is True)
+root.PFSB109_Alsace.B_Hull.customMiscs.dock removed in second object
+root.PFSB109_Alsace.A_Hull.customMiscs.dock removed in second object
+root.PCNB008.costCR changed in second object (was -1, is 15000)
+root.PCNB008.costGold changed in second object (was 1, is -1)
+root.PCNB008.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB009.costCR changed in second object (was -1, is 15000)
+root.PCNB009.costGold changed in second object (was 1, is -1)
+root.PCNB009.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB002.costCR changed in second object (was -1, is 15000)
+root.PCNB002.costGold changed in second object (was 1, is -1)
+root.PCNB003.costCR changed in second object (was -1, is 15000)
+root.PCNB003.costGold changed in second object (was 1, is -1)
+root.PCNB001.costCR changed in second object (was -1, is 15000)
+root.PCNB001.costGold changed in second object (was 1, is -1)
+root.PCNB006.costCR changed in second object (was -1, is 15000)
+root.PCNB006.costGold changed in second object (was 1, is -1)
+root.PCNB006.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB007.costCR changed in second object (was -1, is 15000)
+root.PCNB007.costGold changed in second object (was 1, is -1)
+root.PCNB007.lootBoxAvailable changed in second object (was False, is True)
+root.PCNB004.costCR changed in second object (was -1, is 15000)
+root.PCNB004.costGold changed in second object (was 1, is -1)
+root.PCNB005.costCR changed in second object (was -1, is 15000)
+root.PCNB005.costGold changed in second object (was 1, is -1)
+root.PCNB005.lootBoxAvailable changed in second object (was False, is True)
+root.PASA004_Langley_1929.B_Hull_1944.dockYOffset changed in second object (was 0.0, is -0.12)
+root.PASA004_Langley_1929.A_Hull_1929.dockYOffset changed in second object (was 0.0, is -0.12)
+root.PCNA018.costCR changed in second object (was -1, is 15000)
+root.PCNA018.costGold changed in second object (was 1, is -1)
+root.PCNA018.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA010.costCR changed in second object (was -1, is 15000)
+root.PCNA010.costGold changed in second object (was 1, is -1)
+root.PCNA010.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA011.costCR changed in second object (was -1, is 15000)
+root.PCNA011.costGold changed in second object (was 1, is -1)
+root.PCNA012.costCR changed in second object (was -1, is 15000)
+root.PCNA012.costGold changed in second object (was 1, is -1)
+root.PCNA012.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA014.costCR changed in second object (was -1, is 15000)
+root.PCNA014.costGold changed in second object (was 1, is -1)
+root.PCNA014.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA015.costCR changed in second object (was -1, is 15000)
+root.PCNA015.costGold changed in second object (was 1, is -1)
+root.PCNA015.lootBoxAvailable changed in second object (was False, is True)
+root.PCNA016.costCR changed in second object (was -1, is 15000)
+root.PCNA016.costGold changed in second object (was 1, is -1)
+root.PCNA017.costCR changed in second object (was -1, is 15000)
+root.PCNA017.costGold changed in second object (was 1, is -1)
+root.PCNA017.lootBoxAvailable changed in second object (was False, is True)
+root.PFSB107_Lyon.group changed in second object (was demoWithoutStats, is special)
+root.PFSB107_Lyon.ShipUpgradeInfo.PFUH612_B7_HULL_B.nextShips[0] removed in second object
+root.PFSB107_Lyon.groupCustom.CN removed in second object
+root.PCNU038.battleTypes[1] removed in second object
+root.PCNU038.costCR changed in second object (was -1, is 15000)
+root.PCNU038.costGold changed in second object (was 1, is -1)
+root.PCNU038.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU038.constants.damage changed in second object (was 30000, is 72000)
+root.PCNU035.battleTypes[1] removed in second object
+root.PCNU035.costCR changed in second object (was -1, is 15000)
+root.PCNU035.costGold changed in second object (was 1, is -1)
+root.PCNU035.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU035.constants.damage changed in second object (was 25000, is 83000)
+root.PCNU033.battleTypes[1] removed in second object
+root.PCNU033.costCR changed in second object (was -1, is 15000)
+root.PCNU033.costGold changed in second object (was 1, is -1)
+root.PCNU033.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU033.constants.damage changed in second object (was 20000, is 47000)
+root.PCZA005_HappyBirthday.startTimeDescriptionCustom removed in first object
+root.PCZA005_HappyBirthday.endTimeDescription removed in first object
+root.PCZA005_HappyBirthday.startTimeDescription removed in first object
+root.PCZA005_HappyBirthday.endTimeDescriptionCustom removed in first object
+root.PBSB527_Duke_of_York.group changed in second object (was special, is demoWithoutStats)
+root.PBSB527_Duke_of_York.groupCustom.CN removed in first object
+root.PFSB106_Normandie.group changed in second object (was demoWithoutStats, is special)
+root.PFSB106_Normandie.ShipUpgradeInfo.PFUH522_B6_HULL_B.nextShips[0] removed in second object
+root.PFSB106_Normandie.groupCustom.CN removed in second object
+root.PCNU043.battleTypes[1] removed in second object
+root.PCNU043.costCR changed in second object (was -1, is 15000)
+root.PCNU043.costGold changed in second object (was 1, is -1)
+root.PCNU043.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU043.constants.damage changed in second object (was 27000, is 113000)
+root.PCZA007_HSF2018.startTimeDescriptionCustom removed in first object
+root.PCZA007_HSF2018.endTimeDescription removed in first object
+root.PCZA007_HSF2018.startTimeDescription removed in first object
+root.PCZA007_HSF2018.endTimeDescriptionCustom removed in first object
+root.PCZA002_Bismarck.startTimeDescriptionCustom removed in first object
+root.PCZA002_Bismarck.endTimeDescription removed in first object
+root.PCZA002_Bismarck.startTimeDescription removed in first object
+root.PCZA002_Bismarck.endTimeDescriptionCustom removed in first object
+root.PFSB104_Courbet.ShipUpgradeInfo.PFUH312_B4_HULL_B.nextShips[0] removed in second object
+root.PBSB507_Hood.A_Hull.armor.65601 changed in second object (was 38.0, is 127.0)
+root.PBSB507_Hood.A_Hull.armor.327744 changed in second object (was 127.0, is 108.0)
+root.PBSB507_Hood.A_Hull.armor.262252 changed in second object (was 152.0, is 154.0)
+root.PBSB507_Hood.A_Hull.armor.131129 changed in second object (was 0.0, is 51.0)
+root.PBSB507_Hood.A_Hull.armor.65600 changed in second object (was 51.0, is 127.0)
+root.PBSB507_Hood.A_Hull.armor.65644 changed in second object (was 280.0, is 152.0)
+root.PBSB507_Hood.A_Hull.armor.196698 changed in second object (was 76.0, is 38.0)
+root.PBSB507_Hood.A_Hull.armor.65582 changed in second object (was 152.0, is 127.0)
+root.PBSB507_Hood.A_Hull.armor.262233 changed in second object (was 178.0, is 229.0)
+root.PBSB507_Hood.A_Hull.armor.262234 changed in second object (was 38.0, is 76.0)
+root.PBSB507_Hood.A_Hull.armor.65605 removed in second object
+root.PBSB507_Hood.A_Hull.armor.131141 changed in second object (was 152.0, is 76.0)
+root.PBSB507_Hood.A_Hull.armor.262208 changed in second object (was 108.0, is 51.0)
+root.PBSB507_Hood.A_Hull.armor.131118 changed in second object (was 127.0, is 152.0)
+root.PBSB507_Hood.A_Hull.armor.262247 changed in second object (was 38.0, is 25.0)
+root.PBSB507_Hood.A_Hull.armor.65589 removed in second object
+root.PBSB507_Hood.A_Hull.armor.262201 changed in second object (was 127.0, is 108.0)
+root.PBSB507_Hood.A_Hull.armor.131130 changed in second object (was 127.0, is 0.0)
+root.PBSB507_Hood.A_Hull.armor.65595 changed in second object (was 38.0, is 127.0)
+root.PBSB507_Hood.A_Hull.armor.131136 changed in second object (was 38.0, is 76.0)
+root.PBSB507_Hood.A_Hull.armor.131137 changed in second object (was 127.0, is 38.0)
+root.PBSB507_Hood.A_Hull.armor.131138 removed in second object
+root.PBSB507_Hood.A_Hull.armor.196677 changed in second object (was 76.0, is 229.0)
+root.PBSB507_Hood.A_Hull.armor.65639 changed in second object (was 76.0, is 25.0)
+root.PBSB507_Hood.A_Hull.armor.196665 changed in second object (was 108.0, is 127.0)
+root.PBSB507_Hood.A_Hull.armor.131127 changed in second object (was 127.0, is 0.0)
+root.PBSB507_Hood.A_Hull.armor.196697 changed in second object (was 229.0, is 152.0)
+root.PBSB507_Hood.A_Hull.armor.65618 removed in second object
+root.PBSB507_Hood.A_Hull.armor.131131 changed in second object (was 127.0, is 38.0)
+root.PBSB507_Hood.A_Hull.armor.196710 removed in second object
+root.PBSB507_Hood.A_Hull.armor.393319 removed in second object
+root.PBSB507_Hood.A_Hull.armor.458816 removed in second object
+root.PBSB507_Hood.A_Hull.armor.131175 changed in second object (was 25.0, is 38.0)
+root.PBSB507_Hood.A_Hull.armor.131180 changed in second object (was 254.0, is 280.0)
+root.PBSB507_Hood.A_Hull.armor.131181 removed in second object
+root.PBSB507_Hood.A_Hull.armor.131133 removed in second object
+root.PBSB507_Hood.A_Hull.armor.327749 changed in second object (was 16.0, is 152.0)
+root.PBSB507_Hood.A_Hull.armor.131174 changed in second object (was 127.0, is 13.0)
+root.PBSB507_Hood.A_Hull.armor.327783 changed in second object (was 25.0, is 76.0)
+root.PBSB507_Hood.A_Hull.armor.327769 changed in second object (was 152.0, is 178.0)
+root.PBSB507_Hood.A_Hull.armor.196672 changed in second object (was 76.0, is 38.0)
+root.PBSB507_Hood.A_Hull.armor.262213 changed in second object (was 25.0, is 178.0)
+root.PBSB507_Hood.A_Hull.armor.393280 removed in first object
+root.PBSB507_Hood.A_Hull.armor.393285 removed in first object
+root.PBSB507_Hood.A_Hull.armor.262200 removed in first object
+root.PBSB507_Hood.A_Hull.armor.196666 removed in first object
+root.PBSB507_Hood.A_Hull.armor.131179 removed in first object
+root.PBSB507_Hood.A_Hull.armor.196663 removed in first object
+root.PBSB507_Hood.A_Hull.armor.327737 removed in first object
+root.PBSB507_Hood.A_Hull.armor.327788 removed in first object
+root.PBSB507_Hood.A_Hull.Cas.maxHP changed in second object (was 11500.0, is 11000.0)
+root.PBSB507_Hood.A_Hull.Cas.volume changed in second object (was 9.56, is 9.21)
+root.PBSB507_Hood.A_Hull.Cit.volume changed in second object (was 10.45, is 9.3)
+root.PBSB507_Hood.A_Hull.St.maxHP changed in second object (was 2000.0, is 1500.0)
+root.PBSB507_Hood.A_Hull.St.splashBoxes[3] removed in first object
+root.PBSB507_Hood.A_Hull.St.volume changed in second object (was 1.64, is 1.27)
+root.PBSB507_Hood.A_Hull.SS.maxHP changed in second object (was 4000.0, is 5000.0)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[2] changed in second object (was CM_SB_ss_2_1, is CM_SB_ss_1_3)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[3] changed in second object (was CM_SB_ss_2_2, is CM_SB_ss_1_4)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[4] changed in second object (was CM_SB_ss_3_1, is CM_SB_ss_2_1)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[5] changed in second object (was CM_SB_ss_3_2, is CM_SB_ss_2_2)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[6] changed in second object (was CM_SB_ss_3_3, is CM_SB_ss_3_1)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[7] changed in second object (was CM_SB_ss_3_4, is CM_SB_ss_3_2)
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[8] removed in first object
+root.PBSB507_Hood.A_Hull.SS.splashBoxes[9] removed in first object
+root.PBSB507_Hood.A_Hull.SS.volume changed in second object (was 3.3, is 4.18)
+root.PBSB507_Hood.A_Hull.SG.splashBoxes[0] changed in second object (was CM_SB_rudder_1_1, is CM_SB_ruder_1_1)
+root.PBSB507_Hood.A_Hull.SG.splashBoxes[1] changed in second object (was CM_SB_rudder_1_2, is CM_SB_ruder_1_2)
+root.PBSB507_Hood.A_Hull.SG.splashBoxes[2] removed in first object
+root.PBSB507_Hood.A_Hull.Bow.maxHP changed in second object (was 2900.0, is 2800.0)
+root.PBSB507_Hood.A_Hull.Bow.splashBoxes[3] removed in first object
+root.PBSB507_Hood.A_Hull.Bow.volume changed in second object (was 2.41, is 2.38)
+root.PBSB507_Hood.A_Engine.HitLocationEngine.splashBoxes[1] removed in second object
+root.PCNU007.battleTypes[1] removed in second object
+root.PCNU007.costCR changed in second object (was -1, is 15000)
+root.PCNU007.costGold changed in second object (was 1, is -1)
+root.PCNU007.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU007.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU006.battleTypes[1] removed in second object
+root.PCNU006.costCR changed in second object (was -1, is 15000)
+root.PCNU006.costGold changed in second object (was 1, is -1)
+root.PCNU006.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU006.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU005.battleTypes[1] removed in second object
+root.PCNU005.costCR changed in second object (was -1, is 15000)
+root.PCNU005.costGold changed in second object (was 1, is -1)
+root.PCNU005.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU005.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU004.battleTypes[1] removed in second object
+root.PCNU004.costCR changed in second object (was -1, is 15000)
+root.PCNU004.costGold changed in second object (was 1, is -1)
+root.PCNU004.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU004.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU003.battleTypes[1] removed in second object
+root.PCNU003.costCR changed in second object (was -1, is 15000)
+root.PCNU003.costGold changed in second object (was 1, is -1)
+root.PCNU003.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU003.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU002.battleTypes[1] removed in second object
+root.PCNU002.costCR changed in second object (was -1, is 15000)
+root.PCNU002.costGold changed in second object (was 1, is -1)
+root.PCNU002.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU002.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU001.battleTypes[1] removed in second object
+root.PCNU001.costCR changed in second object (was -1, is 15000)
+root.PCNU001.costGold changed in second object (was 1, is -1)
+root.PCNU001.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU001.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU009.battleTypes[1] removed in second object
+root.PCNU009.costCR changed in second object (was -1, is 15000)
+root.PCNU009.costGold changed in second object (was 1, is -1)
+root.PCNU009.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU009.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU008.battleTypes[1] removed in second object
+root.PCNU008.costCR changed in second object (was -1, is 15000)
+root.PCNU008.costGold changed in second object (was 1, is -1)
+root.PCNU008.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU008.constants.teamPosition changed in second object (was 6, is 3)
+root.PJSB509_Musashi.weight changed in second object (was 8941, is 8852)
+root.PJSB509_Musashi.ShipUpgradeInfo.costXP changed in second object (was 920000, is 750000)
+root.PCNA007.costCR changed in second object (was -1, is 15000)
+root.PCNA007.costGold changed in second object (was 1, is -1)
+root.PCNA007.lootBoxAvailable changed in second object (was False, is True)
+root.PCNU021.battleTypes[1] removed in second object
+root.PCNU021.costCR changed in second object (was -1, is 15000)
+root.PCNU021.costGold changed in second object (was 1, is -1)
+root.PCNU021.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU021.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU020.battleTypes[1] removed in second object
+root.PCNU020.costCR changed in second object (was -1, is 15000)
+root.PCNU020.costGold changed in second object (was 1, is -1)
+root.PCNU020.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU020.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU023.battleTypes[1] removed in second object
+root.PCNU023.costCR changed in second object (was -1, is 15000)
+root.PCNU023.costGold changed in second object (was 1, is -1)
+root.PCNU023.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU023.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU022.battleTypes[1] removed in second object
+root.PCNU022.costCR changed in second object (was -1, is 15000)
+root.PCNU022.costGold changed in second object (was 1, is -1)
+root.PCNU022.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU022.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU025.battleTypes[1] removed in second object
+root.PCNU025.costCR changed in second object (was -1, is 15000)
+root.PCNU025.costGold changed in second object (was 1, is -1)
+root.PCNU025.constants.achievementCount changed in second object (was 1, is 15)
+root.PCNU025.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU024.battleTypes[1] removed in second object
+root.PCNU024.costCR changed in second object (was -1, is 15000)
+root.PCNU024.costGold changed in second object (was 1, is -1)
+root.PCNU024.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU024.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU027.battleTypes[1] removed in second object
+root.PCNU027.costCR changed in second object (was -1, is 15000)
+root.PCNU027.costGold changed in second object (was 1, is -1)
+root.PCNU027.constants.achievementCount changed in second object (was 3, is 50)
+root.PCNU027.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU026.battleTypes[1] removed in second object
+root.PCNU026.costCR changed in second object (was -1, is 15000)
+root.PCNU026.costGold changed in second object (was 1, is -1)
+root.PCNU026.constants.achievementCount changed in second object (was 2, is 25)
+root.PCNU026.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU029.battleTypes[1] removed in second object
+root.PCNU029.costCR changed in second object (was -1, is 15000)
+root.PCNU029.costGold changed in second object (was 1, is -1)
+root.PCNU029.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU029.constants.damage changed in second object (was 15000, is 33000)
+root.PCNU028.battleTypes[1] removed in second object
+root.PCNU028.costCR changed in second object (was -1, is 15000)
+root.PCNU028.costGold changed in second object (was 1, is -1)
+root.PCNU028.constants.achievementCount changed in second object (was 5, is 100)
+root.PCNU028.constants.teamPosition changed in second object (was 6, is 3)
+root.PCNU042.battleTypes[1] removed in second object
+root.PCNU042.costCR changed in second object (was -1, is 15000)
+root.PCNU042.costGold changed in second object (was 1, is -1)
+root.PCNU042.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU042.constants.damage changed in second object (was 24000, is 84000)
+root.PCNU041.battleTypes[1] removed in second object
+root.PCNU041.costCR changed in second object (was -1, is 15000)
+root.PCNU041.costGold changed in second object (was 1, is -1)
+root.PCNU041.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU041.constants.damage changed in second object (was 21000, is 71000)
+root.PCNU040.battleTypes[1] removed in second object
+root.PCNU040.costCR changed in second object (was -1, is 15000)
+root.PCNU040.costGold changed in second object (was 1, is -1)
+root.PCNU040.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU040.constants.damage changed in second object (was 35000, is 108000)
+root.PCNU044.battleTypes[1] removed in second object
+root.PCNU044.costCR changed in second object (was -1, is 15000)
+root.PCNU044.costGold changed in second object (was 1, is -1)
+root.PCNU044.constants.battleCount changed in second object (was 5, is 100)
+root.PCNU044.constants.damage changed in second object (was 30000, is 130000)
+root.PFSB108_Richelieu.group changed in second object (was demoWithoutStats, is special)
+root.PFSB108_Richelieu.ShipUpgradeInfo.PFUH712_B8_HULL_B.nextShips[0] removed in second object
+root.PFSB108_Richelieu.groupCustom.CN removed in second object
+root.PCZC160_VivaLaFrance_Provence removed in first object
+root.PCNB051 removed in first object
+root.PCNB050 removed in first object
+root.PCNB052 removed in first object
+root.PCZC175_VivaLaFrance_Voughtv156f removed in first object
+root.PCNB039 removed in first object
+root.PCNB038 removed in first object
+root.PCZC167_VivaLaFrance_RichelieuGerb removed in first object
+root.PJGT166_610mm4_Type_92 removed in first object
+root.PCZC168_VivaLaFrance_Elsass removed in first object
+root.PCNA027 removed in first object
+root.PCNA026 removed in first object
+root.PCNA029 removed in first object
+root.PCNA028 removed in first object
+root.PCEE181_Viva_La_France_Flag removed in first object
+root.PCZC172_VivaLaFrance_380mmgun removed in first object
+root.PCZC162_VivaLaFrance_Dunkerque removed in first object
+root.PCZC164_VivaLaFrance_Turenn removed in first object
+root.PCNB048 removed in first object
+root.PCZC158_VivaLaFrance_Courbet removed in first object
+root.PCZC169_VivaLaFrance_Gasconha removed in first object
+root.PCZC163_VivaLaFrance_Aigle removed in first object
+root.PCZC173_VivaLaFrance_Loire130 removed in first object
+root.PCZC174_VivaLaFrance_Curtisscw77 removed in first object
+root.PCZC159_VivaLaFrance_Bretagne removed in first object
+root.PCZC171_VivaLaFrance_340mmgun removed in first object
+root.PCNB046 removed in first object
+root.PCNB047 removed in first object
+root.PCNB044 removed in first object
+root.PCNB045 removed in first object
+root.PCNB042 removed in first object
+root.PCNB043 removed in first object
+root.PCNB040 removed in first object
+root.PCNB041 removed in first object
+root.PCNB049 removed in first object
+root.PCNA032 removed in first object
+root.PCNA033 removed in first object
+root.PCNA030 removed in first object
+root.PCNA031 removed in first object
+root.PCNA036 removed in first object
+root.PCNA034 removed in first object
+root.PCNA035 removed in first object
+root.PCEC045_Vive_la_France removed in first object
+root.PCH164_FillAlbum_Vivalafrance removed in first object
+root.PCZC165_VivaLaFrance_Normand removed in first object
+root.PCZC166_VivaLaFrance_Lyon removed in first object
+root.PFW101_France_Cap removed in first object
+root.PCZC161_VivaLaFrance_Richelieu removed in first object
+root.PCZC170_VivaLaFrance_305mmgun removed in first object
+root.PCZA008_Vivalafrance removed in first object
+>> finished comparing
