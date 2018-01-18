@@ -1,0 +1,14 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASD913_Gearing_1945.group changed in second object (was preserved, is clan)
+root.PGSB910_Grossdeutschland.group changed in second object (was preserved, is clan)
+root.PRSD910_Grozovoy_pr_40N.group changed in second object (was preserved, is clan)
+root.PASB917_Montana_1945.group changed in second object (was preserved, is clan)
+root.PRSC910_Pr_66_Moskva.group changed in second object (was preserved, is clan)
+root.PGSC910_Hindenburg.group changed in second object (was preserved, is clan)
+root.PJSB918_Yamato_1944.group changed in second object (was preserved, is clan)
+root.PJSC934_Zao_1944.group changed in second object (was preserved, is clan)
+root.PBSB910_Conqueror.group changed in second object (was preserved, is clan)
+root.PJSD912_Shimakaze_1943.group changed in second object (was preserved, is clan)
+>> finished comparing
