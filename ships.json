@@ -819,10 +819,10 @@
         "zh_tw": "\u53f2\u5bc6\u65af\u7d1a"
     }, 
     "PASD506": {
-        "en": "IDS_PASD506", 
+        "en": "Monaghan", 
         "id": 3764271088, 
         "index": "PASD506", 
-        "ja_jp": "IDS_PASD506", 
+        "ja_jp": "Monaghan", 
         "level": 6, 
         "name": "PASD506_Monaghan", 
         "nation": "USA", 
@@ -1300,10 +1300,10 @@
         "zh_tw": "\u82f1\u52c7\u865f"
     }, 
     "PBSD507": {
-        "en": "IDS_PBSD507", 
+        "en": "Cossack", 
         "id": 3763222480, 
         "index": "PBSD507", 
-        "ja_jp": "IDS_PBSD507", 
+        "ja_jp": "Cossack", 
         "level": 7, 
         "name": "PBSD507_Cossack", 
         "nation": "United_Kingdom", 
@@ -3198,10 +3198,10 @@
         "zh_tw": "\u5915\u96f2\u578b"
     }, 
     "PJSD518": {
-        "en": "IDS_PJSD518", 
+        "en": "Asashio", 
         "id": 3751687888, 
         "index": "PJSD518", 
-        "ja_jp": "IDS_PJSD518", 
+        "ja_jp": "Asashio", 
         "level": 8, 
         "name": "PJSD518_Asashio", 
         "nation": "Japan", 

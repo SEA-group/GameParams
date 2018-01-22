@@ -1,0 +1,9 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJSD912_Shimakaze_1943.ShipUpgradeInfo.costGold changed in second object (was 99999, is 0)
+root.PASA015_Midway_1945.PAUI010_F8F_Bearcat removed in second object
+root.PASA015_Midway_1945.ShipUpgradeInfo.PAUI901_CV10_F_STOCK.components.fighter[0] changed in second object (was PAUI012_Vought_F4U, is PAUI029_Vought_F4U_1A)
+root.PASA015_Midway_1945.ShipUpgradeInfo.PAUI903_CV10_F_TOP.components.fighter[0] changed in second object (was PAUI010_F8F_Bearcat, is PAUI012_Vought_F4U)
+root.PASA015_Midway_1945.PAUI029_Vought_F4U_1A removed in first object
+>> finished comparing
