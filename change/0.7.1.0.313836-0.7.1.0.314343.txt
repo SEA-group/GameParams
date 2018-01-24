@@ -1,0 +1,33 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJW006_Kirishima.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PFSB105_Bretagne.group changed in second object (was special, is demoWithoutStats)
+root.PFSB105_Bretagne.groupCustom.CN removed in first object
+root.PJW102_Southern_dragon_king.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW013_Kirishima_Bear.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW101_Eastern_dragon_king.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW008_Myoko.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW005_Kongou.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW014_Ashigara.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW015_Takao.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW009_Unknown.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW017_ARP_Nachi.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PFSB109_Alsace.group changed in second object (was demoWithoutStats, is special)
+root.PFSB109_Alsace.ShipUpgradeInfo.PFUH812_B9_HULL_B.nextShips[0] removed in second object
+root.PFSB109_Alsace.groupCustom.CN removed in second object
+root.PJW012_Haguro.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW016_Gunzou.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJW010_Hiei.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PFSB107_Lyon.group changed in second object (was special, is demoWithoutStats)
+root.PFSB107_Lyon.groupCustom.CN removed in first object
+root.PJW011_Iona.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PJPA020_Shell_155mm_HE_O_Type_0.shellModelScale changed in second object (was 0.06, is 0.11)
+root.PJPA020_Shell_155mm_HE_O_Type_0.crewSmokeTexture changed in second object (was , is particles/trails/Trail_smoke_commander_R.tga)
+root.PFSB106_Normandie.group changed in second object (was special, is demoWithoutStats)
+root.PFSB106_Normandie.groupCustom.CN removed in first object
+root.PJW007_Haruna.CrewPersonality.dismissable changed in second object (was False, is True)
+root.PFSB103_Turenne.ShipUpgradeInfo.PFUH212_B3_HULL_B.nextShips[0] removed in second object
+root.PFSB108_Richelieu.group changed in second object (was special, is demoWithoutStats)
+root.PFSB108_Richelieu.groupCustom.CN removed in first object
+>> finished comparing
