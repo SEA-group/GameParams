@@ -1,0 +1,144 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGSC506_Admiral_Graf_Spee.groupCustom.EU removed in first object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.NA removed in first object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.RU removed in first object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ASIA removed in first object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ST removed in first object
+root.PFSB105_Bretagne.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB105_Bretagne.ShipUpgradeInfo.costXP changed in second object (was 21000, is 3000000)
+root.PFSB105_Bretagne.ShipUpgradeInfo.PFUH412_B5_HULL_B.nextShips[0] removed in first object
+root.PFSB105_Bretagne.groupCustom.CN removed in second object
+root.PCQC007_NewYear2018Basic.endTimeCustom.PT removed in first object
+root.PCQC007_NewYear2018Basic.endTimeCustom.ST removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.PT removed in first object
+root.PCQC007_NewYear2018Basic.startTimeCustom.ST removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[63] removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[64] removed in first object
+root.PRSC506_Molotov_1943.groupCustom.RU removed in first object
+root.PRSC506_Molotov_1943.groupCustom.NA removed in first object
+root.PRSC506_Molotov_1943.groupCustom.ASIA removed in first object
+root.PRSC506_Molotov_1943.groupCustom.ST removed in first object
+root.PRSC506_Molotov_1943.groupCustom.EU removed in first object
+root.PFSD506_Aigle.group changed in second object (was demoWithoutStats, is special)
+root.PFSD506_Aigle.groupCustom.CN removed in second object
+root.PFSB110_France.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB110_France.groupCustom.CN removed in second object
+root.PFSB110_France.ShipUpgradeInfo.costXP changed in second object (was 260000, is 3000000)
+root.PFSB110_France.A_ATBA.maxDist changed in second object (was 7000.0, is 8000.0)
+root.PCY016_SonarSearchPremium.UKDD_8_Premium removed in first object
+root.PISB508_Roma.group changed in second object (was demoWithoutStats, is special)
+root.PISB508_Roma.groupCustom.CN removed in second object
+root.PCM040_AirDefenseDisp_Mod_I.ships[46] removed in first object
+root.PJSD518_Asashio.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PJSD518_Asashio.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PJSD518_Asashio.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PJSD518_Asashio.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PFSB109_Alsace.group changed in second object (was special, is upgradeable)
+root.PFSB109_Alsace.ShipUpgradeInfo.PFUH812_B9_HULL_B.nextShips[0] removed in first object
+root.PFSB109_Alsace.A_ATBA.maxDist changed in second object (was 7000.0, is 7500.0)
+root.PFSB109_Alsace.B_ATBA.maxDist changed in second object (was 7000.0, is 7500.0)
+root.PBSD507_Cossack.A_Hull.visibilityFactor changed in second object (was 6.84, is 6.49)
+root.PBSD507_Cossack.A1_Torpedoes.HP_BGT_1.torpedoAngles[1] changed in second object (was 16.0, is 6.0)
+root.PBSD507_Cossack.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PBSD507_Cossack.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PFSB107_Lyon.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB107_Lyon.ShipUpgradeInfo.costXP changed in second object (was 72500, is 3000000)
+root.PFSB107_Lyon.ShipUpgradeInfo.PFUH612_B7_HULL_B.nextShips[0] removed in first object
+root.PFSB107_Lyon.groupCustom.CN removed in second object
+root.PCY008_SonarSearch.UKDD_8 removed in first object
+root.PBPT012_533_COSSACK.costCR changed in second object (was 250, is 400)
+root.PBPT012_533_COSSACK.speed changed in second object (was 61.0, is 62.0)
+root.PBPT012_533_COSSACK.alphaDamage changed in second object (was 44300.0, is 47000.0)
+root.PBPT012_533_COSSACK.uwCritical changed in second object (was 2.65, is 2.82)
+root.PBPT012_533_COSSACK.maxDist changed in second object (was 267.0, is 333.0)
+root.PJPT032_610_ASASHIO.costCR changed in second object (was 250, is 350)
+root.PJPT032_610_ASASHIO.isDeepWater changed in second object (was False, is True)
+root.PJPT032_610_ASASHIO.ignoreClasses[0] removed in first object
+root.PJPT032_610_ASASHIO.ignoreClasses[1] removed in first object
+root.PJPT032_610_ASASHIO.uwCritical changed in second object (was 3.55, is 4.36)
+root.PJPT032_610_ASASHIO.visibilityFactor changed in second object (was 1.7, is 0.7)
+root.PJPT032_610_ASASHIO.depth changed in second object (was 0.14, is 0.59)
+root.PJPT032_610_ASASHIO.maxDist changed in second object (was 333.0, is 667.0)
+root.PCQC008_NewYear2018Elite.endTimeCustom.PT removed in first object
+root.PCQC008_NewYear2018Elite.endTimeCustom.ST removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.PT removed in first object
+root.PCQC008_NewYear2018Elite.startTimeCustom.ST removed in first object
+root.PJES309_Musashi_HSF.canBuyCustom.CN removed in first object
+root.PJES309_Musashi_HSF.hiddenCustom.CN removed in first object
+root.PGAB002_Ju_87C_GZ.launchMeetingTime changed in second object (was 7, is 3.5)
+root.PGAB002_Ju_87C_GZ.bombName changed in second object (was PGPT703_F5, is PGPT704_F5_DW)
+root.PGAB002_Ju_87C_GZ.prepareTime changed in second object (was 5.0, is 2.5)
+root.PGAB002_Ju_87C_GZ.launchPrepareTime changed in second object (was 1.5, is 0.75)
+root.PGAB002_Ju_87C_GZ.launchDelayTime changed in second object (was 0.7, is 0.35)
+root.PGAB002_Ju_87C_GZ.speedLanding changed in second object (was 80.0, is 101.0)
+root.PJSC717_Yellow_Dragon.ShipUpgradeInfo.costGold changed in second object (was 0, is 3500)
+root.PWSD501_Blyskawica.groupCustom.RU removed in first object
+root.PWSD501_Blyskawica.groupCustom.NA removed in first object
+root.PWSD501_Blyskawica.groupCustom.ASIA removed in first object
+root.PWSD501_Blyskawica.groupCustom.ST removed in first object
+root.PWSD501_Blyskawica.groupCustom.EU removed in first object
+root.PFSC103_Friant.ShipUpgradeInfo.PFUA201_C3_ART_STOCK.nextShips[0] removed in first object
+root.PBSB527_Duke_of_York.group changed in second object (was demoWithoutStats, is special)
+root.PBSB527_Duke_of_York.groupCustom.CN removed in second object
+root.PCY010_RegenCrewPremium.Gascogne_gold removed in first object
+root.PFSB106_Normandie.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB106_Normandie.ShipUpgradeInfo.costXP changed in second object (was 47000, is 3000000)
+root.PFSB106_Normandie.ShipUpgradeInfo.PFUH522_B6_HULL_B.nextShips[0] removed in first object
+root.PFSB106_Normandie.groupCustom.CN removed in second object
+root.PFSB104_Courbet.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB104_Courbet.ShipUpgradeInfo.costXP changed in second object (was 8300, is 3000000)
+root.PFSB104_Courbet.ShipUpgradeInfo.PFUH312_B4_HULL_B.nextShips[0] removed in first object
+root.PFSB104_Courbet.groupCustom.CN removed in second object
+root.PFSB103_Turenne.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB103_Turenne.ShipUpgradeInfo.costXP changed in second object (was 3150, is 3000000)
+root.PFSB103_Turenne.ShipUpgradeInfo.PFUH212_B3_HULL_B.nextShips[0] removed in first object
+root.PFSB103_Turenne.groupCustom.CN removed in second object
+root.PCY002_RegenCrew.Gascogne removed in first object
+root.PJSC727_Blue_Dragon.ShipUpgradeInfo.costGold changed in second object (was 0, is 3500)
+root.PFSB508_Gascogne.A1_Artillery.sigmaCount changed in second object (was 1.8, is 1.9)
+root.PFSB508_Gascogne.A1_Artillery.maxDist changed in second object (was 24770.0, is 23820.0)
+root.PFSB508_Gascogne.A_ATBA.maxDist changed in second object (was 5000.0, is 7000.0)
+root.PFSB508_Gascogne.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B_Deutsche, is Gascogne)
+root.PFSB508_Gascogne.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Deutsche_gold, is Gascogne_gold)
+root.PGPT703_F5.isDeepWater changed in second object (was True, is False)
+root.PGPT703_F5.ignoreClasses[0] removed in second object
+root.PGPT703_F5.ignoreClasses[1] removed in second object
+root.PGPT703_F5.visibilityFactor changed in second object (was 0.6, is 1.1)
+root.PGPT703_F5.depth changed in second object (was 0.39, is 0.14)
+root.PCZA008_Vivalafrance.endTimeDescription changed in second object (was 04-02-2018 00:00:00, is )
+root.PCZA008_Vivalafrance.startTimeDescription changed in second object (was 16-01-2018 00:00:00, is )
+root.PCZA008_Vivalafrance.endTimeCustom removed in first object
+root.PCZA008_Vivalafrance.startTimeCustom removed in first object
+root.PFSB108_Richelieu.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB108_Richelieu.ShipUpgradeInfo.costXP changed in second object (was 136000, is 3000000)
+root.PFSB108_Richelieu.ShipUpgradeInfo.PFUH712_B8_HULL_B.nextShips[0] removed in first object
+root.PFSB108_Richelieu.A_ATBA.maxDist changed in second object (was 5000.0, is 7000.0)
+root.PFSB108_Richelieu.B_ATBA.maxDist changed in second object (was 5000.0, is 7000.0)
+root.PFSB108_Richelieu.groupCustom.CN removed in second object
+root.PGUD703_DBAP_GRAF_Z removed in first object
+root.PCEC051_Dragon_3 removed in first object
+root.PGUH716_GRAF_Z_I removed in first object
+root.PGUI702_F_TOP_GRAF_Z_I removed in first object
+root.PGUD704_DBAP_GRAF_Z removed in first object
+root.PGUD714_DBAP_GRAF_Z removed in first object
+root.PGUE706_ENG_GRAF_Z_I removed in first object
+root.PGUE716_ENG_GRAF_Z_I removed in first object
+root.PGPB026_PC500_II removed in first object
+root.PGAD003_Ju_87C_APB_GZ_I removed in first object
+root.PGAD004_Ju_87C_APB_GZ_II removed in first object
+root.PGUF712_FC1_GRAF_Z_I removed in first object
+root.PGAF022_Bf109T_GZ_I removed in first object
+root.PGUI712_F_TOP_GRAF_Z_I removed in first object
+root.PGUD713_DBAP_GRAF_Z removed in first object
+root.PCEC049_Dragon_1 removed in first object
+root.PCEC050_Dragon_2 removed in first object
+root.PGUH706_GRAF_Z_I removed in first object
+root.PGSA509_Graf_Zeppelin_I removed in first object
+root.PGUB702_TB_GRAF_Z removed in first object
+root.PGAB001_Ju_87C_GZ removed in first object
+root.PCEE182_Year_of_the_Dog removed in first object
+root.PGPB016_PC500_I removed in first object
+root.PGPT704_F5_DW removed in first object
+>> finished comparing

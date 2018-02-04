@@ -779,6 +779,19 @@
         "zh_cn": "\u5bc6\u82cf\u91cc", 
         "zh_tw": "\u5bc6\u8607\u91cc\u865f"
     }, 
+    "3761223472": {
+        "en": "IDS_PGSA509", 
+        "id": 3761223472, 
+        "index": "PGSA509", 
+        "ja_jp": "IDS_PGSA509", 
+        "level": 8, 
+        "name": "PGSA509_Graf_Zeppelin_I", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSA509", 
+        "species": "AirCarrier", 
+        "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235\u53f7 Test I", 
+        "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f Test I"
+    }, 
     "3762173136": {
         "en": "Loyang", 
         "id": 3762173136, 
