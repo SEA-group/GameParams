@@ -754,10 +754,10 @@
         "zh_tw": "\u7d0d\u723e\u905c\u865f"
     }, 
     "3756963280": {
-        "en": "IDS_PRSC513", 
+        "en": "Varyag", 
         "id": 3756963280, 
         "index": "PRSC513", 
-        "ja_jp": "IDS_PRSC513", 
+        "ja_jp": "Varyag", 
         "level": 3, 
         "name": "PRSC513_Varyag", 
         "nation": "Russia", 
@@ -767,10 +767,10 @@
         "zh_tw": "IDS_PRSC513"
     }, 
     "3761157584": {
-        "en": "IDS_PRSC509", 
+        "en": "Kronstadt", 
         "id": 3761157584, 
         "index": "PRSC509", 
-        "ja_jp": "IDS_PRSC509", 
+        "ja_jp": "Kronstadt", 
         "level": 9, 
         "name": "PRSC509_Kronshtadt", 
         "nation": "Russia", 
@@ -819,10 +819,10 @@
         "zh_tw": "\u6d1b\u967d\u865f"
     }, 
     "3762173744": {
-        "en": "IDS_PGSD508", 
+        "en": "Z-39", 
         "id": 3762173744, 
         "index": "PGSD508", 
-        "ja_jp": "IDS_PGSD508", 
+        "ja_jp": "Z-39", 
         "level": 8, 
         "name": "PGSD508_Z_39", 
         "nation": "Germany", 

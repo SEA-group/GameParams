@@ -2119,10 +2119,10 @@
         "zh_tw": "T-61"
     }, 
     "PGSD508": {
-        "en": "IDS_PGSD508", 
+        "en": "Z-39", 
         "id": 3762173744, 
         "index": "PGSD508", 
-        "ja_jp": "IDS_PGSD508", 
+        "ja_jp": "Z-39", 
         "level": 8, 
         "name": "PGSD508_Z_39", 
         "nation": "Germany", 
@@ -3562,10 +3562,10 @@
         "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
     }, 
     "PRSC509": {
-        "en": "IDS_PRSC509", 
+        "en": "Kronstadt", 
         "id": 3761157584, 
         "index": "PRSC509", 
-        "ja_jp": "IDS_PRSC509", 
+        "ja_jp": "Kronstadt", 
         "level": 9, 
         "name": "PRSC509_Kronshtadt", 
         "nation": "Russia", 
@@ -3575,10 +3575,10 @@
         "zh_tw": "IDS_PRSC509"
     }, 
     "PRSC513": {
-        "en": "IDS_PRSC513", 
+        "en": "Varyag", 
         "id": 3756963280, 
         "index": "PRSC513", 
-        "ja_jp": "IDS_PRSC513", 
+        "ja_jp": "Varyag", 
         "level": 3, 
         "name": "PRSC513_Varyag", 
         "nation": "Russia", 
