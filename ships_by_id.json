@@ -753,6 +753,32 @@
         "zh_cn": "\u7eb3\u5c14\u900a", 
         "zh_tw": "\u7d0d\u723e\u905c\u865f"
     }, 
+    "3756963280": {
+        "en": "IDS_PRSC513", 
+        "id": 3756963280, 
+        "index": "PRSC513", 
+        "ja_jp": "IDS_PRSC513", 
+        "level": 3, 
+        "name": "PRSC513_Varyag", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC513", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC513", 
+        "zh_tw": "IDS_PRSC513"
+    }, 
+    "3761157584": {
+        "en": "IDS_PRSC509", 
+        "id": 3761157584, 
+        "index": "PRSC509", 
+        "ja_jp": "IDS_PRSC509", 
+        "level": 9, 
+        "name": "PRSC509_Kronshtadt", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC509", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC509", 
+        "zh_tw": "IDS_PRSC509"
+    }, 
     "3761190608": {
         "en": "Musashi", 
         "id": 3761190608, 
@@ -779,19 +805,6 @@
         "zh_cn": "\u5bc6\u82cf\u91cc", 
         "zh_tw": "\u5bc6\u8607\u91cc\u865f"
     }, 
-    "3761223472": {
-        "en": "IDS_PGSA509", 
-        "id": 3761223472, 
-        "index": "PGSA509", 
-        "ja_jp": "IDS_PGSA509", 
-        "level": 8, 
-        "name": "PGSA509_Graf_Zeppelin_I", 
-        "nation": "Germany", 
-        "ru": "IDS_PGSA509", 
-        "species": "AirCarrier", 
-        "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235\u53f7 Test I", 
-        "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f Test I"
-    }, 
     "3762173136": {
         "en": "Loyang", 
         "id": 3762173136, 
@@ -804,6 +817,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u6d1b\u9633", 
         "zh_tw": "\u6d1b\u967d\u865f"
+    }, 
+    "3762173744": {
+        "en": "IDS_PGSD508", 
+        "id": 3762173744, 
+        "index": "PGSD508", 
+        "ja_jp": "IDS_PGSD508", 
+        "level": 8, 
+        "name": "PGSD508_Z_39", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSD508", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PGSD508", 
+        "zh_tw": "IDS_PGSD508"
     }, 
     "3762173936": {
         "en": "Kidd", 

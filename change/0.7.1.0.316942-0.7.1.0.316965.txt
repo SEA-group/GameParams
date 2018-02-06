@@ -1,0 +1,310 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCOW010_Rain_Logic.logic.smokeVisibilityTime removed in first object
+root.PCOW010_Rain_Logic.logic.shootShift removed in first object
+root.PCOW010_Rain_Logic.logic.mgVisibilityTime removed in first object
+root.PCOW005_Evening.logic.smokeVisibilityTime removed in first object
+root.PCOW005_Evening.logic.shootShift removed in first object
+root.PCOW005_Evening.logic.mgVisibilityTime removed in first object
+root.PFSB105_Bretagne.group changed in second object (was upgradeable, is special)
+root.PFSB105_Bretagne.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 21000)
+root.PFSB105_Bretagne.ShipUpgradeInfo.PFUH412_B5_HULL_B.nextShips[0] removed in second object
+root.PGUD703_DBAP_GRAF_Z removed in second object
+root.PCVO009_OP_02_02_s06_Atoll.restrictions.shipTypes removed in first object
+root.PASX904_Cimarron.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PGUH716_GRAF_Z_I removed in second object
+root.PCM041_SonarSearch_Mod_I.ships[36] changed in second object (was PGSD109_Z_46, is PGSD508_Z_39)
+root.PCM041_SonarSearch_Mod_I.ships[37] changed in second object (was PGSD110_Z_52, is PGSD109_Z_46)
+root.PCM041_SonarSearch_Mod_I.ships[38] changed in second object (was PISC506_DucadAosta, is PGSD110_Z_52)
+root.PCM041_SonarSearch_Mod_I.ships[39] changed in second object (was PISC507_Duca_degli_Abruzzi, is PISC506_DucadAosta)
+root.PCM041_SonarSearch_Mod_I.ships[40] changed in second object (was PJSC007_Aoba_1943, is PISC507_Duca_degli_Abruzzi)
+root.PCM041_SonarSearch_Mod_I.ships[41] changed in second object (was PJSC008_Myoko_1945, is PJSC007_Aoba_1943)
+root.PCM041_SonarSearch_Mod_I.ships[42] changed in second object (was PJSC009_Mogami_1935, is PJSC008_Myoko_1945)
+root.PCM041_SonarSearch_Mod_I.ships[43] changed in second object (was PJSC012_Ibuki_1944, is PJSC009_Mogami_1935)
+root.PCM041_SonarSearch_Mod_I.ships[44] changed in second object (was PJSC014_Kitakami_1945, is PJSC012_Ibuki_1944)
+root.PCM041_SonarSearch_Mod_I.ships[45] changed in second object (was PJSC018_Tone, is PJSC014_Kitakami_1945)
+root.PCM041_SonarSearch_Mod_I.ships[46] changed in second object (was PJSC034_Zao_1944, is PJSC018_Tone)
+root.PCM041_SonarSearch_Mod_I.ships[47] changed in second object (was PJSC038_Atago_1944, is PJSC034_Zao_1944)
+root.PCM041_SonarSearch_Mod_I.ships[48] changed in second object (was PJSC934_Zao_1944, is PJSC038_Atago_1944)
+root.PCM041_SonarSearch_Mod_I.ships[49] changed in second object (was PRSC106_Pr_94_Budeny, is PJSC934_Zao_1944)
+root.PCM041_SonarSearch_Mod_I.ships[50] changed in second object (was PRSC107_Schors, is PRSC106_Pr_94_Budeny)
+root.PCM041_SonarSearch_Mod_I.ships[51] changed in second object (was PRSC108_Pr_68_Chapaev, is PRSC107_Schors)
+root.PCM041_SonarSearch_Mod_I.ships[52] changed in second object (was PRSC109_Dmitry_Donskoy, is PRSC108_Pr_68_Chapaev)
+root.PCM041_SonarSearch_Mod_I.ships[53] changed in second object (was PRSC110_Pr_66_Moskva, is PRSC109_Dmitry_Donskoy)
+root.PCM041_SonarSearch_Mod_I.ships[54] changed in second object (was PRSC506_Molotov_1943, is PRSC110_Pr_66_Moskva)
+root.PCM041_SonarSearch_Mod_I.ships[55] changed in second object (was PRSC508_Kutuzov_1952, is PRSC506_Molotov_1943)
+root.PCM041_SonarSearch_Mod_I.ships[56] changed in second object (was PRSC606_Admiral_Makarov, is PRSC508_Kutuzov_1952)
+root.PCM041_SonarSearch_Mod_I.ships[57] changed in second object (was PRSC910_Pr_66_Moskva, is PRSC606_Admiral_Makarov)
+root.PCM041_SonarSearch_Mod_I.ships[58] changed in second object (was PRSC999_Seal, is PRSC910_Pr_66_Moskva)
+root.PCM041_SonarSearch_Mod_I.ships[59] changed in second object (was PUSC506_Perth_1942, is PRSC999_Seal)
+root.PCM041_SonarSearch_Mod_I.ships[60] changed in second object (was PZSC506_Huang_he, is PUSC506_Perth_1942)
+root.PCM041_SonarSearch_Mod_I.ships[61] changed in second object (was PZSD508_LoYang, is PZSC506_Huang_he)
+root.PCM041_SonarSearch_Mod_I.ships[62] changed in second object (was PBSB527_Duke_of_York, is PZSD508_LoYang)
+root.PCM041_SonarSearch_Mod_I.ships[63] changed in second object (was PGSA509_Graf_Zeppelin_I, is PBSB527_Duke_of_York)
+root.PCOW003_Cloudy.logic.smokeVisibilityTime removed in first object
+root.PCOW003_Cloudy.logic.shootShift removed in first object
+root.PCOW003_Cloudy.logic.mgVisibilityTime removed in first object
+root.PGUI702_F_TOP_GRAF_Z_I removed in second object
+root.PCOW006_Storm_Logic.logic.smokeVisibilityTime removed in first object
+root.PCOW006_Storm_Logic.logic.shootShift removed in first object
+root.PCOW006_Storm_Logic.logic.mgVisibilityTime removed in first object
+root.PCOW004_Snowstorm.logic.smokeVisibilityTime removed in first object
+root.PCOW004_Snowstorm.logic.shootShift removed in first object
+root.PCOW004_Snowstorm.logic.mgVisibilityTime removed in first object
+root.PGUD704_DBAP_GRAF_Z removed in second object
+root.PFSB110_France.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PFSB110_France.groupCustom.CN removed in first object
+root.PFSB110_France.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 260000)
+root.PCVO005_OP_02_04_s05_Dunkirk.restrictions.shipTypes removed in first object
+root.PJSB006_Fuso_1943.A_Hull_1941.sinkingEffects changed in second object (was PCXS001_Battleship, is PCXS000_Battleship)
+root.PJSB006_Fuso_1943.B_Hull_1943.sinkingEffects changed in second object (was PCXS001_Battleship, is PCXS000_Battleship)
+root.PXAB810_HE111.vitalityTimeAir changed in second object (was 0.6875, is 6.875)
+root.PXAB810_HE111.vitalityTime changed in second object (was 0.6875, is 6.875)
+root.PJSX701_Support.HullDefault.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PJSB001_Kawachi_1912.A_Hull_1912.sinkingEffects changed in second object (was PCXS002_Battleship, is PCXS001_Battleship)
+root.PJSB001_Kawachi_1912.B_Hull_1919.sinkingEffects changed in second object (was PCXS002_Battleship, is PCXS001_Battleship)
+root.PCOW002_Storm.logic.smokeVisibilityTime removed in first object
+root.PCOW002_Storm.logic.shootShift removed in first object
+root.PCOW002_Storm.logic.mgVisibilityTime removed in first object
+root.PGUD714_DBAP_GRAF_Z removed in second object
+root.PGUE706_ENG_GRAF_Z_I removed in second object
+root.PCH115_PVE_HON_DONE_CLASS.constants.mapNames[6] removed in first object
+root.PASX815_Bogue_Clone.HullDefault.sinkingEffects changed in second object (was , is PCXS003_Carrier)
+root.PXAF811_BF109.vitalityTimeAir changed in second object (was 0.5, is 5.0)
+root.PXAF811_BF109.vitalityTime changed in second object (was 0.5, is 5.0)
+root.PJSX702_Support.HullDefault.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PGUE716_ENG_GRAF_Z_I removed in second object
+root.PGSA508_Graf_Zeppelin.A_Hull.sinkingEffects changed in second object (was PCXS005_Carrier, is PCXS003_Carrier)
+root.PGPB026_PC500_II removed in second object
+root.PCVO007_EV_HL_16_50_VanHellsing.restrictions.shipTypes removed in first object
+root.PASC017_Baltimore_1944.DirectorsDefault.HP_AD_19.miscFilterMode changed in second object (was True, is False)
+root.PASC017_Baltimore_1944.DirectorsDefault.HP_AD_19.miscFilter[1] removed in first object
+root.PASC017_Baltimore_1944.DirectorsDefault.HP_AD_20.miscFilterMode changed in second object (was True, is False)
+root.PASC017_Baltimore_1944.DirectorsDefault.HP_AD_20.miscFilter[1] removed in first object
+root.PGAD003_Ju_87C_APB_GZ_I removed in second object
+root.PCVO004_OP_01_04_s02_Naval_Defense.restrictions.shipTypes removed in first object
+root.PCVO008_OP_02_03_s07_Advance.restrictions.shipTypes removed in first object
+root.PCOW009_Snowstorm_Logic.logic.smokeVisibilityTime removed in first object
+root.PCOW009_Snowstorm_Logic.logic.shootShift removed in first object
+root.PCOW009_Snowstorm_Logic.logic.mgVisibilityTime removed in first object
+root.PASX001_Cimarron.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PXAF810_BF110.vitalityTimeAir changed in second object (was 0.625, is 6.25)
+root.PXAF810_BF110.vitalityTime changed in second object (was 0.625, is 6.25)
+root.PGAD004_Ju_87C_APB_GZ_II removed in second object
+root.PASD801_FALSE_ENEMY_Sampson.A_Hull_1917.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PCM040_AirDefenseDisp_Mod_I.ships[46] removed in second object
+root.PGUF712_FC1_GRAF_Z_I removed in second object
+root.PCVO002_OP_01_02_s01_NavalBase.restrictions.shipTypes removed in first object
+root.PGAF022_Bf109T_GZ_I removed in second object
+root.PXSX044_Cimarron.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PXAD810_JU87.vitalityTimeAir changed in second object (was 0.49, is 4.9)
+root.PXAD810_JU87.vitalityTime changed in second object (was 0.49, is 4.9)
+root.PGUI712_F_TOP_GRAF_Z_I removed in second object
+root.PCOW001_Sunny.logic.smokeVisibilityTime removed in first object
+root.PCOW001_Sunny.logic.shootShift removed in first object
+root.PCOW001_Sunny.logic.mgVisibilityTime removed in first object
+root.PCM014_Torpedo_Mod_III.excludes[6] removed in first object
+root.PASC805_FALSE_ENEMY_Erie_1936.A_Hull_1936.sinkingEffects changed in second object (was , is PCXS008_Cruiser)
+root.PFSB109_Alsace.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PFSB109_Alsace.groupCustom.CN removed in first object
+root.PGUD713_DBAP_GRAF_Z removed in second object
+root.PCOW011_Night.logic.smokeVisibilityTime removed in first object
+root.PCOW011_Night.logic.shootShift removed in first object
+root.PCOW011_Night.logic.mgVisibilityTime removed in first object
+root.PASX006_Cimarron_invisible.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PCVO003_OP_01_03_s03_Labyrinth.restrictions.shipTypes removed in first object
+root.PFSB107_Lyon.A_Hull.Cas.maxHP changed in second object (was 7900.0, is 7800.0)
+root.PFSB107_Lyon.A_Hull.sinkingEffects changed in second object (was PCXS000_Battleship, is PCXS002_Battleship)
+root.PFSB107_Lyon.A_Hull.Bow.maxHP changed in second object (was 1500.0, is 1400.0)
+root.PFSB107_Lyon.A_Hull.St.maxHP changed in second object (was 1500.0, is 1700.0)
+root.PFSB107_Lyon.A_Hull.St.splashBoxes[4] removed in first object
+root.PFSB107_Lyon.A_Hull.St.volume changed in second object (was 1.34, is 1.55)
+root.PFSB107_Lyon.B_Hull.Cas.maxHP changed in second object (was 9200.0, is 9000.0)
+root.PFSB107_Lyon.B_Hull.sinkingEffects changed in second object (was PCXS000_Battleship, is PCXS002_Battleship)
+root.PFSB107_Lyon.B_Hull.SSC.maxHP changed in second object (was 1100.0, is 1000.0)
+root.PFSB107_Lyon.B_Hull.St.maxHP changed in second object (was 1700.0, is 2000.0)
+root.PFSB107_Lyon.B_Hull.St.splashBoxes[4] removed in first object
+root.PFSB107_Lyon.B_Hull.St.volume changed in second object (was 1.34, is 1.55)
+root.PFSB107_Lyon.B_Hull.SS.maxHP changed in second object (was 2400.0, is 2300.0)
+root.PFSB107_Lyon.group changed in second object (was upgradeable, is special)
+root.PFSB107_Lyon.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 72500)
+root.PFSB107_Lyon.ShipUpgradeInfo.PFUH612_B7_HULL_B.nextShips[0] removed in second object
+root.PASC007_Cleveland_1945.B_Directors.HP_AD_14.miscFilterMode changed in second object (was True, is False)
+root.PASC007_Cleveland_1945.B_Directors.HP_AD_14.miscFilter[1] removed in first object
+root.PASC007_Cleveland_1945.B_Directors.HP_AD_15.miscFilterMode changed in second object (was True, is False)
+root.PASC007_Cleveland_1945.B_Directors.HP_AD_15.miscFilter[1] removed in first object
+root.PASC007_Cleveland_1945.A_Directors.HP_AD_2.miscFilter[1] removed in first object
+root.PASC007_Cleveland_1945.A_Directors.HP_AD_7.miscFilter[1] removed in first object
+root.PGUH706_GRAF_Z_I removed in second object
+root.PCOW008_Morning.logic.smokeVisibilityTime removed in first object
+root.PCOW008_Morning.logic.shootShift removed in first object
+root.PCOW008_Morning.logic.mgVisibilityTime removed in first object
+root.PASC803_Cimarron_shooter.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PASC710_Salem.A_Directors.HP_AD_15.miscFilter[0] changed in second object (was MP_AM655_Radar_Mk13_Mod2, is MP_AM652_Radar_Mk13)
+root.PASC710_Salem.A_Directors.HP_AD_4.miscFilter[0] changed in second object (was MP_AM655_Radar_Mk13_Mod2, is MP_AM652_Radar_Mk13)
+root.PGAB002_Ju_87C_GZ.launchMeetingTime changed in second object (was 3.5, is 7)
+root.PGAB002_Ju_87C_GZ.bombName changed in second object (was PGPT704_F5_DW, is PGPT703_F5)
+root.PGAB002_Ju_87C_GZ.prepareTime changed in second object (was 2.5, is 5.0)
+root.PGAB002_Ju_87C_GZ.launchPrepareTime changed in second object (was 0.75, is 1.5)
+root.PGAB002_Ju_87C_GZ.launchDelayTime changed in second object (was 0.35, is 0.7)
+root.PGAB002_Ju_87C_GZ.speedLanding changed in second object (was 101.0, is 80.0)
+root.PGSA509_Graf_Zeppelin_I removed in second object
+root.PGUB702_TB_GRAF_Z removed in second object
+root.PFSC103_Friant.ShipUpgradeInfo.PFUA201_C3_ART_STOCK.nextShips[0] removed in second object
+root.PGAB001_Ju_87C_GZ removed in second object
+root.PASC020_Des_Moines_1948.DirectorsDefault.HP_AD_10.miscFilter[0] changed in second object (was MP_AM655_Radar_Mk13_Mod2, is MP_AM652_Radar_Mk13)
+root.PASC020_Des_Moines_1948.DirectorsDefault.HP_AD_9.miscFilter[0] changed in second object (was MP_AM655_Radar_Mk13_Mod2, is MP_AM652_Radar_Mk13)
+root.PASC804_FALSE_ENEMY_Erie_1936.A_Hull_1936.sinkingEffects changed in second object (was , is PCXS008_Cruiser)
+root.PJSB799_Kirishima.HullDefault.sinkingEffects changed in second object (was , is PCXS009_Destroyer)
+root.PFSB106_Normandie.group changed in second object (was upgradeable, is special)
+root.PFSB106_Normandie.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 47000)
+root.PFSB106_Normandie.ShipUpgradeInfo.PFUH522_B6_HULL_B.nextShips[0] removed in second object
+root.PGPB016_PC500_I removed in second object
+root.PCVO001_OP_01_01_37_Ridge.restrictions.shipTypes removed in first object
+root.PASC802_Cimarron_Target.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PASC001_Erie_1936.A_Hull.sinkingEffects changed in second object (was PCXS007_Cruiser, is PCXS008_Cruiser)
+root.PGSC104_Karlsruhe.A_Hull.sinkingEffects changed in second object (was PCXS008_Cruiser, is PCXS006_Cruiser)
+root.PGSC104_Karlsruhe.B_Hull.sinkingEffects changed in second object (was PCXS008_Cruiser, is PCXS006_Cruiser)
+root.PFSB104_Courbet.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PFSB104_Courbet.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 8300)
+root.PFSB104_Courbet.ShipUpgradeInfo.PFUH312_B4_HULL_B.nextShips[0] removed in second object
+root.PFSB104_Courbet.groupCustom.CN removed in first object
+root.PFSB103_Turenne.group changed in second object (was upgradeable, is demoWithoutStats)
+root.PFSB103_Turenne.A_Hull.sinkingEffects changed in second object (was PCXS002_Battleship, is PCXS001_Battleship)
+root.PFSB103_Turenne.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 3150)
+root.PFSB103_Turenne.B_Hull.sinkingEffects changed in second object (was PCXS002_Battleship, is PCXS001_Battleship)
+root.PFSB103_Turenne.groupCustom.CN removed in first object
+root.PFSB508_Gascogne.permoflages[1] removed in first object
+root.PFSB508_Gascogne.permoflages[2] removed in first object
+root.PCOW007_Dull.logic.smokeVisibilityTime removed in first object
+root.PCOW007_Dull.logic.shootShift removed in first object
+root.PCOW007_Dull.logic.mgVisibilityTime removed in first object
+root.PCVO006_EV_HL_17_e02_Halloween_2017.restrictions.shipTypes removed in first object
+root.PRSC999_Seal.HullDefault.armourDeck[0] changed in second object (was 6.0, is -1)
+root.PRSC999_Seal.HullDefault.armourDeck[1] changed in second object (was 6.0, is -1)
+root.PRSC999_Seal.HullDefault.armourCit[0] removed in first object
+root.PRSC999_Seal.HullDefault.armourCit[1] removed in first object
+root.PRSC999_Seal.HullDefault.armourCas[0] changed in second object (was 6.0, is -1)
+root.PRSC999_Seal.HullDefault.armourCas[1] changed in second object (was 88.0, is -1)
+root.PRSC999_Seal.HullDefault.sinkingEffects changed in second object (was , is PCXS006_Cruiser)
+root.PRSC999_Seal.HullDefault.armourExtremities[0] changed in second object (was 6.0, is -1)
+root.PRSC999_Seal.HullDefault.armourExtremities[1] changed in second object (was 10.0, is -1)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUA990_TEST.distance[0] changed in second object (was 12800, is 0)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUA990_TEST.distance[1] changed in second object (was 12800, is 0)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUA990_TEST.rotationSpeed[0] changed in second object (was 7.5, is 0.0)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUA990_TEST.rotationSpeed[1] changed in second object (was 6.0, is 0.0)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUA990_TEST.shotDelay changed in second object (was 7.0, is 0)
+root.PRSC999_Seal.ShipUpgradeInfo.PRUT990_TEST.shotDelay changed in second object (was 63.0, is 0)
+root.PASB705_Texas_1944.permoflages[3] removed in first object
+root.PGPT704_F5_DW removed in second object
+root.PGPT703_F5.isDeepWater changed in second object (was False, is True)
+root.PGPT703_F5.ignoreClasses[0] removed in first object
+root.PGPT703_F5.ignoreClasses[1] removed in first object
+root.PGPT703_F5.visibilityFactor changed in second object (was 1.1, is 0.6)
+root.PGPT703_F5.depth changed in second object (was 0.14, is 0.39)
+root.PCOV001_Felth.logic.smokeVisibilityTime removed in first object
+root.PCOV001_Felth.logic.shootShift removed in first object
+root.PCOV001_Felth.logic.mgVisibilityTime removed in first object
+root.PCOV001_Felth.model removed in second object
+root.PCOV001_Felth.models removed in first object
+root.PCOV001_Felth.effects removed in first object
+root.PJSA507_Kaga.A_Hull.sinkingEffects changed in second object (was PCXS005_Carrier, is PCXS003_Carrier)
+root.PFSB108_Richelieu.permoflages[1] removed in first object
+root.PFSB108_Richelieu.permoflages[2] removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_2.miscFilter[2] removed in second object
+root.PFSB108_Richelieu.group changed in second object (was upgradeable, is special)
+root.PFSB108_Richelieu.ShipUpgradeInfo.costXP changed in second object (was 3000000, is 136000)
+root.PFSB108_Richelieu.ShipUpgradeInfo.PFUH712_B8_HULL_B.nextShips[0] removed in second object
+root.PRGS130_100mm_56_MZ_16_Left removed in first object
+root.PCNB070 removed in first object
+root.PRUA204_ART_VARYAG removed in first object
+root.PAW111_Kappa removed in first object
+root.PCNB059 removed in first object
+root.PCNB058 removed in first object
+root.PCNB053 removed in first object
+root.PCNB055 removed in first object
+root.PCNB054 removed in first object
+root.PCNB057 removed in first object
+root.PRGM126_305mm_54_MK_15 removed in first object
+root.PFES308_Richelieu_Repub removed in first object
+root.PCH165_KingOfTheSea removed in first object
+root.PRGM117_152mm_45_Canet removed in first object
+root.PGPA079_150MM_AP_Z39 removed in first object
+root.PRF076_KDP2_4_type_B_42 removed in first object
+root.PCNB067 removed in first object
+root.PCNB060 removed in first object
+root.PRSC513_Varyag removed in first object
+root.PCQT479 removed in first object
+root.PCBB002 removed in first object
+root.PCQT490 removed in first object
+root.PCQT491 removed in first object
+root.PCEE136_Twitch removed in first object
+root.PGPA080_150MM_HE_Z39 removed in first object
+root.PCQT483_Key removed in first object
+root.PCEE183_Varyag_flag removed in first object
+root.PCNB056 removed in first object
+root.PGUH706_Z39 removed in first object
+root.PCH149_Twitch_Prime removed in first object
+root.PCOW012_Night_Logic removed in first object
+root.PRUS224_SUO_VARYAG removed in first object
+root.PRC006_Catapult_HK20 removed in first object
+root.PGUA704_Z39 removed in first object
+root.PCEE184_Z_39_flag removed in first object
+root.PRUE812_ENG_KRON removed in first object
+root.PFES318_Richelieu_Royal removed in first object
+root.PGPT613_Z39 removed in first object
+root.PCEE185_Kronshtadt_flag removed in first object
+root.PCQT492 removed in first object
+root.PCNB068 removed in first object
+root.PCNB069 removed in first object
+root.PCNB064 removed in first object
+root.PCNB065 removed in first object
+root.PCNB066 removed in first object
+root.PCNB061 removed in first object
+root.PCNB062 removed in first object
+root.PCNB063 removed in first object
+root.PCQT488_Key removed in first object
+root.PRPA083_152_HE_VARYAG removed in first object
+root.PFES328_Gascogne_Repub removed in first object
+root.PCQM067 removed in first object
+root.PCQM068 removed in first object
+root.PCQM069 removed in first object
+root.PCVO010_OP_09_s09_LePVE removed in first object
+root.PFGM500_380mm_45_Mle_1935 removed in first object
+root.PCH166_ViveLaFranceCompleted removed in first object
+root.PRGS131_100mm_56_MZ_16_Right removed in first object
+root.PRUE213_ENG_VARYAG removed in first object
+root.PRUH224_VARYAG removed in first object
+root.PRF077_SPN_300_4m removed in first object
+root.PRUH814_KRON removed in first object
+root.PRUS819_SUO_KRON removed in first object
+root.PRPA086_305MM_AP_KRON removed in first object
+root.PCQC009_ViveLaFrance removed in first object
+root.PAD110_Director_Mk33 removed in first object
+root.PRPA087_305MM_HE_KRON removed in first object
+root.PCQT489 removed in first object
+root.PCQT487 removed in first object
+root.PCQT486 removed in first object
+root.PCQT485 removed in first object
+root.PCQT484 removed in first object
+root.PCQT482 removed in first object
+root.PCQT481 removed in first object
+root.PCQT480 removed in first object
+root.PFGM503_380mm_45_Mle_1935 removed in first object
+root.PRUA822_ART_KRON removed in first object
+root.PAEP605_Texas_Twitch_Prime removed in first object
+root.PRD075_Uran removed in first object
+root.PGUS705_Z39 removed in first object
+root.PRSC509_Kronshtadt removed in first object
+root.PCH150_Twitch_WG removed in first object
+root.PCQT493_Key removed in first object
+root.PRPA084_152_AP_VARYAG removed in first object
+root.PGSD508_Z_39 removed in first object
+root.PGUT705_Z39 removed in first object
+root.PFES338_Gascogne_Royal removed in first object
+root.PRGS121_152mm_57_MK_17 removed in first object
+root.PGUE706_Z39 removed in first object
+root.PCEC037_Twitch_Prime removed in first object
+root.PCH167_ViveLaFranceCompletedExcellent removed in first object
+>> finished comparing

@@ -1637,19 +1637,6 @@
         "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235", 
         "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f"
     }, 
-    "PGSA509": {
-        "en": "IDS_PGSA509", 
-        "id": 3761223472, 
-        "index": "PGSA509", 
-        "ja_jp": "IDS_PGSA509", 
-        "level": 8, 
-        "name": "PGSA509_Graf_Zeppelin_I", 
-        "nation": "Germany", 
-        "ru": "IDS_PGSA509", 
-        "species": "AirCarrier", 
-        "zh_cn": "\u9f50\u67cf\u6797\u4f2f\u7235\u53f7 Test I", 
-        "zh_tw": "\u9f4a\u67cf\u6797\u4f2f\u7235\u865f Test I"
-    }, 
     "PGSB002": {
         "en": "Tirpitz", 
         "id": 4292818736, 
@@ -2130,6 +2117,19 @@
         "species": "Destroyer", 
         "zh_cn": "T-61", 
         "zh_tw": "T-61"
+    }, 
+    "PGSD508": {
+        "en": "IDS_PGSD508", 
+        "id": 3762173744, 
+        "index": "PGSD508", 
+        "ja_jp": "IDS_PGSD508", 
+        "level": 8, 
+        "name": "PGSD508_Z_39", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSD508", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PGSD508", 
+        "zh_tw": "IDS_PGSD508"
     }, 
     "PISB505": {
         "en": "Giulio Cesare", 
@@ -3560,6 +3560,32 @@
         "species": "Cruiser", 
         "zh_cn": "\u7c73\u54c8\u4f0a\u5c14\u00b7\u5e93\u56fe\u4f50\u592b", 
         "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
+    }, 
+    "PRSC509": {
+        "en": "IDS_PRSC509", 
+        "id": 3761157584, 
+        "index": "PRSC509", 
+        "ja_jp": "IDS_PRSC509", 
+        "level": 9, 
+        "name": "PRSC509_Kronshtadt", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC509", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC509", 
+        "zh_tw": "IDS_PRSC509"
+    }, 
+    "PRSC513": {
+        "en": "IDS_PRSC513", 
+        "id": 3756963280, 
+        "index": "PRSC513", 
+        "ja_jp": "IDS_PRSC513", 
+        "level": 3, 
+        "name": "PRSC513_Varyag", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC513", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC513", 
+        "zh_tw": "IDS_PRSC513"
     }, 
     "PRSC606": {
         "en": "Makarov", 
