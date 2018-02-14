@@ -1,0 +1,78 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_4.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_5.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_3.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_1.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.A1_Artillery.HP_FGM_2.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_4.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_5.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_3.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_1.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFSB105_Bretagne.B1_Artillery.HP_FGM_2.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PFGM058_340_45_Mle_1912.vertSector[1] changed in second object (was 12.0, is 23.0)
+root.PCQT479.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_PVP)
+root.PCQT479.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCZA006_HappyNewYear2018.startTimeDescriptionCustom removed in second object
+root.PCZA006_HappyNewYear2018.endTimeDescription removed in second object
+root.PCZA006_HappyNewYear2018.startTimeDescription removed in second object
+root.PCZA006_HappyNewYear2018.endTimeDescriptionCustom removed in second object
+root.PCZA006_HappyNewYear2018.endTimeCustom removed in first object
+root.PCZA006_HappyNewYear2018.startTimeCustom removed in first object
+root.PCZA006_HappyNewYear2018.startTime removed in first object
+root.PCZA006_HappyNewYear2018.endTime removed in first object
+root.PCZA003_Dunkirk.startTimeDescriptionCustom removed in second object
+root.PCZA003_Dunkirk.endTimeDescription removed in second object
+root.PCZA003_Dunkirk.startTimeDescription removed in second object
+root.PCZA003_Dunkirk.endTimeDescriptionCustom removed in second object
+root.PCZA003_Dunkirk.endTimeCustom removed in first object
+root.PCZA003_Dunkirk.startTimeCustom removed in first object
+root.PCZA003_Dunkirk.startTime removed in first object
+root.PCZA003_Dunkirk.endTime removed in first object
+root.PCZA004_Yamamoto.startTimeDescriptionCustom removed in second object
+root.PCZA004_Yamamoto.endTimeDescription removed in second object
+root.PCZA004_Yamamoto.startTimeDescription removed in second object
+root.PCZA004_Yamamoto.endTimeDescriptionCustom removed in second object
+root.PCZA004_Yamamoto.endTimeCustom removed in first object
+root.PCZA004_Yamamoto.startTimeCustom removed in first object
+root.PCZA004_Yamamoto.startTime removed in first object
+root.PCZA004_Yamamoto.endTime removed in first object
+root.PCQT489.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_PVP)
+root.PCQT489.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE"/>, is <isBattleType battleTypes="PVP"/>)
+root.PCQT484.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_PVP)
+root.PCQT484.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCZA005_HappyBirthday.startTimeDescriptionCustom removed in second object
+root.PCZA005_HappyBirthday.endTimeDescription removed in second object
+root.PCZA005_HappyBirthday.startTimeDescription removed in second object
+root.PCZA005_HappyBirthday.endTimeDescriptionCustom removed in second object
+root.PCZA005_HappyBirthday.endTimeCustom removed in first object
+root.PCZA005_HappyBirthday.startTimeCustom removed in first object
+root.PCZA005_HappyBirthday.startTime removed in first object
+root.PCZA005_HappyBirthday.endTime removed in first object
+root.PCZA007_HSF2018.startTimeDescriptionCustom removed in second object
+root.PCZA007_HSF2018.endTimeDescription removed in second object
+root.PCZA007_HSF2018.startTimeDescription removed in second object
+root.PCZA007_HSF2018.endTimeDescriptionCustom removed in second object
+root.PCZA007_HSF2018.endTimeCustom removed in first object
+root.PCZA007_HSF2018.startTimeCustom removed in first object
+root.PCZA007_HSF2018.startTime removed in first object
+root.PCZA007_HSF2018.endTime removed in first object
+root.PCZA002_Bismarck.startTimeDescriptionCustom removed in second object
+root.PCZA002_Bismarck.endTimeDescription removed in second object
+root.PCZA002_Bismarck.startTimeDescription removed in second object
+root.PCZA002_Bismarck.endTimeDescriptionCustom removed in second object
+root.PCZA002_Bismarck.endTimeCustom removed in first object
+root.PCZA002_Bismarck.startTimeCustom removed in first object
+root.PCZA002_Bismarck.startTime removed in first object
+root.PCZA002_Bismarck.endTime removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 30.0, is 28.0)
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 30.0, is 28.0)
+root.PFSB508_Gascogne.A_Directors.HP_FD_1.gunNode changed in second object (was HP_FGM_1, is )
+root.PCZA008_Vivalafrance.startTimeDescriptionCustom removed in second object
+root.PCZA008_Vivalafrance.endTimeDescription removed in second object
+root.PCZA008_Vivalafrance.startTimeDescription removed in second object
+root.PCZA008_Vivalafrance.endTimeDescriptionCustom removed in second object
+root.PCZA008_Vivalafrance.startTime removed in first object
+root.PCZA008_Vivalafrance.endTime removed in first object
+>> finished comparing
