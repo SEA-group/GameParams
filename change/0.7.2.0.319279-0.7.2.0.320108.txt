@@ -1,0 +1,10 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSD910_Grozovoy_pr_40N.group changed in second object (was clan, is preserved)
+root.PJSD518_Asashio.A_Hull.visibilityCoeff changed in second object (was 16.41, is 20.6)
+root.PASB917_Montana_1945.group changed in second object (was clan, is preserved)
+root.PJSC934_Zao_1944.group changed in second object (was clan, is preserved)
+root.PJSD912_Shimakaze_1943.B_Hull.visibilityCoeff changed in second object (was 16.9, is 20.6)
+root.PJSD012_Shimakaze_1943.B_Hull.visibilityCoeff changed in second object (was 16.9, is 20.6)
+>> finished comparing
