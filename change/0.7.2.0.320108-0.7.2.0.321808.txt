@@ -1,0 +1,31 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PRSC513_Varyag.group changed in second object (was demoWithoutStats, is disabled)
+root.PJSD708_HSF_Harekaze.A_Artillery.HP_JGM_1.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PJSD708_HSF_Harekaze.A_Artillery.HP_JGM_2.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PJSD708_HSF_Harekaze.A_Artillery.HP_JGM_3.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PCVO010_OP_09_s09_LePVE.difficulty.normal.rewards[2][0] changed in second object (was <Add type="GOLD" limit="101" count="100" />, is <Add type="GOLD" limit="101" count="50" />)
+root.PCVO010_OP_09_s09_LePVE.difficulty.normal.rewards[3][0] changed in second object (was <Add type="GOLD" limit="151" count="150" />, is <Add type="GOLD" limit="151" count="100" />)
+root.PCVO010_OP_09_s09_LePVE.difficulty.normal.rewards[4][0] changed in second object (was <Add type="GOLD" limit="251" count="250" />, is <Add type="GOLD" limit="251" count="150" />)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_1.shotDelay changed in second object (was 9.0, is 7.05)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_1.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_2.shotDelay changed in second object (was 9.0, is 7.05)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_2.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_3.shotDelay changed in second object (was 9.0, is 7.05)
+root.PJSD518_Asashio.A1_Artillery.HP_JGM_3.rotationSpeed[0] changed in second object (was 6.0, is 6.9)
+root.PCQC009_ViveLaFrance.endTimeCustom.RU changed in second object (was 28-03-2018 05:00:00, is 28-03-2018 01:00:00)
+root.PCQC009_ViveLaFrance.endTimeCustom.NA changed in second object (was 28-03-2018 11:00:00, is 28-03-2018 09:00:00)
+root.PCQC009_ViveLaFrance.endTimeCustom.ASIA changed in second object (was 29-03-2018 22:00:00, is 28-03-2018 20:00:00)
+root.PCQC009_ViveLaFrance.endTimeCustom.EU changed in second object (was 28-03-2018 06:00:00, is 29-03-2018 04:00:00)
+root.PCQC009_ViveLaFrance.endTimeCustom.CN removed in first object
+root.PCQC009_ViveLaFrance.startTimeCustom.RU changed in second object (was 28-02-2018 05:00:01, is 28-02-2018 03:00:01)
+root.PCQC009_ViveLaFrance.startTimeCustom.NA changed in second object (was 28-02-2018 12:00:01, is 28-02-2018 11:00:01)
+root.PCQC009_ViveLaFrance.startTimeCustom.ASIA changed in second object (was 01-03-2018 00:00:01, is 28-02-2018 22:00:01)
+root.PCQC009_ViveLaFrance.startTimeCustom.EU changed in second object (was 28-02-2018 07:00:01, is 01-03-2018 06:00:01)
+root.PCQC009_ViveLaFrance.startTimeCustom.CN removed in first object
+root.PJPT032_610_ASASHIO.visibilityFactor changed in second object (was 0.7, is 0.9)
+root.PRSC509_Kronshtadt.group changed in second object (was demoWithoutStats, is disabled)
+root.PFSB508_Gascogne.group changed in second object (was demoWithoutStats, is special)
+root.PFSB508_Gascogne.groupCustom.CN removed in second object
+>> finished comparing
