@@ -1,0 +1,32 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFSB105_Bretagne.group changed in second object (was special, is upgradeable)
+root.PFSB105_Bretagne.ShipUpgradeInfo.PFUH412_B5_HULL_B.nextShips[0] removed in first object
+root.PFES308_Richelieu_Repub.canBuy changed in second object (was False, is True)
+root.PFES308_Richelieu_Repub.hidden changed in second object (was True, is False)
+root.PFSB110_France.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB110_France.groupCustom.CN removed in second object
+root.PFES318_Richelieu_Royal.canBuy changed in second object (was False, is True)
+root.PFES318_Richelieu_Royal.hidden changed in second object (was True, is False)
+root.PFES328_Gascogne_Repub.canBuy changed in second object (was False, is True)
+root.PFES328_Gascogne_Repub.hidden changed in second object (was True, is False)
+root.PFSB109_Alsace.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB109_Alsace.groupCustom.CN removed in second object
+root.PFSB107_Lyon.group changed in second object (was special, is upgradeable)
+root.PFSB107_Lyon.ShipUpgradeInfo.PFUH612_B7_HULL_B.nextShips[0] removed in first object
+root.PFSC103_Friant.ShipUpgradeInfo.PFUA201_C3_ART_STOCK.nextShips[0] removed in first object
+root.PFSB106_Normandie.group changed in second object (was special, is upgradeable)
+root.PFSB106_Normandie.ShipUpgradeInfo.PFUH522_B6_HULL_B.nextShips[0] removed in first object
+root.PFSB104_Courbet.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB104_Courbet.ShipUpgradeInfo.PFUH312_B4_HULL_B.nextShips[0] removed in first object
+root.PFSB104_Courbet.groupCustom.CN removed in second object
+root.PFSB103_Turenne.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PFSB103_Turenne.groupCustom.CN removed in second object
+root.PFES338_Gascogne_Royal.canBuy changed in second object (was False, is True)
+root.PFES338_Gascogne_Royal.hidden changed in second object (was True, is False)
+root.PFSB108_Richelieu.group changed in second object (was special, is upgradeable)
+root.PFSB108_Richelieu.ShipUpgradeInfo.PFUH712_B8_HULL_B.nextShips[0] removed in first object
+root.PCEC052_Womens_Day removed in first object
+root.PCEC053_Pi_Day removed in first object
+>> finished comparing
