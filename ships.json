@@ -584,6 +584,71 @@
         "zh_cn": "\u8f9b\u8f9b\u90a3\u63d0", 
         "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
     }, 
+    "PASC106": {
+        "en": "IDS_PASC106", 
+        "id": 4183734256, 
+        "index": "PASC106", 
+        "ja_jp": "IDS_PASC106", 
+        "level": 6, 
+        "name": "PASC106_Pensacola_1944", 
+        "nation": "USA", 
+        "ru": "IDS_PASC106", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC106", 
+        "zh_tw": "IDS_PASC106"
+    }, 
+    "PASC107": {
+        "en": "IDS_PASC107", 
+        "id": 4182685680, 
+        "index": "PASC107", 
+        "ja_jp": "IDS_PASC107", 
+        "level": 7, 
+        "name": "PASC107_New_Orlean_1944", 
+        "nation": "USA", 
+        "ru": "IDS_PASC107", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC107", 
+        "zh_tw": "IDS_PASC107"
+    }, 
+    "PASC108": {
+        "en": "IDS_PASC108", 
+        "id": 4181637104, 
+        "index": "PASC108", 
+        "ja_jp": "IDS_PASC108", 
+        "level": 8, 
+        "name": "PASC108_Baltimore_1944", 
+        "nation": "USA", 
+        "ru": "IDS_PASC108", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC108", 
+        "zh_tw": "IDS_PASC108"
+    }, 
+    "PASC109": {
+        "en": "IDS_PASC109", 
+        "id": 4180588528, 
+        "index": "PASC109", 
+        "ja_jp": "IDS_PASC109", 
+        "level": 9, 
+        "name": "PASC109_Buffalo", 
+        "nation": "USA", 
+        "ru": "IDS_PASC109", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC109", 
+        "zh_tw": "IDS_PASC109"
+    }, 
+    "PASC208": {
+        "en": "IDS_PASC208", 
+        "id": 4076779504, 
+        "index": "PASC208", 
+        "ja_jp": "IDS_PASC208", 
+        "level": 8, 
+        "name": "PASC208_Cleveland", 
+        "nation": "USA", 
+        "ru": "IDS_PASC208", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC208", 
+        "zh_tw": "IDS_PASC208"
+    }, 
     "PASC507": {
         "en": "Indianapolis", 
         "id": 3763255280, 
@@ -1417,10 +1482,10 @@
         "zh_tw": "\u963f\u723e\u85a9\u65af\u7d1a"
     }, 
     "PFSB110": {
-        "en": "France", 
+        "en": "R\u00e9publique", 
         "id": 4179572560, 
         "index": "PFSB110", 
-        "ja_jp": "France", 
+        "ja_jp": "R\u00e9publique", 
         "level": 10, 
         "name": "PFSB110_France", 
         "nation": "France", 
@@ -3562,10 +3627,10 @@
         "zh_tw": "\u7c73\u54c8\u4f0a\u723e\u00b7\u5eab\u5716\u4f50\u592b\u865f"
     }, 
     "PRSC509": {
-        "en": "Kronstadt", 
+        "en": "Kronshtadt", 
         "id": 3761157584, 
         "index": "PRSC509", 
-        "ja_jp": "Kronstadt", 
+        "ja_jp": "Kronshtadt", 
         "level": 9, 
         "name": "PRSC509_Kronshtadt", 
         "nation": "Russia", 
@@ -3977,6 +4042,19 @@
         "zh_cn": "The Great Gorgon", 
         "zh_tw": "The Great Gorgon"
     }, 
+    "PXSA005": {
+        "en": "IDS_PXSA005", 
+        "id": 4289705232, 
+        "index": "PXSA005", 
+        "ja_jp": "IDS_PXSA005", 
+        "level": 7, 
+        "name": "PXSA005_Hellcarrier", 
+        "nation": "Events", 
+        "ru": "IDS_PXSA005", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PXSA005", 
+        "zh_tw": "IDS_PXSA005"
+    }, 
     "PXSB001": {
         "en": "Jackal", 
         "id": 4293866768, 
@@ -4042,6 +4120,32 @@
         "zh_cn": "Varg", 
         "zh_tw": "Varg"
     }, 
+    "PXSB006": {
+        "en": "IDS_PXSB006", 
+        "id": 4288623888, 
+        "index": "PXSB006", 
+        "ja_jp": "IDS_PXSB006", 
+        "level": 7, 
+        "name": "PXSB006_Paris", 
+        "nation": "Events", 
+        "ru": "IDS_PXSB006", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PXSB006", 
+        "zh_tw": "IDS_PXSB006"
+    }, 
+    "PXSB007": {
+        "en": "IDS_PXSB007", 
+        "id": 4287575312, 
+        "index": "PXSB007", 
+        "ja_jp": "IDS_PXSB007", 
+        "level": 7, 
+        "name": "PXSB007_Alldestroyer", 
+        "nation": "Events", 
+        "ru": "IDS_PXSB007", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PXSB007", 
+        "zh_tw": "IDS_PXSB007"
+    }, 
     "PXSC001": {
         "en": "Igor", 
         "id": 4293834000, 
@@ -4081,6 +4185,58 @@
         "zh_cn": "Svyatozar", 
         "zh_tw": "Svyatozar"
     }, 
+    "PXSC004": {
+        "en": "IDS_PXSC004", 
+        "id": 4290688272, 
+        "index": "PXSC004", 
+        "ja_jp": "IDS_PXSC004", 
+        "level": 7, 
+        "name": "PXSC004_Galaxy", 
+        "nation": "Events", 
+        "ru": "IDS_PXSC004", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PXSC004", 
+        "zh_tw": "IDS_PXSC004"
+    }, 
+    "PXSC005": {
+        "en": "IDS_PXSC005", 
+        "id": 4289639696, 
+        "index": "PXSC005", 
+        "ja_jp": "IDS_PXSC005", 
+        "level": 7, 
+        "name": "PXSC005_Zaya", 
+        "nation": "Events", 
+        "ru": "IDS_PXSC005", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PXSC005", 
+        "zh_tw": "IDS_PXSC005"
+    }, 
+    "PXSC006": {
+        "en": "IDS_PXSC006", 
+        "id": 4288591120, 
+        "index": "PXSC006", 
+        "ja_jp": "IDS_PXSC006", 
+        "level": 7, 
+        "name": "PXSC006_Norma", 
+        "nation": "Events", 
+        "ru": "IDS_PXSC006", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PXSC006", 
+        "zh_tw": "IDS_PXSC006"
+    }, 
+    "PXSC007": {
+        "en": "IDS_PXSC007", 
+        "id": 4287542544, 
+        "index": "PXSC007", 
+        "ja_jp": "IDS_PXSC007", 
+        "level": 7, 
+        "name": "PXSC007_Aurora", 
+        "nation": "Events", 
+        "ru": "IDS_PXSC007", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PXSC007", 
+        "zh_tw": "IDS_PXSC007"
+    }, 
     "PXSD001": {
         "en": "Blade", 
         "id": 4293801232, 
@@ -4119,6 +4275,32 @@
         "species": "Destroyer", 
         "zh_cn": "Urashima", 
         "zh_tw": "Urashima"
+    }, 
+    "PXSD004": {
+        "en": "IDS_PXSD004", 
+        "id": 4290655504, 
+        "index": "PXSD004", 
+        "ja_jp": "IDS_PXSD004", 
+        "level": 7, 
+        "name": "PXSD004_FlyFire", 
+        "nation": "Events", 
+        "ru": "IDS_PXSD004", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PXSD004", 
+        "zh_tw": "IDS_PXSD004"
+    }, 
+    "PXSD005": {
+        "en": "IDS_PXSD005", 
+        "id": 4289606928, 
+        "index": "PXSD005", 
+        "ja_jp": "IDS_PXSD005", 
+        "level": 7, 
+        "name": "PXSD005_Blue_Aster", 
+        "nation": "Events", 
+        "ru": "IDS_PXSD005", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PXSD005", 
+        "zh_tw": "IDS_PXSD005"
     }, 
     "PXSD007": {
         "en": "Schnellboot", 
