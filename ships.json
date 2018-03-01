@@ -585,10 +585,10 @@
         "zh_tw": "\u8f9b\u8f9b\u90a3\u63d0\u865f"
     }, 
     "PASC106": {
-        "en": "IDS_PASC106", 
+        "en": "Salt Lake City", 
         "id": 4183734256, 
         "index": "PASC106", 
-        "ja_jp": "IDS_PASC106", 
+        "ja_jp": "Salt Lake City", 
         "level": 6, 
         "name": "PASC106_Pensacola_1944", 
         "nation": "USA", 
@@ -598,10 +598,10 @@
         "zh_tw": "IDS_PASC106"
     }, 
     "PASC107": {
-        "en": "IDS_PASC107", 
+        "en": "Astoria", 
         "id": 4182685680, 
         "index": "PASC107", 
-        "ja_jp": "IDS_PASC107", 
+        "ja_jp": "Astoria", 
         "level": 7, 
         "name": "PASC107_New_Orlean_1944", 
         "nation": "USA", 
@@ -611,10 +611,10 @@
         "zh_tw": "IDS_PASC107"
     }, 
     "PASC108": {
-        "en": "IDS_PASC108", 
+        "en": "Pittsburgh", 
         "id": 4181637104, 
         "index": "PASC108", 
-        "ja_jp": "IDS_PASC108", 
+        "ja_jp": "Pittsburgh", 
         "level": 8, 
         "name": "PASC108_Baltimore_1944", 
         "nation": "USA", 
@@ -624,10 +624,10 @@
         "zh_tw": "IDS_PASC108"
     }, 
     "PASC109": {
-        "en": "IDS_PASC109", 
+        "en": "Buffalo", 
         "id": 4180588528, 
         "index": "PASC109", 
-        "ja_jp": "IDS_PASC109", 
+        "ja_jp": "Buffalo", 
         "level": 9, 
         "name": "PASC109_Buffalo", 
         "nation": "USA", 
@@ -637,10 +637,10 @@
         "zh_tw": "IDS_PASC109"
     }, 
     "PASC208": {
-        "en": "IDS_PASC208", 
+        "en": "Columbia", 
         "id": 4076779504, 
         "index": "PASC208", 
-        "ja_jp": "IDS_PASC208", 
+        "ja_jp": "Columbia", 
         "level": 8, 
         "name": "PASC208_Cleveland", 
         "nation": "USA", 
@@ -4043,10 +4043,10 @@
         "zh_tw": "The Great Gorgon"
     }, 
     "PXSA005": {
-        "en": "IDS_PXSA005", 
+        "en": "Hellcarrier", 
         "id": 4289705232, 
         "index": "PXSA005", 
-        "ja_jp": "IDS_PXSA005", 
+        "ja_jp": "Hellcarrier", 
         "level": 7, 
         "name": "PXSA005_Hellcarrier", 
         "nation": "Events", 
@@ -4121,10 +4121,10 @@
         "zh_tw": "Varg"
     }, 
     "PXSB006": {
-        "en": "IDS_PXSB006", 
+        "en": "Paris", 
         "id": 4288623888, 
         "index": "PXSB006", 
-        "ja_jp": "IDS_PXSB006", 
+        "ja_jp": "Paris", 
         "level": 7, 
         "name": "PXSB006_Paris", 
         "nation": "Events", 
@@ -4134,10 +4134,10 @@
         "zh_tw": "IDS_PXSB006"
     }, 
     "PXSB007": {
-        "en": "IDS_PXSB007", 
+        "en": "Alldestroyer", 
         "id": 4287575312, 
         "index": "PXSB007", 
-        "ja_jp": "IDS_PXSB007", 
+        "ja_jp": "Alldestroyer", 
         "level": 7, 
         "name": "PXSB007_Alldestroyer", 
         "nation": "Events", 
@@ -4186,10 +4186,10 @@
         "zh_tw": "Svyatozar"
     }, 
     "PXSC004": {
-        "en": "IDS_PXSC004", 
+        "en": "Galaxy", 
         "id": 4290688272, 
         "index": "PXSC004", 
-        "ja_jp": "IDS_PXSC004", 
+        "ja_jp": "Galaxy", 
         "level": 7, 
         "name": "PXSC004_Galaxy", 
         "nation": "Events", 
@@ -4199,10 +4199,10 @@
         "zh_tw": "IDS_PXSC004"
     }, 
     "PXSC005": {
-        "en": "IDS_PXSC005", 
+        "en": "Zaya", 
         "id": 4289639696, 
         "index": "PXSC005", 
-        "ja_jp": "IDS_PXSC005", 
+        "ja_jp": "Zaya", 
         "level": 7, 
         "name": "PXSC005_Zaya", 
         "nation": "Events", 
@@ -4212,10 +4212,10 @@
         "zh_tw": "IDS_PXSC005"
     }, 
     "PXSC006": {
-        "en": "IDS_PXSC006", 
+        "en": "Norma", 
         "id": 4288591120, 
         "index": "PXSC006", 
-        "ja_jp": "IDS_PXSC006", 
+        "ja_jp": "Norma", 
         "level": 7, 
         "name": "PXSC006_Norma", 
         "nation": "Events", 
@@ -4225,10 +4225,10 @@
         "zh_tw": "IDS_PXSC006"
     }, 
     "PXSC007": {
-        "en": "IDS_PXSC007", 
+        "en": "Aurora", 
         "id": 4287542544, 
         "index": "PXSC007", 
-        "ja_jp": "IDS_PXSC007", 
+        "ja_jp": "Aurora", 
         "level": 7, 
         "name": "PXSC007_Aurora", 
         "nation": "Events", 
@@ -4277,10 +4277,10 @@
         "zh_tw": "Urashima"
     }, 
     "PXSD004": {
-        "en": "IDS_PXSD004", 
+        "en": "FlyFire", 
         "id": 4290655504, 
         "index": "PXSD004", 
-        "ja_jp": "IDS_PXSD004", 
+        "ja_jp": "FlyFire", 
         "level": 7, 
         "name": "PXSD004_FlyFire", 
         "nation": "Events", 
@@ -4290,10 +4290,10 @@
         "zh_tw": "IDS_PXSD004"
     }, 
     "PXSD005": {
-        "en": "IDS_PXSD005", 
+        "en": "Blue Aster", 
         "id": 4289606928, 
         "index": "PXSD005", 
-        "ja_jp": "IDS_PXSD005", 
+        "ja_jp": "Blue Aster", 
         "level": 7, 
         "name": "PXSD005_Blue_Aster", 
         "nation": "Events", 

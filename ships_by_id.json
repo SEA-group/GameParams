@@ -1495,10 +1495,10 @@
         "zh_tw": "\u967d\u708e\u578b"
     }, 
     "4076779504": {
-        "en": "IDS_PASC208", 
+        "en": "Columbia", 
         "id": 4076779504, 
         "index": "PASC208", 
-        "ja_jp": "IDS_PASC208", 
+        "ja_jp": "Columbia", 
         "level": 8, 
         "name": "PASC208_Cleveland", 
         "nation": "USA", 
@@ -1794,10 +1794,10 @@
         "zh_tw": "\u6d77\u738b\u661f\u7d1a"
     }, 
     "4180588528": {
-        "en": "IDS_PASC109", 
+        "en": "Buffalo", 
         "id": 4180588528, 
         "index": "PASC109", 
-        "ja_jp": "IDS_PASC109", 
+        "ja_jp": "Buffalo", 
         "level": 9, 
         "name": "PASC109_Buffalo", 
         "nation": "USA", 
@@ -1950,10 +1950,10 @@
         "zh_tw": "\u611b\u4e01\u5821\u7d1a"
     }, 
     "4181637104": {
-        "en": "IDS_PASC108", 
+        "en": "Pittsburgh", 
         "id": 4181637104, 
         "index": "PASC108", 
-        "ja_jp": "IDS_PASC108", 
+        "ja_jp": "Pittsburgh", 
         "level": 8, 
         "name": "PASC108_Baltimore_1944", 
         "nation": "USA", 
@@ -2106,10 +2106,10 @@
         "zh_tw": "\u6590\u6fdf\u7d1a"
     }, 
     "4182685680": {
-        "en": "IDS_PASC107", 
+        "en": "Astoria", 
         "id": 4182685680, 
         "index": "PASC107", 
-        "ja_jp": "IDS_PASC107", 
+        "ja_jp": "Astoria", 
         "level": 7, 
         "name": "PASC107_New_Orlean_1944", 
         "nation": "USA", 
@@ -2262,10 +2262,10 @@
         "zh_tw": "\u5229\u5b89\u5fb7\u7d1a"
     }, 
     "4183734256": {
-        "en": "IDS_PASC106", 
+        "en": "Salt Lake City", 
         "id": 4183734256, 
         "index": "PASC106", 
-        "ja_jp": "IDS_PASC106", 
+        "ja_jp": "Salt Lake City", 
         "level": 6, 
         "name": "PASC106_Pensacola_1944", 
         "nation": "USA", 
@@ -3757,10 +3757,10 @@
         "zh_tw": "\u7eeb\u6ce2\u865f"
     }, 
     "4287542544": {
-        "en": "IDS_PXSC007", 
+        "en": "Aurora", 
         "id": 4287542544, 
         "index": "PXSC007", 
-        "ja_jp": "IDS_PXSC007", 
+        "ja_jp": "Aurora", 
         "level": 7, 
         "name": "PXSC007_Aurora", 
         "nation": "Events", 
@@ -3796,10 +3796,10 @@
         "zh_tw": "\u514b\u5229\u592b\u862d\u7d1a"
     }, 
     "4287575312": {
-        "en": "IDS_PXSB007", 
+        "en": "Alldestroyer", 
         "id": 4287575312, 
         "index": "PXSB007", 
-        "ja_jp": "IDS_PXSB007", 
+        "ja_jp": "Alldestroyer", 
         "level": 7, 
         "name": "PXSB007_Alldestroyer", 
         "nation": "Events", 
@@ -3861,10 +3861,10 @@
         "zh_tw": "\u99ac\u6f22\u7d1a"
     }, 
     "4288591120": {
-        "en": "IDS_PXSC006", 
+        "en": "Norma", 
         "id": 4288591120, 
         "index": "PXSC006", 
-        "ja_jp": "IDS_PXSC006", 
+        "ja_jp": "Norma", 
         "level": 7, 
         "name": "PXSC006_Norma", 
         "nation": "Events", 
@@ -3887,10 +3887,10 @@
         "zh_tw": "\u4e9e\u7279\u862d\u5927\u865f"
     }, 
     "4288623888": {
-        "en": "IDS_PXSB006", 
+        "en": "Paris", 
         "id": 4288623888, 
         "index": "PXSB006", 
-        "ja_jp": "IDS_PXSB006", 
+        "ja_jp": "Paris", 
         "level": 7, 
         "name": "PXSB006_Paris", 
         "nation": "Events", 
@@ -3965,10 +3965,10 @@
         "zh_tw": "\u8056\u514b\u840a\u723e\u865f"
     }, 
     "4289606928": {
-        "en": "IDS_PXSD005", 
+        "en": "Blue Aster", 
         "id": 4289606928, 
         "index": "PXSD005", 
-        "ja_jp": "IDS_PXSD005", 
+        "ja_jp": "Blue Aster", 
         "level": 7, 
         "name": "PXSD005_Blue_Aster", 
         "nation": "Events", 
@@ -4004,10 +4004,10 @@
         "zh_tw": "\u6cd5\u62c9\u683c\u7279\u7d1a"
     }, 
     "4289639696": {
-        "en": "IDS_PXSC005", 
+        "en": "Zaya", 
         "id": 4289639696, 
         "index": "PXSC005", 
-        "ja_jp": "IDS_PXSC005", 
+        "ja_jp": "Zaya", 
         "level": 7, 
         "name": "PXSC005_Zaya", 
         "nation": "Events", 
@@ -4056,10 +4056,10 @@
         "zh_tw": "Varg"
     }, 
     "4289705232": {
-        "en": "IDS_PXSA005", 
+        "en": "Hellcarrier", 
         "id": 4289705232, 
         "index": "PXSA005", 
-        "ja_jp": "IDS_PXSA005", 
+        "ja_jp": "Hellcarrier", 
         "level": 7, 
         "name": "PXSA005_Hellcarrier", 
         "nation": "Events", 
@@ -4069,10 +4069,10 @@
         "zh_tw": "IDS_PXSA005"
     }, 
     "4290655504": {
-        "en": "IDS_PXSD004", 
+        "en": "FlyFire", 
         "id": 4290655504, 
         "index": "PXSD004", 
-        "ja_jp": "IDS_PXSD004", 
+        "ja_jp": "FlyFire", 
         "level": 7, 
         "name": "PXSD004_FlyFire", 
         "nation": "Events", 
@@ -4095,10 +4095,10 @@
         "zh_tw": "\u5cef\u98a8\u578b"
     }, 
     "4290688272": {
-        "en": "IDS_PXSC004", 
+        "en": "Galaxy", 
         "id": 4290688272, 
         "index": "PXSC004", 
-        "ja_jp": "IDS_PXSC004", 
+        "ja_jp": "Galaxy", 
         "level": 7, 
         "name": "PXSC004_Galaxy", 
         "nation": "Events", 

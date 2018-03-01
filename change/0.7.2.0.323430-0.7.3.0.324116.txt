@@ -1,0 +1,30 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PGES510_Z_52_BLUE_ASTER.costGold changed in second object (was 1, is 8000)
+root.PAES410_DESMOINES_GALAXY.costGold changed in second object (was 1, is 8000)
+root.PFES308_Richelieu_Repub.canBuy changed in second object (was False, is True)
+root.PFES308_Richelieu_Repub.hidden changed in second object (was True, is False)
+root.PRES410_MOSKVA_AVRORA.costGold changed in second object (was 1, is 8000)
+root.PFES408_Charles_Martel_H2017.peculiarityEffects.sfx/vehicles/CC_RunSmoke_Forcing.xml removed in first object
+root.PJES110_HAKURYU_HELL.costGold changed in second object (was 1, is 8000)
+root.PFES318_Richelieu_Royal.canBuy changed in second object (was False, is True)
+root.PFES318_Richelieu_Royal.hidden changed in second object (was True, is False)
+root.PAES510_GEARING_FLYFIRE.costGold changed in second object (was 1, is 8000)
+root.PFES328_Gascogne_Repub.canBuy changed in second object (was False, is True)
+root.PFES328_Gascogne_Repub.hidden changed in second object (was True, is False)
+root.PGES310_GROSS_ALLDESTROYER.costGold changed in second object (was 1, is 8000)
+root.PCQC009_ViveLaFrance.endTimeCustom.PT changed in second object (was 19-01-2018 20:00:00, is 26-02-2018 20:00:00)
+root.PCQC009_ViveLaFrance.endTimeCustom.ST changed in second object (was 19-01-2018 20:00:00, is 26-02-2018 20:00:00)
+root.PFES310_FRANCE_PARIS.costGold changed in second object (was 1, is 8000)
+root.PRSC509_Kronshtadt.A_Hull.armor.196698 removed in first object
+root.PRSC509_Kronshtadt.A_Hull.armor.262234 removed in first object
+root.PCM036_SpeedBooster_Mod_I.ships[7] removed in first object
+root.PCM036_SpeedBooster_Mod_I.ships[8] removed in first object
+root.PCM036_SpeedBooster_Mod_I.ships[9] removed in first object
+root.PCM036_SpeedBooster_Mod_I.ships[10] removed in first object
+root.PJES410_ZAO_ZAYA.costGold changed in second object (was 1, is 8000)
+root.PFES338_Gascogne_Royal.canBuy changed in second object (was False, is True)
+root.PFES338_Gascogne_Royal.hidden changed in second object (was True, is False)
+root.PBES410_MINOTAUR_NORMA.costGold changed in second object (was 1, is 8000)
+>> finished comparing
