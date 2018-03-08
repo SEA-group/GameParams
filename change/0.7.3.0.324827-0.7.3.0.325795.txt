@@ -1,0 +1,30 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCOW013_1April_Hailstorm.logic1.maxPlaneVisionDistance changed in second object (was 500.0, is 200.0)
+root.PGSC910_Hindenburg.group changed in second object (was clan, is preserved)
+root.PJSB918_Yamato_1944.group changed in second object (was clan, is preserved)
+root.PJSD912_Shimakaze_1943.group changed in second object (was clan, is preserved)
+root.PXPT005_Sea_Torpedo_Type93.speed changed in second object (was 62.0, is 76.0)
+root.PXPT005_Sea_Torpedo_Type93.alphaDamage changed in second object (was 58700.0, is 59600.0)
+root.PXPT005_Sea_Torpedo_Type93.damage changed in second object (was 1400.0, is 1500.0)
+root.PXPT005_Sea_Torpedo_Type93.uwCritical changed in second object (was 3.55, is 3.61)
+root.PXPT005_Sea_Torpedo_Type93.visibilityFactor changed in second object (was 2.5, is 1.8)
+root.PXPT005_Sea_Torpedo_Type93.maxDist changed in second object (was 667.0, is 267.0)
+root.PCZA008_Vivalafrance.endTimeCustom.RU removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.CN removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.PT removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.NA removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.ASIA removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.ST removed in second object
+root.PCZA008_Vivalafrance.endTimeCustom.EU removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.RU removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.CN removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.PT removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.NA removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.ASIA removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.ST removed in second object
+root.PCZA008_Vivalafrance.startTimeCustom.EU removed in second object
+root.PCEE187_Purrfurst_Flag removed in first object
+root.PCEC054_Humble_Bundle removed in first object
+>> finished comparing

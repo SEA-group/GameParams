@@ -724,8 +724,8 @@
         "nation": "Japan", 
         "ru": "IDS_PJSD518", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PJSD518", 
-        "zh_tw": "IDS_PJSD518"
+        "zh_cn": "\u671d\u6f6e", 
+        "zh_tw": "\u671d\u6f6e\u865f"
     }, 
     "3751753712": {
         "en": "Massachusetts", 
@@ -763,8 +763,8 @@
         "nation": "Russia", 
         "ru": "IDS_PRSC513", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PRSC513", 
-        "zh_tw": "IDS_PRSC513"
+        "zh_cn": "\u74e6\u826f\u683c", 
+        "zh_tw": "\u74e6\u826f\u683c\u865f"
     }, 
     "3761157584": {
         "en": "Kronshtadt", 
@@ -776,8 +776,8 @@
         "nation": "Russia", 
         "ru": "IDS_PRSC509", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PRSC509", 
-        "zh_tw": "IDS_PRSC509"
+        "zh_cn": "\u5580\u7405\u65bd\u5854\u5f97", 
+        "zh_tw": "\u5580\u746f\u65bd\u5854\u5f97\u865f"
     }, 
     "3761190608": {
         "en": "Musashi", 
@@ -828,8 +828,8 @@
         "nation": "Germany", 
         "ru": "IDS_PGSD508", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PGSD508", 
-        "zh_tw": "IDS_PGSD508"
+        "zh_cn": "Z-39", 
+        "zh_tw": "Z-39"
     }, 
     "3762173936": {
         "en": "Kidd", 
@@ -906,8 +906,8 @@
         "nation": "France", 
         "ru": "Gascogne", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PFSB508", 
-        "zh_tw": "IDS_PFSB508"
+        "zh_cn": "\u52a0\u65af\u79d1\u6d85", 
+        "zh_tw": "\u52a0\u65af\u79d1\u6d85\u865f"
     }, 
     "3762239472": {
         "en": "Alabama", 
@@ -971,8 +971,8 @@
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSD507", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PBSD507", 
-        "zh_tw": "IDS_PBSD507"
+        "zh_cn": "\u54e5\u8428\u514b", 
+        "zh_tw": "\u54e5\u85a9\u514b\u865f"
     }, 
     "3763255024": {
         "en": "Abruzzi", 
@@ -1140,8 +1140,8 @@
         "nation": "USA", 
         "ru": "IDS_PASD506", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PASD506", 
-        "zh_tw": "IDS_PASD506"
+        "zh_cn": "\u83ab\u7eb3\u5e72", 
+        "zh_tw": "\u83ab\u7d0d\u5e72\u865f"
     }, 
     "3764303056": {
         "en": "Huanghe", 
@@ -1686,8 +1686,8 @@
         "nation": "France", 
         "ru": "France", 
         "species": "Battleship", 
-        "zh_cn": "\u6cd5\u5170\u897f", 
-        "zh_tw": "\u6cd5\u862d\u897f\u7d1a"
+        "zh_cn": "\u5171\u548c", 
+        "zh_tw": "\u5171\u548c\u7d1a"
     }, 
     "4179572688": {
         "en": "Conqueror", 
