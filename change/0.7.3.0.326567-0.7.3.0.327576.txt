@@ -1,0 +1,43 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCEF001_Zulu_SignalFlag.canBuy changed in second object (was False, is True)
+root.PCEF015_ZH_SignalFlag.canBuy changed in second object (was False, is True)
+root.PCM027_ConcealmentMeasures_Mod_I.ships[2] removed in first object
+root.PCEF013_PP_SignalFlag.canBuy changed in second object (was False, is True)
+root.PISC507_Duca_degli_Abruzzi.group changed in second object (was special, is demoWithoutStats)
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY005_Spotter, is PCY002_RegenCrew)
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was PIY001_IMAM_RO43_ABR_Cruiser_3, is C)
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY013_SpotterPremium, is PCY010_RegenCrewPremium)
+root.PISC507_Duca_degli_Abruzzi.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was PIY102_IMAM_RO43_ABR_Cruiser_3, is C_Gold)
+root.PCM026_LookoutStation_Mod_I.ships[2] removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.canBuy changed in second object (was False, is True)
+root.PXPB002_GER_2200LBS.ground changed in second object (was sfx/Torpedo_Explo_APR.xml, is sfx/airBomb_ground.xml)
+root.PXPB002_GER_2200LBS.shipDestroyEffect changed in second object (was sfx/airplane_water_destroy_APR.xml, is sfx/onWaterExplosion127mm.xml)
+root.PXPB002_GER_2200LBS.water changed in second object (was sfx/Torpedo_Explo_APR.xml, is sfx/airBomb_water.xml)
+root.PXPB002_GER_2200LBS.projDestroyedEffect changed in second object (was sfx/Torpedo_Explo_APR.xml, is sfx/airBomb_ship.xml)
+root.PCEF011_IB3_SignalFlag.canBuy changed in second object (was False, is True)
+root.PRSC509_Kronshtadt.A_Hull.Ammo_1.maxHP changed in second object (was 41200.0, is 29900.0)
+root.PRSC509_Kronshtadt.A_Hull.Ammo_2.maxHP changed in second object (was 41200.0, is 29900.0)
+root.PRSC509_Kronshtadt.A_Hull.Bow.maxHP changed in second object (was 2300.0, is 1700.0)
+root.PRSC509_Kronshtadt.A_Hull.health changed in second object (was 82300.0, is 59800.0)
+root.PRSC509_Kronshtadt.A_Hull.Cas.maxHP changed in second object (was 7700.0, is 5600.0)
+root.PRSC509_Kronshtadt.A_Hull.St.maxHP changed in second object (was 2000.0, is 1500.0)
+root.PRSC509_Kronshtadt.A_Hull.Hull.maxHP changed in second object (was 61700.0, is 44900.0)
+root.PRSC509_Kronshtadt.A_Hull.SS.maxHP changed in second object (was 5000.0, is 3700.0)
+root.PRSC509_Kronshtadt.A_Hull.SG.maxHP changed in second object (was 24700.0, is 17900.0)
+root.PRSC509_Kronshtadt.A_Hull.SSC.maxHP changed in second object (was 7600.0, is 5500.0)
+root.PRSC509_Kronshtadt.A_Engine.HitLocationEngine.maxHP changed in second object (was 82300.0, is 59800.0)
+root.PGSD508_Z_39.weight changed in second object (was 6732, is 5119)
+root.PGSD508_Z_39.battleLevels.PVP[0] changed in second object (was 10, is 9)
+root.PGSD508_Z_39.battleLevels.PVP[1] changed in second object (was 9, is 8)
+root.PGSD508_Z_39.battleLevels.PVP[2] changed in second object (was 8, is 7)
+root.PGSD508_Z_39.battleLevels.COOPERATIVE[0] changed in second object (was 10, is 9)
+root.PGSD508_Z_39.battleLevels.COOPERATIVE[1] changed in second object (was 9, is 8)
+root.PGSD508_Z_39.battleLevels.COOPERATIVE[2] changed in second object (was 8, is 7)
+root.PGSD508_Z_39.level changed in second object (was 8, is 7)
+root.PCM035_SteeringGear_Mod_III.ships[1] removed in first object
+root.PCEE190_Humble_Bundle_Flag removed in first object
+>> finished comparing
