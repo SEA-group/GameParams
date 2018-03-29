@@ -1,0 +1,9 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCNB119.needDescription changed in second object (was True, is False)
+root.PRSC510_Stalingrad.A_Hull.dockYOffset changed in second object (was 0.0, is -0.1)
+root.PCNB120 removed in second object
+root.PASC206_Dallas.permoflages[0] changed in second object (was PCEP301_Permo_NY, is PCEP116_Permo_Upgr_6_lvl)
+root.PASC206_Dallas.permoflages[1] removed in second object
+>> finished comparing
