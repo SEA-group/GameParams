@@ -1,0 +1,184 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PAGM077_6in47_MK16.shotDelay changed in second object (was 5.0, is 4.6)
+root.PAGM077_6in47_MK16.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PAGM077_6in47_MK16.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PXSC005_Zaya.group changed in second object (was event, is disabled)
+root.PBSB104_Orion.AB1_Artillery.sigmaCount changed in second object (was 1.8, is 1.6)
+root.PASD506_Monaghan.A_Hull.HP_AGA_9 removed in first object
+root.PASD506_Monaghan.A_Hull.HP_AGA_10 removed in first object
+root.PASD506_Monaghan.ShipUpgradeInfo.PAUA506_MONAGHAN.components.artillery[1] removed in first object
+root.PASD506_Monaghan.ShipUpgradeInfo.PAUT507_MONAGHAN2 removed in first object
+root.PASD506_Monaghan.ShipUpgradeInfo.PAUH509_MONAGHAN_B removed in first object
+root.PASD506_Monaghan.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PASD506_Monaghan.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PASD506_Monaghan.B2_Torpedoes removed in first object
+root.PASD506_Monaghan.B_Hull removed in first object
+root.PASD506_Monaghan.B_AirDefense removed in first object
+root.PASD506_Monaghan.B1_Artillery removed in first object
+root.PXSC004_Galaxy.group changed in second object (was event, is disabled)
+root.PRW002_MayCap.Skills.MainGunsRotationModifier.isEpic changed in second object (was False, is True)
+root.PRW002_MayCap.Skills.EmergencyTeamCooldownModifier.isEpic changed in second object (was False, is True)
+root.PRW002_MayCap.Skills.MeticulousPreventionModifier.isEpic changed in second object (was False, is True)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_1.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_1.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_1.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_3.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_3.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_3.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_2.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_2.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_2.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_4.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_4.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_4.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_6.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_6.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_6.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_5.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_5.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC016_Worcester_1948.ArtilleryDefault.HP_AGM_5.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PISC507_Duca_degli_Abruzzi.A1_Torpedoes.HP_IGT_1.position[0] changed in second object (was 2.0, is 3.0)
+root.PISC507_Duca_degli_Abruzzi.A1_Torpedoes.HP_IGT_2.position[0] changed in second object (was 2.0, is 3.0)
+root.PCH046_Researching3.events[0][1][0] removed in second object
+root.PCH046_Researching3.events[0][1][1] removed in second object
+root.PCH046_Researching3.events[0][1][2] removed in second object
+root.PCH046_Researching3.events[0][2][0][0] changed in second object (was doAction, is sendstat)
+root.PCH046_Researching3.events[0][2][0][1] changed in second object (was done, is explored_ships)
+root.PCH046_Researching3.events[0][2][0][2] removed in first object
+root.PCH046_Researching3.events[0][2][0][3] removed in first object
+root.PCH046_Researching3.events[0][2][0][4] removed in first object
+root.PCH046_Researching3.events[1][0] changed in second object (was explore, is login)
+root.PCH046_Researching3.events[1][1][1][0] changed in second object (was sendstat, is counter)
+root.PCH046_Researching3.events[1][1][1][1] changed in second object (was explored_ships, is globalA)
+root.PCH046_Researching3.events[1][1][1][2] changed in second object (was =, is >=)
+root.PCH046_Researching3.events[1][1][1][3] changed in second object (was counter, is constant)
+root.PCH046_Researching3.events[1][1][1][4] changed in second object (was globalA, is shipsCount)
+root.PCH046_Researching3.events[1][1][2] removed in second object
+root.PCH046_Researching3.events[2] removed in first object
+root.PCH046_Researching3.events[3] removed in first object
+root.PXSD004_FlyFire.group changed in second object (was event, is disabled)
+root.PAGM179_6in47_Triple.shotDelay changed in second object (was 10.0, is 7.0)
+root.PAGM179_6in47_Triple.antiAirAuraStrength changed in second object (was 0.13, is 0.225)
+root.PRSC510_Stalingrad.A_Hull.armor.65585 changed in second object (was 25.0, is 32.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65584 changed in second object (was 25.0, is 32.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65629 changed in second object (was 25.0, is 32.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65630 changed in second object (was 25.0, is 32.0)
+root.PRSC510_Stalingrad.A1_Artillery.sigmaCount changed in second object (was 1.8, is 2.05)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot2.abils[0] removed in first object
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot2.abils[1] removed in first object
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot0.abils[0][1] changed in second object (was CV_CA_CL, is B_RUS)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot0.abils[1][1] changed in second object (was CV_CA_CL_Gold, is B_RUS_Gold)
+root.PXSC006_Norma.group changed in second object (was event, is disabled)
+root.PASC206_Dallas.AB1_Artillery.HP_AGM_1.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC206_Dallas.AB1_Artillery.HP_AGM_3.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC206_Dallas.AB1_Artillery.HP_AGM_2.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC206_Dallas.AB1_Artillery.HP_AGM_4.shotDelay changed in second object (was 10.0, is 8.5)
+root.PGGM031_203mm_C34_RF.shotDelay changed in second object (was 13.0, is 11.5)
+root.PASC209_Seattle.AB1_Artillery.maxDist changed in second object (was 13370.0, is 14280.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_1.shotDelay changed in second object (was 10.0, is 7.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_1.antiAirAuraStrength changed in second object (was 0.13, is 0.225)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_3.shotDelay changed in second object (was 10.0, is 7.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_3.antiAirAuraStrength changed in second object (was 0.13, is 0.225)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_2.shotDelay changed in second object (was 10.0, is 7.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_2.antiAirAuraStrength changed in second object (was 0.13, is 0.225)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_4.shotDelay changed in second object (was 10.0, is 7.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_4.antiAirAuraStrength changed in second object (was 0.13, is 0.225)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY004_Fighter, is PCY003_AirDefenseDisp)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PAY524_XP_40S_Cruiser_4, is US_Cruisers)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY012_FighterPremium, is PCY011_AirDefenseDispPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PAY624_XP_40S_Cruiser_4, is US_Cruisers_Gold)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was US_Cruisers, is US_9)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was US_Cruisers_Gold, is US_9_PREMIUM)
+root.PASC207_Helena.AB1_Artillery.HP_AGM_1.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC207_Helena.AB1_Artillery.HP_AGM_3.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC207_Helena.AB1_Artillery.HP_AGM_2.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC207_Helena.AB1_Artillery.HP_AGM_4.shotDelay changed in second object (was 10.0, is 8.5)
+root.PASC207_Helena.AB1_Artillery.HP_AGM_5.shotDelay changed in second object (was 10.0, is 8.5)
+root.PRPA082_305MM_AP_STALINGRAD.bulletDetonator changed in second object (was 0.01, is 0.022)
+root.PGSC508_Prinz_Eugen.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PGSC508_Prinz_Eugen.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_3.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_4.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_2.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.A1_Artillery.HP_GGM_1.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.B_Hull.rudderTime changed in second object (was 14.0, is 12.0)
+root.PGSC108_Hipper.C_Hull.rudderTime changed in second object (was 14.0, is 12.0)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_3.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_4.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_2.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.B1_Artillery.HP_GGM_1.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_3.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_4.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_2.shotDelay changed in second object (was 13.0, is 11.5)
+root.PGSC108_Hipper.C1_Artillery.HP_GGM_1.shotDelay changed in second object (was 13.0, is 11.5)
+root.PXSC007_Aurora.group changed in second object (was event, is disabled)
+root.PXSB007_Alldestroyer.group changed in second object (was event, is disabled)
+root.PRPA086_305MM_AP_KRON.bulletDetonator changed in second object (was 0.01, is 0.033)
+root.PASA015_Midway_1945.A1_FlightControl.planesReserveAssignment.Dive changed in second object (was 1, is 21)
+root.PASA015_Midway_1945.A1_FlightControl.planesReserveAssignment.Fighter changed in second object (was 1, is 18)
+root.PASA015_Midway_1945.A1_FlightControl.planesReserveAssignment.Bomber changed in second object (was 1, is 21)
+root.PASA015_Midway_1945.A_AirArmament.planesReserveCapacity changed in second object (was 136, is 96)
+root.PJSD012_Shimakaze_1943.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.83, is 2.65)
+root.PJSD012_Shimakaze_1943.B_Hull.visibilityFactor changed in second object (was 7.56, is 7.11)
+root.PXSA005_Hellcarrier.group changed in second object (was event, is disabled)
+root.PASC210_Worcester.A_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASC210_Worcester.A_Artillery.maxDist changed in second object (was 14710.0, is 16710.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_1.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_1.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_1.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_3.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_3.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_3.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_2.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_2.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_2.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_2.pitchDeadZones[0] removed in first object
+root.PASC210_Worcester.A_Artillery.HP_AGM_4.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_4.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_4.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_6.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_6.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_6.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_5.shotDelay changed in second object (was 5.0, is 4.6)
+root.PASC210_Worcester.A_Artillery.HP_AGM_5.antiAirAuraStrength changed in second object (was 0.127, is 0.202)
+root.PASC210_Worcester.A_Artillery.HP_AGM_5.rotationSpeed[1] changed in second object (was 14.8, is 50.0)
+root.PASC210_Worcester.A_Artillery.HP_AGM_5.pitchDeadZones[0] removed in first object
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY004_Fighter, is PCY003_AirDefenseDisp)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PAY524_XP_40S_Cruiser_4, is US_Cruisers)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY012_FighterPremium, is PCY011_AirDefenseDispPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PAY624_XP_40S_Cruiser_4, is US_Cruisers_Gold)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[4] removed in second object
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[5] removed in second object
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was US_Cruisers, is US_10)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was US_Cruisers_Gold, is US_10_PREMIUM)
+root.PXSD005_Blue_Aster.group changed in second object (was event, is disabled)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY019_RLSSearch)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_8, is US_8)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY020_RLSSearchPremium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_8_Premium, is US_8_PREMIUM)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[2][0] changed in second object (was PCY019_RLSSearch, is PCY008_SonarSearch)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[2][1] changed in second object (was US_8, is C_8)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[3][0] changed in second object (was PCY020_RLSSearchPremium, is PCY016_SonarSearchPremium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[3][1] changed in second object (was US_8_PREMIUM, is C_8_Premium)
+root.PASA915_Midway_1945.A1_FlightControl.planesReserveAssignment.Dive changed in second object (was 1, is 21)
+root.PASA915_Midway_1945.A1_FlightControl.planesReserveAssignment.Fighter changed in second object (was 1, is 18)
+root.PASA915_Midway_1945.A1_FlightControl.planesReserveAssignment.Bomber changed in second object (was 1, is 21)
+root.PASA915_Midway_1945.A_AirArmament.planesReserveCapacity changed in second object (was 136, is 96)
+root.PGGM030_203mm_C34.shotDelay changed in second object (was 13.0, is 11.5)
+root.PXSB006_Paris.group changed in second object (was event, is disabled)
+root.PAUH509_MONAGHAN_B removed in first object
+root.PAPT033_MONAGHAN_MK15 removed in first object
+root.PAUT507_MONAGHAN2 removed in first object
+>> finished comparing
