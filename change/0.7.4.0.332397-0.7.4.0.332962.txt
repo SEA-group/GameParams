@@ -1,0 +1,31 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCM038_Spotter_Mod_I.ships[23] removed in second object
+root.PCM038_Spotter_Mod_I.ships[24] removed in second object
+root.PCM038_Spotter_Mod_I.excludes[28] removed in first object
+root.PCM038_Spotter_Mod_I.excludes[29] removed in first object
+root.PCH172_VacuumCleaner.enabled changed in second object (was True, is False)
+root.PGES510_Z_52_BLUE_ASTER.canBuy changed in second object (was True, is False)
+root.PGES510_Z_52_BLUE_ASTER.hidden changed in second object (was False, is True)
+root.PAES410_DESMOINES_GALAXY.canBuy changed in second object (was True, is False)
+root.PAES410_DESMOINES_GALAXY.hidden changed in second object (was False, is True)
+root.PRES410_MOSKVA_AVRORA.canBuy changed in second object (was True, is False)
+root.PRES410_MOSKVA_AVRORA.hidden changed in second object (was False, is True)
+root.PJES110_HAKURYU_HELL.canBuy changed in second object (was True, is False)
+root.PJES110_HAKURYU_HELL.hidden changed in second object (was False, is True)
+root.PAES510_GEARING_FLYFIRE.canBuy changed in second object (was True, is False)
+root.PAES510_GEARING_FLYFIRE.hidden changed in second object (was False, is True)
+root.PCH169_Poekhali.enabled changed in second object (was True, is False)
+root.PGES310_GROSS_ALLDESTROYER.canBuy changed in second object (was True, is False)
+root.PGES310_GROSS_ALLDESTROYER.hidden changed in second object (was False, is True)
+root.PCH170_ShieldsActivation.enabled changed in second object (was True, is False)
+root.PFES310_FRANCE_PARIS.canBuy changed in second object (was True, is False)
+root.PFES310_FRANCE_PARIS.hidden changed in second object (was False, is True)
+root.PCH171_NotSoTroopery.enabled changed in second object (was True, is False)
+root.PJES410_ZAO_ZAYA.canBuy changed in second object (was True, is False)
+root.PJES410_ZAO_ZAYA.hidden changed in second object (was False, is True)
+root.PBES410_MINOTAUR_NORMA.canBuy changed in second object (was True, is False)
+root.PBES410_MINOTAUR_NORMA.hidden changed in second object (was False, is True)
+root.PCH168_OneSmallStepForAMan.enabled changed in second object (was True, is False)
+>> finished comparing
