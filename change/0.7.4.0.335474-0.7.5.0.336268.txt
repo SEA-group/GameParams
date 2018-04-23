@@ -1,0 +1,667 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCQT075.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT075.conditions[2] changed in second object (was <isSpot count="5" target="ships" />, is <isRibbons count="8" ribbons="DETECTED" />)
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.steel removed in first object
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.coal removed in first object
+root.PAUE705_CA8_ENG_STOCK.costCR changed in second object (was 0, is 620000)
+root.PCT154_CAMO_Hunt_15.steel removed in first object
+root.PCT154_CAMO_Hunt_15.coal removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.steel removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.coal removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.steel removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.coal removed in first object
+root.PCT030_RANK_SILVER_07M.steel removed in first object
+root.PCT030_RANK_SILVER_07M.coal removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.steel removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.coal removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.steel removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.coal removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.steel removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.coal removed in first object
+root.PCT076_25_signals_VL.steel removed in first object
+root.PCT076_25_signals_VL.coal removed in first object
+root.PCT096_2017_NY_camo_x100.steel removed in first object
+root.PCT096_2017_NY_camo_x100.coal removed in first object
+root.PAUS706_CA8_STOCK_SUO.costCR changed in second object (was 0, is 550000)
+root.PCQT385.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT385.conditions[2] changed in second object (was <isSpot count="100" target="ships" />, is <isRibbons count="150" ribbons="DETECTED" />)
+root.PASA906_Ranger_1944.A_Hull_1941.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASA906_Ranger_1944.B_Hull_1943.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT142_BDII_14.steel removed in first object
+root.PCT142_BDII_14.coal removed in first object
+root.PAUS704_CL8_STOCK_SUO.costCR changed in second object (was 0, is 550000)
+root.PASC019_Burlington_1944.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT050_LIQUIDATOR.steel removed in first object
+root.PCT050_LIQUIDATOR.coal removed in first object
+root.PCT046_MAINCALIBER.steel removed in first object
+root.PCT046_MAINCALIBER.coal removed in first object
+root.PCT078_5000_freeXP.steel removed in first object
+root.PCT078_5000_freeXP.coal removed in first object
+root.PCT032_RANK_SILVER_09M.steel removed in first object
+root.PCT032_RANK_SILVER_09M.coal removed in first object
+root.PAUH706_CLEVELAND_B.costXP changed in second object (was 0, is 28000)
+root.PAUH706_CLEVELAND_B.costCR changed in second object (was 0, is 2100000)
+root.PASB802_FALSE_ENEMY_Michigan.nationFlagScale changed in second object (was 1.9, is 1.7)
+root.PASC707_Flint.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT074_25_signals_Z.steel removed in first object
+root.PCT074_25_signals_Z.coal removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_16 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_15 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_4.horizSector[0] changed in second object (was -70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_4.horizSector[1] changed in second object (was 70.0, is 158.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_4.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_5.horizSector[0] changed in second object (was -70.0, is 202.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_5.horizSector[1] changed in second object (was 70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_5.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_6.horizSector[0] changed in second object (was -70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_6.horizSector[1] changed in second object (was 70.0, is 158.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_6.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_7.horizSector[0] changed in second object (was -70.0, is 202.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_7.horizSector[1] changed in second object (was 70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_7.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_1.horizSector[0] changed in second object (was -68.0, is 202.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_1.horizSector[1] changed in second object (was 90.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_2.horizSector[0] changed in second object (was -90.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_2.horizSector[1] changed in second object (was 68.0, is 158.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_3.horizSector[0] changed in second object (was -70.0, is 202.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_3.horizSector[1] changed in second object (was 70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_3.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_8.horizSector[0] changed in second object (was -70.0, is 0.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_8.horizSector[1] changed in second object (was 70.0, is 158.0)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_8.deadZone[0] removed in first object
+root.PASC597_Nueve_de_Julio_1951.nationFlagScale changed in second object (was 1.7, is 1.0)
+root.PCT006_HEADBUTT.steel removed in first object
+root.PCT006_HEADBUTT.coal removed in first object
+root.PCT077_10_camo_type5.steel removed in first object
+root.PCT077_10_camo_type5.coal removed in first object
+root.PCT135_BDII_7.steel removed in first object
+root.PCT135_BDII_7.coal removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.steel removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.coal removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.steel removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.coal removed in first object
+root.PCT015_RANK_BATTLE1_20.steel removed in first object
+root.PCT015_RANK_BATTLE1_20.coal removed in first object
+root.PCT075_25_signals_JC.steel removed in first object
+root.PCT075_25_signals_JC.coal removed in first object
+root.PCT073_25_signals_NE7.steel removed in first object
+root.PCT073_25_signals_NE7.coal removed in first object
+root.PCT065_RANK_CAMO_PACK_100.steel removed in first object
+root.PCT065_RANK_CAMO_PACK_100.coal removed in first object
+root.PAUH805_BUFFALO_A.costCR changed in second object (was 0, is 1450000)
+root.PCT138_BDII_10.steel removed in first object
+root.PCT138_BDII_10.coal removed in first object
+root.PAUS606_CA7_TOP_SUO.costXP changed in second object (was 0, is 10200)
+root.PAUS606_CA7_TOP_SUO.costCR changed in second object (was 0, is 820000)
+root.PAUS507_CA6_STOCK_SUO.costCR changed in second object (was 0, is 205000)
+root.PCT056_RANK_ECO_PACK_5_25.steel removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.coal removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.steel removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.coal removed in first object
+root.PCT048_CLEARSKY.steel removed in first object
+root.PCT048_CLEARSKY.coal removed in first object
+root.PCT131_BDII_3.steel removed in first object
+root.PCT131_BDII_3.coal removed in first object
+root.PCT120_CAMO_VALENTINE_15.steel removed in first object
+root.PCT120_CAMO_VALENTINE_15.coal removed in first object
+root.PCT041_AccountLevel9.steel removed in first object
+root.PCT041_AccountLevel9.coal removed in first object
+root.PCT091_4x10_PremiumEquipment.steel removed in first object
+root.PCT091_4x10_PremiumEquipment.coal removed in first object
+root.PCT038_AccountLevel6.steel removed in first object
+root.PCT038_AccountLevel6.coal removed in first object
+root.PASA507_Saipan_1946.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC014_New_Orlean_1944.B_Hull_1944.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC014_New_Orlean_1944.A_Hull_1942.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC014_New_Orlean_1944.group changed in second object (was upgradeable, is preserved)
+root.PCT123_05mln_credits.steel removed in first object
+root.PCT123_05mln_credits.coal removed in first object
+root.PCT042_AccountLevel10.steel removed in first object
+root.PCT042_AccountLevel10.coal removed in first object
+root.PCT143_BDII_15.steel removed in first object
+root.PCT143_BDII_15.coal removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.steel removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.coal removed in first object
+root.PASC005_Omaha_1923.ShipUpgradeInfo.PAUH405_Omaha_1944.nextShips[0] changed in second object (was PASC007_Cleveland_1945, is PASC106_Pensacola_1944)
+root.PAUS508_CA6_TOP_SUO.costXP changed in second object (was 0, is 5500)
+root.PAUS508_CA6_TOP_SUO.costCR changed in second object (was 0, is 440000)
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.steel removed in first object
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.coal removed in first object
+root.PCT031_RANK_SILVER_08M.steel removed in first object
+root.PCT031_RANK_SILVER_08M.coal removed in first object
+root.PCT025_RANK_SILVER_02M.steel removed in first object
+root.PCT025_RANK_SILVER_02M.coal removed in first object
+root.PAUH707_BALTIMORE_A.costCR changed in second object (was 0, is 1000000)
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.steel removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.coal removed in first object
+root.PCT007_FIREPROOF.steel removed in first object
+root.PCT007_FIREPROOF.coal removed in first object
+root.PCT092_PA_1.steel removed in first object
+root.PCT092_PA_1.coal removed in first object
+root.PCT153_CAMO_Commander_Day_15.steel removed in first object
+root.PCT153_CAMO_Commander_Day_15.coal removed in first object
+root.PCT144_BDII_16.steel removed in first object
+root.PCT144_BDII_16.coal removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.steel removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.coal removed in first object
+root.PCT001_Test.steel removed in first object
+root.PCT001_Test.coal removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.steel removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.coal removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.steel removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.coal removed in first object
+root.PCT089_2017_km_reward.steel removed in first object
+root.PCT089_2017_km_reward.coal removed in first object
+root.PCT117_CAMO_REST_FIRE_15.steel removed in first object
+root.PCT117_CAMO_REST_FIRE_15.coal removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.steel removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.coal removed in first object
+root.PCT098_AccountLevel14.steel removed in first object
+root.PCT098_AccountLevel14.coal removed in first object
+root.PCT068_AccountLevel12.steel removed in first object
+root.PCT068_AccountLevel12.coal removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.steel removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.coal removed in first object
+root.PCT033_SILVER_NY_2017.steel removed in first object
+root.PCT033_SILVER_NY_2017.coal removed in first object
+root.PCT026_RANK_SILVER_03M.steel removed in first object
+root.PCT026_RANK_SILVER_03M.coal removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.steel removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.coal removed in first object
+root.PCT114_RANK_CAMO_PACK_15.steel removed in first object
+root.PCT114_RANK_CAMO_PACK_15.coal removed in first object
+root.PCT040_AccountLevel8.steel removed in first object
+root.PCT040_AccountLevel8.coal removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.steel removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.coal removed in first object
+root.PAUS707_CA8_TOP_SUO.costXP changed in second object (was 0, is 15000)
+root.PAUS707_CA8_TOP_SUO.costCR changed in second object (was 0, is 1200000)
+root.PCT159_SonarSearch_Mod_I_5_RDragon.steel removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.coal removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.steel removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.coal removed in first object
+root.PCT140_BDII_12.steel removed in first object
+root.PCT140_BDII_12.coal removed in first object
+root.PCT071_25_signals_IX.steel removed in first object
+root.PCT071_25_signals_IX.coal removed in first object
+root.PAUE804_CA9_ENG_STOCK.costCR changed in second object (was 0, is 875000)
+root.PAUE606_CA7_ENG_STOCK.costCR changed in second object (was 0, is 390000)
+root.PASB018_Iowa_1944.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASB018_Iowa_1944.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT064_RANK_CAMO_PACK_10.steel removed in first object
+root.PCT064_RANK_CAMO_PACK_10.coal removed in first object
+root.PCT070_1mln_credits.steel removed in first object
+root.PCT070_1mln_credits.coal removed in first object
+root.PCT002_DOUBLE_KILL.steel removed in first object
+root.PCT002_DOUBLE_KILL.coal removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.steel removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.coal removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.steel removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.coal removed in first object
+root.PAUS806_CA9_TOP_SUO.costXP changed in second object (was 0, is 24000)
+root.PAUS806_CA9_TOP_SUO.costCR changed in second object (was 0, is 2000000)
+root.PASC507_Indianapolis_1945.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.steel removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.coal removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.steel removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.coal removed in first object
+root.PCT004_DREADNOUGHT.steel removed in first object
+root.PCT004_DREADNOUGHT.coal removed in first object
+root.PCT130_BDII_2.steel removed in first object
+root.PCT130_BDII_2.coal removed in first object
+root.PAUH806_BUFFALO_B.costXP changed in second object (was 0, is 40500)
+root.PAUH806_BUFFALO_B.costCR changed in second object (was 0, is 3020000)
+root.PASC017_Baltimore_1944.B_Hull_1948.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC017_Baltimore_1944.A_Hull_1944.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC017_Baltimore_1944.group changed in second object (was upgradeable, is preserved)
+root.PCT028_RANK_SILVER_05M.steel removed in first object
+root.PCT028_RANK_SILVER_05M.coal removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.steel removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.coal removed in first object
+root.PCT137_BDII_9.steel removed in first object
+root.PCT137_BDII_9.coal removed in first object
+root.PCT102_SpeedBooster_Mod_I.steel removed in first object
+root.PCT102_SpeedBooster_Mod_I.coal removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.steel removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.coal removed in first object
+root.PCT012_RANK_ECO_03.steel removed in first object
+root.PCT012_RANK_ECO_03.coal removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.steel removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.coal removed in first object
+root.PAUH507_PENSACOLA_A.costXP changed in second object (was 1, is 0)
+root.PAUH507_PENSACOLA_A.costCR changed in second object (was 0, is 375000)
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.steel removed in first object
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.coal removed in first object
+root.PCT005_RETRIBUTION.steel removed in first object
+root.PCT005_RETRIBUTION.coal removed in first object
+root.PAUA805_CA9_ART_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PASC206_Dallas.A_Directors.HP_AD_1.miscFilter[0] removed in second object
+root.PASC206_Dallas.A_Directors.HP_AD_8.miscFilter[0] removed in second object
+root.PCT104_Spotter_Mod_I.steel removed in first object
+root.PCT104_Spotter_Mod_I.coal removed in first object
+root.PAUE507_CA6_ENG_STOCK.costCR changed in second object (was 0, is 190000)
+root.PCT036_AccountLevel4.steel removed in first object
+root.PCT036_AccountLevel4.coal removed in first object
+root.PCQT045.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT045.conditions[2] changed in second object (was <isSpot count="10" target="ships" />, is <isRibbons count="15" ribbons="DETECTED" />)
+root.PAUS805_CA9_STOCK_SUO.costCR changed in second object (was 0, is 985000)
+root.PCT039_AccountLevel7.steel removed in first object
+root.PCT039_AccountLevel7.coal removed in first object
+root.PAUA704_CL8_ART_STOCK.costCR changed in second object (was 0, is 730000)
+root.PCQT194_CampaignSB_Mission05_Task04.uiCondition[1] changed in second object (was isSpotShips, is isRibbons)
+root.PCQT194_CampaignSB_Mission05_Task04.conditions[2] changed in second object (was <isSpotShips spotTypes="ship,plane" count="3"/>, is <isRibbons count="5" ribbons="DETECTED" />)
+root.PAUA605_CA7_ART_STOCK.costCR changed in second object (was 0, is 440000)
+root.PASC107_New_Orlean_1944.groupCustom.CN removed in second object
+root.PASC107_New_Orlean_1944.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC107_New_Orlean_1944.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC107_New_Orlean_1944.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC107_New_Orlean_1944.ShipUpgradeInfo.costXP changed in second object (was 0, is 70000)
+root.PASC107_New_Orlean_1944.ShipUpgradeInfo.costCR changed in second object (was 0, is 5570000)
+root.PASC107_New_Orlean_1944.ShipUpgradeInfo.PAUH607_N_ORLEANS_B.nextShips[0] removed in first object
+root.PASC107_New_Orlean_1944.ShipUpgradeInfo.PAUS606_CA7_TOP_SUO.nextShips[0] removed in first object
+root.PCT010_ATBA_CALIBER.steel removed in first object
+root.PCT010_ATBA_CALIBER.coal removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.steel removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.coal removed in first object
+root.PASC209_Seattle.A_Hull.HP_AD_16 removed in second object
+root.PASC209_Seattle.A_Hull.HP_AD_17 removed in second object
+root.PASC209_Seattle.A_Hull.dockYOffset changed in second object (was 0.0, is -0.073)
+root.PASC209_Seattle.B_Hull.dockYOffset changed in second object (was 0.0, is -0.073)
+root.PASC209_Seattle.A_Directors.HP_AD_16 removed in first object
+root.PASC209_Seattle.A_Directors.HP_AD_17 removed in first object
+root.PASC209_Seattle.AB_AirArmament.HP_AC_1.angle changed in second object (was 50.0, is 25.0)
+root.PASC209_Seattle.AB_AirArmament.HP_AC_2.angle changed in second object (was -50.0, is -25.0)
+root.PASB012_North_Carolina_1945.A_Hull_1942.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT095_2017_NY_camo_x17.steel removed in first object
+root.PCT095_2017_NY_camo_x17.coal removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.steel removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.coal removed in first object
+root.PCT051_WARRIOR.steel removed in first object
+root.PCT051_WARRIOR.coal removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.steel removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.coal removed in first object
+root.PASD013_Gearing_1945.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT093_2017_NY_achievementPack_1.steel removed in first object
+root.PCT093_2017_NY_achievementPack_1.coal removed in first object
+root.PCT101_RANK_GOLD_250.steel removed in first object
+root.PCT101_RANK_GOLD_250.coal removed in first object
+root.PCH039_ScienceOfWinning6.events[0][2][1][0] changed in second object (was sendstat, is setstat)
+root.PCT107_SonarSearch_Mod_I.steel removed in first object
+root.PCT107_SonarSearch_Mod_I.coal removed in first object
+root.PASB001_Michigan_1916.nationFlagScale changed in second object (was 1.9, is 1.8)
+root.PCT106_AirDefenseDisp_Mod_I.steel removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.coal removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.steel removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.coal removed in first object
+root.PCT105_CrashCrew_Mod_I.steel removed in first object
+root.PCT105_CrashCrew_Mod_I.coal removed in first object
+root.PCT029_RANK_SILVER_06M.steel removed in first object
+root.PCT029_RANK_SILVER_06M.coal removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.steel removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.coal removed in first object
+root.PASB917_Montana_1945.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.steel removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.coal removed in first object
+root.PCT049_ARSONIST.steel removed in first object
+root.PCT049_ARSONIST.coal removed in first object
+root.PCT097_2017_NY_camo_x50.steel removed in first object
+root.PCT097_2017_NY_camo_x50.coal removed in first object
+root.PAUA507_CA6_ART_STOCK.costCR changed in second object (was 0, is 225000)
+root.PCT027_RANK_SILVER_04M.steel removed in first object
+root.PCT027_RANK_SILVER_04M.coal removed in first object
+root.PCT008_UNSINKABLE.steel removed in first object
+root.PCT008_UNSINKABLE.coal removed in first object
+root.PCT147_06mln_credits.steel removed in first object
+root.PCT147_06mln_credits.coal removed in first object
+root.PCT011_FIRST_BLOOD.steel removed in first object
+root.PCT011_FIRST_BLOOD.coal removed in first object
+root.PCT014_RANK_ECO_05.steel removed in first object
+root.PCT014_RANK_ECO_05.coal removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.steel removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.coal removed in first object
+root.PCT013_RANK_BATTLE1_10.steel removed in first object
+root.PCT013_RANK_BATTLE1_10.coal removed in first object
+root.PCT037_AccountLevel5.steel removed in first object
+root.PCT037_AccountLevel5.coal removed in first object
+root.PCT134_BDII_6.steel removed in first object
+root.PCT134_BDII_6.coal removed in first object
+root.PCT080_PA_3.steel removed in first object
+root.PCT080_PA_3.coal removed in first object
+root.PCNB002.sortOrder changed in second object (was 2, is 3)
+root.PCNB003.sortOrder changed in second object (was 3, is 4)
+root.PCNB004.sortOrder changed in second object (was 4, is 5)
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.steel removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.coal removed in first object
+root.PCT129_BDII_1.steel removed in first object
+root.PCT129_BDII_1.coal removed in first object
+root.PCT132_BDII_4.steel removed in first object
+root.PCT132_BDII_4.coal removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.steel removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.coal removed in first object
+root.PCT108_RLSSearch_Mod_I.steel removed in first object
+root.PCT108_RLSSearch_Mod_I.coal removed in first object
+root.PCT155_CAMO_Victory_15.steel removed in first object
+root.PCT155_CAMO_Victory_15.coal removed in first object
+root.PCT035_AccountLevel3.steel removed in first object
+root.PCT035_AccountLevel3.coal removed in first object
+root.PCT094_2017_NY_achievementPack_2.steel removed in first object
+root.PCT094_2017_NY_achievementPack_2.coal removed in first object
+root.PASC108_Baltimore_1944.groupCustom.CN removed in second object
+root.PASC108_Baltimore_1944.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC108_Baltimore_1944.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC108_Baltimore_1944.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC108_Baltimore_1944.ShipUpgradeInfo.costXP changed in second object (was 0, is 110000)
+root.PASC108_Baltimore_1944.ShipUpgradeInfo.costCR changed in second object (was 0, is 8900000)
+root.PASC108_Baltimore_1944.ShipUpgradeInfo.PAUH708_BALTIMORE_B.nextShips[0] removed in first object
+root.PCQT146.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT146.conditions[2] changed in second object (was <isSpot count="2" target="ships" />, is <isRibbons count="3" ribbons="DETECTED" />)
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.steel removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.coal removed in first object
+root.PAUH705_CLEVELAND_A.costCR changed in second object (was 0, is 1000000)
+root.PASC007_Cleveland_1945.B_Hull_1945.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC007_Cleveland_1945.group changed in second object (was upgradeable, is preserved)
+root.PCT016_RANK_ECO_10_CAM1_20.steel removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.coal removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.steel removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.coal removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.steel removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.coal removed in first object
+root.PASC106_Pensacola_1944.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC106_Pensacola_1944.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC106_Pensacola_1944.groupCustom.CN removed in second object
+root.PASC106_Pensacola_1944.ShipUpgradeInfo.costXP changed in second object (was 0, is 36500)
+root.PASC106_Pensacola_1944.ShipUpgradeInfo.costCR changed in second object (was 0, is 2950000)
+root.PASC106_Pensacola_1944.ShipUpgradeInfo.PAUH508_PENSACOLA_B.nextShips[0] removed in first object
+root.PASC106_Pensacola_1944.nationFlagScale changed in second object (was 1.7, is 1.4)
+root.PCT083_RANK_BATTLE_PACK_2_20.steel removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.coal removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.steel removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.coal removed in first object
+root.PAUH606_N_ORLEANS_A.costCR changed in second object (was 0, is 610000)
+root.PCQT128.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT128.conditions[2] changed in second object (was <isSpot count="3" target="ships" />, is <isRibbons count="5" ribbons="DETECTED" />)
+root.PCQT129.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT129.conditions[2] changed in second object (was <isSpot count="3" target="ships" />, is <isRibbons count="5" ribbons="DETECTED" />)
+root.PCT062_RANK_BATTLE_PACK_1_25.steel removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.coal removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.steel removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.coal removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.steel removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.coal removed in first object
+root.PCT088_AccountLevel13.steel removed in first object
+root.PCT088_AccountLevel13.coal removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.steel removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.coal removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.steel removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.coal removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.steel removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.coal removed in first object
+root.PCT122_CAMO_GAMESCOM_15.steel removed in first object
+root.PCT122_CAMO_GAMESCOM_15.coal removed in first object
+root.PASC012_Pensacola_1944.B_Hull_1944.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC012_Pensacola_1944.group changed in second object (was upgradeable, is preserved)
+root.PASC012_Pensacola_1944.nationFlagScale changed in second object (was 1.7, is 1.4)
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.steel removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.coal removed in first object
+root.PCT072_25_signals_JW1.steel removed in first object
+root.PCT072_25_signals_JW1.coal removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.steel removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.coal removed in first object
+root.PCT034_AccountLevel2.steel removed in first object
+root.PCT034_AccountLevel2.coal removed in first object
+root.PAUA706_CA8_ART_STOCK.costCR changed in second object (was 0, is 730000)
+root.PAUS605_CA7_STOCK_SUO.costCR changed in second object (was 0, is 395000)
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.steel removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.coal removed in first object
+root.PAUE704_CL8_ENG_STOCK.costCR changed in second object (was 0, is 620000)
+root.PASA015_Midway_1945.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.steel removed in first object
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.coal removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.steel removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.coal removed in first object
+root.PAUH708_BALTIMORE_B.costXP changed in second object (was 0, is 28000)
+root.PAUH708_BALTIMORE_B.costCR changed in second object (was 0, is 2100000)
+root.PCT066_RANK_GOLD_1K.steel removed in first object
+root.PCT066_RANK_GOLD_1K.coal removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.steel removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.coal removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.steel removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.coal removed in first object
+root.PCT023_RANK_SILVER_1M.steel removed in first object
+root.PCT023_RANK_SILVER_1M.coal removed in first object
+root.PCT136_BDII_8.steel removed in first object
+root.PCT136_BDII_8.coal removed in first object
+root.PCT111_AccountLevel15.steel removed in first object
+root.PCT111_AccountLevel15.coal removed in first object
+root.PASA508_Enterprise.nationFlagScale changed in second object (was 1.3, is 1.1)
+root.PASA013_Essex_1945.A_Hull_1943.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASA013_Essex_1945.B_Hull_1945.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.steel removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.coal removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.steel removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.coal removed in first object
+root.PASC109_Buffalo.groupCustom.CN removed in second object
+root.PASC109_Buffalo.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC109_Buffalo.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC109_Buffalo.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC109_Buffalo.ShipUpgradeInfo.costXP changed in second object (was 0, is 165000)
+root.PASC109_Buffalo.ShipUpgradeInfo.PAUH806_BUFFALO_B.nextShips[0] removed in first object
+root.PASC109_Buffalo.ShipUpgradeInfo.costCR changed in second object (was 0, is 13600000)
+root.PASA010_Ranger_1944.A_Hull_1941.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASA010_Ranger_1944.B_Hull_1943.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT047_WITHERING.steel removed in first object
+root.PCT047_WITHERING.coal removed in first object
+root.PCT161_April1st2018_DailyReward.steel removed in first object
+root.PCT161_April1st2018_DailyReward.coal removed in first object
+root.PCT069_25_signals_ZH.steel removed in first object
+root.PCT069_25_signals_ZH.coal removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.steel removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.coal removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.steel removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.coal removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.steel removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.coal removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.steel removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.coal removed in first object
+root.PCQT305.uiCondition[1] changed in second object (was isSpot, is isRibbons)
+root.PCQT305.conditions[2] changed in second object (was <isSpot count="6" target="ships" />, is <isRibbons count="10" ribbons="DETECTED" />)
+root.PCT139_BDII_11.steel removed in first object
+root.PCT139_BDII_11.coal removed in first object
+root.PJW018_Yamamoto.Skills.MainGunsRotationModifier.bigGunBonus changed in second object (was 0.7, is 1.0)
+root.PJW018_Yamamoto.Skills.MainGunsRotationModifier.isEpic changed in second object (was False, is True)
+root.PJW018_Yamamoto.Skills.MainGunsRotationModifier.smallGunBonus changed in second object (was 2.5, is 3.0)
+root.PJW018_Yamamoto.Skills.MeticulousPreventionModifier.critProbCoefficient changed in second object (was 0.7, is 0.55)
+root.PJW018_Yamamoto.Skills.MeticulousPreventionModifier.isEpic changed in second object (was False, is True)
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.steel removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.coal removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.steel removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.coal removed in first object
+root.PCT009_DETONATED.steel removed in first object
+root.PCT009_DETONATED.coal removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.steel removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.coal removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.steel removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.coal removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.steel removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.coal removed in first object
+root.PCT003_SUPPORT.steel removed in first object
+root.PCT003_SUPPORT.coal removed in first object
+root.PASC208_Cleveland.permoflages[2] removed in first object
+root.PASC208_Cleveland.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC208_Cleveland.groupCustom.CN removed in second object
+root.PASC208_Cleveland.B_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASC208_Cleveland.group changed in second object (was demoWithoutStats, is upgradeable)
+root.PASC208_Cleveland.ShipUpgradeInfo.costXP changed in second object (was 0, is 110000)
+root.PASC208_Cleveland.ShipUpgradeInfo.costCR changed in second object (was 0, is 8900000)
+root.PCT043_AccountLevel11.steel removed in first object
+root.PCT043_AccountLevel11.coal removed in first object
+root.PASA915_Midway_1945.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PASB705_Texas_1944.A_Hull.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT162_April1st2018_OneTimeReward.steel removed in first object
+root.PCT162_April1st2018_OneTimeReward.coal removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.steel removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.coal removed in first object
+root.PAUH607_N_ORLEANS_B.costXP changed in second object (was 0, is 17800)
+root.PAUH607_N_ORLEANS_B.costCR changed in second object (was 0, is 1300000)
+root.PAUS705_CL8_TOP_SUO.costXP changed in second object (was 0, is 15000)
+root.PAUS705_CL8_TOP_SUO.costCR changed in second object (was 0, is 1200000)
+root.PAUH508_PENSACOLA_B.costXP changed in second object (was 1, is 9800)
+root.PAUH508_PENSACOLA_B.costCR changed in second object (was 0, is 780000)
+root.PCT055_RANK_ECO_PACK_5_10.steel removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.coal removed in first object
+root.PCT103_SmokeGenerator_Mod_I.steel removed in first object
+root.PCT103_SmokeGenerator_Mod_I.coal removed in first object
+root.PASB017_Montana_1945.HullDefault.flagPoleModelName changed in second object (was content/gameplay/common/misc/CM500/CM500.model, is content/gameplay/common/misc/CM520/CM520.model)
+root.PCT141_BDII_13.steel removed in first object
+root.PCT141_BDII_13.coal removed in first object
+root.PCT133_BDII_5.steel removed in first object
+root.PCT133_BDII_5.coal removed in first object
+root.PCNB079 removed in first object
+root.PCNB076 removed in first object
+root.PCZC210_AA_Conduct_Medal removed in first object
+root.PCQM071 removed in first object
+root.PCQM070 removed in first object
+root.PCQM073 removed in first object
+root.PCQM072 removed in first object
+root.PCQM074 removed in first object
+root.PCZC180_AA_New_Orleans removed in first object
+root.PCH184_HelseyCompleted removed in first object
+root.PCQT518_Key removed in first object
+root.PAES408_FREEDOM_CLEVELAND removed in first object
+root.PCZC197_AA_20mm_antiaircraft removed in first object
+root.PCQT528_Key removed in first object
+root.PCZC195_AA_12_7mm_antiaircraft removed in first object
+root.PCZC176_AA_St_Louis removed in first object
+root.PCQT537 removed in first object
+root.PCQT536 removed in first object
+root.PCQT535 removed in first object
+root.PCQT534 removed in first object
+root.PCQT533 removed in first object
+root.PCQT532 removed in first object
+root.PCQT531 removed in first object
+root.PCQT530 removed in first object
+root.PCZC185_AA_Baltimore removed in first object
+root.PCQT511 removed in first object
+root.PCQT510 removed in first object
+root.PCQT513 removed in first object
+root.PCQT512 removed in first object
+root.PCQT515 removed in first object
+root.PCQT514 removed in first object
+root.PCQT516 removed in first object
+root.PCQT519 removed in first object
+root.PCZC179_AA_Salt_Lake_City removed in first object
+root.PCZA009_AmericanArc removed in first object
+root.PCZC190_AA_152mm_mark16 removed in first object
+root.PCZC178_AA_Omaha removed in first object
+root.PCZC194_AA_76mm_antiaircraft removed in first object
+root.PCH183_FillAlbum_AmericanArc removed in first object
+root.PCQT544 removed in first object
+root.PCZC203_AA_Silver_Star removed in first object
+root.PCQT538_Key removed in first object
+root.PCNB102 removed in first object
+root.PCNB101 removed in first object
+root.PCNB100 removed in first object
+root.PCNB107 removed in first object
+root.PCNB106 removed in first object
+root.PCNB105 removed in first object
+root.PCNB109 removed in first object
+root.PCNB108 removed in first object
+root.PCEE191_US_CL_flag removed in first object
+root.PCZC183_AA_Columbia removed in first object
+root.PCNB103 removed in first object
+root.PCZC218_AA_Radarman removed in first object
+root.PCNB104 removed in first object
+root.PCZC200_AA_Medal_of_Honor removed in first object
+root.PCZC192_AA_152mm_universal removed in first object
+root.PCZC207_AA_Purple_Heart removed in first object
+root.PCNB080 removed in first object
+root.PCNB086 removed in first object
+root.PCNB088 removed in first object
+root.PCNB089 removed in first object
+root.PCQT525 removed in first object
+root.PCZC208_AA_Air_Medal removed in first object
+root.PCZC221_AA_Quartermaster removed in first object
+root.PCNB117 removed in first object
+root.PCZC177_AA_Chester removed in first object
+root.PCZC191_AA_152mm_3barrel removed in first object
+root.PCZC182_AA_Atlanta removed in first object
+root.PCZC198_AA_40mm_antiaircraft removed in first object
+root.PAW102_Halsey removed in first object
+root.PCZC202_AA_Service_Medal removed in first object
+root.PCZC204_AA_FLying_Cross removed in first object
+root.PCZC205_AA_Bronze_Star removed in first object
+root.PCZC212_AA_Turret_Captain removed in first object
+root.PCQT509_Key removed in first object
+root.PCZC201_AA_Cross removed in first object
+root.PCQT539 removed in first object
+root.PCZC213_AA_Gunner removed in first object
+root.PCQC010_Halsey removed in first object
+root.PCZC188_AA_127mm_mark5_6 removed in first object
+root.PCZC209_AA_Commendation_Ribbon removed in first object
+root.PCZC215_AA_Torpedo_man removed in first object
+root.PCZC222_AA_Storekeeper removed in first object
+root.PCZC214_AA_FIrecontrol_man removed in first object
+root.PCEC058_American_Arc removed in first object
+root.PCZC193_AA_152mm_universal_mark32 removed in first object
+root.PCZC223_AA_Musician removed in first object
+root.PCQT527 removed in first object
+root.PCZC211_AA_Expeditionary_Medal removed in first object
+root.PCQT549_Key removed in first object
+root.PCQT524 removed in first object
+root.PCQT526 removed in first object
+root.PCQT520 removed in first object
+root.PCQT521 removed in first object
+root.PCQT522 removed in first object
+root.PCQT523 removed in first object
+root.PCQT529 removed in first object
+root.PCQT508 removed in first object
+root.PCQT506 removed in first object
+root.PCQT507 removed in first object
+root.PCQT504 removed in first object
+root.PCQT505 removed in first object
+root.PCQT502 removed in first object
+root.PCQT503 removed in first object
+root.PCQT501 removed in first object
+root.PCQT517 removed in first object
+root.PCZC187_AA_Des_Moines removed in first object
+root.PCZC220_AA_Machinist removed in first object
+root.PCH185_HelseyCompletedExcellent removed in first object
+root.PCZC199_AA_76mm_antiaircraft_mark33 removed in first object
+root.PCNB097 removed in first object
+root.PCZC216_AA_Aviation_pilot removed in first object
+root.PCNB099 removed in first object
+root.PCZC217_AA_Ordinanceman removed in first object
+root.PCQT542 removed in first object
+root.PCQT543 removed in first object
+root.PCQT540 removed in first object
+root.PCQT541 removed in first object
+root.PCQT546 removed in first object
+root.PCQT547 removed in first object
+root.PCQT545 removed in first object
+root.PCQT548 removed in first object
+root.PCZC219_AA_Signalman removed in first object
+root.PCZC206_AA_Marine_Corps removed in first object
+root.PCZC196_AA_28mm_antiaircraft removed in first object
+root.PCNB110 removed in first object
+root.PCNB111 removed in first object
+root.PCNB112 removed in first object
+root.PCNB113 removed in first object
+root.PCNB114 removed in first object
+root.PCNB115 removed in first object
+root.PCNB116 removed in first object
+root.PCZC181_AA_Helena removed in first object
+root.PCZC189_AA_152mm_mark6 removed in first object
+root.PCZC184_AA_Cleveland removed in first object
+root.PCNB095 removed in first object
+root.PCNB094 removed in first object
+root.PCNB096 removed in first object
+root.PCNB091 removed in first object
+root.PCNB090 removed in first object
+root.PCNB093 removed in first object
+root.PCNB092 removed in first object
+root.PCNB098 removed in first object
+root.PCNB087 removed in first object
+root.PCZC186_AA_Worcester removed in first object
+>> finished comparing
