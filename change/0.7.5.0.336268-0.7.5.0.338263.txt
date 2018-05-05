@@ -1,0 +1,177 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PFES308_Richelieu_Repub.canBuy changed in second object (was True, is False)
+root.PFES308_Richelieu_Repub.hidden changed in second object (was False, is True)
+root.PCQT518_Key.rewards[1] removed in first object
+root.PCQT518_Key.costUnlock changed in second object (was 10, is 5)
+root.PCQT518_Key.conditions[2] changed in second object (was <isTotalXP count="25000" />, is <isTotalXP count="250" />)
+root.PCQT528_Key.costUnlock changed in second object (was 12, is 5)
+root.PCQT528_Key.conditions[2] changed in second object (was <isTotalXP count="30000" />, is <isTotalXP count="300" />)
+root.PCQT537.conditions[1] changed in second object (was <isBattleType battleTypes="PVP"/>, is <isBattleType battleTypes="PVP,COOPERATIVE"/>)
+root.PCQT537.conditions[3] changed in second object (was <isDamage count="500000" nation="Germany"/>, is <isDamage count="500" nation="Germany"/>)
+root.PCQT536.lootStars changed in second object (was 3, is 4)
+root.PCQT536.conditions[1] changed in second object (was <isBattleType battleTypes="PVP"/>, is <isBattleType battleTypes="PVP,COOPERATIVE"/>)
+root.PCQT536.conditions[3] changed in second object (was <isDamage count="500000" nation="Japan"/>, is <isDamage count="500" nation="Japan"/>)
+root.PCQT535.lootStars changed in second object (was 2, is 5)
+root.PCQT535.conditions[1] changed in second object (was <isBattleType battleTypes="PVP"/>, is <isBattleType battleTypes="PVP,COOPERATIVE"/>)
+root.PCQT535.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT535.conditions[4] changed in second object (was <isModuleHits count="12" />, is <isModuleHits count="1" />)
+root.PCQT533.lootStars changed in second object (was 1, is 5)
+root.PCQT533.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT533.conditions[2] changed in second object (was <isDamage count="1000000" nation="Japan,Germany"/>, is <isDamage count="1000" nation="Japan,Germany"/>)
+root.PCQT532.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT531.lootStars changed in second object (was 1, is 5)
+root.PCQT531.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT530.lootStars changed in second object (was 1, is 3)
+root.PCQT530.conditions[2] changed in second object (was <isTotalCredits count="4500000" />, is <isTotalCredits count="4500" />)
+root.PVD006_Director_Mk7 removed in second object
+root.PCQT511.rewards[1] removed in first object
+root.PCQT511.lootStars changed in second object (was 1, is 2)
+root.PCQT511.conditions[2] changed in second object (was <isTotalCredits count="3000000" />, is <isTotalCredits count="30000" />)
+root.PCQT510.rewards[1] removed in first object
+root.PCQT510.lootStars changed in second object (was 1, is 2)
+root.PCQT510.conditions[2] changed in second object (was <isTotalCrewXP count="60000" />, is <isTotalCrewXP count="600" />)
+root.PCQT513.rewards[1] removed in first object
+root.PCQT513.lootStars changed in second object (was 1, is 4)
+root.PCQT513.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT513.conditions[4] changed in second object (was <isRibbons count="1" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>, is <isRibbons count="1" ribbons="BURN, FLOOD"/>)
+root.PCQT512.rewards[1] removed in first object
+root.PCQT512.lootStars changed in second object (was 1, is 3)
+root.PCQT512.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT512.conditions[2] changed in second object (was <isRibbons count="20" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />, is <isRibbons count="2" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />)
+root.PCQT515.rewards[2] removed in first object
+root.PCQT515.lootStars changed in second object (was 2, is 4)
+root.PCQT515.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT515.conditions[2] changed in second object (was <isRibbons count="120" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>, is <isRibbons count="3" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>)
+root.PCQT514.rewards[1] removed in first object
+root.PCQT514.lootStars changed in second object (was 1, is 4)
+root.PCQT514.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT514.conditions[3] changed in second object (was <isTopXP rank="7" topType="team"/>, is <isTopXP rank="6" topType="team"/>)
+root.PCQT514.conditions[4] changed in second object (was <isDamage count="12000" damageTypes="fire,flood"/>, is <isDamage count="1200" damageTypes="fire,flood"/>)
+root.PCQT516.rewards[1] removed in first object
+root.PCQT516.lootStars changed in second object (was 2, is 4)
+root.PCQT516.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT516.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="4" topType="team"/>)
+root.PCQT516.conditions[4] changed in second object (was <isScoutingDamage count="50000" />, is <isScoutingDamage count="500" />)
+root.PCQT519.rewards[1] removed in first object
+root.PCQT519.lootStars changed in second object (was 1, is 2)
+root.PCQT519.conditions[2] changed in second object (was <isTotalCrewXP count="75000" />, is <isTotalCrewXP count="750" />)
+root.PCOW012_Night_Logic.logic1.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic2.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic3.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic4.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic5.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic6.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic7.bad changed in second object (was 1.0, is None)
+root.PCOW012_Night_Logic.logic8.bad changed in second object (was 1.0, is None)
+root.PCQT544.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT544.conditions[2] changed in second object (was <isRibbons count="2000"/>, is <isRibbons count="20"/>)
+root.PCQT538_Key.costUnlock changed in second object (was 12, is 5)
+root.PCQT538_Key.conditions[2] changed in second object (was <isTotalXP count="35000" />, is <isTotalXP count="350" />)
+root.PFES318_Richelieu_Royal.canBuy changed in second object (was True, is False)
+root.PFES318_Richelieu_Royal.hidden changed in second object (was False, is True)
+root.PCQT525.rewards[1] removed in first object
+root.PCQT525.lootStars changed in second object (was 2, is 5)
+root.PCQT525.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT525.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT525.conditions[4] changed in second object (was <isKillPlanes count="12" />, is <isKillPlanes count="2" />)
+root.PFES328_Gascogne_Repub.canBuy changed in second object (was True, is False)
+root.PFES328_Gascogne_Repub.hidden changed in second object (was False, is True)
+root.PCQT509_Key.rewards[0] changed in second object (was <Lootbox boxType="american_arc" count="1" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />)
+root.PCQT509_Key.costUnlock changed in second object (was 9, is 3)
+root.PCQT509_Key.conditions[2] changed in second object (was <isTotalXP count="20000" />, is <isTotalXP count="200" />)
+root.PCQT539.lootStars changed in second object (was 1, is 5)
+root.PCQT539.conditions[2] changed in second object (was <isTotalCrewXP count="100000" />, is <isTotalCrewXP count="100" />)
+root.PCQT549_Key.rewards[0] changed in second object (was <Crew shipId="PASC001_Erie_1936" level="15" crewId="PAW102_Halsey"/>, is <Add type="CREDITS" count="200000"/>)
+root.PCQT549_Key.rewards[1] changed in second object (was <Add type="CREDITS" count="200000"/>, is <Add type="ELITE_XP" count="50000"/>)
+root.PCQT549_Key.rewards[2] changed in second object (was <Add type="ELITE_XP" count="50000"/>, is <DogTag idx="PCNB080"/> )
+root.PCQT549_Key.rewards[3] removed in second object
+root.PCQT549_Key.rewards[4] removed in second object
+root.PCQT549_Key.rewards[5] removed in second object
+root.PCQT549_Key.rewards[6] removed in second object
+root.PCQT549_Key.costUnlock changed in second object (was 15, is 8)
+root.PCQT549_Key.conditions[2] changed in second object (was <isTotalXP count="50000" />, is <isTotalXP count="500" />)
+root.PCQT524.lootStars changed in second object (was 2, is 5)
+root.PCQT520.rewards[1] removed in first object
+root.PCQT520.lootStars changed in second object (was 1, is 2)
+root.PCQT520.conditions[2] changed in second object (was <isTotalCredits count="4000000" />, is <isTotalCredits count="4000" />)
+root.PCQT521.rewards[1] removed in first object
+root.PCQT521.lootStars changed in second object (was 1, is 2)
+root.PCQT521.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT521.conditions[2] changed in second object (was <isCitadelHits count="50" />, is <isCitadelHits count="2" />)
+root.PCQT522.rewards[1] removed in first object
+root.PCQT522.lootStars changed in second object (was 1, is 5)
+root.PCQT522.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT522.conditions[2] changed in second object (was <isPotentialDamage count="1250000"/>, is <isPotentialDamage count="1250"/>)
+root.PCQT523.lootStars changed in second object (was 1, is 5)
+root.PCQT529.lootStars changed in second object (was 1, is 4)
+root.PCQT529.conditions[2] changed in second object (was <isTotalCrewXP count="85000" />, is <isTotalCrewXP count="850" />)
+root.PCQT508.rewards[1] removed in first object
+root.PCQT508.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT508.conditions[3] changed in second object (was <isBattleCount count="6" />, is <isBattleCount count="2" />)
+root.PCQT506.rewards[1] removed in first object
+root.PCQT506.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT506.conditions[3] changed in second object (was <isDamage count="150000"/>, is <isDamage count="15000"/>)
+root.PCQT507.rewards[1] removed in first object
+root.PCQT507.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT507.conditions[4] changed in second object (was <isKillShips count="2" class="Destroyer" />, is <isKillShips count="1" class="Destroyer" />)
+root.PCQT504.rewards[1] removed in first object
+root.PCQT504.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT505.rewards[1] removed in first object
+root.PCQT505.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT505.conditions[3] changed in second object (was <isBattleCount count="18" />, is <isBattleCount count="2" />)
+root.PCQT502.rewards[1] removed in first object
+root.PCQT502.lootStars changed in second object (was 1, is 2)
+root.PCQT502.conditions[2] changed in second object (was <isTotalCredits count="2500000" />, is <isTotalCredits count="250" />)
+root.PCQT503.rewards[1] removed in first object
+root.PCQT503.lootStars changed in second object (was 1, is 2)
+root.PCQT503.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT501.rewards[1] removed in first object
+root.PCQT501.rewards[2] removed in first object
+root.PCQT501.rewards[3] removed in first object
+root.PCQT501.rewards[4] removed in first object
+root.PCQT501.rewards[5] removed in first object
+root.PCQT501.rewards[6] removed in first object
+root.PCQT501.rewards[7] removed in first object
+root.PCQT501.rewards[8] removed in first object
+root.PCQT501.rewards[9] removed in first object
+root.PCQT501.rewards[10] removed in first object
+root.PCQT501.rewards[11] removed in first object
+root.PCQT501.rewards[12] removed in first object
+root.PCQT501.lootStars changed in second object (was 1, is 2)
+root.PCQT501.conditions[2] changed in second object (was <isTotalCrewXP count="50000" />, is <isTotalCrewXP count="500" />)
+root.PBW101_Dunk_Capn.Skills.AdditionalSmokescreensModifier.isEpic changed in second object (was False, is True)
+root.PCQT517.rewards[1] removed in first object
+root.PCQT517.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT517.conditions[3] changed in second object (was <isTopXP rank="1" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT517.conditions[4] changed in second object (was <isRibbons count="12" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>, is <isRibbons count="2" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>)
+root.PCQT542.lootStars changed in second object (was 1, is 3)
+root.PCQT542.conditions[2] changed in second object (was <isKillPlanes count="250" />, is <isKillPlanes count="10" />)
+root.PCQT543.lootStars changed in second object (was 1, is 3)
+root.PCQT540.lootStars changed in second object (was 1, is 2)
+root.PCQT540.conditions[2] changed in second object (was <isTotalCredits count="5000000" />, is <isTotalCredits count="5000" />)
+root.PCQT541.lootStars changed in second object (was 1, is 3)
+root.PCQT541.conditions[2] changed in second object (was <isWeaponHits count="100" weaponTypes="tbomber"/>, is <isWeaponHits count="2" weaponTypes="tbomber"/>)
+root.PCQT548.conditions[1] changed in second object (was <isBattleType battleTypes="PVP" />, is <isBattleType battleTypes="PVP,COOPERATIVE" />)
+root.PCQT548.conditions[2] changed in second object (was <isTotalCredits count="10000000 " />, is <isTotalCredits count="1000 " />)
+root.PFES338_Gascogne_Royal.canBuy changed in second object (was True, is False)
+root.PFES338_Gascogne_Royal.hidden changed in second object (was False, is True)
+root.PCEC057_AzurLane removed in first object
+root.PBW301_Azur_Belfast removed in first object
+root.PRW301_Azur_Aurora removed in first object
+root.PCEE189_AzurLaneLogo removed in first object
+root.PRW003_RusCap removed in first object
+root.PAW103_UsaCap removed in first object
+root.PCEE196_AzurHipper_flag removed in first object
+root.PAW302_Azur_Enterprise removed in first object
+root.PAW301_Azur_Cleveland removed in first object
+root.PGW102_GerCapPrem removed in first object
+root.PFW102_France_Cap_Prem removed in first object
+root.PBW303_Azur_Nelson removed in first object
+root.PGW101_GerCap removed in first object
+root.PBW302_Azur_Hood removed in first object
+root.PCEE188_manjuu removed in first object
+root.PBW102_UKCap removed in first object
+root.PGW301_Azur_Hipper removed in first object
+>> finished comparing
