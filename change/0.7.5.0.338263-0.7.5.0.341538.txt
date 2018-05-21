@@ -1,0 +1,68 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASD506_Monaghan.ShipAbilities.AbilitySlot3.abils[2] removed in first object
+root.PASD506_Monaghan.ShipAbilities.AbilitySlot3.abils[3] removed in first object
+root.PJSC004_Yubari_1944.groupCustom.EU removed in second object
+root.PJSC004_Yubari_1944.groupCustom.NA removed in second object
+root.PJSC004_Yubari_1944.groupCustom.RU removed in second object
+root.PJSC004_Yubari_1944.groupCustom.ASIA removed in second object
+root.PFSB506_Dunkerque_1940.group changed in second object (was special, is premium)
+root.PFSB506_Dunkerque_1940.groupCustom.CN removed in first object
+root.PFSB506_Dunkerque_1940.groupCustom.PT removed in first object
+root.PAGM179_6in47_Triple.shotDelay changed in second object (was 7.0, is 6.5)
+root.PCQT515.conditions[2] changed in second object (was <isRibbons count="3" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>, is <isRibbons count="3" ribbons="BURN, FLOOD"/>)
+root.PASB518_Massachusetts.group changed in second object (was special, is demoWithoutStats)
+root.PCZA009_AmericanArc.subAlbumDiscribtions[3][0] changed in second object (was IDS_THIRD_AMERICAN_ARCSUBCOLLECTION_NAME, is IDS_FOURTH_AMERICAN_ARCSUBCOLLECTION_NAME)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was B, is C)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was B_Gold, is C_Gold)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot0.abils[0][1] changed in second object (was B_RUS, is CV_CA_CL)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot0.abils[1][1] changed in second object (was B_RUS_Gold, is CV_CA_CL_Gold)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_1.shotDelay changed in second object (was 7.0, is 6.5)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_3.shotDelay changed in second object (was 7.0, is 6.5)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_2.shotDelay changed in second object (was 7.0, is 6.5)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_4.shotDelay changed in second object (was 7.0, is 6.5)
+root.PCY018_TorpedoReloaderPremium.Monaghan_style_premium removed in first object
+root.PRPA082_305MM_AP_STALINGRAD.bulletDetonator changed in second object (was 0.022, is 0.033)
+root.PCY017_TorpedoReloader.Monaghan_style removed in first object
+root.PRSD505_Okhotnik_1917.group changed in second object (was special, is premium)
+root.PRSD505_Okhotnik_1917.groupCustom.CN removed in first object
+root.PRSD505_Okhotnik_1917.groupCustom.PT removed in first object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was special, is premium)
+root.PJSB008_Ishizuchi_1921.groupCustom.CN removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.PT removed in first object
+root.PBPT012_533_COSSACK.costCR changed in second object (was 400, is 250)
+root.PCQT503.conditions[4] removed in first object
+root.PASC109_Buffalo.A_Hull.visibilityCoefGKInSmoke changed in second object (was 7.6, is 7.98)
+root.PASC109_Buffalo.A_Hull.visibilityFactor changed in second object (was 13.14, is 13.62)
+root.PCQT517.conditions[4] changed in second object (was <isRibbons count="2" ribbons="RIBBON_BURN, RIBBON_FLOOD"/>, is <isRibbons count="2" ribbons="BURN, FLOOD"/>)
+root.PGSB507_Scharnhorst.group changed in second object (was special, is premium)
+root.PGSB507_Scharnhorst.groupCustom.CN removed in second object
+root.PGSB507_Scharnhorst.groupCustom.PT removed in first object
+root.PJSB506_Mutsu.group changed in second object (was special, is premium)
+root.PJSB506_Mutsu.groupCustom.CN removed in first object
+root.PJSB506_Mutsu.groupCustom.PT removed in first object
+root.PASC006_Atlanta_1942.group changed in second object (was special, is premium)
+root.PASC006_Atlanta_1942.groupCustom.CN removed in second object
+root.PASC006_Atlanta_1942.groupCustom.PT removed in first object
+root.PCM062_Special_Mod_I_Hakuryu removed in first object
+root.PCM056_Special_Mod_I_Z_52 removed in first object
+root.PCM058_Special_Mod_I_Gearing removed in first object
+root.PCM045_Special_Mod_I_GKurfurst removed in first object
+root.PCM044_Special_Mod_I_Republique removed in first object
+root.PCM047_Special_Mod_I_Montana removed in first object
+root.PCM054_Special_Mod_I_Moskva removed in first object
+root.PCM049_Special_Mod_I_Hindenburg removed in first object
+root.PCM050_Special_Mod_I_Henri_IV removed in first object
+root.PCM048_Special_Mod_I_Zao removed in first object
+root.PCM043_Special_Mod_I_Conqueror removed in first object
+root.PCM046_Special_Mod_I_Yamato removed in first object
+root.PCM055_Special_Mod_I_Khabarovsk removed in first object
+root.PCM057_Special_Mod_I_Shimakaze removed in first object
+root.PCM052_Special_Mod_I_Des_Moines removed in first object
+root.PCM061_Special_Mod_I_Midway removed in first object
+root.PCM059_Special_Mod_I_Yueyang removed in first object
+root.PCM060_Special_Mod_I_Grozovoi removed in first object
+root.PCM053_Special_Mod_I_Worcester removed in first object
+root.PCM051_Special_Mod_I_Minotaur removed in first object
+>> finished comparing

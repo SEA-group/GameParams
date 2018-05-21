@@ -702,10 +702,10 @@
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
     "3668883440": {
-        "en": "IDS_PASC597", 
+        "en": "Boise", 
         "id": 3668883440, 
         "index": "PASC597", 
-        "ja_jp": "IDS_PASC597", 
+        "ja_jp": "Boise", 
         "level": 7, 
         "name": "PASC597_Nueve_de_Julio_1951", 
         "nation": "USA", 
@@ -754,10 +754,10 @@
         "zh_tw": "\u99ac\u85a9\u8af8\u585e\u865f"
     }, 
     "3752736720": {
-        "en": "IDS_PBSD517", 
+        "en": "Cossack", 
         "id": 3752736720, 
         "index": "PBSD517", 
-        "ja_jp": "IDS_PBSD517", 
+        "ja_jp": "Cossack", 
         "level": 7, 
         "name": "PBSD517_Cossack", 
         "nation": "United_Kingdom", 
@@ -793,10 +793,10 @@
         "zh_tw": "\u74e6\u826f\u683c\u865f"
     }, 
     "3760109008": {
-        "en": "IDS_PRSC510", 
+        "en": "Stalingrad", 
         "id": 3760109008, 
         "index": "PRSC510", 
-        "ja_jp": "IDS_PRSC510", 
+        "ja_jp": "Stalingrad", 
         "level": 10, 
         "name": "PRSC510_Stalingrad", 
         "nation": "Russia", 
@@ -1495,10 +1495,10 @@
         "zh_tw": "\u96f7\u66b4\u7d1a"
     }, 
     "4074682352": {
-        "en": "IDS_PASC210", 
+        "en": "Worcester", 
         "id": 4074682352, 
         "index": "PASC210", 
-        "ja_jp": "IDS_PASC210", 
+        "ja_jp": "Worcester", 
         "level": 10, 
         "name": "PASC210_Worcester", 
         "nation": "USA", 
@@ -1521,10 +1521,10 @@
         "zh_tw": "\u5915\u96f2\u578b"
     }, 
     "4075730928": {
-        "en": "IDS_PASC209", 
+        "en": "Seattle", 
         "id": 4075730928, 
         "index": "PASC209", 
-        "ja_jp": "IDS_PASC209", 
+        "ja_jp": "Seattle", 
         "level": 9, 
         "name": "PASC209_Seattle", 
         "nation": "USA", 
@@ -1560,17 +1560,17 @@
         "zh_tw": "\u967d\u708e\u578b"
     }, 
     "4076779504": {
-        "en": "Columbia", 
+        "en": "Cleveland", 
         "id": 4076779504, 
         "index": "PASC208", 
-        "ja_jp": "Columbia", 
+        "ja_jp": "Cleveland", 
         "level": 8, 
         "name": "PASC208_Cleveland", 
         "nation": "USA", 
         "ru": "IDS_PASC208", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC208", 
-        "zh_tw": "IDS_PASC208"
+        "zh_cn": "\u54e5\u4f26\u5e03", 
+        "zh_tw": "\u54e5\u502b\u5e03\u865f"
     }, 
     "4077794768": {
         "en": "Minsk", 
@@ -1599,10 +1599,10 @@
         "zh_tw": "\u767d\u9732\u578b"
     }, 
     "4077828080": {
-        "en": "IDS_PASC207", 
+        "en": "Helena", 
         "id": 4077828080, 
         "index": "PASC207", 
-        "ja_jp": "IDS_PASC207", 
+        "ja_jp": "Helena", 
         "level": 7, 
         "name": "PASC207_Helena", 
         "nation": "USA", 
@@ -1638,10 +1638,10 @@
         "zh_tw": "\u521d\u6625\u578b"
     }, 
     "4078876656": {
-        "en": "IDS_PASC206", 
+        "en": "Dallas", 
         "id": 4078876656, 
         "index": "PASC206", 
-        "ja_jp": "IDS_PASC206", 
+        "ja_jp": "Dallas", 
         "level": 6, 
         "name": "PASC206_Dallas", 
         "nation": "USA", 
@@ -1894,8 +1894,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC109", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC109", 
-        "zh_tw": "IDS_PASC109"
+        "zh_cn": "\u5e03\u6cd5\u7f57", 
+        "zh_tw": "\u5e03\u6cd5\u7f85\u865f"
     }, 
     "4180621104": {
         "en": "F. der Gro\u00dfe", 
@@ -2041,17 +2041,17 @@
         "zh_tw": "\u611b\u4e01\u5821\u7d1a"
     }, 
     "4181637104": {
-        "en": "Pittsburgh", 
+        "en": "Baltimore", 
         "id": 4181637104, 
         "index": "PASC108", 
-        "ja_jp": "Pittsburgh", 
+        "ja_jp": "Baltimore", 
         "level": 8, 
         "name": "PASC108_Baltimore_1944", 
         "nation": "USA", 
         "ru": "IDS_PASC108", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC108", 
-        "zh_tw": "IDS_PASC108"
+        "zh_cn": "\u5339\u5179\u5821", 
+        "zh_tw": "\u5339\u8332\u5821\u865f"
     }, 
     "4181669680": {
         "en": "Bismarck", 
@@ -2197,17 +2197,17 @@
         "zh_tw": "\u6590\u6fdf\u7d1a"
     }, 
     "4182685680": {
-        "en": "Astoria", 
+        "en": "New Orleans", 
         "id": 4182685680, 
         "index": "PASC107", 
-        "ja_jp": "Astoria", 
+        "ja_jp": "New Orleans", 
         "level": 7, 
         "name": "PASC107_New_Orlean_1944", 
         "nation": "USA", 
         "ru": "IDS_PASC107", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC107", 
-        "zh_tw": "IDS_PASC107"
+        "zh_cn": "\u963f\u65af\u6258\u5229\u4e9a", 
+        "zh_tw": "\u963f\u65af\u6258\u5229\u4e9e\u865f"
     }, 
     "4182718256": {
         "en": "Gneisenau", 
@@ -2353,17 +2353,17 @@
         "zh_tw": "\u5229\u5b89\u5fb7\u7d1a"
     }, 
     "4183734256": {
-        "en": "Salt Lake City", 
+        "en": "Pensacola", 
         "id": 4183734256, 
         "index": "PASC106", 
-        "ja_jp": "Salt Lake City", 
+        "ja_jp": "Pensacola", 
         "level": 6, 
         "name": "PASC106_Pensacola_1944", 
         "nation": "USA", 
         "ru": "IDS_PASC106", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC106", 
-        "zh_tw": "IDS_PASC106"
+        "zh_cn": "\u76d0\u6e56\u57ce", 
+        "zh_tw": "\u9e7d\u6e56\u57ce\u865f"
     }, 
     "4183766832": {
         "en": "Bayern", 
@@ -3367,10 +3367,10 @@
         "zh_tw": "\u795e\u98a8\u578b H"
     }, 
     "4277057520": {
-        "en": "Baltimore", 
+        "en": "Baltimore (old)", 
         "id": 4277057520, 
         "index": "PASC017", 
-        "ja_jp": "Baltimore", 
+        "ja_jp": "Baltimore (old)", 
         "level": 9, 
         "name": "PASC017_Baltimore_1944", 
         "nation": "USA", 
@@ -3510,10 +3510,10 @@
         "zh_tw": "\u5317\u4e0a\u865f"
     }, 
     "4280203248": {
-        "en": "New Orleans", 
+        "en": "New Orleans (old)", 
         "id": 4280203248, 
         "index": "PASC014", 
-        "ja_jp": "New Orleans", 
+        "ja_jp": "New Orleans (old)", 
         "level": 8, 
         "name": "PASC014_New_Orlean_1944", 
         "nation": "USA", 
@@ -3614,10 +3614,10 @@
         "zh_tw": "\u4f0a\u5439\u578b"
     }, 
     "4282300400": {
-        "en": "Pensacola", 
+        "en": "Pensacola (old)", 
         "id": 4282300400, 
         "index": "PASC012", 
-        "ja_jp": "Pensacola", 
+        "ja_jp": "Pensacola (old)", 
         "level": 7, 
         "name": "PASC012_Pensacola_1944", 
         "nation": "USA", 
@@ -3857,8 +3857,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSC007", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PXSC007", 
-        "zh_tw": "IDS_PXSC007"
+        "zh_cn": "\u6781\u5149", 
+        "zh_tw": "\u6975\u5149 (Aurora)"
     }, 
     "4287542992": {
         "en": "Aoba", 
@@ -3874,10 +3874,10 @@
         "zh_tw": "\u9752\u8449\u578b"
     }, 
     "4287543280": {
-        "en": "Cleveland", 
+        "en": "Cleveland (old)", 
         "id": 4287543280, 
         "index": "PASC007", 
-        "ja_jp": "Cleveland", 
+        "ja_jp": "Cleveland (old)", 
         "level": 6, 
         "name": "PASC007_Cleveland_1945", 
         "nation": "USA", 
@@ -3896,8 +3896,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSB007", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PXSB007", 
-        "zh_tw": "IDS_PXSB007"
+        "zh_cn": "\u5168\u80fd\u9a71\u9010\u8005", 
+        "zh_tw": "\u5168\u80fd\u9a45\u9010\u8005 (Alldestroyer)"
     }, 
     "4287575760": {
         "en": "Kongo", 
@@ -3961,8 +3961,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSC006", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PXSC006", 
-        "zh_tw": "IDS_PXSC006"
+        "zh_cn": "\u89c4\u5219", 
+        "zh_tw": "\u898f\u5247 (Norma)"
     }, 
     "4288591856": {
         "en": "Atlanta", 
@@ -3987,8 +3987,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSB006", 
         "species": "Battleship", 
-        "zh_cn": "IDS_PXSB006", 
-        "zh_tw": "IDS_PXSB006"
+        "zh_cn": "\u5df4\u9ece", 
+        "zh_tw": "\u5df4\u9ece (Paris)"
     }, 
     "4288624336": {
         "en": "Fuso", 
@@ -4065,8 +4065,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSD005", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PXSD005", 
-        "zh_tw": "IDS_PXSD005"
+        "zh_cn": "\u84dd\u7fe0\u83ca", 
+        "zh_tw": "\u85cd\u7fe0\u83ca (Blue Aster)"
     }, 
     "4289607376": {
         "en": "Mutsuki (old)", 
@@ -4104,8 +4104,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSC005", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PXSC005", 
-        "zh_tw": "IDS_PXSC005"
+        "zh_cn": "\u624e\u96c5", 
+        "zh_tw": "\u624e\u96c5 (Zaya)"
     }, 
     "4289640144": {
         "en": "Furutaka", 
@@ -4156,8 +4156,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSA005", 
         "species": "AirCarrier", 
-        "zh_cn": "IDS_PXSA005", 
-        "zh_tw": "IDS_PXSA005"
+        "zh_cn": "\u5730\u72f1\u642c\u8fd0\u8005", 
+        "zh_tw": "\u5730\u7344\u642c\u904b\u8005 (Hellcarrier)"
     }, 
     "4290655504": {
         "en": "FlyFire", 
@@ -4169,8 +4169,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSD004", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PXSD004", 
-        "zh_tw": "IDS_PXSD004"
+        "zh_cn": "\u8424\u706b\u866b", 
+        "zh_tw": "\u87a2\u706b\u87f2 (FlyFire)"
     }, 
     "4290655952": {
         "en": "Minekaze", 
@@ -4195,8 +4195,8 @@
         "nation": "Events", 
         "ru": "IDS_PXSC004", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PXSC004", 
-        "zh_tw": "IDS_PXSC004"
+        "zh_cn": "\u94f6\u6cb3", 
+        "zh_tw": "\u9280\u6cb3 (Galaxy)"
     }, 
     "4290688720": {
         "en": "Y\u016bbari", 
