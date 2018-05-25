@@ -727,6 +727,19 @@
         "zh_cn": "\u7ea6\u514b\u516c\u7235", 
         "zh_tw": "\u7d04\u514b\u516c\u7235\u865f"
     }, 
+    "3749623248": {
+        "en": "IDS_PRSC520", 
+        "id": 3749623248, 
+        "index": "PRSC520", 
+        "ja_jp": "IDS_PRSC520", 
+        "level": 10, 
+        "name": "PRSC520_Stalingrad", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC520", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC520", 
+        "zh_tw": "IDS_PRSC520"
+    }, 
     "3751687888": {
         "en": "Asashio", 
         "id": 3751687888, 

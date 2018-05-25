@@ -1,0 +1,391 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBPA060_120_HE_COSSACK.alphaDamage changed in second object (was 1700.0, is 1900.0)
+root.PBPA060_120_HE_COSSACK.burnProb changed in second object (was 0.08, is 0.05)
+root.PCY009_CrashCrewPremium.B_USA_SPEC_Gold.workTime changed in second object (was 30.0, is 10.0)
+root.PCY009_CrashCrewPremium.B_USA_SPEC_Gold.reloadTime changed in second object (was 120.0, is 40.0)
+root.PCM041_SonarSearch_Mod_I.ships[77] removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Hull.turningRadius changed in second object (was 810.0, is 710.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_4.idealRadius changed in second object (was 8, is 6.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_4.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_5.idealRadius changed in second object (was 8, is 6.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_5.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_2.idealRadius changed in second object (was 8, is 6.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_2.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_3.idealRadius changed in second object (was 8, is 6.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_3.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_1.idealRadius changed in second object (was 8, is 6.0)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_1.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PCM044_Special_Mod_I_Republique.GMMaxDist changed in second object (was 1.0, is 0.84)
+root.PCQT518_Key.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT518_Key.rewards[2] removed in first object
+root.PCQT518_Key.rewards[3] removed in first object
+root.PCQT518_Key.rewards[4] removed in first object
+root.PCQT518_Key.rewards[5] removed in first object
+root.PCQT518_Key.rewards[6] removed in first object
+root.PCQT518_Key.rewards[7] removed in first object
+root.PCQT518_Key.rewards[8] removed in first object
+root.PCQT518_Key.rewards[9] removed in first object
+root.PCQT518_Key.costUnlock changed in second object (was 5, is 6)
+root.PCQT518_Key.conditions[2] changed in second object (was <isTotalXP count="250" />, is <isTotalXP count="1500" />)
+root.PASD506_Monaghan.permoflages[0] changed in second object (was PCEP107_Permo_Prem_High_lvl, is PAEP507_MONAGAN)
+root.PASD506_Monaghan.Cameras.Guns2.hulls[0] removed in first object
+root.PASD506_Monaghan.Cameras.Guns1.hulls[0] removed in first object
+root.PASD506_Monaghan.Cameras.Guns1.hulls[1] removed in first object
+root.PASD506_Monaghan.nativePermoflage changed in second object (was PCEP107_Permo_Prem_High_lvl, is PAEP507_MONAGAN)
+root.PVGM001_6in47_CL55.rotationSpeed[0] changed in second object (was 8.0, is 10.0)
+root.PCQT528_Key.rewards[1] removed in first object
+root.PCQT528_Key.rewards[2] removed in first object
+root.PCQT528_Key.rewards[3] removed in first object
+root.PCQT528_Key.rewards[4] removed in first object
+root.PCQT528_Key.rewards[5] removed in first object
+root.PCQT528_Key.rewards[6] removed in first object
+root.PCQT528_Key.rewards[7] removed in first object
+root.PCQT528_Key.rewards[8] removed in first object
+root.PCQT528_Key.rewards[9] removed in first object
+root.PCQT528_Key.costUnlock changed in second object (was 5, is 7)
+root.PCQT528_Key.conditions[2] changed in second object (was <isTotalXP count="300" />, is <isTotalXP count="30000" />)
+root.PCM042_RLSSearch_Mod_I.ships[19] removed in first object
+root.PCQT537.rewards[1] removed in first object
+root.PCQT537.lootStars changed in second object (was 3, is 4)
+root.PCQT537.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE"/>, is <isBattleType battleTypes="PVP"/>)
+root.PCQT537.conditions[3] changed in second object (was <isDamage count="500" nation="Germany"/>, is <isDamage count="5000" nation="Germany"/>)
+root.PCQT536.rewards[1] removed in first object
+root.PCQT536.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE"/>, is <isBattleType battleTypes="PVP"/>)
+root.PCQT536.conditions[3] changed in second object (was <isDamage count="500" nation="Japan"/>, is <isDamage count="5000" nation="Japan"/>)
+root.PCQT535.rewards[1] removed in first object
+root.PCQT535.lootStars changed in second object (was 5, is 3)
+root.PCQT535.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE"/>, is <isBattleType battleTypes="PVP"/>)
+root.PCQT535.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="10" topType="team"/>)
+root.PCQT535.conditions[4] changed in second object (was <isModuleHits count="1" />, is <isModuleHits count="12" />)
+root.PCQT534.rewards[1] removed in first object
+root.PCQT534.lootStars changed in second object (was 2, is 3)
+root.PCQT534.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="9" topType="team"/>)
+root.PCQT534.conditions[4] changed in second object (was <isEarnBattleAchievements count="2"/>, is <isEarnBattleAchievements count="1"/>)
+root.PCQT533.rewards[1] removed in first object
+root.PCQT533.lootStars changed in second object (was 5, is 3)
+root.PCQT533.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT533.conditions[2] changed in second object (was <isDamage count="1000" nation="Japan,Germany"/>, is <isDamage count="10000" nation="Japan,Germany"/>)
+root.PCQT532.rewards[1] removed in first object
+root.PCQT532.lootStars changed in second object (was 1, is 3)
+root.PCQT532.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT532.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="10" topType="team"/>)
+root.PCQT531.rewards[1] removed in first object
+root.PCQT531.lootStars changed in second object (was 5, is 3)
+root.PCQT531.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT531.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="10" topType="team"/>)
+root.PCQT530.rewards[1] removed in first object
+root.PCQT530.lootStars changed in second object (was 3, is 2)
+root.PCQT530.conditions[2] changed in second object (was <isTotalCredits count="4500" />, is <isTotalCredits count="45000" />)
+root.PCM049_Special_Mod_I_Hindenburg.SGRudderTime changed in second object (was 0.7, is 0.8)
+root.PCM050_Special_Mod_I_Henri_IV.visibilityDistCoeff changed in second object (was 1.05, is 1.1)
+root.PCM050_Special_Mod_I_Henri_IV.SGRudderTime changed in second object (was 1.1, is 1.0)
+root.PCQT511.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT510.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT513.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT513.lootStars changed in second object (was 4, is 2)
+root.PCQT513.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT513.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="7" topType="team"/>)
+root.PCQT512.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT512.lootStars changed in second object (was 3, is 2)
+root.PCQT512.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT512.conditions[2] changed in second object (was <isRibbons count="2" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />, is <isRibbons count="5" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />)
+root.PCQT515.rewards[2] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT515.lootStars changed in second object (was 4, is 3)
+root.PCQT515.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT515.conditions[2] changed in second object (was <isRibbons count="3" ribbons="BURN, FLOOD"/>, is <isRibbons count="10" ribbons="BURN, FLOOD"/>)
+root.PCQT514.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT514.lootStars changed in second object (was 4, is 2)
+root.PCQT514.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT514.conditions[3] changed in second object (was <isTopXP rank="6" topType="team"/>, is <isTopXP rank="7" topType="team"/>)
+root.PCQT516.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT516.lootStars changed in second object (was 4, is 3)
+root.PCQT516.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT516.conditions[3] changed in second object (was <isTopXP rank="4" topType="team"/>, is <isTopXP rank="9" topType="team"/>)
+root.PCQT516.conditions[4] changed in second object (was <isScoutingDamage count="500" />, is <isScoutingDamage count="1000" />)
+root.PCQT519.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PASB518_Massachusetts.A1_Artillery.maxDist changed in second object (was 23540.0, is 18270.0)
+root.PASB518_Massachusetts.A1_Artillery.HP_AGM_1.rotationSpeed[0] changed in second object (was 4.0, is 5.0)
+root.PASB518_Massachusetts.A1_Artillery.HP_AGM_3.rotationSpeed[0] changed in second object (was 4.0, is 5.0)
+root.PASB518_Massachusetts.A1_Artillery.HP_AGM_2.rotationSpeed[0] changed in second object (was 4.0, is 5.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_4.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_4.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_10.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_10.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_3.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_3.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_2.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_2.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_1.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_1.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_7.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_7.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_6.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_6.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_5.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_5.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_9.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_9.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_8.shotDelay changed in second object (was 6.0, is 4.0)
+root.PASB518_Massachusetts.A_ATBA.HP_AGS_8.idealRadius changed in second object (was 20, is 12.0)
+root.PASB518_Massachusetts.ShipAbilities.AbilitySlot0.abils[0][1] changed in second object (was B_USA_SPEC, is B_USA)
+root.PASB518_Massachusetts.ShipAbilities.AbilitySlot0.abils[1][1] changed in second object (was B_USA_SPEC_Gold, is B_USA_Gold)
+root.PRSC510_Stalingrad.A_Hull.armor.65585 changed in second object (was 32.0, is 25.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65584 changed in second object (was 32.0, is 25.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65629 changed in second object (was 32.0, is 25.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65630 changed in second object (was 32.0, is 25.0)
+root.PRSC510_Stalingrad.A_Hull.rudderTime changed in second object (was 19.6, is 16.3)
+root.PRSC510_Stalingrad.A1_Artillery.sigmaCount changed in second object (was 2.25, is 2.05)
+root.PRSC510_Stalingrad.A1_Artillery.maxDist changed in second object (was 20350.0, is 22890.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.idealRadius changed in second object (was 12.0, is 8.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.minRadius changed in second object (was 2.0, is 1.1)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.idealRadius changed in second object (was 12.0, is 8.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.minRadius changed in second object (was 2.0, is 1.1)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.idealRadius changed in second object (was 12.0, is 8.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.minRadius changed in second object (was 2.0, is 1.1)
+root.PRSC510_Stalingrad.A_AirDefense.Medium_2 removed in second object
+root.PRSC510_Stalingrad.A_AirDefense.Near_1 removed in first object
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Default, is USSR_10)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Default_Gold, is USSR_10_PREMIUM)
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PRSC510_Stalingrad.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.HP_AD_2_HP_ARF_01 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.HP_AD_11_HP_ARF_01 removed in second object
+root.PASC507_Indianapolis_1945.A_Hull.rudderTime changed in second object (was 11.9, is 10.9)
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_1.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_3.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PASC507_Indianapolis_1945.A1_Artillery.HP_AGM_2.rotationSpeed[0] changed in second object (was 6.0, is 7.0)
+root.PCM043_Special_Mod_I_Conqueror.visibilityDistCoeff changed in second object (was 0.95, is 1.0)
+root.PCQT544.rewards[1] removed in first object
+root.PCQT544.lootStars changed in second object (was 2, is 3)
+root.PCQT544.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT544.conditions[2] changed in second object (was <isRibbons count="20"/>, is <isRibbons count="100"/>)
+root.PCQT538_Key.rewards[0] changed in second object (was <Lootbox boxType="epic" count="2"/>, is <Lootbox boxType="epic" count="5"/>)
+root.PCQT538_Key.rewards[1] removed in first object
+root.PCQT538_Key.rewards[2] removed in first object
+root.PCQT538_Key.costUnlock changed in second object (was 5, is 6)
+root.PCQT538_Key.conditions[2] changed in second object (was <isTotalXP count="350" />, is <isTotalXP count="3500" />)
+root.PCM046_Special_Mod_I_Yamato.GMIdealRadius changed in second object (was 0.89, is 0.93)
+root.PASC206_Dallas.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PASC206_Dallas.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PASC206_Dallas.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PASC206_Dallas.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PCM040_AirDefenseDisp_Mod_I.ships[52] removed in second object
+root.PASC209_Seattle.A_Hull.rudderTime changed in second object (was 20.83, is 15.78)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_1.horizSector[0] changed in second object (was -130.0, is -145.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_1.horizSector[1] changed in second object (was 130.0, is 145.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_3.horizSector[0] changed in second object (was -140.0, is -145.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_3.horizSector[1] changed in second object (was 140.0, is 145.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_2.horizSector[0] changed in second object (was -130.0, is -132.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_2.horizSector[1] changed in second object (was 130.0, is 132.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_4.horizSector[0] changed in second object (was -140.0, is -145.0)
+root.PASC209_Seattle.AB1_Artillery.HP_AGM_4.horizSector[1] changed in second object (was 140.0, is 145.0)
+root.PASC209_Seattle.B_Hull.rudderTime changed in second object (was 14.88, is 11.3)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot4.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY008_SonarSearch)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot4.abils[0][1] changed in second object (was C, is C_9)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot4.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY016_SonarSearchPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot4.abils[1][1] changed in second object (was C_Gold, is C_9_Premium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was US_Cruisers, is US_9)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was US_Cruisers_Gold, is US_9_PREMIUM)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY019_RLSSearch, is PCY002_RegenCrew)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was US_9, is C)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY020_RLSSearchPremium, is PCY010_RegenCrewPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was US_9_PREMIUM, is C_Gold)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY003_AirDefenseDisp)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_9, is US_Cruisers)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY011_AirDefenseDispPremium)
+root.PASC209_Seattle.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_9_Premium, is US_Cruisers_Gold)
+root.PASC207_Helena.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PASC207_Helena.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PASC207_Helena.ShipAbilities.AbilitySlot1.abils[2] removed in second object
+root.PASC207_Helena.ShipAbilities.AbilitySlot1.abils[3] removed in second object
+root.PRPA082_305MM_AP_STALINGRAD.bulletDetonator changed in second object (was 0.033, is 0.022)
+root.PCM014_Torpedo_Mod_III.excludes[20] removed in first object
+root.PBSD507_Cossack.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.43, is 2.31)
+root.PBSD507_Cossack.A1_Artillery.HP_BGM_3.horizSector[0] changed in second object (was -119.0, is -137.0)
+root.PBSD507_Cossack.A1_Artillery.HP_BGM_3.horizSector[1] changed in second object (was 119.0, is 137.0)
+root.PBSD507_Cossack.A1_Artillery.HP_BGM_3.pitchDeadZones[0] removed in first object
+root.PBSD507_Cossack.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_7, is PanOceania)
+root.PBSD507_Cossack.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_7_Gold, is PanOceania_Gold)
+root.PCQT509_Key.rewards[0] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc_prem" count="10" ignoreEpic="1" />)
+root.PCQT509_Key.rewards[1] removed in first object
+root.PCQT509_Key.costUnlock changed in second object (was 3, is 5)
+root.PCQT509_Key.conditions[2] changed in second object (was <isTotalXP count="200" />, is <isTotalXP count="1000" />)
+root.PCQT539.rewards[1] removed in first object
+root.PCQT539.lootStars changed in second object (was 5, is 2)
+root.PCQT539.conditions[2] changed in second object (was <isTotalCrewXP count="100" />, is <isTotalCrewXP count="1000" />)
+root.PCQT525.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="15" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PCQT525.lootStars changed in second object (was 5, is 3)
+root.PCQT525.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT525.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="10" topType="team"/>)
+root.PCQT527.rewards[1] removed in first object
+root.PCQT527.lootStars changed in second object (was 3, is 4)
+root.PCQT527.conditions[2] changed in second object (was <isEarnBattleAchievements count="6" type="heroic" achievements="PCH003_MainCaliber,PCH005_Support"/>, is <isEarnBattleAchievements count="1" type="heroic" achievements="PCH003_MainCaliber,PCH005_Support"/>)
+root.PCQT549_Key.rewards[0] changed in second object (was <Add type="CREDITS" count="200000"/>, is <Crew shipId="PASC001_Erie_1936" level="15" crewId="PAW102_Halsey"/>)
+root.PCQT549_Key.rewards[1] changed in second object (was <Add type="ELITE_XP" count="50000"/>, is <Add type="CREDITS" count="200000"/>)
+root.PCQT549_Key.rewards[2] changed in second object (was <DogTag idx="PCNB080"/> , is <Add type="ELITE_XP" count="50000"/>)
+root.PCQT549_Key.rewards[3] removed in first object
+root.PCQT549_Key.rewards[4] removed in first object
+root.PCQT549_Key.rewards[5] removed in first object
+root.PCQT549_Key.rewards[6] removed in first object
+root.PCQT549_Key.costUnlock changed in second object (was 8, is 7)
+root.PBPT012_533_COSSACK.visibilityFactor changed in second object (was 1.3, is 1.4)
+root.PBPT012_533_COSSACK.maxDist changed in second object (was 333.0, is 267.0)
+root.PCQT524.rewards[1] removed in first object
+root.PCQT524.lootStars changed in second object (was 5, is 3)
+root.PCQT524.conditions[3] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="9" topType="team"/>)
+root.PCQT526.rewards[1] removed in first object
+root.PCQT526.lootStars changed in second object (was 3, is 4)
+root.PCQT526.conditions[2] changed in second object (was <isEarnBattleAchievements count="6" type="heroic" achievements="PCH004_Dreadnought,PCH017_Fireproof,PCH018_Unsinkable"/>, is <isEarnBattleAchievements count="1" type="heroic" achievements="PCH004_Dreadnought,PCH017_Fireproof,PCH018_Unsinkable"/>)
+root.PCQT520.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PCQT520.conditions[2] changed in second object (was <isTotalCredits count="4000" />, is <isTotalCredits count="40000" />)
+root.PCQT521.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PCQT521.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT521.conditions[2] changed in second object (was <isCitadelHits count="2" />, is <isCitadelHits count="1" />)
+root.PCQT522.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PCQT522.lootStars changed in second object (was 5, is 2)
+root.PCQT522.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT522.conditions[2] changed in second object (was <isPotentialDamage count="1250"/>, is <isPotentialDamage count="12500"/>)
+root.PCQT523.rewards[1] removed in first object
+root.PCQT523.lootStars changed in second object (was 5, is 3)
+root.PCQT523.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="9" topType="team"/>)
+root.PCQT529.rewards[1] removed in first object
+root.PCQT529.lootStars changed in second object (was 4, is 2)
+root.PRSC509_Kronshtadt.group changed in second object (was demoWithoutStats, is upgradeableExclusive)
+root.PRSC509_Kronshtadt.groupCustom.CN removed in second object
+root.PRSC509_Kronshtadt.groupCustom.PT removed in first object
+root.PRSC509_Kronshtadt.groupCustom.ST removed in first object
+root.PRSC509_Kronshtadt.ShipUpgradeInfo.costXP changed in second object (was 0, is 750000)
+root.PRSC509_Kronshtadt.ShipUpgradeInfo.costCR changed in second object (was 0, is 1)
+root.PRSC509_Kronshtadt.ShipUpgradeInfo.costGold changed in second object (was 99999, is 0)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY005_Spotter, is PCY019_RLSSearch)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was PRY001_KOR_2_Cruiser_3, is USSR_9)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY013_SpotterPremium, is PCY020_RLSSearchPremium)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was PRY101_KOR_2_Cruiser_3, is USSR_9_PREMIUM)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot0.abils[0][1] changed in second object (was B_RUS, is CV_CA_CL)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot0.abils[1][1] changed in second object (was B_RUS_Gold, is CV_CA_CL_Gold)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY005_Spotter)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Default, is PRY001_KOR_2_Cruiser_3)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY013_SpotterPremium)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Default_Gold, is PRY101_KOR_2_Cruiser_3)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[2][0] changed in second object (was PCY008_SonarSearch, is PCY003_AirDefenseDisp)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[2][1] changed in second object (was C_9, is Default)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[3][0] changed in second object (was PCY016_SonarSearchPremium, is PCY011_AirDefenseDispPremium)
+root.PRSC509_Kronshtadt.ShipAbilities.AbilitySlot1.abils[3][1] changed in second object (was C_9_Premium, is Default_Gold)
+root.PCM052_Special_Mod_I_Des_Moines.engineBackwardForsagePower changed in second object (was 0.8, is 1.2)
+root.PCM052_Special_Mod_I_Des_Moines.engineForwardForsagePower changed in second object (was 0.6, is 1.2)
+root.PCQT508.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="5" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT508.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT508.conditions[3] changed in second object (was <isBattleCount count="2" />, is <isBattleCount count="1" />)
+root.PCQT506.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="5" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT506.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT507.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="10" ignoreEpic="1"/> )
+root.PCQT507.lootStars changed in second object (was 2, is 3)
+root.PCQT507.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT504.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="5" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="5" ignoreEpic="1"/> )
+root.PCQT504.lootStars changed in second object (was 1, is 2)
+root.PCQT504.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT505.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="5" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="5" ignoreEpic="1"/> )
+root.PCQT505.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT502.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="5" ignoreEpic="1"/> )
+root.PCQT502.conditions[2] changed in second object (was <isTotalCredits count="250" />, is <isTotalCredits count="25000" />)
+root.PCQT503.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="5" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="5" ignoreEpic="1"/> )
+root.PCQT503.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT501.rewards[1] changed in second object (was <Crew shipId="PASC001_Erie_1936" level="15" crewId="PAW102_Halsey"/>, is <Lootbox boxType="american_arc" count="5" ignoreEpic="1"/> )
+root.PCQT501.rewards[2] removed in second object
+root.PCQT501.rewards[3] removed in second object
+root.PCQT501.rewards[4] removed in second object
+root.PCQT501.rewards[5] removed in second object
+root.PCQT501.rewards[6] removed in second object
+root.PCQT501.rewards[7] removed in second object
+root.PCQT501.rewards[8] removed in second object
+root.PCQT501.rewards[9] removed in second object
+root.PCQT501.rewards[10] removed in second object
+root.PCQT501.rewards[11] removed in second object
+root.PCQT501.rewards[12] removed in second object
+root.PCM059_Special_Mod_I_Yueyang.rlsSearchWorkTime changed in second object (was 1.0, is 0.7)
+root.PCM059_Special_Mod_I_Yueyang.smokeGeneratorWorkTime changed in second object (was 0.7, is 1.0)
+root.PCM059_Special_Mod_I_Yueyang.slot changed in second object (was 5, is 4)
+root.PCM059_Special_Mod_I_Yueyang.smokeGeneratorLifeTime changed in second object (was 0.85, is 0.7)
+root.PAPT032_MONAGHAN.costCR changed in second object (was 250, is 150)
+root.PCY001_CrashCrew.B_USA_SPEC.workTime changed in second object (was 30.0, is 10.0)
+root.PCY001_CrashCrew.B_USA_SPEC.reloadTime changed in second object (was 180.0, is 60.0)
+root.PCQT517.rewards[1] changed in second object (was <Lootbox boxType="american_arc" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="6" ignoreEpic="1"/> )
+root.PCQT517.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PASC210_Worcester.A_Hull.armor.65593 changed in second object (was 25.0, is 30.0)
+root.PASC210_Worcester.A_Hull.rudderTime changed in second object (was 14.02, is 10.62)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot4.abils[0][0] changed in second object (was PCY002_RegenCrew, is PCY008_SonarSearch)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot4.abils[0][1] changed in second object (was C, is C_10)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot4.abils[1][0] changed in second object (was PCY010_RegenCrewPremium, is PCY016_SonarSearchPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot4.abils[1][1] changed in second object (was C_Gold, is C_10_Premium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was US_Cruisers, is US_10)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was US_Cruisers_Gold, is US_10_PREMIUM)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY019_RLSSearch, is PCY002_RegenCrew)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was US_10, is C)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY020_RLSSearchPremium, is PCY010_RegenCrewPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was US_10_PREMIUM, is C_Gold)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY003_AirDefenseDisp)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_10, is US_Cruisers)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY011_AirDefenseDispPremium)
+root.PASC210_Worcester.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_10_Premium, is US_Cruisers_Gold)
+root.PCM053_Special_Mod_I_Worcester.visibilityDistCoeff changed in second object (was 0.95, is 1.0)
+root.PAPT033_MONAGHAN_MK15.costCR changed in second object (was 250, is 150)
+root.PCQT542.rewards[1] removed in first object
+root.PCQT542.conditions[2] changed in second object (was <isKillPlanes count="10" />, is <isKillPlanes count="20" />)
+root.PCQT543.rewards[1] removed in first object
+root.PCQT543.conditions[2] changed in second object (was <isTopXP rank="3" topType="team"/>, is <isTopXP rank="10" topType="team"/>)
+root.PCQT543.conditions[3] changed in second object (was <isEarnBattleAchievements count="3"/>, is <isEarnBattleAchievements count="1"/>)
+root.PCQT540.rewards[1] removed in first object
+root.PCQT540.conditions[2] changed in second object (was <isTotalCredits count="5000" />, is <isTotalCredits count="5000000" />)
+root.PCQT541.rewards[1] removed in first object
+root.PCQT546.rewards[1] removed in first object
+root.PCQT546.lootStars changed in second object (was 3, is 4)
+root.PCQT546.conditions[2] changed in second object (was <isEarnBattleAchievements count="12" type="heroic"/>, is <isEarnBattleAchievements count="1" type="heroic"/>)
+root.PCQT547.rewards[1] removed in first object
+root.PCQT547.lootStars changed in second object (was 3, is 4)
+root.PCQT547.conditions[2] changed in second object (was <isTotalCredits count="10000000 " />, is <isTotalCredits count="10000 " />)
+root.PCQT545.rewards[1] removed in first object
+root.PCQT545.lootStars changed in second object (was 2, is 3)
+root.PCQT545.conditions[2] changed in second object (was <isEarnBattleAchievements count="36"/>, is <isEarnBattleAchievements count="1"/>)
+root.PCQT548.rewards[1] removed in first object
+root.PCQT548.lootStars changed in second object (was 3, is 4)
+root.PCQT548.conditions[1] changed in second object (was <isBattleType battleTypes="PVP,COOPERATIVE" />, is <isBattleType battleTypes="PVP" />)
+root.PCQT548.conditions[2] changed in second object (was <isTotalCredits count="1000 " />, is <isTotalCredits count="10000 " />)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY003_AirDefenseDisp, is PCY019_RLSSearch)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was US_Cruisers, is US_8)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY011_AirDefenseDispPremium, is PCY020_RLSSearchPremium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was US_Cruisers_Gold, is US_8_PREMIUM)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[2] removed in first object
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot2.abils[3] removed in first object
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[0][0] changed in second object (was PCY019_RLSSearch, is PCY008_SonarSearch)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[0][1] changed in second object (was US_8, is C_8)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[1][0] changed in second object (was PCY020_RLSSearchPremium, is PCY016_SonarSearchPremium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[1][1] changed in second object (was US_8_PREMIUM, is C_8_Premium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[2] removed in second object
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot3.abils[3] removed in second object
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[0][0] changed in second object (was PCY008_SonarSearch, is PCY003_AirDefenseDisp)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C_8, is US_Cruisers)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[1][0] changed in second object (was PCY016_SonarSearchPremium, is PCY011_AirDefenseDispPremium)
+root.PASC208_Cleveland.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_8_Premium, is US_Cruisers_Gold)
+root.PCM051_Special_Mod_I_Minotaur.smokeGeneratorWorkTime changed in second object (was 4.0, is 2.5)
+root.PCM051_Special_Mod_I_Minotaur.slot changed in second object (was 5, is 4)
+root.PCM051_Special_Mod_I_Minotaur.visibilityDistCoeff changed in second object (was 1.0, is 0.95)
+root.PCM051_Special_Mod_I_Minotaur.smokeGeneratorLifeTime changed in second object (was 0.7, is 0.85)
+root.PRUA977_STALINGRAD removed in first object
+root.PRPA188_305MM_AP_STALINGRAD_2 removed in first object
+root.PRPA088_305MM_HE_STALINGRAD removed in first object
+root.PRUS977_STALINGRAD removed in first object
+root.PRUH977_STALINGRAD removed in first object
+root.PRSC520_Stalingrad removed in first object
+root.PRUE977_STALINGRAD removed in first object
+root.PAEP507_MONAGAN removed in first object
+>> finished comparing

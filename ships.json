@@ -3743,6 +3743,19 @@
         "zh_cn": "\u74e6\u826f\u683c", 
         "zh_tw": "\u74e6\u826f\u683c\u865f"
     }, 
+    "PRSC520": {
+        "en": "IDS_PRSC520", 
+        "id": 3749623248, 
+        "index": "PRSC520", 
+        "ja_jp": "IDS_PRSC520", 
+        "level": 10, 
+        "name": "PRSC520_Stalingrad", 
+        "nation": "Russia", 
+        "ru": "IDS_PRSC520", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PRSC520", 
+        "zh_tw": "IDS_PRSC520"
+    }, 
     "PRSC606": {
         "en": "Makarov", 
         "id": 3659445712, 
