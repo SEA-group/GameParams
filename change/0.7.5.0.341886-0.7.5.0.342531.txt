@@ -1,0 +1,10 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASD506_Monaghan.permoflages[0] changed in second object (was PAEP507_MONAGAN, is PCEP107_Permo_Prem_High_lvl)
+root.PASD506_Monaghan.group changed in second object (was demoWithoutStats, is special)
+root.PASD506_Monaghan.nativePermoflage changed in second object (was PAEP507_MONAGAN, is PCEP107_Permo_Prem_High_lvl)
+root.PASD506_Monaghan.groupCustom.CN removed in second object
+root.PRPA086_305MM_AP_KRON.costCR changed in second object (was 100, is 150)
+root.PRPA087_305MM_HE_KRON.costCR changed in second object (was 100, is 150)
+>> finished comparing
