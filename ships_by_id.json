@@ -711,8 +711,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC597", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC597", 
-        "zh_tw": "IDS_PASC597"
+        "zh_cn": "\u4e03\u6708\u4e5d\u65e5", 
+        "zh_tw": "\u4e03\u6708\u4e5d\u65e5\u865f"
     }, 
     "3742316496": {
         "en": "Duke of York", 
@@ -728,10 +728,10 @@
         "zh_tw": "\u7d04\u514b\u516c\u7235\u865f"
     }, 
     "3749623248": {
-        "en": "IDS_PRSC520", 
+        "en": "Stalingrad 2", 
         "id": 3749623248, 
         "index": "PRSC520", 
-        "ja_jp": "IDS_PRSC520", 
+        "ja_jp": "Stalingrad 2", 
         "level": 10, 
         "name": "PRSC520_Stalingrad", 
         "nation": "Russia", 
@@ -776,8 +776,8 @@
         "nation": "United_Kingdom", 
         "ru": "IDS_PBSD517", 
         "species": "Destroyer", 
-        "zh_cn": "IDS_PBSD517", 
-        "zh_tw": "IDS_PBSD517"
+        "zh_cn": "\u54e5\u8428\u514b", 
+        "zh_tw": "\u54e5\u85a9\u514b\u865f"
     }, 
     "3752802256": {
         "en": "Nelson", 
@@ -815,8 +815,8 @@
         "nation": "Russia", 
         "ru": "IDS_PRSC510", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PRSC510", 
-        "zh_tw": "IDS_PRSC510"
+        "zh_cn": "\u65af\u5927\u6797\u683c\u52d2", 
+        "zh_tw": "\u65af\u5927\u6797\u683c\u52d2\u865f"
     }, 
     "3761157584": {
         "en": "Kronshtadt", 
@@ -1000,6 +1000,19 @@
         "zh_cn": "\u4f01\u4e1a", 
         "zh_tw": "\u4f01\u696d\u865f"
     }, 
+    "3763221872": {
+        "en": "IDS_PUSD507", 
+        "id": 3763221872, 
+        "index": "PUSD507", 
+        "ja_jp": "IDS_PUSD507", 
+        "level": 7, 
+        "name": "PUSD507_Haida", 
+        "nation": "Commonwealth", 
+        "ru": "IDS_PUSD507", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PUSD507", 
+        "zh_tw": "IDS_PUSD507"
+    }, 
     "3763221968": {
         "en": "Leningrad", 
         "id": 3763221968, 
@@ -1013,18 +1026,18 @@
         "zh_cn": "\u5217\u5b81\u683c\u52d2", 
         "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
     }, 
-    "3763222480": {
-        "en": "Cossack", 
-        "id": 3763222480, 
-        "index": "PBSD507", 
-        "ja_jp": "Cossack", 
+    "3763254608": {
+        "en": "IDS_PVSC507", 
+        "id": 3763254608, 
+        "index": "PVSC507", 
+        "ja_jp": "IDS_PVSC507", 
         "level": 7, 
-        "name": "PBSD507_Cossack", 
-        "nation": "United_Kingdom", 
-        "ru": "IDS_PBSD507", 
-        "species": "Destroyer", 
-        "zh_cn": "\u54e5\u8428\u514b", 
-        "zh_tw": "\u54e5\u85a9\u514b\u865f"
+        "name": "PVSC507_Nueve_de_Julio_1951", 
+        "nation": "Pan_America", 
+        "ru": "IDS_PVSC507", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PVSC507", 
+        "zh_tw": "IDS_PVSC507"
     }, 
     "3763255024": {
         "en": "Abruzzi", 
@@ -1494,6 +1507,19 @@
         "zh_cn": "\u57fa\u8f85", 
         "zh_tw": "\u57fa\u8f14\u7d1a"
     }, 
+    "4065212112": {
+        "en": "IDS_PJSD219", 
+        "id": 4065212112, 
+        "index": "PJSD219", 
+        "ja_jp": "IDS_PJSD219", 
+        "level": 9, 
+        "name": "PJSD219_Kitakaze", 
+        "nation": "Japan", 
+        "ru": "IDS_PJSD219", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PJSD219", 
+        "zh_tw": "IDS_PJSD219"
+    }, 
     "4074649040": {
         "en": "Grozovoi", 
         "id": 4074649040, 
@@ -1507,6 +1533,19 @@
         "zh_cn": "\u96f7\u66b4", 
         "zh_tw": "\u96f7\u66b4\u7d1a"
     }, 
+    "4074649296": {
+        "en": "IDS_PJSD210", 
+        "id": 4074649296, 
+        "index": "PJSD210", 
+        "ja_jp": "IDS_PJSD210", 
+        "level": 10, 
+        "name": "PJSD210_Harugumo", 
+        "nation": "Japan", 
+        "ru": "IDS_PJSD210", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PJSD210", 
+        "zh_tw": "IDS_PJSD210"
+    }, 
     "4074682352": {
         "en": "Worcester", 
         "id": 4074682352, 
@@ -1517,8 +1556,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC210", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC210", 
-        "zh_tw": "IDS_PASC210"
+        "zh_cn": "\u4f0d\u65af\u7279", 
+        "zh_tw": "\u4f0d\u65af\u7279\u7d1a"
     }, 
     "4075697872": {
         "en": "Y\u016bgumo", 
@@ -1543,8 +1582,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC209", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC209", 
-        "zh_tw": "IDS_PASC209"
+        "zh_cn": "\u897f\u96c5\u56fe", 
+        "zh_tw": "\u897f\u96c5\u5716\u7d1a"
     }, 
     "4076746192": {
         "en": "Ognevoi", 
@@ -1621,8 +1660,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC207", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC207", 
-        "zh_tw": "IDS_PASC207"
+        "zh_cn": "\u6d77\u4f26\u5a1c", 
+        "zh_tw": "\u6d77\u502b\u5a1c\u865f"
     }, 
     "4078843344": {
         "en": "Gnevny", 
@@ -1660,8 +1699,8 @@
         "nation": "USA", 
         "ru": "IDS_PASC206", 
         "species": "Cruiser", 
-        "zh_cn": "IDS_PASC206", 
-        "zh_tw": "IDS_PASC206"
+        "zh_cn": "\u8fbe\u62c9\u65af", 
+        "zh_tw": "\u9054\u62c9\u65af\u7d1a"
     }, 
     "4079891920": {
         "en": "Podvoisky", 
@@ -4225,10 +4264,10 @@
         "zh_tw": "\u5915\u5f35\u865f"
     }, 
     "4290689008": {
-        "en": "St. Louis", 
+        "en": "St.\u00a0Louis", 
         "id": 4290689008, 
         "index": "PASC004", 
-        "ja_jp": "St. Louis", 
+        "ja_jp": "St.\u00a0Louis", 
         "level": 3, 
         "name": "PASC004_St_Louis_1906", 
         "nation": "USA", 

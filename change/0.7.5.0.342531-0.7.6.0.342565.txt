@@ -1,0 +1,1427 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJEP308_Ishizuchi_1921.canCharge removed in first object
+root.PJEP409_Mogami_1935.canCharge removed in first object
+root.PCEE032_Arizona_memorial.canCharge removed in first object
+root.PJW006_Kirishima.canCharge removed in first object
+root.PCEE114_Valor_Flags_Remebrance.canCharge removed in first object
+root.PXW001_DefaultCrew.canCharge removed in first object
+root.PCNB079.clanTag removed in first object
+root.PCNB079.canCharge removed in first object
+root.PCNB078.clanTag removed in first object
+root.PCNB078.canCharge removed in first object
+root.PCNB077.clanTag removed in first object
+root.PCNB077.canCharge removed in first object
+root.PCNB076.clanTag removed in first object
+root.PCNB076.canCharge removed in first object
+root.PCNB075.clanTag removed in first object
+root.PCNB075.canCharge removed in first object
+root.PCNB074.clanTag removed in first object
+root.PCNB074.canCharge removed in first object
+root.PCNB073.clanTag removed in first object
+root.PCNB073.canCharge removed in first object
+root.PCNB072.clanTag removed in first object
+root.PCNB072.canCharge removed in first object
+root.PCNB070.clanTag removed in first object
+root.PCNB070.canCharge removed in first object
+root.PCEE109_Enterprise_Flag.canCharge removed in first object
+root.PXW110_Spaceman3.canCharge removed in first object
+root.PCM038_Spotter_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM038_Spotter_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM038_Spotter_Mod_I.nation[11] removed in first object
+root.PCEE999_SecretSanta.canCharge removed in first object
+root.PCEC013_Camo_MGT.canCharge removed in first object
+root.PCEE133_Navy_day_flag.canCharge removed in first object
+root.PCEE120_WG_Summer_Fest_2017.canCharge removed in first object
+root.PCEE124_Gamescom_2017.canCharge removed in first object
+root.PCEE042_Birthday_flag.canCharge removed in first object
+root.PCEF001_Zulu_SignalFlag.canCharge removed in first object
+root.PAW111_Kappa.canCharge removed in first object
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_6.index changed in second object (was PRGA026, is PRGA086)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_6.name changed in second object (was PRGA026_2DSHKM_2BU, is PRGA086_DSHKM_2B_12_7mm_no_lamp)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_6.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU_dead.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp_dead.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_6.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_6.id changed in second object (was 4267697616, is 4204783056)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_5.index changed in second object (was PRGA026, is PRGA086)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_5.name changed in second object (was PRGA026_2DSHKM_2BU, is PRGA086_DSHKM_2B_12_7mm_no_lamp)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_5.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU_dead.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp_dead.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_5.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_5.id changed in second object (was 4267697616, is 4204783056)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_2.index changed in second object (was PRGA026, is PRGA086)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_2.name changed in second object (was PRGA026_2DSHKM_2BU, is PRGA086_DSHKM_2B_12_7mm_no_lamp)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_2.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU_dead.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp_dead.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_2.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_2.id changed in second object (was 4267697616, is 4204783056)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_1.index changed in second object (was PRGA026, is PRGA086)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_1.name changed in second object (was PRGA026_2DSHKM_2BU, is PRGA086_DSHKM_2B_12_7mm_no_lamp)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_1.deadMesh changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU_dead.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp_dead.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_1.model changed in second object (was content/gameplay/russia/gun/aaircraft/RGA026_2DSHKM_2BU/RGA026_2DSHKM_2BU.model, is content/gameplay/russia/gun/aaircraft/RGA086_DSHKM_2B_12_7mm_no_lamp/RGA086_DSHKM_2B_12_7mm_no_lamp.model)
+root.PRSD308_Pr_48.A_AirDefense.HP_RGA_1.id changed in second object (was 4267697616, is 4204783056)
+root.PJW001_DefaultCrew.canCharge removed in first object
+root.PCEE067_Supremacy_League_Participant.canCharge removed in first object
+root.PRSD001_Gremyashchy_1942.HullDefault.turningRadius changed in second object (was 510.0, is 550.0)
+root.PAEP414_New_Orlean_1944.canCharge removed in first object
+root.PGEP302_Tirpiz_1942.canCharge removed in first object
+root.PCNA019.clanTag removed in first object
+root.PCNA019.canCharge removed in first object
+root.PCM003_Airplanes_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM003_Airplanes_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM003_Airplanes_Mod_I.nation[11] removed in first object
+root.PCNA013.clanTag removed in first object
+root.PCNA013.canCharge removed in first object
+root.PCEE099_Veteran_Flag.canCharge removed in first object
+root.PGES510_Z_52_BLUE_ASTER.canCharge removed in first object
+root.PCEE037_Veterans_flag.canCharge removed in first object
+root.PCNB059.clanTag removed in first object
+root.PCNB059.canCharge removed in first object
+root.PCNB058.clanTag removed in first object
+root.PCNB058.canCharge removed in first object
+root.PCEC033_commander_day.canCharge removed in first object
+root.PCNB051.clanTag removed in first object
+root.PCNB051.canCharge removed in first object
+root.PCNB050.clanTag removed in first object
+root.PCNB050.canCharge removed in first object
+root.PCNB053.clanTag removed in first object
+root.PCNB053.canCharge removed in first object
+root.PCNB052.clanTag removed in first object
+root.PCNB052.canCharge removed in first object
+root.PCNB055.clanTag removed in first object
+root.PCNB055.canCharge removed in first object
+root.PCNB054.clanTag removed in first object
+root.PCNB054.canCharge removed in first object
+root.PCNB057.clanTag removed in first object
+root.PCNB057.canCharge removed in first object
+root.PCM013_MainGun_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM013_MainGun_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM013_MainGun_Mod_III.nation[11] removed in first object
+root.PAES404_DR_FRANKENSHIP.canCharge removed in first object
+root.PCEC057_AzurLane.canCharge removed in first object
+root.PCM010_Airplanes_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM010_Airplanes_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM010_Airplanes_Mod_II.nation[11] removed in first object
+root.PBW301_Azur_Belfast.canCharge removed in first object
+root.PAES508_Benson_1945_H2017.canCharge removed in first object
+root.PAEP309_New_York_Scull.canCharge removed in first object
+root.PCEC051_Dragon_3.canCharge removed in first object
+root.PJEP507_Fubuki_1944.canCharge removed in first object
+root.PCEC017_Camo_wows_birthday_tile.canCharge removed in first object
+root.PCEE161_Blyskawica_Flag.canCharge removed in first object
+root.PCEE038_Olympics_flag.canCharge removed in first object
+root.PCEC021_Valentine_Tile.canCharge removed in first object
+root.PCEE071_Korean_Turtle.canCharge removed in first object
+root.PCEE017_Flag_Volunteer.canCharge removed in first object
+root.PCEE142_Lifesaver_Flag.canCharge removed in first object
+root.PCEC029_Sparks_of_Victory.canCharge removed in first object
+root.PCEE187_Purrfurst_Flag.canCharge removed in first object
+root.PREP501_Gremyashchy_1942.canCharge removed in first object
+root.PJEP403_Katori.canCharge removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[64] changed in second object (was PBSD507_Cossack, is PUSD507_Haida)
+root.PCM041_SonarSearch_Mod_I.ships[66] changed in second object (was PASC597_Nueve_de_Julio_1951, is PVSC507_Nueve_de_Julio_1951)
+root.PAES410_DESMOINES_GALAXY.canCharge removed in first object
+root.PCEE169_Gascogne_Flag.canCharge removed in first object
+root.PCEE012_SeasonFlag02.canCharge removed in first object
+root.PCNB033.clanTag removed in first object
+root.PCNB033.canCharge removed in first object
+root.PCNB032.clanTag removed in first object
+root.PCNB032.canCharge removed in first object
+root.PCNB031.clanTag removed in first object
+root.PCNB031.canCharge removed in first object
+root.PCNB030.clanTag removed in first object
+root.PCNB030.canCharge removed in first object
+root.PCNB037.clanTag removed in first object
+root.PCNB037.canCharge removed in first object
+root.PCNB035.clanTag removed in first object
+root.PCNB035.canCharge removed in first object
+root.PCNB034.clanTag removed in first object
+root.PCNB034.canCharge removed in first object
+root.PCNB039.clanTag removed in first object
+root.PCNB039.canCharge removed in first object
+root.PCNB038.clanTag removed in first object
+root.PCNB038.canCharge removed in first object
+root.PCEE118_Jolly_Roger_4.canCharge removed in first object
+root.PFES308_Richelieu_Repub.canCharge removed in first object
+root.PCM030_MainWeapon_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM030_MainWeapon_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM030_MainWeapon_Mod_I.nation[11] removed in first object
+root.PCEE179_Ashitaka_Flag.canCharge removed in first object
+root.PJES528_HSF_Harekaze_Cat.canCharge removed in first object
+root.PCEE077_Martoboi.canCharge removed in first object
+root.PCNB071.clanTag removed in first object
+root.PCNB071.canCharge removed in first object
+root.PCEE154_Indianapolis_Flag.canCharge removed in first object
+root.PASC597_Nueve_de_Julio_1951.group changed in second object (was demoWithoutStats, is disabled)
+root.PCEE147_message_png.canCharge removed in first object
+root.PREP508_Pr_20i_Tashkent.canCharge removed in first object
+root.PCEE018_Flag_Val_Player.canCharge removed in first object
+root.PCEE069_Fire_Rooster.canCharge removed in first object
+root.PREP407_Schors.canCharge removed in first object
+root.PCEE082_Blue_Mermaid.canCharge removed in first object
+root.PGEP407_Yorck.canCharge removed in first object
+root.PCQT518_Key.rewards[1] removed in second object
+root.PCQT518_Key.rewards[2] removed in second object
+root.PCQT518_Key.rewards[3] removed in second object
+root.PCQT518_Key.rewards[4] removed in second object
+root.PCQT518_Key.rewards[5] removed in second object
+root.PCQT518_Key.rewards[6] removed in second object
+root.PCQT518_Key.rewards[7] removed in second object
+root.PCQT518_Key.rewards[8] removed in second object
+root.PCQT518_Key.rewards[9] removed in second object
+root.PCQT518_Key.costUnlock changed in second object (was 6, is 10)
+root.PCQT518_Key.conditions[2] changed in second object (was <isTotalXP count="1500" />, is <isTotalXP count="25000" />)
+root.PXW108_Spaceman1.canCharge removed in first object
+root.PJW013_Kirishima_Bear.canCharge removed in first object
+root.PJEP438_Atago_1944.canCharge removed in first object
+root.PCNB019.clanTag removed in first object
+root.PCNB019.canCharge removed in first object
+root.PCNB018.clanTag removed in first object
+root.PCNB018.canCharge removed in first object
+root.PCNB015.clanTag removed in first object
+root.PCNB015.canCharge removed in first object
+root.PCNB014.clanTag removed in first object
+root.PCNB014.canCharge removed in first object
+root.PCNB017.clanTag removed in first object
+root.PCNB017.canCharge removed in first object
+root.PCNB016.clanTag removed in first object
+root.PCNB016.canCharge removed in first object
+root.PCNB011.clanTag removed in first object
+root.PCNB011.canCharge removed in first object
+root.PCNB010.clanTag removed in first object
+root.PCNB010.canCharge removed in first object
+root.PCNB013.clanTag removed in first object
+root.PCNB013.canCharge removed in first object
+root.PJES508_HSF_Harekaze.canCharge removed in first object
+root.PBES317_Hood_Clean.canCharge removed in first object
+root.PCEE112_FNFL.canCharge removed in first object
+root.PCEE097_Battle_of_Midway.canCharge removed in first object
+root.PCM012_SecondaryGun_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM012_SecondaryGun_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM012_SecondaryGun_Mod_II.nation[11] removed in first object
+root.PCEC031_Deserved_ST.canCharge removed in first object
+root.PJW204_Kouko_Nosa.canCharge removed in first object
+root.PCEC005_Camo_NY_3.canCharge removed in first object
+root.PCEP303_Permo_NY_2_CN.canCharge removed in first object
+root.PAEP502_Smith.canCharge removed in first object
+root.PJEP514_Tachibana_1912_Asus.canCharge removed in first object
+root.PAEP308_New_York_1934.canCharge removed in first object
+root.PCEF015_ZH_SignalFlag.canCharge removed in first object
+root.PCEE011_SeasonFlag01.canCharge removed in first object
+root.PCM027_ConcealmentMeasures_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM027_ConcealmentMeasures_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM027_ConcealmentMeasures_Mod_I.nation[11] removed in first object
+root.PRES410_MOSKVA_AVRORA.canCharge removed in first object
+root.PCNA021.clanTag removed in first object
+root.PCNA021.canCharge removed in first object
+root.PBUS627_SUO_COSSACK removed in second object
+root.PCNA028.clanTag removed in first object
+root.PCNA028.canCharge removed in first object
+root.PCEE085_Labor_Day.canCharge removed in first object
+root.PCBM006.hull.deadModel changed in second object (was content/location/gameplay/building/LYB023/LYB023_dead.model, is content/location/nature/gameplay/LNG006/LNG006.model)
+root.PCBM006.hull.permanentlyVisibleByTeammates changed in second object (was False, is True)
+root.PCBM006.hull.health changed in second object (was 5000.0, is 30000.0)
+root.PCBM006.hull.OCit.splashBoxes[0] changed in second object (was CM_SB_ovcit, is CM_SB_ovcit_1)
+root.PCBM006.hull.OCit.splashBoxes[1] changed in second object (was CM_SB_ovcit1, is CM_SB_ovcit_2)
+root.PCBM006.hull.OCit.splashBoxes[2] removed in first object
+root.PCBM006.hull.model changed in second object (was content/location/gameplay/building/LYB023/LYB023.model, is content/location/nature/gameplay/LNG006/LNG006.model)
+root.PJEP504_Minekadze_1920.canCharge removed in first object
+root.PCEE167_Steam_Flag.canCharge removed in first object
+root.PCW001_CrewCommon.canCharge removed in first object
+root.PCM009_FlightControl_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM009_FlightControl_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM009_FlightControl_Mod_I.nation[11] removed in first object
+root.PCEE044_Prinz_Eugen.canCharge removed in first object
+root.PCNA009.clanTag removed in first object
+root.PCNA009.canCharge removed in first object
+root.PCNA008.clanTag removed in first object
+root.PCNA008.canCharge removed in first object
+root.PCNA003.clanTag removed in first object
+root.PCNA003.canCharge removed in first object
+root.PCNA002.clanTag removed in first object
+root.PCNA002.canCharge removed in first object
+root.PCNA001.clanTag removed in first object
+root.PCNA001.canCharge removed in first object
+root.PCNA006.clanTag removed in first object
+root.PCNA006.canCharge removed in first object
+root.PCNA005.clanTag removed in first object
+root.PCNA005.canCharge removed in first object
+root.PCEE057_Coinsup_flag.canCharge removed in first object
+root.PCM019_SecondaryGun_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM019_SecondaryGun_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM019_SecondaryGun_Mod_III.nation[11] removed in first object
+root.PASD506_Monaghan.group changed in second object (was special, is demoWithoutStats)
+root.PASD506_Monaghan.groupCustom.CN removed in first object
+root.PCEE047_WaitForMe.canCharge removed in first object
+root.PCEE058_WG_Fest.canCharge removed in first object
+root.PJEP525_True_Kamikaze.canCharge removed in first object
+root.PCEE103_De_Grasse.canCharge removed in first object
+root.PBUT603_TORP_COSSACK removed in second object
+root.PRSC106_Pr_94_Budeny.B_Hull.turningRadius changed in second object (was 710.0, is 820.0)
+root.PRSC106_Pr_94_Budeny.A_Hull.turningRadius changed in second object (was 710.0, is 820.0)
+root.PUW001_DefaultCrew.canCharge removed in first object
+root.PGEP438_Graf_Zeppelin.canCharge removed in first object
+root.PCEE159_Happy_New_Year2018.canCharge removed in first object
+root.PJEP508_HSF_Harekaze.canCharge removed in first object
+root.PRW301_Azur_Aurora.canCharge removed in first object
+root.PAEP313_Arkansas_1912.canCharge removed in first object
+root.PCEE108_Harekaze_HSF.canCharge removed in first object
+root.PCEP109_Permo_Prem_9_lvl.canCharge removed in first object
+root.PJW102_Southern_dragon_king.canCharge removed in first object
+root.PCEE141_Huang_he_Flag.canCharge removed in first object
+root.PBUE625_ENG_COSSACK removed in second object
+root.PCEE049_Jolly_Roger_3.canCharge removed in first object
+root.PCNA025.clanTag removed in first object
+root.PCNA025.canCharge removed in first object
+root.PCNA024.clanTag removed in first object
+root.PCNA024.canCharge removed in first object
+root.PCNA027.clanTag removed in first object
+root.PCNA027.canCharge removed in first object
+root.PCNA026.clanTag removed in first object
+root.PCNA026.canCharge removed in first object
+root.PCNA020.clanTag removed in first object
+root.PCNA020.canCharge removed in first object
+root.PCNA023.clanTag removed in first object
+root.PCNA023.canCharge removed in first object
+root.PCNA022.clanTag removed in first object
+root.PCNA022.canCharge removed in first object
+root.PCNA029.clanTag removed in first object
+root.PCNA029.canCharge removed in first object
+root.PCM039_CrashCrew_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM039_CrashCrew_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM039_CrashCrew_Mod_I.nation[11] removed in first object
+root.PCEE028_SeasonFlag04.canCharge removed in first object
+root.PCEC043_Camo_New_Year_18.canCharge removed in first object
+root.PCM020_DamageControl_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM020_DamageControl_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM020_DamageControl_Mod_I.nation[11] removed in first object
+root.PCEC023_Camo_St_Patrick.canCharge removed in first object
+root.PCNB067.clanTag removed in first object
+root.PCNB067.canCharge removed in first object
+root.PRW002_MayCap.canCharge removed in first object
+root.PCEE123_Gallant_flag.canCharge removed in first object
+root.PXW114_Spaceman7.canCharge removed in first object
+root.PCEE079_Scavenger.canCharge removed in first object
+root.PCEC018_Restless_Fire.canCharge removed in first object
+root.PCEE033_Krasnyi_Krim_flag.canCharge removed in first object
+root.PCEE066_Supremacy_League_Winner.canCharge removed in first object
+root.PAES408_FREEDOM_CLEVELAND.canCharge removed in first object
+root.PCEE073_Mutsu_flag.canCharge removed in first object
+root.PCEF013_PP_SignalFlag.canCharge removed in first object
+root.PCEF018_IX_SignalFlag.canCharge removed in first object
+root.PCEE116_Valor_All_for_One_Flag.canCharge removed in first object
+root.PZW104_Narong_Duanta.canCharge removed in first object
+root.PRSC010_Diana_1905_Asus.HullDefault.turningRadius changed in second object (was 470.0, is 430.0)
+root.PXW107_Lazar_Kent.canCharge removed in first object
+root.PCEE152_Musashi_Flag.canCharge removed in first object
+root.PCEE181_Viva_La_France_Flag.canCharge removed in first object
+root.PCEE090_Military_Month_Contributor_Flag_v2.canCharge removed in first object
+root.PGEP304_Tirpiz_1942_2.canCharge removed in first object
+root.PCQT528_Key.rewards[1] removed in second object
+root.PCQT528_Key.rewards[2] removed in second object
+root.PCQT528_Key.rewards[3] removed in second object
+root.PCQT528_Key.rewards[4] removed in second object
+root.PCQT528_Key.rewards[5] removed in second object
+root.PCQT528_Key.rewards[6] removed in second object
+root.PCQT528_Key.rewards[7] removed in second object
+root.PCQT528_Key.rewards[8] removed in second object
+root.PCQT528_Key.rewards[9] removed in second object
+root.PCQT528_Key.costUnlock changed in second object (was 7, is 12)
+root.PCEE021_Flag_CBT.canCharge removed in first object
+root.PCEC020_Camo_New_Year_17.canCharge removed in first object
+root.PCNB012.clanTag removed in first object
+root.PCNB012.canCharge removed in first object
+root.PCM023_DamageControl_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM023_DamageControl_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM023_DamageControl_Mod_II.nation[11] removed in first object
+root.PCNA031.clanTag removed in first object
+root.PCNA031.canCharge removed in first object
+root.PCEP129_Permo_Upgr_9_lvl.canCharge removed in first object
+root.PCEP302_Permo_NY_2.canCharge removed in first object
+root.PCNB119.clanTag removed in first object
+root.PCNB119.canCharge removed in first object
+root.PCEF006_HY_SignalFlag.canCharge removed in first object
+root.PXW113_Spaceman6.canCharge removed in first object
+root.PCEE130_Yamamoto_collection.canCharge removed in first object
+root.PCEE068_Community_Contest.canCharge removed in first object
+root.PGEP418_Prinz_Eugen.canCharge removed in first object
+root.PCZA006_HappyNewYear2018.canCharge removed in first object
+root.PCEE088_NA_EU_community.canCharge removed in first object
+root.PCEE119_Graf_Zeppelin.canCharge removed in first object
+root.PCEE008_Rank20.canCharge removed in first object
+root.PCEE136_Twitch.canCharge removed in first object
+root.PAEP319_Alabama.canCharge removed in first object
+root.PCEE131_Second_anniversary.canCharge removed in first object
+root.PFES408_Charles_Martel_H2017.canCharge removed in first object
+root.PCEE014_Flag_Supertest.canCharge removed in first object
+root.PCEE081_Collectioner.canCharge removed in first object
+root.PCEE189_AzurLaneLogo.canCharge removed in first object
+root.PCQT537.rewards[1] removed in second object
+root.PCQT537.lootStars changed in second object (was 4, is 3)
+root.PCQT537.conditions[3] changed in second object (was <isDamage count="5000" nation="Germany"/>, is <isDamage count="500000" nation="Germany"/>)
+root.PCQT536.rewards[1] removed in second object
+root.PCQT536.lootStars changed in second object (was 4, is 3)
+root.PCQT536.conditions[3] changed in second object (was <isDamage count="5000" nation="Japan"/>, is <isDamage count="500000" nation="Japan"/>)
+root.PCQT535.rewards[1] removed in second object
+root.PCQT535.lootStars changed in second object (was 3, is 2)
+root.PCQT535.conditions[3] changed in second object (was <isTopXP rank="10" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT534.rewards[1] removed in second object
+root.PCQT534.lootStars changed in second object (was 3, is 2)
+root.PCQT534.conditions[3] changed in second object (was <isTopXP rank="9" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT534.conditions[4] changed in second object (was <isEarnBattleAchievements count="1"/>, is <isEarnBattleAchievements count="2"/>)
+root.PCQT533.rewards[1] removed in second object
+root.PCQT533.lootStars changed in second object (was 3, is 1)
+root.PCQT533.conditions[2] changed in second object (was <isDamage count="10000" nation="Japan,Germany"/>, is <isDamage count="1000000" nation="Japan,Germany"/>)
+root.PCQT532.rewards[1] removed in second object
+root.PCQT532.lootStars changed in second object (was 3, is 1)
+root.PCQT532.conditions[3] changed in second object (was <isTopXP rank="10" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT531.rewards[1] removed in second object
+root.PCQT531.lootStars changed in second object (was 3, is 1)
+root.PCQT531.conditions[3] changed in second object (was <isTopXP rank="10" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT530.rewards[1] removed in second object
+root.PCQT530.lootStars changed in second object (was 2, is 1)
+root.PCQT530.conditions[2] changed in second object (was <isTotalCredits count="45000" />, is <isTotalCredits count="4500000" />)
+root.PCEF014_NF_SignalFlag.canCharge removed in first object
+root.PCM032_PowderMagazine_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM032_PowderMagazine_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM032_PowderMagazine_Mod_I.nation[11] removed in first object
+root.PAEP445_Marblehead_1924_Asus.canCharge removed in first object
+root.PREP409_Dmitry_Donskoy.canCharge removed in first object
+root.PBES327_Duke_of_York_Ice.canCharge removed in first object
+root.PAEP509_Black.canCharge removed in first object
+root.PRW001_DefaultCrew.canCharge removed in first object
+root.PAEP605_Texas_Twitch_Prime.canCharge removed in first object
+root.PXW103_Mr_Hide.canCharge removed in first object
+root.PCEE193_Stalingrad_flag.canCharge removed in first object
+root.PJW101_Eastern_dragon_king.canCharge removed in first object
+root.PCEE035_Dunkerque.canCharge removed in first object
+root.PBW001_DefaultCrew.canCharge removed in first object
+root.PCEP301_Permo_NY.canCharge removed in first object
+root.PJW008_Myoko.canCharge removed in first object
+root.PCEF022_Red_Dragon_Flag.canCharge removed in first object
+root.PCEE113_Valor_Flags_Home.canCharge removed in first object
+root.PCQT511.rewards[1] removed in second object
+root.PCQT511.lootStars changed in second object (was 2, is 1)
+root.PCQT511.conditions[2] changed in second object (was <isTotalCredits count="30000" />, is <isTotalCredits count="3000000" />)
+root.PCQT510.rewards[1] removed in second object
+root.PCQT510.lootStars changed in second object (was 2, is 1)
+root.PCQT510.conditions[2] changed in second object (was <isTotalCrewXP count="600" />, is <isTotalCrewXP count="60000" />)
+root.PCQT513.rewards[1] removed in second object
+root.PCQT513.lootStars changed in second object (was 2, is 1)
+root.PCQT513.conditions[3] changed in second object (was <isTopXP rank="7" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT512.rewards[1] removed in second object
+root.PCQT512.lootStars changed in second object (was 2, is 1)
+root.PCQT512.conditions[2] changed in second object (was <isRibbons count="5" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />, is <isRibbons count="20" ribbons="BASE_CAPTURE, BASE_CAPTURE_ASSIST" />)
+root.PCQT515.rewards[2] removed in second object
+root.PCQT515.lootStars changed in second object (was 3, is 2)
+root.PCQT515.conditions[2] changed in second object (was <isRibbons count="10" ribbons="BURN, FLOOD"/>, is <isRibbons count="120" ribbons="BURN, FLOOD"/>)
+root.PCQT514.rewards[1] removed in second object
+root.PCQT514.lootStars changed in second object (was 2, is 1)
+root.PCQT514.conditions[4] changed in second object (was <isDamage count="1200" damageTypes="fire,flood"/>, is <isDamage count="12000" damageTypes="fire,flood"/>)
+root.PCQT516.rewards[1] removed in second object
+root.PCQT516.lootStars changed in second object (was 3, is 2)
+root.PCQT516.conditions[3] changed in second object (was <isTopXP rank="9" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT516.conditions[4] changed in second object (was <isScoutingDamage count="1000" />, is <isScoutingDamage count="50000" />)
+root.PCQT519.rewards[1] removed in second object
+root.PCQT519.lootStars changed in second object (was 2, is 1)
+root.PCQT519.conditions[2] changed in second object (was <isTotalCrewXP count="750" />, is <isTotalCrewXP count="75000" />)
+root.PCEC042_Super_ECO_camo.canCharge removed in first object
+root.PAES108_Lexington_1944_H2017.canCharge removed in first object
+root.PBSB110_Conqueror.A_Hull.turningRadius changed in second object (was 940.0, is 820.0)
+root.PXW105_Sairus_Gerrero.canCharge removed in first object
+root.PCEE080_Elements.canCharge removed in first object
+root.PCM017_Airplanes_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM017_Airplanes_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM017_Airplanes_Mod_III.nation[11] removed in first object
+root.PJES524_VANHELLSINK.canCharge removed in first object
+root.PRW003_RusCap.canCharge removed in first object
+root.PCEF020_Blue_Dragon_Flag.canCharge removed in first object
+root.PBEP307_Hood_Permo_2.canCharge removed in first object
+root.PCEE171_Cossack_Flag.canCharge removed in first object
+root.PGES338_Tirpiz_1942_H2017.canCharge removed in first object
+root.PCNB056.clanTag removed in first object
+root.PCNB056.canCharge removed in first object
+root.PCEC035_Back2School.canCharge removed in first object
+root.PCEC032_navy_day.canCharge removed in first object
+root.PCEE160_Secret_Santa18.canCharge removed in first object
+root.PCZA009_AmericanArc.canCharge removed in first object
+root.PJW005_Kongou.canCharge removed in first object
+root.PCEE030_Battle_of_Jutland.canCharge removed in first object
+root.PAEP444_Marblehead_1924.canCharge removed in first object
+root.PCEE132_Kii_flag.canCharge removed in first object
+root.PRSC510_Stalingrad.A_Hull.customMiscs.dock removed in first object
+root.PCEE101_Navoeval.canCharge removed in first object
+root.PJW203_Moeka_China.canCharge removed in first object
+root.PCEE148_HW_Another_Flag.canCharge removed in first object
+root.PAEP907_Mustang.canCharge removed in first object
+root.PCEE115_Valor_Giving_Thanks_Flag.canCharge removed in first object
+root.PCEE091_Victory_Day_EU.canCharge removed in first object
+root.PJW205_Mei_Irizaki.canCharge removed in first object
+root.PCEP309_Permo_NY_3.canCharge removed in first object
+root.PCEF008_IY_SignalFlag.canCharge removed in first object
+root.PCEE060_Oleg_flag.canCharge removed in first object
+root.PCEE186_Contributor.canCharge removed in first object
+root.PASC507_Indianapolis_1945.A_Hull.turningRadius changed in second object (was 620.0, is 650.0)
+root.PCEP304_Permo_NY_2_CN_Red.canCharge removed in first object
+root.PCEE051_Belfast.canCharge removed in first object
+root.PJES110_HAKURYU_HELL.canCharge removed in first object
+root.PCEE036_Taiwan_Navy.canCharge removed in first object
+root.PCEC044_Steam_Camo.canCharge removed in first object
+root.PAW103_UsaCap.canCharge removed in first object
+root.PCEC052_Womens_Day.canCharge removed in first object
+root.PAEP521_Fletcher_1943.canCharge removed in first object
+root.PCEP139_Permo_Prem_9_lvl.canCharge removed in first object
+root.PCQT544.rewards[1] removed in second object
+root.PCQT544.lootStars changed in second object (was 3, is 2)
+root.PCQT544.conditions[2] changed in second object (was <isRibbons count="100"/>, is <isRibbons count="2000"/>)
+root.PZW102_Tao_Ji.canCharge removed in first object
+root.PCNU036.clanTag removed in first object
+root.PCNU036.canCharge removed in first object
+root.PRES408_Pr_68_Chapaev_H2017.canCharge removed in first object
+root.PGW001_DefaultCrew.canCharge removed in first object
+root.PREP412_STALINGRAD.canCharge removed in first object
+root.PCM026_LookoutStation_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM026_LookoutStation_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM026_LookoutStation_Mod_I.nation[11] removed in first object
+root.PJEP111_Hiryu_1942.canCharge removed in first object
+root.PCEE065_Shipsmas.canCharge removed in first object
+root.PCEC012_Camo_Basketball_Tile_4.canCharge removed in first object
+root.PCEE029_Songkran.canCharge removed in first object
+root.PCEE034_Scharnhorst.canCharge removed in first object
+root.PREP402_Diana_1905.canCharge removed in first object
+root.PCQT538_Key.rewards[0] changed in second object (was <Lootbox boxType="epic" count="5"/>, is <Lootbox boxType="epic" count="2"/>)
+root.PCQT538_Key.rewards[1] removed in second object
+root.PCQT538_Key.rewards[2] removed in second object
+root.PCQT538_Key.costUnlock changed in second object (was 6, is 12)
+root.PCQT538_Key.conditions[2] changed in second object (was <isTotalXP count="3500" />, is <isTotalXP count="35000" />)
+root.PCEC056_Contributor_Followers.canCharge removed in first object
+root.PCNB048.clanTag removed in first object
+root.PCNB048.canCharge removed in first object
+root.PCNB102.clanTag removed in first object
+root.PCNB102.canCharge removed in first object
+root.PCNB101.clanTag removed in first object
+root.PCNB101.canCharge removed in first object
+root.PCNB100.clanTag removed in first object
+root.PCNB100.canCharge removed in first object
+root.PCNB107.clanTag removed in first object
+root.PCNB107.canCharge removed in first object
+root.PCNB106.clanTag removed in first object
+root.PCNB106.canCharge removed in first object
+root.PCNB105.clanTag removed in first object
+root.PCNB105.canCharge removed in first object
+root.PCNB109.clanTag removed in first object
+root.PCNB109.canCharge removed in first object
+root.PCNB108.clanTag removed in first object
+root.PCNB108.canCharge removed in first object
+root.PBUH627_HULL_COSSACK removed in second object
+root.PAEP314_Texas_Lone_star.canCharge removed in first object
+root.PCZA003_Dunkirk.canCharge removed in first object
+root.PFES306_Dunkerque_Skin.canCharge removed in first object
+root.PJW014_Ashigara.canCharge removed in first object
+root.PCEE076_St_Patrick.canCharge removed in first object
+root.PCEE139_Dudinka_Flag.canCharge removed in first object
+root.PCEE134_Wargaming_anniversary.canCharge removed in first object
+root.PREP505_Pr_7_Gnevny.canCharge removed in first object
+root.PCEE184_Z_39_flag.canCharge removed in first object
+root.PJEP439_Atago_CN_OB.canCharge removed in first object
+root.PCNU015.clanTag removed in first object
+root.PCNU015.canCharge removed in first object
+root.PCNU016.clanTag removed in first object
+root.PCNU016.canCharge removed in first object
+root.PCNU017.clanTag removed in first object
+root.PCNU017.canCharge removed in first object
+root.PCNU011.clanTag removed in first object
+root.PCNU011.canCharge removed in first object
+root.PCNU012.clanTag removed in first object
+root.PCNU012.canCharge removed in first object
+root.PCNU018.clanTag removed in first object
+root.PCNU018.canCharge removed in first object
+root.PCNU019.clanTag removed in first object
+root.PCNU019.canCharge removed in first object
+root.PCEP128_Permo_Upgr_8_lvl.canCharge removed in first object
+root.PCEE145_Pigeon_Of_War.canCharge removed in first object
+root.PCEF017_VL_SignalFlag.canCharge removed in first object
+root.PJEP321_Izumo_1938.canCharge removed in first object
+root.PCEE053_Votes_flag.canCharge removed in first object
+root.PJW015_Takao.canCharge removed in first object
+root.PIES308_Roma_Kobayashi.canCharge removed in first object
+root.PCEE191_US_CL_flag.canCharge removed in first object
+root.PCEE137_Admiral_Makarov.canCharge removed in first object
+root.PFW001_DefaultCrew.canCharge removed in first object
+root.PCEE162_Kidd_Flag.canCharge removed in first object
+root.PGEP409_Roon.canCharge removed in first object
+root.PCZA004_Yamamoto.canCharge removed in first object
+root.PCNB103.clanTag removed in first object
+root.PCNB103.canCharge removed in first object
+root.PJEP526_Camo_Kamikaze.canCharge removed in first object
+root.PCEE009_Rank10.canCharge removed in first object
+root.PRES301_RASPUTIN.canCharge removed in first object
+root.PCNB104.clanTag removed in first object
+root.PCNB104.canCharge removed in first object
+root.PASC206_Dallas.AB_AirArmament.HP_AC_1.angle changed in second object (was -80.0, is 90.0)
+root.PCEE196_AzurHipper_flag.canCharge removed in first object
+root.PCEC014_Camo_GNB_May_2016.canCharge removed in first object
+root.PCEE155_Tirpitz_Flag.canCharge removed in first object
+root.PCEE089_VALOR.canCharge removed in first object
+root.PCEF012_MY6_SignalFlag.canCharge removed in first object
+root.PJW009_Unknown.canCharge removed in first object
+root.PCEE192_Nueve_de_Julio_flag.canCharge removed in first object
+root.PCEE061_Graf_Spee.canCharge removed in first object
+root.PCEC055_Contributor.canCharge removed in first object
+root.PAW302_Azur_Enterprise.canCharge removed in first object
+root.PCNU039.clanTag removed in first object
+root.PCNU039.canCharge removed in first object
+root.PCNU037.clanTag removed in first object
+root.PCNU037.canCharge removed in first object
+root.PCNU034.clanTag removed in first object
+root.PCNU034.canCharge removed in first object
+root.PCNU032.clanTag removed in first object
+root.PCNU032.canCharge removed in first object
+root.PCNU030.clanTag removed in first object
+root.PCNU030.canCharge removed in first object
+root.PCNU031.clanTag removed in first object
+root.PCNU031.canCharge removed in first object
+root.PAW301_Azur_Cleveland.canCharge removed in first object
+root.PCEC015_Camo_CN_Special.canCharge removed in first object
+root.PFES318_Richelieu_Royal.canCharge removed in first object
+root.PAES510_GEARING_FLYFIRE.canCharge removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.canCharge removed in first object
+root.PCEE172_Asashio_Flag.canCharge removed in first object
+root.PCEE016_Flag_Developer.canCharge removed in first object
+root.PCEC010_Camo_Basketball_Tile_2.canCharge removed in first object
+root.PREP301_Nikolay_I.canCharge removed in first object
+root.PCM018_AirDefense_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM018_AirDefense_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM018_AirDefense_Mod_III.nation[11] removed in first object
+root.PCEE064_Flag_Volunteer_3.canCharge removed in first object
+root.PCEF003_EqualSpeed_SignalFlag.canCharge removed in first object
+root.PCEC054_Humble_Bundle.canCharge removed in first object
+root.PREP403_Murmansk_1944.canCharge removed in first object
+root.PXW109_Spaceman2.canCharge removed in first object
+root.PCEE110_Supremacy_League_4_Participants.canCharge removed in first object
+root.PCEE195_SeasonFlag09.canCharge removed in first object
+root.PCEP118_Permo_Upgr_8_lvl.canCharge removed in first object
+root.PASD709_Black.ShipUpgradeInfo.costGold changed in second object (was 0, is 20000)
+root.PCEP307_Liberty.canCharge removed in first object
+root.PCEE084_Alabama.canCharge removed in first object
+root.PCNB080.clanTag removed in first object
+root.PCNB080.canCharge removed in first object
+root.PCNB086.clanTag removed in first object
+root.PCNB086.canCharge removed in first object
+root.PCNB088.clanTag removed in first object
+root.PCNB088.canCharge removed in first object
+root.PCNB089.clanTag removed in first object
+root.PCNB089.canCharge removed in first object
+root.PJW017_ARP_Nachi.canCharge removed in first object
+root.PIW001_DefaultCrew.canCharge removed in first object
+root.PGES308_Bismarck_Veteran.canCharge removed in first object
+root.PCEC006_Tile_Supertest.canCharge removed in first object
+root.PGEP507_Scharnhorst.canCharge removed in first object
+root.PBUA624_ART_COSSACK removed in second object
+root.PGES328_Bismarck_H2017.canCharge removed in first object
+root.PCEC003_Camo_Halloween.canCharge removed in first object
+root.PGW102_GerCapPrem.canCharge removed in first object
+root.PASC209_Seattle.B_Radars.HP_ARS_5.gunNode changed in second object (was , is HP_AGM_3)
+root.PASC209_Seattle.B_Radars.HP_ARS_1.gunNode changed in second object (was , is HP_AGM_2)
+root.PASC209_Seattle.B_Radars.HP_ARF_2 removed in first object
+root.PASC209_Seattle.A_Hull.HP_AGA_7 removed in second object
+root.PASC209_Seattle.A_Hull.HP_AGA_8 removed in second object
+root.PASC209_Seattle.A_Hull.customMiscs.battle removed in first object
+root.PASC209_Seattle.A_Hull.customMiscs.dock removed in first object
+root.PASC209_Seattle.A_Hull.dockYOffset changed in second object (was -0.073, is 0.0)
+root.PASC209_Seattle.A_Hull.HP_ARF_2 removed in first object
+root.PASC209_Seattle.AB1_Artillery removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_10.index changed in second object (was PAD001, is PAD042)
+root.PASC209_Seattle.B_Directors.HP_AD_10.name changed in second object (was PAD001_Director_Mk37, is PAD042_Director_Mk37_Mod2)
+root.PASC209_Seattle.B_Directors.HP_AD_10.nation removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_10.otype removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_10.miscFilter[0] changed in second object (was MP_AM658_Radar_Mk4, is MP_AM651_Radar_Mk12)
+root.PASC209_Seattle.B_Directors.HP_AD_10.miscFilter[1] removed in first object
+root.PASC209_Seattle.B_Directors.HP_AD_10.model changed in second object (was content/gameplay/usa/director/AD001_Director_Mk37/AD001_Director_Mk37.model, is content/gameplay/usa/director/AD042_Director_Mk37_Mod2/AD042_Director_Mk37_Mod2.model)
+root.PASC209_Seattle.B_Directors.HP_AD_10.id changed in second object (was 4293063664, is 4250072048)
+root.PASC209_Seattle.B_Directors.HP_AD_10.stype removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_10.gunNode changed in second object (was , is HP_AGM_3)
+root.PASC209_Seattle.B_Directors.HP_AD_7.index changed in second object (was PAD001, is PAD042)
+root.PASC209_Seattle.B_Directors.HP_AD_7.name changed in second object (was PAD001_Director_Mk37, is PAD042_Director_Mk37_Mod2)
+root.PASC209_Seattle.B_Directors.HP_AD_7.nation removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_7.otype removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_7.miscFilter[0] changed in second object (was MP_AM658_Radar_Mk4, is MP_AM632_Radar_Mk22)
+root.PASC209_Seattle.B_Directors.HP_AD_7.miscFilter[1] removed in first object
+root.PASC209_Seattle.B_Directors.HP_AD_7.model changed in second object (was content/gameplay/usa/director/AD001_Director_Mk37/AD001_Director_Mk37.model, is content/gameplay/usa/director/AD042_Director_Mk37_Mod2/AD042_Director_Mk37_Mod2.model)
+root.PASC209_Seattle.B_Directors.HP_AD_7.id changed in second object (was 4293063664, is 4250072048)
+root.PASC209_Seattle.B_Directors.HP_AD_7.stype removed in second object
+root.PASC209_Seattle.B_Directors.HP_AD_7.gunNode changed in second object (was , is HP_AGM_2)
+root.PASC209_Seattle.B_Hull.customMiscs.battle removed in first object
+root.PASC209_Seattle.B_Hull.customMiscs.dock removed in first object
+root.PASC209_Seattle.B_Hull.dockYOffset changed in second object (was -0.073, is 0.0)
+root.PASC209_Seattle.B_Hull.HP_ARS_6 removed in first object
+root.PASC209_Seattle.ShipUpgradeInfo.PAUH803_SEATTLE_A.components.artillery[0] changed in second object (was AB1_Artillery, is A_Artillery)
+root.PASC209_Seattle.ShipUpgradeInfo.PAUA803_CL9_ART_STOCK.components.artillery[0] changed in second object (was AB1_Artillery, is A_Artillery)
+root.PASC209_Seattle.ShipUpgradeInfo.PAUA803_CL9_ART_STOCK.components.artillery[1] removed in first object
+root.PASC209_Seattle.ShipUpgradeInfo.PAUH804_SEATTLE_B.components.artillery[0] changed in second object (was AB1_Artillery, is B_Artillery)
+root.PASC209_Seattle.A_Directors.HP_AD_10.miscFilter[0] removed in first object
+root.PASC209_Seattle.A_Directors.HP_AD_7.miscFilter[0] removed in first object
+root.PASC209_Seattle.A_AirDefense.Near_1.guns[16] removed in first object
+root.PASC209_Seattle.A_AirDefense.Near_1.guns[17] removed in first object
+root.PASC209_Seattle.A_AirDefense.HP_AGA_7 removed in first object
+root.PASC209_Seattle.A_AirDefense.HP_AGA_8 removed in first object
+root.PASC209_Seattle.A_Radars.HP_ARS_5.gunNode changed in second object (was , is HP_AGM_3)
+root.PASC209_Seattle.A_Radars.HP_ARS_1.gunNode changed in second object (was , is HP_AGM_2)
+root.PASC209_Seattle.A_Radars.HP_ARS_6 removed in first object
+root.PASC209_Seattle.A_Artillery removed in first object
+root.PASC209_Seattle.B_Artillery removed in first object
+root.PCNB036.clanTag removed in first object
+root.PCNB036.canCharge removed in first object
+root.PGES303_MR_HYDE.canCharge removed in first object
+root.PZW001_DefaultCrew.canCharge removed in first object
+root.PGEP406_HSF_Graf_Spee.canCharge removed in first object
+root.PXW101_Dr_Van_Helsind.canCharge removed in first object
+root.PCM021_Engine_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM021_Engine_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM021_Engine_Mod_I.nation[11] removed in first object
+root.PREP411_Oktyabrskaya_Revolutsiya.canCharge removed in first object
+root.PFES316_NORMANDIE_SKIN.canCharge removed in first object
+root.PCEE185_Kronshtadt_flag.canCharge removed in first object
+root.PCEE125_Blueprint_1.canCharge removed in first object
+root.PCM006_MainGun_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM006_MainGun_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM006_MainGun_Mod_II.nation[11] removed in first object
+root.PCEE111_Supremacy_League_4_Champions.canCharge removed in first object
+root.PCNB068.clanTag removed in first object
+root.PCNB068.canCharge removed in first object
+root.PCNB069.clanTag removed in first object
+root.PCNB069.canCharge removed in first object
+root.PCNB064.clanTag removed in first object
+root.PCNB064.canCharge removed in first object
+root.PCNB065.clanTag removed in first object
+root.PCNB065.canCharge removed in first object
+root.PCNB066.clanTag removed in first object
+root.PCNB066.canCharge removed in first object
+root.PCNB060.clanTag removed in first object
+root.PCNB060.canCharge removed in first object
+root.PCNB061.clanTag removed in first object
+root.PCNB061.canCharge removed in first object
+root.PCNB062.clanTag removed in first object
+root.PCNB062.canCharge removed in first object
+root.PCNB063.clanTag removed in first object
+root.PCNB063.canCharge removed in first object
+root.PCEE126_Blueprint_2.canCharge removed in first object
+root.PCNU014.clanTag removed in first object
+root.PCNU014.canCharge removed in first object
+root.PCNU010.clanTag removed in first object
+root.PCNU010.canCharge removed in first object
+root.PCEE102_Battle_of_Phillipines.canCharge removed in first object
+root.PCNU013.clanTag removed in first object
+root.PCNU013.canCharge removed in first object
+root.PCEC027_Players_Birthday.canCharge removed in first object
+root.PJEP311_Mikasa_1905.canCharge removed in first object
+root.PGEP402_Emden_1908.canCharge removed in first object
+root.PXW116_Spaceman9.canCharge removed in first object
+root.PCNB117.clanTag removed in first object
+root.PCNB117.canCharge removed in first object
+root.PCEE151_Aigle_Flag.canCharge removed in first object
+root.PCEF009_JY2_SignalFlag.canCharge removed in first object
+root.PCEE190_Humble_Bundle_Flag.canCharge removed in first object
+root.PCEE054_Buffed_de.canCharge removed in first object
+root.PCEC024_Battle_Hardened.canCharge removed in first object
+root.PCEC025_CoE_Team_Water.canCharge removed in first object
+root.PCEC041_MSI_camo.canCharge removed in first object
+root.PCEF007_ID_SignalFlag.canCharge removed in first object
+root.PFES328_Gascogne_Repub.canCharge removed in first object
+root.PCEC026_CoE_Team_Fire.canCharge removed in first object
+root.PCNB046.clanTag removed in first object
+root.PCNB046.canCharge removed in first object
+root.PCNB047.clanTag removed in first object
+root.PCNB047.canCharge removed in first object
+root.PCNB044.clanTag removed in first object
+root.PCNB044.canCharge removed in first object
+root.PCNB045.clanTag removed in first object
+root.PCNB045.canCharge removed in first object
+root.PCNB042.clanTag removed in first object
+root.PCNB042.canCharge removed in first object
+root.PCNB043.clanTag removed in first object
+root.PCNB043.canCharge removed in first object
+root.PCNB040.clanTag removed in first object
+root.PCNB040.canCharge removed in first object
+root.PCNB041.clanTag removed in first object
+root.PCNB041.canCharge removed in first object
+root.PCNB049.clanTag removed in first object
+root.PCNB049.canCharge removed in first object
+root.PCEE166_Curry_Flag.canCharge removed in first object
+root.PCEE020_Flag_CBW.canCharge removed in first object
+root.PRSC110_Pr_66_Moskva.A_Hull.turningRadius changed in second object (was 760.0, is 1050.0)
+root.PZW101_Wonyong_Ryu.canCharge removed in first object
+root.PGES310_GROSS_ALLDESTROYER.canCharge removed in first object
+root.PCEP103_Permo_Prem_Low_lvl.canCharge removed in first object
+root.PGSC002_Drezden_1908.A_Hull_1908.turningRadius changed in second object (was 580.0, is 420.0)
+root.PGSC002_Drezden_1908.B_Hull_1916.turningRadius changed in second object (was 580.0, is 420.0)
+root.PCEC016_Camo_Gamescom_2016.canCharge removed in first object
+root.PCEE122_Battle_of_Vella_Gulf.canCharge removed in first object
+root.PCEE048_SeasonFlag05.canCharge removed in first object
+root.PCEE117_Dunkirk_dinamo.canCharge removed in first object
+root.PAEP318_Iowa_1944.canCharge removed in first object
+root.PCEE174_HSF_Musashi_Flag.canCharge removed in first object
+root.PJW201_Isoroku_cat.canCharge removed in first object
+root.PCM014_Torpedo_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM014_Torpedo_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM014_Torpedo_Mod_III.nation[11] removed in first object
+root.PBEP302_Warspite_1941.canCharge removed in first object
+root.PCEE107_Wilhelmshaven_School.canCharge removed in first object
+root.PCEP116_Permo_Upgr_6_lvl.canCharge removed in first object
+root.PCEE158_Armada_Action.canCharge removed in first object
+root.PXW112_Spaceman5.canCharge removed in first object
+root.PAEP602_Albany_Military_Veteran.canCharge removed in first object
+root.PCEE083_Easter_2017.canCharge removed in first object
+root.PCNB020.clanTag removed in first object
+root.PCNB020.canCharge removed in first object
+root.PCNB021.clanTag removed in first object
+root.PCNB021.canCharge removed in first object
+root.PCNB022.clanTag removed in first object
+root.PCNB022.canCharge removed in first object
+root.PCNB023.clanTag removed in first object
+root.PCNB023.canCharge removed in first object
+root.PCNB024.clanTag removed in first object
+root.PCNB024.canCharge removed in first object
+root.PCNB025.clanTag removed in first object
+root.PCNB025.canCharge removed in first object
+root.PCNB026.clanTag removed in first object
+root.PCNB026.canCharge removed in first object
+root.PCNB027.clanTag removed in first object
+root.PCNB027.canCharge removed in first object
+root.PCNB028.clanTag removed in first object
+root.PCNB028.canCharge removed in first object
+root.PCNB029.clanTag removed in first object
+root.PCNB029.canCharge removed in first object
+root.PAW102_Halsey.canCharge removed in first object
+root.PRSC002_Diana_1905.HullDefault.turningRadius changed in second object (was 470.0, is 430.0)
+root.PCEE046_Pirate_Day_flag.canCharge removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.canCharge removed in first object
+root.PCEC049_Dragon_1.canCharge removed in first object
+root.PCM025_SteeringGear_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM025_SteeringGear_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM025_SteeringGear_Mod_II.nation[11] removed in first object
+root.PCEP120_Permo_Upgr_10_lvl.canCharge removed in first object
+root.PREP405_KrasniKrym.canCharge removed in first object
+root.PCEE024_MGT_20.canCharge removed in first object
+root.PCEE086_Victory_Day.canCharge removed in first object
+root.PJW012_Haguro.canCharge removed in first object
+root.PBSD507_Cossack removed in second object
+root.PFW102_France_Cap_Prem.canCharge removed in first object
+root.PBW303_Azur_Nelson.canCharge removed in first object
+root.PCEE072_Valentines.canCharge removed in first object
+root.PJW016_Gunzou.canCharge removed in first object
+root.PCNB008.clanTag removed in first object
+root.PCNB008.canCharge removed in first object
+root.PCNB009.clanTag removed in first object
+root.PCNB009.canCharge removed in first object
+root.PCNB002.clanTag removed in first object
+root.PCNB002.canCharge removed in first object
+root.PCNB003.clanTag removed in first object
+root.PCNB003.canCharge removed in first object
+root.PCNB001.clanTag removed in first object
+root.PCNB001.canCharge removed in first object
+root.PCNB006.clanTag removed in first object
+root.PCNB006.canCharge removed in first object
+root.PCNB007.clanTag removed in first object
+root.PCNB007.canCharge removed in first object
+root.PCNB004.clanTag removed in first object
+root.PCNB004.canCharge removed in first object
+root.PCNB005.clanTag removed in first object
+root.PCNB005.canCharge removed in first object
+root.PCEE043_Restless_Fire.canCharge removed in first object
+root.PXW106_Klaus_Teslau.canCharge removed in first object
+root.PJW206_Maron_Yanagiwara.canCharge removed in first object
+root.PCEE176_Navigation_Department_Flag.canCharge removed in first object
+root.PJW010_Hiei.canCharge removed in first object
+root.PXW115_Spaceman8.canCharge removed in first object
+root.PCEE128_Iron_duke_flag.canCharge removed in first object
+root.PRSC910_Pr_66_Moskva.A_Hull.turningRadius changed in second object (was 760.0, is 1050.0)
+root.PCQT509_Key.rewards[0] changed in second object (was <Lootbox boxType="american_arc_prem" count="10" ignoreEpic="1" />, is <Lootbox boxType="american_arc" count="1" ignoreEpic="1" />)
+root.PCQT509_Key.rewards[1] removed in second object
+root.PCQT509_Key.costUnlock changed in second object (was 5, is 9)
+root.PCQT509_Key.conditions[2] changed in second object (was <isTotalXP count="1000" />, is <isTotalXP count="20000" />)
+root.PCEC036_Tokyo_Game_Show.canCharge removed in first object
+root.PJES310_Yamato_HSF.canCharge removed in first object
+root.PVW001_DefaultCrew.canCharge removed in first object
+root.PCEE078_Okhotnik.canCharge removed in first object
+root.PCQT539.rewards[1] removed in second object
+root.PCQT539.lootStars changed in second object (was 2, is 1)
+root.PCQT539.conditions[2] changed in second object (was <isTotalCrewXP count="1000" />, is <isTotalCrewXP count="100000" />)
+root.PCEE094_Dunkirk_flag.canCharge removed in first object
+root.PCEE170_Monaghan_Flag.canCharge removed in first object
+root.PBW701_PVE.canCharge removed in first object
+root.PCEF011_IB3_SignalFlag.canCharge removed in first object
+root.PGEP303_Koenig_Albert.canCharge removed in first object
+root.PCEE040_Burning_Man.canCharge removed in first object
+root.PCEC050_Dragon_2.canCharge removed in first object
+root.PGEP508_Scharnhorst_CN_OB.canCharge removed in first object
+root.PASC003_Albany_1898.HullDefault.turningRadius changed in second object (was 350.0, is 360.0)
+root.PJEP404_Yubari_1944.canCharge removed in first object
+root.PWW001_DefaultCrew.canCharge removed in first object
+root.PASC108_Baltimore_1944.permoflages[1] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[2] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[3] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[4] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[5] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_1.miscFilter[6] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[2] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[3] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[4] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[5] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_3.miscFilter[6] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[2] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[3] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[4] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[5] removed in first object
+root.PASC108_Baltimore_1944.AB1_Artillery.HP_AGM_2.miscFilter[6] removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.131159 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.65624 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.65620 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.65622 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.65623 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.131160 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.131156 removed in second object
+root.PASC108_Baltimore_1944.B_Hull.armor.131127 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.65592 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.131129 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.131130 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.65591 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.65593 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.armor.65594 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.SSC removed in second object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_10 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_11 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_12 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.Cas removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_2 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_3 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_6 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_7 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_4 removed in first object
+root.PASC108_Baltimore_1944.B_Hull.HP_AD_9 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.131159 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.65624 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.65620 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.65622 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.65623 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.131160 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.131156 removed in second object
+root.PASC108_Baltimore_1944.A_Hull.armor.131127 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.65592 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.131129 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.131130 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.65591 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.65593 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.armor.65594 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.SSC removed in second object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_10 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_11 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_12 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.Cas removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_2 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_3 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_6 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_7 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_4 removed in first object
+root.PASC108_Baltimore_1944.A_Hull.HP_AD_9 removed in first object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_10 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_11 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_12 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_2 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_3 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_6 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_7 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_4 removed in second object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_9 removed in second object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_3.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_3.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_3.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_2.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_2.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_2.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_1.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_1.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_1.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_6.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_6.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_6.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_5.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_5.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_5.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_4.miscFilterMode changed in second object (was True, is False)
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_4.miscFilter[0] removed in first object
+root.PASC108_Baltimore_1944.AB_ATBA.HP_AGS_4.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.DockCamera.targetYNear changed in second object (was None, is 0.45)
+root.PCEP108_Permo_Prem_High_lvl_2.canCharge removed in first object
+root.PGW201_Thea.canCharge removed in first object
+root.PCEE178_Logistics_Department_Flag.canCharge removed in first object
+root.PCNA018.clanTag removed in first object
+root.PCNA018.canCharge removed in first object
+root.PCNA010.clanTag removed in first object
+root.PCNA010.canCharge removed in first object
+root.PCNA011.clanTag removed in first object
+root.PCNA011.canCharge removed in first object
+root.PCNA012.clanTag removed in first object
+root.PCNA012.canCharge removed in first object
+root.PCNA014.clanTag removed in first object
+root.PCNA014.canCharge removed in first object
+root.PCNA015.clanTag removed in first object
+root.PCNA015.canCharge removed in first object
+root.PCNA016.clanTag removed in first object
+root.PCNA016.canCharge removed in first object
+root.PCNA017.clanTag removed in first object
+root.PCNA017.canCharge removed in first object
+root.PCEE023_SeasonFlag00.canCharge removed in first object
+root.PCEF005_SM_SignalFlag.canCharge removed in first object
+root.PAEP407_Cleveland_1945.canCharge removed in first object
+root.PJEP501_Tachibana_1912.canCharge removed in first object
+root.PCEP107_Permo_Prem_High_lvl.canCharge removed in first object
+root.PAW101_Seagal.canCharge removed in first object
+root.PCEE168_SeasonFlag08.canCharge removed in first object
+root.PCEP117_Permo_Upgr_7_lvl.canCharge removed in first object
+root.PCEC038_ASUS_camo.canCharge removed in first object
+root.PXW102_Dr_Frankenship.canCharge removed in first object
+root.PCEP308_Cimarron.canCharge removed in first object
+root.PJES108_Zuikaku_1944_H2017.canCharge removed in first object
+root.PBEP503_Campbeltown.canCharge removed in first object
+root.PRPA086_305MM_AP_KRON.costCR changed in second object (was 150, is 100)
+root.PCNA032.clanTag removed in first object
+root.PCNA032.canCharge removed in first object
+root.PCNA033.clanTag removed in first object
+root.PCNA033.canCharge removed in first object
+root.PCNA030.clanTag removed in first object
+root.PCNA030.canCharge removed in first object
+root.PCNA036.clanTag removed in first object
+root.PCNA036.canCharge removed in first object
+root.PCNA037.clanTag removed in first object
+root.PCNA037.canCharge removed in first object
+root.PCNA034.clanTag removed in first object
+root.PCNA034.canCharge removed in first object
+root.PCNA035.clanTag removed in first object
+root.PCNA035.canCharge removed in first object
+root.PCEC007_Camo_3_Tile_Double.canCharge removed in first object
+root.PCEC058_American_Arc.canCharge removed in first object
+root.PBSB910_Conqueror.A_Hull.turningRadius changed in second object (was 940.0, is 820.0)
+root.PCEE093_Kaga_flag.canCharge removed in first object
+root.PXW111_Spaceman4.canCharge removed in first object
+root.PZSD105_Jian_Wei.B_Hull.turningRadius changed in second object (was 540.0, is 550.0)
+root.PZSD105_Jian_Wei.A_Hull.turningRadius changed in second object (was 540.0, is 550.0)
+root.PCEE015_Jolly_Roger_2.canCharge removed in first object
+root.PCEE098_Loot_Boy.canCharge removed in first object
+root.PCEF024_Hydra_Flag.canCharge removed in first object
+root.PCM037_SmokeGenerator_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM037_SmokeGenerator_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM037_SmokeGenerator_Mod_I.nation[11] removed in first object
+root.PGES307_Scharnhorst_Ice.canCharge removed in first object
+root.PGW101_GerCap.canCharge removed in first object
+root.PCEE140_Giulio_Cesare_Flag.canCharge removed in first object
+root.PRPA087_305MM_HE_KRON.costCR changed in second object (was 150, is 100)
+root.PCM024_Engine_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM024_Engine_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM024_Engine_Mod_II.nation[11] removed in first object
+root.PCEF019_JW1_SignalFlag.canCharge removed in first object
+root.PFES310_FRANCE_PARIS.canCharge removed in first object
+root.PCM031_SecondaryWeapon_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM031_SecondaryWeapon_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM031_SecondaryWeapon_Mod_I.nation[11] removed in first object
+root.PZW103_Adi_Guntur.canCharge removed in first object
+root.PJW011_Iona.canCharge removed in first object
+root.PRES413_VARYAG.canCharge removed in first object
+root.PJEP112_Zuikaku_1944.canCharge removed in first object
+root.PCM033_Guidance_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM033_Guidance_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM033_Guidance_Mod_I.nation[11] removed in first object
+root.PRSC109_Dmitry_Donskoy.B_Hull.turningRadius changed in second object (was 760.0, is 870.0)
+root.PRSC109_Dmitry_Donskoy.C_Hull.turningRadius changed in second object (was 760.0, is 870.0)
+root.PRSC109_Dmitry_Donskoy.A_Hull.turningRadius changed in second object (was 760.0, is 870.0)
+root.PCEC045_Vive_la_France.canCharge removed in first object
+root.PCEE063_Flag_Volunteer_2.canCharge removed in first object
+root.PREP509_Pr_48_Kiev.canCharge removed in first object
+root.PAEP307_Texas.canCharge removed in first object
+root.PCEE096_Dragon_Boat.canCharge removed in first object
+root.PCNU038.clanTag removed in first object
+root.PCNU038.canCharge removed in first object
+root.PCNU035.clanTag removed in first object
+root.PCNU035.canCharge removed in first object
+root.PCNU033.clanTag removed in first object
+root.PCNU033.canCharge removed in first object
+root.PCEC019_Camo_Halloween_16.canCharge removed in first object
+root.PCEE075_SeasonFlag06.canCharge removed in first object
+root.PCEE149_T_61_Flag.canCharge removed in first object
+root.PCQT525.rewards[1] removed in second object
+root.PCQT525.lootStars changed in second object (was 3, is 2)
+root.PCQT525.conditions[3] changed in second object (was <isTopXP rank="10" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT525.conditions[4] changed in second object (was <isKillPlanes count="2" />, is <isKillPlanes count="12" />)
+root.PCQT527.rewards[1] removed in second object
+root.PCQT527.lootStars changed in second object (was 4, is 3)
+root.PCQT527.conditions[2] changed in second object (was <isEarnBattleAchievements count="1" type="heroic" achievements="PCH003_MainCaliber,PCH005_Support"/>, is <isEarnBattleAchievements count="6" type="heroic" achievements="PCH003_MainCaliber,PCH005_Support"/>)
+root.PAEP909_Crocodile.canCharge removed in first object
+root.PCEE074_Oscar_awards.canCharge removed in first object
+root.PJES309_Musashi_HSF.canCharge removed in first object
+root.PASC710_Salem.ShipUpgradeInfo.costGold changed in second object (was 25000, is 35000)
+root.PCEE127_Blueprint_3.canCharge removed in first object
+root.PXW104_Mina_Ura.canCharge removed in first object
+root.PCQT549_Key.costUnlock changed in second object (was 7, is 15)
+root.PCQT549_Key.conditions[2] changed in second object (was <isTotalXP count="500" />, is <isTotalXP count="50000" />)
+root.PCEF010_JC_SignalFlag.canCharge removed in first object
+root.PJEP517_Kamikaze_1930.canCharge removed in first object
+root.PCEE129_Nelson_flag.canCharge removed in first object
+root.PCZA005_HappyBirthday.canCharge removed in first object
+root.PJEP506_Hatsuharu_1945.canCharge removed in first object
+root.PCEE153_Battle_of_Trafalgar.canCharge removed in first object
+root.PFW701_PVE.canCharge removed in first object
+root.PBW302_Azur_Hood.canCharge removed in first object
+root.PCEC002_Camo_2.canCharge removed in first object
+root.PCEE059_Pearl_Harbor.canCharge removed in first object
+root.PCQT524.rewards[1] removed in second object
+root.PCQT524.lootStars changed in second object (was 3, is 2)
+root.PCQT524.conditions[3] changed in second object (was <isTopXP rank="9" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT526.rewards[1] removed in second object
+root.PCQT526.lootStars changed in second object (was 4, is 3)
+root.PCQT526.conditions[2] changed in second object (was <isEarnBattleAchievements count="1" type="heroic" achievements="PCH004_Dreadnought,PCH017_Fireproof,PCH018_Unsinkable"/>, is <isEarnBattleAchievements count="6" type="heroic" achievements="PCH004_Dreadnought,PCH017_Fireproof,PCH018_Unsinkable"/>)
+root.PCEE194_Jolly_Roger_5.canCharge removed in first object
+root.PCQT520.rewards[1] removed in second object
+root.PCQT520.lootStars changed in second object (was 2, is 1)
+root.PCQT520.conditions[2] changed in second object (was <isTotalCredits count="40000" />, is <isTotalCredits count="4000000" />)
+root.PCQT521.rewards[1] removed in second object
+root.PCQT521.lootStars changed in second object (was 2, is 1)
+root.PCQT521.conditions[2] changed in second object (was <isCitadelHits count="1" />, is <isCitadelHits count="50" />)
+root.PCQT522.rewards[1] removed in second object
+root.PCQT522.lootStars changed in second object (was 2, is 1)
+root.PCQT522.conditions[2] changed in second object (was <isPotentialDamage count="12500"/>, is <isPotentialDamage count="1250000"/>)
+root.PCQT523.rewards[1] removed in second object
+root.PCQT523.lootStars changed in second object (was 3, is 1)
+root.PCQT523.conditions[3] changed in second object (was <isTopXP rank="9" topType="team"/>, is <isTopXP rank="5" topType="team"/>)
+root.PCQT529.rewards[1] removed in second object
+root.PCQT529.lootStars changed in second object (was 2, is 1)
+root.PCQT529.conditions[2] changed in second object (was <isTotalCrewXP count="850" />, is <isTotalCrewXP count="85000" />)
+root.PJEP626_CoE_Kamikaze_R.canCharge removed in first object
+root.PCEE070_Chinese_New_Year.canCharge removed in first object
+root.PAW001_DefaultCrew.canCharge removed in first object
+root.PCEC034_Sci_Fi_Space.canCharge removed in first object
+root.PAEP406_Atlanta_1942.canCharge removed in first object
+root.PCEE135_WG_Fest_2017.canCharge removed in first object
+root.PCEE055_Perth_flag.canCharge removed in first object
+root.PCEC040_NVIDIA_camo.canCharge removed in first object
+root.PCEE173_Kure_Maritime_Flag.canCharge removed in first object
+root.PRES420_STALINGRAD_CLAN.canCharge removed in first object
+root.PGES500_Grosser_Kurfurst_space.canCharge removed in first object
+root.PCEE138_TGS07_Flag.canCharge removed in first object
+root.PCEE010_Rank1.canCharge removed in first object
+root.PCQT508.rewards[1] removed in second object
+root.PCQT508.conditions[3] changed in second object (was <isBattleCount count="1" />, is <isBattleCount count="6" />)
+root.PCQT506.rewards[1] removed in second object
+root.PCQT506.conditions[3] changed in second object (was <isDamage count="15000"/>, is <isDamage count="150000"/>)
+root.PCQT507.rewards[1] removed in second object
+root.PCQT507.lootStars changed in second object (was 3, is 2)
+root.PCQT507.conditions[4] changed in second object (was <isKillShips count="1" class="Destroyer" />, is <isKillShips count="2" class="Destroyer" />)
+root.PCQT504.rewards[1] removed in second object
+root.PCQT504.lootStars changed in second object (was 2, is 1)
+root.PCQT505.rewards[1] removed in second object
+root.PCQT505.conditions[3] changed in second object (was <isBattleCount count="2" />, is <isBattleCount count="18" />)
+root.PCQT502.rewards[1] removed in second object
+root.PCQT502.lootStars changed in second object (was 2, is 1)
+root.PCQT502.conditions[2] changed in second object (was <isTotalCredits count="25000" />, is <isTotalCredits count="2500000" />)
+root.PCQT503.rewards[1] removed in second object
+root.PCQT503.lootStars changed in second object (was 2, is 1)
+root.PCQT501.rewards[1] removed in second object
+root.PCQT501.lootStars changed in second object (was 2, is 1)
+root.PCQT501.conditions[2] changed in second object (was <isTotalCrewXP count="500" />, is <isTotalCrewXP count="50000" />)
+root.PAEP508_Benson_1945.canCharge removed in first object
+root.PCEP306_Birthday_2017.canCharge removed in first object
+root.PCEE022_Flag_WG.canCharge removed in first object
+root.PCM036_SpeedBooster_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM036_SpeedBooster_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM036_SpeedBooster_Mod_I.nation[11] removed in first object
+root.PCEE182_Year_of_the_Dog.canCharge removed in first object
+root.PWEP501_Blyskawica.canCharge removed in first object
+root.PCEE041_Player_Gathering.canCharge removed in first object
+root.PCEC022_Camo_Arirang.canCharge removed in first object
+root.PZEP506_Anshan.canCharge removed in first object
+root.PREP410_Diana_1905_Asus.canCharge removed in first object
+root.PCEC028_Hunt.canCharge removed in first object
+root.PJES307_Ashitaka_Kobayashi.canCharge removed in first object
+root.PCEE104_SeasonFlag07.canCharge removed in first object
+root.PAEP306_Arizona.canCharge removed in first object
+root.PCEE100_Moderator.canCharge removed in first object
+root.PCEE105_Oktyabrskaya_Revolutsiya.canCharge removed in first object
+root.PCEF021_Wyvern_Flag.canCharge removed in first object
+root.PCEE143_Massachusetts_Flag.canCharge removed in first object
+root.PCEE027_Sea_Lion.canCharge removed in first object
+root.PFEP306_Dunkerque_1940.canCharge removed in first object
+root.PRSC001_Avrora_1917.HullDefault.turningRadius changed in second object (was 400.0, is 410.0)
+root.PBW101_Dunk_Capn.canCharge removed in first object
+root.PCEE150_Duca_degli_Abruzzi_Flag.canCharge removed in first object
+root.PJES410_ZAO_ZAYA.canCharge removed in first object
+root.PGES406_HSF_Graf_Spee.canCharge removed in first object
+root.PCNU043.clanTag removed in first object
+root.PCNU043.canCharge removed in first object
+root.PCEE175_Weapons_Department_Flag.canCharge removed in first object
+root.PJW007_Haruna.canCharge removed in first object
+root.PCEE013_SeasonFlag03.canCharge removed in first object
+root.PCQT517.rewards[1] removed in second object
+root.PCQT517.conditions[3] changed in second object (was <isTopXP rank="5" topType="team"/>, is <isTopXP rank="1" topType="team"/>)
+root.PCQT517.conditions[4] changed in second object (was <isRibbons count="2" ribbons="BURN, FLOOD"/>, is <isRibbons count="12" ribbons="BURN, FLOOD"/>)
+root.PGEP305_Tirpiz_1942_CN_OB.canCharge removed in first object
+root.PJEP418_Tone.canCharge removed in first object
+root.PCEP115_Permo_Upgr_5_lvl.canCharge removed in first object
+root.PCEE144_Vampire_Flag.canCharge removed in first object
+root.PCEC001_Camo_1.canCharge removed in first object
+root.PCEE056_Project_Oil.canCharge removed in first object
+root.PCEE039_Gamescom_2016.canCharge removed in first object
+root.PCEE106_Corgi_Fleet_2.canCharge removed in first object
+root.PJEP313_Amagi_1942.canCharge removed in first object
+root.PBES307_Hood_Veteran.canCharge removed in first object
+root.PCEC004_Camo_XP_Boost.canCharge removed in first object
+root.PCM016_FlightControl_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM016_FlightControl_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM016_FlightControl_Mod_II.nation[11] removed in first object
+root.PCZA007_HSF2018.canCharge removed in first object
+root.PFW101_France_Cap.canCharge removed in first object
+root.PCEE025_Military_Month_Contributor_Flag.canCharge removed in first object
+root.PCZA002_Bismarck.canCharge removed in first object
+root.PCEE180_Community_Contributor_Flag.canCharge removed in first object
+root.PCNB097.clanTag removed in first object
+root.PCNB097.canCharge removed in first object
+root.PCEF016_NE7_SignalFlag.canCharge removed in first object
+root.PCNB099.clanTag removed in first object
+root.PCNB099.canCharge removed in first object
+root.PCM022_SteeringGear_Mod_I.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM022_SteeringGear_Mod_I.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM022_SteeringGear_Mod_I.nation[11] removed in first object
+root.PAEP408_Flint.canCharge removed in first object
+root.PJW202_Akeno.canCharge removed in first object
+root.PASC001_Erie_1936.A_Hull.turningRadius changed in second object (was 300.0, is 310.0)
+root.PCEE095_Hood_flag.canCharge removed in first object
+root.PCM011_AirDefense_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM011_AirDefense_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM011_AirDefense_Mod_II.nation[11] removed in first object
+root.PCEE156_Battle_of_Guadalcanal.canCharge removed in first object
+root.PCEC053_Pi_Day.canCharge removed in first object
+root.PREP406_Molotov.canCharge removed in first object
+root.PGES318_Bismarck_Clean.canCharge removed in first object
+root.PCQT542.rewards[1] removed in second object
+root.PCQT542.lootStars changed in second object (was 3, is 1)
+root.PCQT542.conditions[2] changed in second object (was <isKillPlanes count="20" />, is <isKillPlanes count="250" />)
+root.PCQT543.rewards[1] removed in second object
+root.PCQT543.lootStars changed in second object (was 3, is 1)
+root.PCQT543.conditions[2] changed in second object (was <isTopXP rank="10" topType="team"/>, is <isTopXP rank="3" topType="team"/>)
+root.PCQT543.conditions[3] changed in second object (was <isEarnBattleAchievements count="1"/>, is <isEarnBattleAchievements count="3"/>)
+root.PCQT540.rewards[1] removed in second object
+root.PCQT540.lootStars changed in second object (was 2, is 1)
+root.PCQT541.rewards[1] removed in second object
+root.PCQT541.lootStars changed in second object (was 3, is 1)
+root.PCQT541.conditions[2] changed in second object (was <isWeaponHits count="2" weaponTypes="tbomber"/>, is <isWeaponHits count="100" weaponTypes="tbomber"/>)
+root.PCQT546.rewards[1] removed in second object
+root.PCQT546.lootStars changed in second object (was 4, is 3)
+root.PCQT546.conditions[2] changed in second object (was <isEarnBattleAchievements count="1" type="heroic"/>, is <isEarnBattleAchievements count="12" type="heroic"/>)
+root.PCQT547.rewards[1] removed in second object
+root.PCQT547.lootStars changed in second object (was 4, is 3)
+root.PCQT547.conditions[2] changed in second object (was <isTotalCredits count="10000 " />, is <isTotalCredits count="10000000 " />)
+root.PCQT545.rewards[1] removed in second object
+root.PCQT545.lootStars changed in second object (was 3, is 2)
+root.PCQT545.conditions[2] changed in second object (was <isEarnBattleAchievements count="1"/>, is <isEarnBattleAchievements count="36"/>)
+root.PCQT548.rewards[1] removed in second object
+root.PCQT548.lootStars changed in second object (was 4, is 3)
+root.PCQT548.conditions[2] changed in second object (was <isTotalCredits count="10000 " />, is <isTotalCredits count="10000000 " />)
+root.PCEE197_Hamburg_Port_Flag.canCharge removed in first object
+root.PCEE998_SecretSanta_2.canCharge removed in first object
+root.PCEE026_Sea_Dog.canCharge removed in first object
+root.PCNU007.clanTag removed in first object
+root.PCNU007.canCharge removed in first object
+root.PCNU006.clanTag removed in first object
+root.PCNU006.canCharge removed in first object
+root.PCNU005.clanTag removed in first object
+root.PCNU005.canCharge removed in first object
+root.PCNU004.clanTag removed in first object
+root.PCNU004.canCharge removed in first object
+root.PCNU003.clanTag removed in first object
+root.PCNU003.canCharge removed in first object
+root.PCNU002.clanTag removed in first object
+root.PCNU002.canCharge removed in first object
+root.PCNU001.clanTag removed in first object
+root.PCNU001.canCharge removed in first object
+root.PCNU009.clanTag removed in first object
+root.PCNU009.canCharge removed in first object
+root.PCNU008.clanTag removed in first object
+root.PCNU008.canCharge removed in first object
+root.PZEP508_LoYang.canCharge removed in first object
+root.PJEP426_Iwaki_1944.canCharge removed in first object
+root.PAEP529_Sims_1941.canCharge removed in first object
+root.PAEP507_MONAGAN.canCharge removed in first object
+root.PFES338_Gascogne_Royal.canCharge removed in first object
+root.PJW018_Yamamoto.canCharge removed in first object
+root.PCM035_SteeringGear_Mod_III.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM035_SteeringGear_Mod_III.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM035_SteeringGear_Mod_III.nation[11] removed in first object
+root.PCEC008_Camo_Eco_Tile.canCharge removed in first object
+root.PCEE050_Leningrad.canCharge removed in first object
+root.PCEP119_Permo_Upgr_9_lvl.canCharge removed in first object
+root.PCEE157_Thanksgiving_Flag.canCharge removed in first object
+root.PBES410_MINOTAUR_NORMA.canCharge removed in first object
+root.PCEE019_Flag_AT.canCharge removed in first object
+root.PCM015_FireControl_Mod_II.nation[9] changed in second object (was Commonwealth, is Pan_America)
+root.PCM015_FireControl_Mod_II.nation[10] changed in second object (was Events, is Commonwealth)
+root.PCM015_FireControl_Mod_II.nation[11] removed in first object
+root.PCEE163_Roma_Flag.canCharge removed in first object
+root.PCEE165_Salem_Flag.canCharge removed in first object
+root.PCEE188_manjuu.canCharge removed in first object
+root.PJES308_Kii_Kobayashi.canCharge removed in first object
+root.PCNB110.clanTag removed in first object
+root.PCNB110.canCharge removed in first object
+root.PCNB111.clanTag removed in first object
+root.PCNB111.canCharge removed in first object
+root.PCNB112.clanTag removed in first object
+root.PCNB112.canCharge removed in first object
+root.PCNB113.clanTag removed in first object
+root.PCNB113.canCharge removed in first object
+root.PCNB114.clanTag removed in first object
+root.PCNB114.canCharge removed in first object
+root.PCNB115.clanTag removed in first object
+root.PCNB115.canCharge removed in first object
+root.PCNB116.clanTag removed in first object
+root.PCNB116.canCharge removed in first object
+root.PCEE164_Duke_of_York_Flag.canCharge removed in first object
+root.PJEP408_Myoko_1945.canCharge removed in first object
+root.PJES518_Kagero_H2017.canCharge removed in first object
+root.PCEE183_Varyag_flag.canCharge removed in first object
+root.PCEC039_GIGABYTE_camo.canCharge removed in first object
+root.PCNA007.clanTag removed in first object
+root.PCNA007.canCharge removed in first object
+root.PCNA004.clanTag removed in first object
+root.PCNA004.canCharge removed in first object
+root.PCEC037_Twitch_Prime.canCharge removed in first object
+root.PBW102_UKCap.canCharge removed in first object
+root.PCNU021.clanTag removed in first object
+root.PCNU021.canCharge removed in first object
+root.PCNU020.clanTag removed in first object
+root.PCNU020.canCharge removed in first object
+root.PCNU023.clanTag removed in first object
+root.PCNU023.canCharge removed in first object
+root.PCNU022.clanTag removed in first object
+root.PCNU022.canCharge removed in first object
+root.PCNU025.clanTag removed in first object
+root.PCNU025.canCharge removed in first object
+root.PCNU024.clanTag removed in first object
+root.PCNU024.canCharge removed in first object
+root.PCNU027.clanTag removed in first object
+root.PCNU027.canCharge removed in first object
+root.PCNU026.clanTag removed in first object
+root.PCNU026.canCharge removed in first object
+root.PCNU029.clanTag removed in first object
+root.PCNU029.canCharge removed in first object
+root.PCNU028.clanTag removed in first object
+root.PCNU028.canCharge removed in first object
+root.PCEE121_Coast_guard.canCharge removed in first object
+root.PCEE177_Engineering_Department_Flag.canCharge removed in first object
+root.PCEE052_Squared_circle.canCharge removed in first object
+root.PCEE045_Yokosuka_Marine_School.canCharge removed in first object
+root.PGEP408_Hipper.canCharge removed in first object
+root.PJSB506_Mutsu.A_Hull_1933.turningRadius changed in second object (was 770.0, is 750.0)
+root.PCEP305_Permo_Emerald_Edition.canCharge removed in first object
+root.PCEC030_Blue_Lagoon.canCharge removed in first object
+root.PRSC102_Novik.A_Hull.turningRadius changed in second object (was 500.0, is 400.0)
+root.PRSC102_Novik.B_Hull.turningRadius changed in second object (was 500.0, is 400.0)
+root.PCEE092_D_Day.canCharge removed in first object
+root.PCEF023_Ouroboros_Flag.canCharge removed in first object
+root.PREP408_Kutuzov_1952.canCharge removed in first object
+root.PCEE087_Duca_DAosta.canCharge removed in first object
+root.PAEP403_Albany_1898.canCharge removed in first object
+root.PAEP312_North_Carolina_1945.canCharge removed in first object
+root.PCNU048.clanTag removed in first object
+root.PCNU048.canCharge removed in first object
+root.PCNU042.clanTag removed in first object
+root.PCNU042.canCharge removed in first object
+root.PCNU041.clanTag removed in first object
+root.PCNU041.canCharge removed in first object
+root.PCNU040.clanTag removed in first object
+root.PCNU040.canCharge removed in first object
+root.PCNU047.clanTag removed in first object
+root.PCNU047.canCharge removed in first object
+root.PCNU046.clanTag removed in first object
+root.PCNU046.canCharge removed in first object
+root.PCNU045.clanTag removed in first object
+root.PCNU045.canCharge removed in first object
+root.PCNU044.clanTag removed in first object
+root.PCNU044.canCharge removed in first object
+root.PCEE031_Blue_steel.canCharge removed in first object
+root.PCZA008_Vivalafrance.canCharge removed in first object
+root.PCNB095.clanTag removed in first object
+root.PCNB095.canCharge removed in first object
+root.PCNB094.clanTag removed in first object
+root.PCNB094.canCharge removed in first object
+root.PCNB096.clanTag removed in first object
+root.PCNB096.canCharge removed in first object
+root.PCNB091.clanTag removed in first object
+root.PCNB091.canCharge removed in first object
+root.PCNB090.clanTag removed in first object
+root.PCNB090.canCharge removed in first object
+root.PCNB093.clanTag removed in first object
+root.PCNB093.canCharge removed in first object
+root.PCNB092.clanTag removed in first object
+root.PCNB092.canCharge removed in first object
+root.PCNB098.clanTag removed in first object
+root.PCNB098.canCharge removed in first object
+root.PAEP409_Cleveland_1945.canCharge removed in first object
+root.PCEE062_King_of_the_Sea.canCharge removed in first object
+root.PJEP414_Kitakami_1945.canCharge removed in first object
+root.PAEP320_Alabama_ST.canCharge removed in first object
+root.PCNB087.clanTag removed in first object
+root.PCNB087.canCharge removed in first object
+root.PGW301_Azur_Hipper.canCharge removed in first object
+root.PGEP428_Prinz_Eugen.canCharge removed in first object
+root.PREP401_Avrora_1917.canCharge removed in first object
+root.PCOW018_USS_CL_Light_Big removed in first object
+root.PCBB003 removed in first object
+root.PCNA040 removed in first object
+root.PJSD210_Harugumo removed in first object
+root.PJUS903_D10_SUO_STOCK_2 removed in first object
+root.PUSD507_Haida removed in first object
+root.PUUE625_ENG_HAIDA removed in first object
+root.PJGT106_610mm6_type_93 removed in first object
+root.PVSC507_Nueve_de_Julio_1951 removed in first object
+root.PUUT603_TORP_HAIDA removed in first object
+root.PCOW017_USS_CL_Light removed in first object
+root.PCVO011_OP_10_s10_USS_CL removed in first object
+root.PJUS843_D9_SUO_STOCK_3 removed in first object
+root.PJUA932_D10_ART_STOCK_2 removed in first object
+root.PCNB120 removed in first object
+root.PCNB122 removed in first object
+root.PAES418_FREEDOM_BALTIMORE removed in first object
+root.PJUT814_D9_TORP_STOCK_4 removed in first object
+root.PJUH844_D9_HULL_TOP_3 removed in first object
+root.PCNB082 removed in first object
+root.PCNB081 removed in first object
+root.PCNB084 removed in first object
+root.PCNB085 removed in first object
+root.PCOW016_USS_CL_Storm removed in first object
+root.PUUA624_ART_HAIDA removed in first object
+root.PJUH843_D9_HULL_STOCK_3 removed in first object
+root.PJUA833_D9_ART_STOCK_3 removed in first object
+root.PAGM511_8in55_FreedomSkin removed in first object
+root.PCNB121 removed in first object
+root.PCH186_KingOfTheSeaVI removed in first object
+root.PCNA038 removed in first object
+root.PCNA039 removed in first object
+root.PJUE843_D9_ENG_STOCK_3 removed in first object
+root.PJUT906_D10_TORP_STOCK_2 removed in first object
+root.PUUS627_SUO_HAIDA removed in first object
+root.PJUH902_D10_HULL_STOCK removed in first object
+root.PJUT907_D10_TORP_MED_2 removed in first object
+root.PUUH627_HULL_HAIDA removed in first object
+root.PJUT908_D10_TORP_TOP_2 removed in first object
+root.PJUT815_D9_TORP_MED_4 removed in first object
+root.PJSD219_Kitakaze removed in first object
+root.PJUT816_D9_TORP_TOP_4 removed in first object
+root.PJUE942_D10_ENG_STOCK_2 removed in first object
+root.PCNB083 removed in first object
+root.PCEE198_Haida_flag removed in first object
+root.PJUS844_D9_SUO_TOP_3 removed in first object
+>> finished comparing
