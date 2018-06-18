@@ -1,0 +1,158 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBPA060_120_HE_COSSACK.alphaDamage changed in second object (was 1900.0, is 1700.0)
+root.PBPA060_120_HE_COSSACK.burnProb changed in second object (was 0.05, is 0.08)
+root.PCM062_Special_Mod_I_Hakuryu.airplanesFighterVitalityTime changed in second object (was 1.15, is 1.1)
+root.PCBB003.hull.armor.65614 changed in second object (was 6.0, is 5.0)
+root.PCBB003.hull.armor.65613 changed in second object (was 20.0, is 5.0)
+root.PCBB003.hull.armor.131150 changed in second object (was 20.0, is 5.0)
+root.PRPA188_305MM_AP_STALINGRAD_2.costCR changed in second object (was 150, is 225)
+root.PRPA088_305MM_HE_STALINGRAD.costCR changed in second object (was 150, is 225)
+root.PCM056_Special_Mod_I_Z_52.GTShotDelay changed in second object (was 0.9, is 0.85)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_3.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_4.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_2.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC110_Hindenburg.ArtilleryDefault.HP_GGM_1.shotDelay changed in second object (was 10.0, is 11.0)
+root.PCM045_Special_Mod_I_GKurfurst.GSShotDelay changed in second object (was 0.9, is 0.85)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_2.horizSector[0] changed in second object (was 0.0, is -150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_2.horizSector[1] changed in second object (was 0.0, is 150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_2.deadZone[0] removed in second object
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.horizSector[0] changed in second object (was 0.0, is -148.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.horizSector[1] changed in second object (was 0.0, is 148.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.deadZone[0][0] changed in second object (was 162.0, is -25.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.deadZone[0][1] changed in second object (was -162.0, is 25.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.deadZone[1] removed in second object
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_3.pitchDeadZones[0] removed in second object
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_4.horizSector[0] changed in second object (was -153.0, is -150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_4.horizSector[1] changed in second object (was 153.0, is 150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_5.horizSector[0] changed in second object (was 0.0, is -150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_5.horizSector[1] changed in second object (was 0.0, is 150.0)
+root.PJSD210_Harugumo.A_Artillery.HP_JGM_5.pitchDeadZones[0] removed in second object
+root.PCM044_Special_Mod_I_Republique.GMMaxDist changed in second object (was 0.84, is 0.76)
+root.PCM044_Special_Mod_I_Republique.GMRotationSpeed changed in second object (was 0.81, is 0.87)
+root.PGSC109_Roon.A2_Artillery.HP_GGM_3.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC109_Roon.A2_Artillery.HP_GGM_2.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC109_Roon.A2_Artillery.HP_GGM_1.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC109_Roon.B2_Artillery.HP_GGM_3.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC109_Roon.B2_Artillery.HP_GGM_2.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC109_Roon.B2_Artillery.HP_GGM_1.shotDelay changed in second object (was 10.0, is 11.0)
+root.PUPT003_533_HAIDA.visibilityFactor changed in second object (was 1.3, is 1.4)
+root.PUPT003_533_HAIDA.maxDist changed in second object (was 333.0, is 267.0)
+root.PCY014_SmokeGeneratorPremium.PAZ_Gold.reloadTime changed in second object (was 80.0, is 100.0)
+root.PCY014_SmokeGeneratorPremium.Haida_Gold removed in first object
+root.PCY014_SmokeGeneratorPremium.Grozovoi_Gold removed in first object
+root.PCM047_Special_Mod_I_Montana.floodTime changed in second object (was 0.9, is 0.7)
+root.PCM047_Special_Mod_I_Montana.burnTime changed in second object (was 0.9, is 0.85)
+root.PCY015_SpeedBoosterPremium.GROZOVOI_PREM removed in first object
+root.PJSC034_Zao_1944.A2_Torpedoes.HP_JGT_3.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC034_Zao_1944.A2_Torpedoes.HP_JGT_2.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC034_Zao_1944.A2_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC034_Zao_1944.A2_Torpedoes.HP_JGT_4.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC034_Zao_1944.A1_Torpedoes.HP_JGT_3.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC034_Zao_1944.A1_Torpedoes.HP_JGT_2.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC034_Zao_1944.A1_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC034_Zao_1944.A1_Torpedoes.HP_JGT_4.shotDelay changed in second object (was 117.0, is 104.0)
+root.PCM054_Special_Mod_I_Moskva.slot changed in second object (was 4, is 5)
+root.PUSD507_Haida.A_Hull.visibilityCoeff changed in second object (was 18.1, is 17.58)
+root.PUSD507_Haida.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.57, is 2.31)
+root.PUSD507_Haida.A_Hull.visibilityFactor changed in second object (was 7.2, is 6.49)
+root.PUSD507_Haida.A_Hull.visibilityFactorByPlane changed in second object (was 3.81, is 3.9)
+root.PUSD507_Haida.A1_Artillery.HP_BGM_2.horizSector[0] changed in second object (was -152.0, is 0.0)
+root.PUSD507_Haida.A1_Artillery.HP_BGM_2.horizSector[1] changed in second object (was 152.0, is 0.0)
+root.PUSD507_Haida.A1_Artillery.HP_BGM_2.deadZone[0] removed in first object
+root.PUSD507_Haida.A1_Artillery.HP_BGM_1.horizSector[0] changed in second object (was -115.0, is -142.0)
+root.PUSD507_Haida.A1_Artillery.HP_BGM_1.horizSector[1] changed in second object (was 115.0, is 142.0)
+root.PUSD507_Haida.A1_Artillery.HP_BGM_1.pitchDeadZones[0] removed in first object
+root.PUSD507_Haida.group changed in second object (was demoWithoutStats, is special)
+root.PUSD507_Haida.groupCustom.CN removed in second object
+root.PUSD507_Haida.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was PanOceania, is Haida)
+root.PUSD507_Haida.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was PanOceania_Gold, is Haida_Gold)
+root.PCY016_SonarSearchPremium.UKDD_8_Premium.distShip changed in second object (was 107.0, is 104.0)
+root.PCY016_SonarSearchPremium.UKDD_8_Premium.distTorpedo changed in second object (was 93.0, is 71.0)
+root.PCM042_RLSSearch_Mod_I.rlsSearchWorkTime changed in second object (was 1.4, is 1.2)
+root.PCM049_Special_Mod_I_Hindenburg.burnTime changed in second object (was 0.5, is 0.6)
+root.PVSC507_Nueve_de_Julio_1951.ShipUpgradeInfo.costGold changed in second object (was 99999, is 8500)
+root.PCY007_SpeedBooster.GROZOVOI removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[0][0] changed in second object (was <Lootbox boxType="unknown" count="1" ignoreEpic="1"/> , is <Item idx="PCY011_AirDefenseDispPremium" count="10"/>)
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[0][1] removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[1][0] changed in second object (was <Lootbox boxType="unknown" count="2" ignoreEpic="1"/> , is <Item idx="PCY009_CrashCrewPremium" count="10"/>)
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[1][1] removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[1][2] removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[2][0] changed in second object (was <Add type="GOLD" limit="101" count="50" />, is <Item idx="PCEC058_American_Arc" count="10"/>)
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[2][1] removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[3][0] changed in second object (was <Add type="GOLD" limit="151" count="100" />, is <Add type="FREE_XP" count="15000" limit="15001"/>)
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[3][1] removed in first object
+root.PCVO011_OP_10_s10_USS_CL.difficulty.normal.rewards[4][0] changed in second object (was <Add type="GOLD" limit="251" count="150" />, is <Add type="PREM" count="1"/>)
+root.PJUA932_D10_ART_STOCK_2.costCR changed in second object (was 0, is 1700000)
+root.PRSD910_Grozovoy_pr_40N.A1_Artillery.maxDist changed in second object (was 10970.0, is 12300.0)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY003_AirDefenseDisp)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is SU_DD)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY011_AirDefenseDispPremium)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is SU_DD_Gold)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_10, is Grozovoi)
+root.PRSD910_Grozovoy_pr_40N.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_10_Gold, is Grozovoi_Gold)
+root.PCM046_Special_Mod_I_Yamato.GMShotDelay changed in second object (was 0.88, is 0.94)
+root.PRPA082_305MM_AP_STALINGRAD.costCR changed in second object (was 150, is 225)
+root.PCY006_SmokeGenerator.PAZ.reloadTime changed in second object (was 120.0, is 150.0)
+root.PCY006_SmokeGenerator.Haida removed in first object
+root.PCY006_SmokeGenerator.Grozovoi removed in first object
+root.PRSC110_Pr_66_Moskva.A_Hull.armor.65627 changed in second object (was 25.0, is 50.0)
+root.PRSC110_Pr_66_Moskva.A_Hull.armor.65582 changed in second object (was 25.0, is 50.0)
+root.PRSD210_Grozovoy_pr_40N.A1_Artillery.maxDist changed in second object (was 10970.0, is 12300.0)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY003_AirDefenseDisp)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is SU_DD)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY011_AirDefenseDispPremium)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is SU_DD_Gold)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was Lvl_10, is Grozovoi)
+root.PRSD210_Grozovoy_pr_40N.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was Lvl_10_Gold, is Grozovoi_Gold)
+root.PJUA833_D9_ART_STOCK_3.costCR changed in second object (was 0, is 1000000)
+root.PRSC910_Pr_66_Moskva.A_Hull.armor.65627 changed in second object (was 25.0, is 50.0)
+root.PRSC910_Pr_66_Moskva.A_Hull.armor.65582 changed in second object (was 25.0, is 50.0)
+root.PGSC910_Hindenburg.ArtilleryDefault.HP_GGM_3.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC910_Hindenburg.ArtilleryDefault.HP_GGM_4.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC910_Hindenburg.ArtilleryDefault.HP_GGM_2.shotDelay changed in second object (was 10.0, is 11.0)
+root.PGSC910_Hindenburg.ArtilleryDefault.HP_GGM_1.shotDelay changed in second object (was 10.0, is 11.0)
+root.PCBM013.hull.burnNodes[0][4] changed in second object (was sfx/vehicles/Fire_LYB023.xml, is sfx/vehicles/Fire_LNG006.xml)
+root.PJSC934_Zao_1944.A2_Torpedoes.HP_JGT_3.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC934_Zao_1944.A2_Torpedoes.HP_JGT_2.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC934_Zao_1944.A2_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC934_Zao_1944.A2_Torpedoes.HP_JGT_4.shotDelay changed in second object (was 164.0, is 171.0)
+root.PJSC934_Zao_1944.A1_Torpedoes.HP_JGT_3.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC934_Zao_1944.A1_Torpedoes.HP_JGT_2.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC934_Zao_1944.A1_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 117.0, is 104.0)
+root.PJSC934_Zao_1944.A1_Torpedoes.HP_JGT_4.shotDelay changed in second object (was 117.0, is 104.0)
+root.PCY008_SonarSearch.UKDD_8.distShip changed in second object (was 107.0, is 104.0)
+root.PCY008_SonarSearch.UKDD_8.distTorpedo changed in second object (was 93.0, is 71.0)
+root.PASC710_Salem.permoflages[0] changed in second object (was PCEP107_Permo_Prem_High_lvl, is PCEP120_Permo_Upgr_10_lvl)
+root.PASC710_Salem.nativePermoflage changed in second object (was PCEP107_Permo_Prem_High_lvl, is PCEP120_Permo_Upgr_10_lvl)
+root.PCZA005_HappyBirthday.subAlbumDiscribtions[3][2][0] changed in second object (was <Permoflage shipId="PASC014_New_Orlean_1944" idx="PCEP306_Birthday_2017" count="1" />, is <Permoflage shipId="PASC107_New_Orlean_1944" idx="PCEP306_Birthday_2017" count="1" />)
+root.PBPT012_533_COSSACK.visibilityFactor changed in second object (was 1.4, is 1.3)
+root.PBPT012_533_COSSACK.maxDist changed in second object (was 267.0, is 333.0)
+root.PCM059_Special_Mod_I_Yueyang.rlsSearchWorkTime changed in second object (was 0.7, is 0.85)
+root.PCM059_Special_Mod_I_Yueyang.smokeGeneratorLifeTime changed in second object (was 0.7, is 0.85)
+root.PBSD517_Cossack.A_Hull.armor.65626 changed in second object (was 10.0, is 13.0)
+root.PBSD517_Cossack.A_Hull.armor.65583 changed in second object (was 15.0, is 20.0)
+root.PBSD517_Cossack.A_Hull.armor.65584 changed in second object (was 16.0, is 19.0)
+root.PBSD517_Cossack.A_Hull.armor.131128 changed in second object (was 16.0, is 19.0)
+root.PBSD517_Cossack.A_Hull.armor.65628 changed in second object (was 15.0, is 20.0)
+root.PBSD517_Cossack.A_Hull.armor.65629 changed in second object (was 16.0, is 19.0)
+root.PBSD517_Cossack.A_Hull.armor.65625 changed in second object (was 10.0, is 13.0)
+root.PBSD517_Cossack.ShipUpgradeInfo.costGold changed in second object (was 5600, is 99999)
+root.PCY010_RegenCrewPremium.D_gold removed in first object
+root.PUPA007_120_HE_HAIDA.alphaDamage changed in second object (was 1700.0, is 1900.0)
+root.PUPA007_120_HE_HAIDA.burnProb changed in second object (was 0.08, is 0.05)
+root.PCY002_RegenCrew.D removed in first object
+>> finished comparing
