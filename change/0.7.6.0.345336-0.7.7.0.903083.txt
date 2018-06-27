@@ -1,0 +1,1307 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.molybdenum removed in first object
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.eventum_2 removed in first object
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.eventum_1 removed in first object
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.saltpeter removed in first object
+root.PCT024_RANK_ECO_25_BATTLE1_50_BATTLE2_25_CAM3_30.brass removed in first object
+root.PCT154_CAMO_Hunt_15.molybdenum removed in first object
+root.PCT154_CAMO_Hunt_15.eventum_2 removed in first object
+root.PCT154_CAMO_Hunt_15.eventum_1 removed in first object
+root.PCT154_CAMO_Hunt_15.saltpeter removed in first object
+root.PCT154_CAMO_Hunt_15.brass removed in first object
+root.PCM038_Spotter_Mod_I.excludes[30] removed in first object
+root.PCM038_Spotter_Mod_I.excludes[31] removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.molybdenum removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.eventum_2 removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.eventum_1 removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.saltpeter removed in first object
+root.PCT115_RANK_ECO_PACK_5_20.brass removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.molybdenum removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.eventum_2 removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.eventum_1 removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.saltpeter removed in first object
+root.PCT099_RANK_BATTLE_PACK_1_15.brass removed in first object
+root.PCT030_RANK_SILVER_07M.molybdenum removed in first object
+root.PCT030_RANK_SILVER_07M.eventum_2 removed in first object
+root.PCT030_RANK_SILVER_07M.eventum_1 removed in first object
+root.PCT030_RANK_SILVER_07M.saltpeter removed in first object
+root.PCT030_RANK_SILVER_07M.brass removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.molybdenum removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.eventum_2 removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.eventum_1 removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.saltpeter removed in first object
+root.PCT058_RANK_BATTLE_PACK_2_10.brass removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.molybdenum removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.eventum_2 removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.eventum_1 removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.saltpeter removed in first object
+root.PCT993_RANK_BATTLE_SEASON4_MIDWAY.brass removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.molybdenum removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.eventum_2 removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.eventum_1 removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.saltpeter removed in first object
+root.PCT158_RLSSearch_Mod_I_5_Ouroboros.brass removed in first object
+root.PCT076_25_signals_VL.molybdenum removed in first object
+root.PCT076_25_signals_VL.eventum_2 removed in first object
+root.PCT076_25_signals_VL.eventum_1 removed in first object
+root.PCT076_25_signals_VL.saltpeter removed in first object
+root.PCT076_25_signals_VL.brass removed in first object
+root.PCT096_2017_NY_camo_x100.molybdenum removed in first object
+root.PCT096_2017_NY_camo_x100.eventum_2 removed in first object
+root.PCT096_2017_NY_camo_x100.eventum_1 removed in first object
+root.PCT096_2017_NY_camo_x100.saltpeter removed in first object
+root.PCT096_2017_NY_camo_x100.brass removed in first object
+root.PASA906_Ranger_1944 removed in second object
+root.PCT142_BDII_14.molybdenum removed in first object
+root.PCT142_BDII_14.eventum_2 removed in first object
+root.PCT142_BDII_14.eventum_1 removed in first object
+root.PCT142_BDII_14.saltpeter removed in first object
+root.PCT142_BDII_14.brass removed in first object
+root.PCT050_LIQUIDATOR.molybdenum removed in first object
+root.PCT050_LIQUIDATOR.eventum_2 removed in first object
+root.PCT050_LIQUIDATOR.eventum_1 removed in first object
+root.PCT050_LIQUIDATOR.saltpeter removed in first object
+root.PCT050_LIQUIDATOR.brass removed in first object
+root.PCT046_MAINCALIBER.molybdenum removed in first object
+root.PCT046_MAINCALIBER.eventum_2 removed in first object
+root.PCT046_MAINCALIBER.eventum_1 removed in first object
+root.PCT046_MAINCALIBER.saltpeter removed in first object
+root.PCT046_MAINCALIBER.brass removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[77] removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[78] removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[79] removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[80] removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[81] removed in first object
+root.PCT078_5000_freeXP.molybdenum removed in first object
+root.PCT078_5000_freeXP.eventum_2 removed in first object
+root.PCT078_5000_freeXP.eventum_1 removed in first object
+root.PCT078_5000_freeXP.saltpeter removed in first object
+root.PCT078_5000_freeXP.brass removed in first object
+root.PCT032_RANK_SILVER_09M.molybdenum removed in first object
+root.PCT032_RANK_SILVER_09M.eventum_2 removed in first object
+root.PCT032_RANK_SILVER_09M.eventum_1 removed in first object
+root.PCT032_RANK_SILVER_09M.saltpeter removed in first object
+root.PCT032_RANK_SILVER_09M.brass removed in first object
+root.PCT074_25_signals_Z.molybdenum removed in first object
+root.PCT074_25_signals_Z.eventum_2 removed in first object
+root.PCT074_25_signals_Z.eventum_1 removed in first object
+root.PCT074_25_signals_Z.saltpeter removed in first object
+root.PCT074_25_signals_Z.brass removed in first object
+root.PCT077_10_camo_type5.molybdenum removed in first object
+root.PCT077_10_camo_type5.eventum_2 removed in first object
+root.PCT077_10_camo_type5.eventum_1 removed in first object
+root.PCT077_10_camo_type5.saltpeter removed in first object
+root.PCT077_10_camo_type5.brass removed in first object
+root.PCT135_BDII_7.molybdenum removed in first object
+root.PCT135_BDII_7.eventum_2 removed in first object
+root.PCT135_BDII_7.eventum_1 removed in first object
+root.PCT135_BDII_7.saltpeter removed in first object
+root.PCT135_BDII_7.brass removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.molybdenum removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.eventum_2 removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.eventum_1 removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.saltpeter removed in first object
+root.PCT021_RANK_BATTLE1_50_BATTLE2_25.brass removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.molybdenum removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.eventum_2 removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.eventum_1 removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.saltpeter removed in first object
+root.PCT059_RANK_BATTLE_PACK_2_25.brass removed in first object
+root.PCT015_RANK_BATTLE1_20.molybdenum removed in first object
+root.PCT015_RANK_BATTLE1_20.eventum_2 removed in first object
+root.PCT015_RANK_BATTLE1_20.eventum_1 removed in first object
+root.PCT015_RANK_BATTLE1_20.saltpeter removed in first object
+root.PCT015_RANK_BATTLE1_20.brass removed in first object
+root.PCT075_25_signals_JC.molybdenum removed in first object
+root.PCT075_25_signals_JC.eventum_2 removed in first object
+root.PCT075_25_signals_JC.eventum_1 removed in first object
+root.PCT075_25_signals_JC.saltpeter removed in first object
+root.PCT075_25_signals_JC.brass removed in first object
+root.PCT073_25_signals_NE7.molybdenum removed in first object
+root.PCT073_25_signals_NE7.eventum_2 removed in first object
+root.PCT073_25_signals_NE7.eventum_1 removed in first object
+root.PCT073_25_signals_NE7.saltpeter removed in first object
+root.PCT073_25_signals_NE7.brass removed in first object
+root.PCT065_RANK_CAMO_PACK_100.molybdenum removed in first object
+root.PCT065_RANK_CAMO_PACK_100.eventum_2 removed in first object
+root.PCT065_RANK_CAMO_PACK_100.eventum_1 removed in first object
+root.PCT065_RANK_CAMO_PACK_100.saltpeter removed in first object
+root.PCT065_RANK_CAMO_PACK_100.brass removed in first object
+root.PCT138_BDII_10.molybdenum removed in first object
+root.PCT138_BDII_10.eventum_2 removed in first object
+root.PCT138_BDII_10.eventum_1 removed in first object
+root.PCT138_BDII_10.saltpeter removed in first object
+root.PCT138_BDII_10.brass removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.molybdenum removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.eventum_2 removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.eventum_1 removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.saltpeter removed in first object
+root.PCT056_RANK_ECO_PACK_5_25.brass removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.molybdenum removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.eventum_2 removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.eventum_1 removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.saltpeter removed in first object
+root.PCT100_RANK_BATTLE_PACK_2_15.brass removed in first object
+root.PCT048_CLEARSKY.molybdenum removed in first object
+root.PCT048_CLEARSKY.eventum_2 removed in first object
+root.PCT048_CLEARSKY.eventum_1 removed in first object
+root.PCT048_CLEARSKY.saltpeter removed in first object
+root.PCT048_CLEARSKY.brass removed in first object
+root.PASD506_Monaghan.A_Directors.HP_AD_1.index changed in second object (was PAD109, is PAD110)
+root.PASD506_Monaghan.A_Directors.HP_AD_1.name changed in second object (was PAD109_Director_Mk33, is PAD110_Director_Mk33)
+root.PASD506_Monaghan.A_Directors.HP_AD_1.model changed in second object (was content/gameplay/usa/director/AD109_Director_Mk33/AD109_Director_Mk33.model, is content/gameplay/usa/director/AD110_Director_Mk33/AD110_Director_Mk33.model)
+root.PASD506_Monaghan.A_Directors.HP_AD_1.id changed in second object (was 4179817456, is 4178768880)
+root.PASD506_Monaghan.A_Directors.HP_AD_1.gunNode changed in second object (was HP_AGM_1, is HP_AGM_2)
+root.PCT131_BDII_3.molybdenum removed in first object
+root.PCT131_BDII_3.eventum_2 removed in first object
+root.PCT131_BDII_3.eventum_1 removed in first object
+root.PCT131_BDII_3.saltpeter removed in first object
+root.PCT131_BDII_3.brass removed in first object
+root.PCT120_CAMO_VALENTINE_15.molybdenum removed in first object
+root.PCT120_CAMO_VALENTINE_15.eventum_2 removed in first object
+root.PCT120_CAMO_VALENTINE_15.eventum_1 removed in first object
+root.PCT120_CAMO_VALENTINE_15.saltpeter removed in first object
+root.PCT120_CAMO_VALENTINE_15.brass removed in first object
+root.PCT041_AccountLevel9.molybdenum removed in first object
+root.PCT041_AccountLevel9.eventum_2 removed in first object
+root.PCT041_AccountLevel9.eventum_1 removed in first object
+root.PCT041_AccountLevel9.saltpeter removed in first object
+root.PCT041_AccountLevel9.brass removed in first object
+root.PCT091_4x10_PremiumEquipment.molybdenum removed in first object
+root.PCT091_4x10_PremiumEquipment.eventum_2 removed in first object
+root.PCT091_4x10_PremiumEquipment.eventum_1 removed in first object
+root.PCT091_4x10_PremiumEquipment.saltpeter removed in first object
+root.PCT091_4x10_PremiumEquipment.brass removed in first object
+root.PCT038_AccountLevel6.molybdenum removed in first object
+root.PCT038_AccountLevel6.eventum_2 removed in first object
+root.PCT038_AccountLevel6.eventum_1 removed in first object
+root.PCT038_AccountLevel6.saltpeter removed in first object
+root.PCT038_AccountLevel6.brass removed in first object
+root.PCT006_HEADBUTT.molybdenum removed in first object
+root.PCT006_HEADBUTT.eventum_2 removed in first object
+root.PCT006_HEADBUTT.eventum_1 removed in first object
+root.PCT006_HEADBUTT.saltpeter removed in first object
+root.PCT006_HEADBUTT.brass removed in first object
+root.PCT123_05mln_credits.molybdenum removed in first object
+root.PCT123_05mln_credits.eventum_2 removed in first object
+root.PCT123_05mln_credits.eventum_1 removed in first object
+root.PCT123_05mln_credits.saltpeter removed in first object
+root.PCT123_05mln_credits.brass removed in first object
+root.PCT042_AccountLevel10.molybdenum removed in first object
+root.PCT042_AccountLevel10.eventum_2 removed in first object
+root.PCT042_AccountLevel10.eventum_1 removed in first object
+root.PCT042_AccountLevel10.saltpeter removed in first object
+root.PCT042_AccountLevel10.brass removed in first object
+root.PCT143_BDII_15.molybdenum removed in first object
+root.PCT143_BDII_15.eventum_2 removed in first object
+root.PCT143_BDII_15.eventum_1 removed in first object
+root.PCT143_BDII_15.saltpeter removed in first object
+root.PCT143_BDII_15.brass removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.molybdenum removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.eventum_2 removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.eventum_1 removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.saltpeter removed in first object
+root.PCT116_CAMO_HALLOWEEN_15.brass removed in first object
+root.PAES408_FREEDOM_CLEVELAND.peculiarity changed in second object (was default, is freedom)
+root.PUSD503_Vampire.A1_Artillery.HP_BGM_2.armor.65580 changed in second object (was 3.0, is 6.0)
+root.PUSD503_Vampire.A1_Artillery.HP_BGM_3.armor.65580 changed in second object (was 3.0, is 6.0)
+root.PUSD503_Vampire.A1_Artillery.HP_BGM_1.armor.65580 changed in second object (was 3.0, is 6.0)
+root.PUSD503_Vampire.A1_Artillery.HP_BGM_4.armor.65580 changed in second object (was 3.0, is 6.0)
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.molybdenum removed in first object
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.eventum_2 removed in first object
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.eventum_1 removed in first object
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.saltpeter removed in first object
+root.PCT152_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5.brass removed in first object
+root.PCT031_RANK_SILVER_08M.molybdenum removed in first object
+root.PCT031_RANK_SILVER_08M.eventum_2 removed in first object
+root.PCT031_RANK_SILVER_08M.eventum_1 removed in first object
+root.PCT031_RANK_SILVER_08M.saltpeter removed in first object
+root.PCT031_RANK_SILVER_08M.brass removed in first object
+root.PCT025_RANK_SILVER_02M.molybdenum removed in first object
+root.PCT025_RANK_SILVER_02M.eventum_2 removed in first object
+root.PCT025_RANK_SILVER_02M.eventum_1 removed in first object
+root.PCT025_RANK_SILVER_02M.saltpeter removed in first object
+root.PCT025_RANK_SILVER_02M.brass removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.molybdenum removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.eventum_2 removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.eventum_1 removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.saltpeter removed in first object
+root.PCT160_SpeedBooster_Mod_I_5_Wyv.brass removed in first object
+root.PCT007_FIREPROOF.molybdenum removed in first object
+root.PCT007_FIREPROOF.eventum_2 removed in first object
+root.PCT007_FIREPROOF.eventum_1 removed in first object
+root.PCT007_FIREPROOF.saltpeter removed in first object
+root.PCT007_FIREPROOF.brass removed in first object
+root.PCT092_PA_1.molybdenum removed in first object
+root.PCT092_PA_1.eventum_2 removed in first object
+root.PCT092_PA_1.eventum_1 removed in first object
+root.PCT092_PA_1.saltpeter removed in first object
+root.PCT092_PA_1.brass removed in first object
+root.PASC004_St_Louis_1906.B2_152_50.HP_AGM_8.horizSector[0] changed in second object (was 2.0, is 0.0)
+root.PASC004_St_Louis_1906.B2_152_50.HP_AGM_8.horizSector[1] changed in second object (was 110.0, is 111.0)
+root.PASC004_St_Louis_1906.B1_152_50.HP_AGM_8.horizSector[0] changed in second object (was 2.0, is 0.0)
+root.PASC004_St_Louis_1906.B1_152_50.HP_AGM_8.horizSector[1] changed in second object (was 110.0, is 111.0)
+root.PASC004_St_Louis_1906.AB_ATBA.HP_AGS_2.horizSector[0] changed in second object (was 2.0, is 0.0)
+root.PASC004_St_Louis_1906.AB_ATBA.HP_AGS_2.deadZone[0] removed in first object
+root.PASC004_St_Louis_1906.AB_ATBA.HP_AGS_1.horizSector[1] changed in second object (was -2.0, is 0.0)
+root.PASC004_St_Louis_1906.AB_ATBA.HP_AGS_1.deadZone[0] removed in first object
+root.PCT153_CAMO_Commander_Day_15.molybdenum removed in first object
+root.PCT153_CAMO_Commander_Day_15.eventum_2 removed in first object
+root.PCT153_CAMO_Commander_Day_15.eventum_1 removed in first object
+root.PCT153_CAMO_Commander_Day_15.saltpeter removed in first object
+root.PCT153_CAMO_Commander_Day_15.brass removed in first object
+root.PCT144_BDII_16.molybdenum removed in first object
+root.PCT144_BDII_16.eventum_2 removed in first object
+root.PCT144_BDII_16.eventum_1 removed in first object
+root.PCT144_BDII_16.saltpeter removed in first object
+root.PCT144_BDII_16.brass removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.molybdenum removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.eventum_2 removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.eventum_1 removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.saltpeter removed in first object
+root.PCT085_RANK_CAMO_PACK_100_PA_14.brass removed in first object
+root.PCT001_Test.molybdenum removed in first object
+root.PCT001_Test.eventum_2 removed in first object
+root.PCT001_Test.eventum_1 removed in first object
+root.PCT001_Test.saltpeter removed in first object
+root.PCT001_Test.brass removed in first object
+root.PCQT490.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_FR_PVPCOOP)
+root.PCY016_SonarSearchPremium.UKDD_10_Premium removed in first object
+root.PCY016_SonarSearchPremium.UKDD_6_Premium removed in first object
+root.PCY016_SonarSearchPremium.UKDD_7_Premium removed in first object
+root.PCY016_SonarSearchPremium.UKDD_9_Premium removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.molybdenum removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.eventum_2 removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.eventum_1 removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.saltpeter removed in first object
+root.PCT146_CAMO_Sparks_of_Victory_15.brass removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.molybdenum removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.eventum_2 removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.eventum_1 removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.saltpeter removed in first object
+root.PCT988_RANK_BATTLE_SEASON9_BROOKLYN.brass removed in first object
+root.PCQT537.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_CA_PVP, is IDS_TASKRESTRICTION_USCA_PVP)
+root.PCQT536.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_CA_PVP, is IDS_TASKRESTRICTION_USCA_PVP)
+root.PCQT535.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCQT532.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCQT531.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCT089_2017_km_reward.molybdenum removed in first object
+root.PCT089_2017_km_reward.eventum_2 removed in first object
+root.PCT089_2017_km_reward.eventum_1 removed in first object
+root.PCT089_2017_km_reward.saltpeter removed in first object
+root.PCT089_2017_km_reward.brass removed in first object
+root.PCT117_CAMO_REST_FIRE_15.molybdenum removed in first object
+root.PCT117_CAMO_REST_FIRE_15.eventum_2 removed in first object
+root.PCT117_CAMO_REST_FIRE_15.eventum_1 removed in first object
+root.PCT117_CAMO_REST_FIRE_15.saltpeter removed in first object
+root.PCT117_CAMO_REST_FIRE_15.brass removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.molybdenum removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.eventum_2 removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.eventum_1 removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.saltpeter removed in first object
+root.PCT118_CAMO_BIRTHDAY_15.brass removed in first object
+root.PCT098_AccountLevel14.molybdenum removed in first object
+root.PCT098_AccountLevel14.eventum_2 removed in first object
+root.PCT098_AccountLevel14.eventum_1 removed in first object
+root.PCT098_AccountLevel14.saltpeter removed in first object
+root.PCT098_AccountLevel14.brass removed in first object
+root.PASX815_Bogue_Clone removed in second object
+root.PCT068_AccountLevel12.molybdenum removed in first object
+root.PCT068_AccountLevel12.eventum_2 removed in first object
+root.PCT068_AccountLevel12.eventum_1 removed in first object
+root.PCT068_AccountLevel12.saltpeter removed in first object
+root.PCT068_AccountLevel12.brass removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.molybdenum removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.eventum_2 removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.eventum_1 removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.saltpeter removed in first object
+root.PCT067_RANK_100RANKCAMO_SILVER5M_GOLD2500.brass removed in first object
+root.PCT033_SILVER_NY_2017.molybdenum removed in first object
+root.PCT033_SILVER_NY_2017.eventum_2 removed in first object
+root.PCT033_SILVER_NY_2017.eventum_1 removed in first object
+root.PCT033_SILVER_NY_2017.saltpeter removed in first object
+root.PCT033_SILVER_NY_2017.brass removed in first object
+root.PCT026_RANK_SILVER_03M.molybdenum removed in first object
+root.PCT026_RANK_SILVER_03M.eventum_2 removed in first object
+root.PCT026_RANK_SILVER_03M.eventum_1 removed in first object
+root.PCT026_RANK_SILVER_03M.saltpeter removed in first object
+root.PCT026_RANK_SILVER_03M.brass removed in first object
+root.PVSC507_Nueve_de_Julio_1951.A_Hull.Cit.regeneratedHPPart changed in second object (was 0.1, is 0.33)
+root.PVSC507_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY019_RLSSearch, is PCY002_RegenCrew)
+root.PVSC507_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was US_7_INDIANAPOLIS, is UK_CL)
+root.PVSC507_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY020_RLSSearchPremium, is PCY010_RegenCrewPremium)
+root.PVSC507_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was US_7_INDIANAPOLIS_PREMIUM, is UK_CL_PREM)
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.molybdenum removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.eventum_2 removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.eventum_1 removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.saltpeter removed in first object
+root.PCT991_RANK_BATTLE_SEASON6_COMMANDANT.brass removed in first object
+root.PCT114_RANK_CAMO_PACK_15.molybdenum removed in first object
+root.PCT114_RANK_CAMO_PACK_15.eventum_2 removed in first object
+root.PCT114_RANK_CAMO_PACK_15.eventum_1 removed in first object
+root.PCT114_RANK_CAMO_PACK_15.saltpeter removed in first object
+root.PCT114_RANK_CAMO_PACK_15.brass removed in first object
+root.PCT040_AccountLevel8.molybdenum removed in first object
+root.PCT040_AccountLevel8.eventum_2 removed in first object
+root.PCT040_AccountLevel8.eventum_1 removed in first object
+root.PCT040_AccountLevel8.saltpeter removed in first object
+root.PCT040_AccountLevel8.brass removed in first object
+root.PJSD026_Camo_Kamikaze.HullDefault.speedEffect changed in second object (was sfx/vehicles/WaterEffectsKamikaze.xml, is sfx/vehicles/WaterEffectsCamo_Kamikaze.xml)
+root.PJSD026_Camo_Kamikaze.HullDefault.burnNodes[0][4] changed in second object (was sfx/vehicles/Kamikaze_Fire_V_01.xml, is sfx/vehicles/Camo_Kamikaze_Fire_V_01.xml)
+root.PJSD026_Camo_Kamikaze.HullDefault.burnNodes[1][4] changed in second object (was sfx/vehicles/Kamikaze_Fire_V_02.xml, is sfx/vehicles/Camo_Kamikaze_Fire_V_02.xml)
+root.PJSD026_Camo_Kamikaze.HullDefault.burnNodes[2][4] changed in second object (was sfx/vehicles/Kamikaze_Fire_V_03.xml, is sfx/vehicles/Camo_Kamikaze_Fire_V_03.xml)
+root.PJSD026_Camo_Kamikaze.HullDefault.burnNodes[3][4] changed in second object (was sfx/vehicles/Kamikaze_Fire_V_04.xml, is sfx/vehicles/Camo_Kamikaze_Fire_V_04.xml)
+root.PJSD026_Camo_Kamikaze.HullDefault.deathFoamEffect changed in second object (was sfx/NF_Kamikaze_foam_post_death.xml, is sfx/NF_Camo_Kamikaze_foam_post_death.xml)
+root.PBGM080_4in_45_MkV.armor.65580 changed in second object (was 3.0, is 6.0)
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.molybdenum removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.eventum_2 removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.eventum_1 removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.saltpeter removed in first object
+root.PCT999_RANK_BATTLE_LEAGUE_TOP.brass removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.molybdenum removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.eventum_2 removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.eventum_1 removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.saltpeter removed in first object
+root.PCT159_SonarSearch_Mod_I_5_RDragon.brass removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.molybdenum removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.eventum_2 removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.eventum_1 removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.saltpeter removed in first object
+root.PCT998_RANK_BATTLE_LEAGUE_2.brass removed in first object
+root.PCT140_BDII_12.molybdenum removed in first object
+root.PCT140_BDII_12.eventum_2 removed in first object
+root.PCT140_BDII_12.eventum_1 removed in first object
+root.PCT140_BDII_12.saltpeter removed in first object
+root.PCT140_BDII_12.brass removed in first object
+root.PCT071_25_signals_IX.molybdenum removed in first object
+root.PCT071_25_signals_IX.eventum_2 removed in first object
+root.PCT071_25_signals_IX.eventum_1 removed in first object
+root.PCT071_25_signals_IX.saltpeter removed in first object
+root.PCT071_25_signals_IX.brass removed in first object
+root.PCT064_RANK_CAMO_PACK_10.molybdenum removed in first object
+root.PCT064_RANK_CAMO_PACK_10.eventum_2 removed in first object
+root.PCT064_RANK_CAMO_PACK_10.eventum_1 removed in first object
+root.PCT064_RANK_CAMO_PACK_10.saltpeter removed in first object
+root.PCT064_RANK_CAMO_PACK_10.brass removed in first object
+root.PCT070_1mln_credits.molybdenum removed in first object
+root.PCT070_1mln_credits.eventum_2 removed in first object
+root.PCT070_1mln_credits.eventum_1 removed in first object
+root.PCT070_1mln_credits.saltpeter removed in first object
+root.PCT070_1mln_credits.brass removed in first object
+root.PCT002_DOUBLE_KILL.molybdenum removed in first object
+root.PCT002_DOUBLE_KILL.eventum_2 removed in first object
+root.PCT002_DOUBLE_KILL.eventum_1 removed in first object
+root.PCT002_DOUBLE_KILL.saltpeter removed in first object
+root.PCT002_DOUBLE_KILL.brass removed in first object
+root.PRSC510_Stalingrad.A_Hull.armor.131128 removed in second object
+root.PRSC510_Stalingrad.A_Hull.armor.262201 removed in second object
+root.PRSC510_Stalingrad.A_Hull.armor.131130 changed in second object (was 140.0, is 0.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65600 changed in second object (was 15.0, is 70.0)
+root.PRSC510_Stalingrad.A_Hull.armor.131127 changed in second object (was 125.0, is 0.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65639 changed in second object (was 70.0, is 15.0)
+root.PRSC510_Stalingrad.A_Hull.armor.65597 removed in first object
+root.PRSC510_Stalingrad.A_Hull.armor.131136 removed in first object
+root.PRSC510_Stalingrad.A_Hull.Cas.maxHP changed in second object (was 8300.0, is 5300.0)
+root.PRSC510_Stalingrad.A_Hull.Cas.volume changed in second object (was 6.39, is 3.3)
+root.PRSC510_Stalingrad.A_Hull.Cit.splashBoxes[3] removed in first object
+root.PRSC510_Stalingrad.A_Hull.Cit.splashBoxes[4] removed in first object
+root.PRSC510_Stalingrad.A_Hull.Cit.splashBoxes[5] removed in first object
+root.PRSC510_Stalingrad.A_Hull.Cit.volume changed in second object (was 7.44, is 10.57)
+root.PRSC510_Stalingrad.A_Hull.St.maxHP changed in second object (was 4700.0, is 5800.0)
+root.PRSC510_Stalingrad.A_Hull.SS.maxHP changed in second object (was 4700.0, is 5800.0)
+root.PRSC510_Stalingrad.A_Hull.Bow.maxHP changed in second object (was 4000.0, is 4900.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.armor.131169 changed in second object (was 220.0, is 185.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.armor.131169 changed in second object (was 185.0, is 220.0)
+root.PRSC510_Stalingrad.A_Finders.HP_RF_1.gunNode changed in second object (was , is HP_RGM_2)
+root.PCT063_RANK_BATTLE_PACK_1_50.molybdenum removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.eventum_2 removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.eventum_1 removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.saltpeter removed in first object
+root.PCT063_RANK_BATTLE_PACK_1_50.brass removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.molybdenum removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.eventum_2 removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.eventum_1 removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.saltpeter removed in first object
+root.PCT125_CAMO_VALENTINE_15_RedD_10.brass removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.molybdenum removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.eventum_2 removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.eventum_1 removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.saltpeter removed in first object
+root.PCT157_CAMO_Battle_Hardened_15_15_BDrag.brass removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.molybdenum removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.eventum_2 removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.eventum_1 removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.saltpeter removed in first object
+root.PCT081_RANK_ALL_SIGNAL_FLAGS_20.brass removed in first object
+root.PCT004_DREADNOUGHT.molybdenum removed in first object
+root.PCT004_DREADNOUGHT.eventum_2 removed in first object
+root.PCT004_DREADNOUGHT.eventum_1 removed in first object
+root.PCT004_DREADNOUGHT.saltpeter removed in first object
+root.PCT004_DREADNOUGHT.brass removed in first object
+root.PCT130_BDII_2.molybdenum removed in first object
+root.PCT130_BDII_2.eventum_2 removed in first object
+root.PCT130_BDII_2.eventum_1 removed in first object
+root.PCT130_BDII_2.saltpeter removed in first object
+root.PCT130_BDII_2.brass removed in first object
+root.PCQT544.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_AVCA_PVP, is IDS_TASKRESTRICTION_USAVCA_PVP)
+root.PCT028_RANK_SILVER_05M.molybdenum removed in first object
+root.PCT028_RANK_SILVER_05M.eventum_2 removed in first object
+root.PCT028_RANK_SILVER_05M.eventum_1 removed in first object
+root.PCT028_RANK_SILVER_05M.saltpeter removed in first object
+root.PCT028_RANK_SILVER_05M.brass removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.molybdenum removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.eventum_2 removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.eventum_1 removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.saltpeter removed in first object
+root.PCT045_ONESOLDIERINTHEFIELD.brass removed in first object
+root.PCT137_BDII_9.molybdenum removed in first object
+root.PCT137_BDII_9.eventum_2 removed in first object
+root.PCT137_BDII_9.eventum_1 removed in first object
+root.PCT137_BDII_9.saltpeter removed in first object
+root.PCT137_BDII_9.brass removed in first object
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_1.horizSector[0] changed in second object (was -60.0, is -148.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_1.horizSector[1] changed in second object (was 82.0, is 0.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_1.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_2.horizSector[0] changed in second object (was -82.0, is 0.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_2.horizSector[1] changed in second object (was 60.0, is 148.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_2.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_5.horizSector[0] changed in second object (was -85.0, is 0.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_5.horizSector[1] changed in second object (was 55.0, is 145.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_5.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_6.horizSector[0] changed in second object (was -55.0, is -145.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_6.horizSector[1] changed in second object (was 85.0, is 0.0)
+root.PBSC108_Edinburgh.A_ATBA.HP_BGS_6.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_1.horizSector[0] changed in second object (was -60.0, is -148.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_1.horizSector[1] changed in second object (was 82.0, is 0.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_1.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_2.horizSector[0] changed in second object (was -82.0, is 0.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_2.horizSector[1] changed in second object (was 60.0, is 148.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_2.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_5.horizSector[0] changed in second object (was -85.0, is 0.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_5.horizSector[1] changed in second object (was 55.0, is 145.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_5.deadZone[0] removed in first object
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_6.horizSector[0] changed in second object (was -55.0, is -145.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_6.horizSector[1] changed in second object (was 85.0, is 0.0)
+root.PBSC108_Edinburgh.B_ATBA.HP_BGS_6.deadZone[0] removed in first object
+root.PCT102_SpeedBooster_Mod_I.molybdenum removed in first object
+root.PCT102_SpeedBooster_Mod_I.eventum_2 removed in first object
+root.PCT102_SpeedBooster_Mod_I.eventum_1 removed in first object
+root.PCT102_SpeedBooster_Mod_I.saltpeter removed in first object
+root.PCT102_SpeedBooster_Mod_I.brass removed in first object
+root.PASX001_Cimarron.HullDefault.rollEffect changed in second object (was 23.0, is 21.0)
+root.PASX001_Cimarron.HullDefault.turningRadius changed in second object (was 750.0, is 480.0)
+root.PASX001_Cimarron.HullDefault.tonnage changed in second object (was 15000.0, is 14450.0)
+root.PASX001_Cimarron.HullDefault.mass changed in second object (was 15000000.0, is 14450000.0)
+root.PASX001_Cimarron.HullDefault.customMiscs.part52 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part42 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part12 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part51 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part11 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part22 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part21 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part31 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part32 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs.part41 removed in first object
+root.PASX001_Cimarron.HullDefault.customMiscs._empty_ removed in first object
+root.PASX001_Cimarron.HullDefault.rudderTime changed in second object (was 12.94, is 12.7)
+root.PASX001_Cimarron.HullDefault.maxSpeed changed in second object (was 20.0, is 25.0)
+root.PASX001_Cimarron.HullDefault.sideDragCoef changed in second object (was 1950000.0, is 630000.0)
+root.PASX001_Cimarron.HullDefault.rudderPower changed in second object (was 11700000.0, is 39000000.0)
+root.PCT997_RANK_BATTLE_LEAGUE_1.molybdenum removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.eventum_2 removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.eventum_1 removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.saltpeter removed in first object
+root.PCT997_RANK_BATTLE_LEAGUE_1.brass removed in first object
+root.PCT012_RANK_ECO_03.molybdenum removed in first object
+root.PCT012_RANK_ECO_03.eventum_2 removed in first object
+root.PCT012_RANK_ECO_03.eventum_1 removed in first object
+root.PCT012_RANK_ECO_03.saltpeter removed in first object
+root.PCT012_RANK_ECO_03.brass removed in first object
+root.PBGT090_21in_5tube_Torpedo_Tube.armor.65580 removed in first object
+root.PBGT090_21in_5tube_Torpedo_Tube.shotDelay changed in second object (was 50, is 106.0)
+root.PBGT090_21in_5tube_Torpedo_Tube.torpedoAngles[0] changed in second object (was 1.5, is 4.8)
+root.PBGT090_21in_5tube_Torpedo_Tube.torpedoAngles[1] changed in second object (was 2.4, is 16.0)
+root.PBGT090_21in_5tube_Torpedo_Tube.torpedoAngles[2] removed in second object
+root.PBGT090_21in_5tube_Torpedo_Tube.barrelDiameter changed in second object (was 20, is 0.533)
+root.PBGT090_21in_5tube_Torpedo_Tube.numBarrels changed in second object (was 4, is 5)
+root.PCT082_RANK_BATTLE_PACK_1_20.molybdenum removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.eventum_2 removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.eventum_1 removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.saltpeter removed in first object
+root.PCT082_RANK_BATTLE_PACK_1_20.brass removed in first object
+root.PBGA098_40mm_2pdr_QF_MKII_PomPom.antiAirAuraDistance changed in second object (was -1.0, is 83.0)
+root.PBGA098_40mm_2pdr_QF_MKII_PomPom.antiAirAuraStrength changed in second object (was -1.0, is 0.057)
+root.PBGA098_40mm_2pdr_QF_MKII_PomPom.numBarrels changed in second object (was 2, is 1)
+root.PBGA098_40mm_2pdr_QF_MKII_PomPom.barrelDiameter changed in second object (was 20, is 0.04)
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.molybdenum removed in first object
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.eventum_2 removed in first object
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.eventum_1 removed in first object
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.saltpeter removed in first object
+root.PCT119_CAMO_HALLOWEEN_TYPE3_15.brass removed in first object
+root.PCT005_RETRIBUTION.molybdenum removed in first object
+root.PCT005_RETRIBUTION.eventum_2 removed in first object
+root.PCT005_RETRIBUTION.eventum_1 removed in first object
+root.PCT005_RETRIBUTION.saltpeter removed in first object
+root.PCT005_RETRIBUTION.brass removed in first object
+root.PASC206_Dallas.permoflages[1] removed in first object
+root.PCT104_Spotter_Mod_I.molybdenum removed in first object
+root.PCT104_Spotter_Mod_I.eventum_2 removed in first object
+root.PCT104_Spotter_Mod_I.eventum_1 removed in first object
+root.PCT104_Spotter_Mod_I.saltpeter removed in first object
+root.PCT104_Spotter_Mod_I.brass removed in first object
+root.PCT036_AccountLevel4.molybdenum removed in first object
+root.PCT036_AccountLevel4.eventum_2 removed in first object
+root.PCT036_AccountLevel4.eventum_1 removed in first object
+root.PCT036_AccountLevel4.saltpeter removed in first object
+root.PCT036_AccountLevel4.brass removed in first object
+root.PAES418_FREEDOM_BALTIMORE.peculiarity changed in second object (was default, is freedom)
+root.PCT039_AccountLevel7.molybdenum removed in first object
+root.PCT039_AccountLevel7.eventum_2 removed in first object
+root.PCT039_AccountLevel7.eventum_1 removed in first object
+root.PCT039_AccountLevel7.saltpeter removed in first object
+root.PCT039_AccountLevel7.brass removed in first object
+root.PASC107_New_Orlean_1944.B_Hull.dockYOffset changed in second object (was 0.0, is -0.0298)
+root.PASC107_New_Orlean_1944.A_Hull.dockYOffset changed in second object (was 0.0, is -0.0298)
+root.PCT010_ATBA_CALIBER.molybdenum removed in first object
+root.PCT010_ATBA_CALIBER.eventum_2 removed in first object
+root.PCT010_ATBA_CALIBER.eventum_1 removed in first object
+root.PCT010_ATBA_CALIBER.saltpeter removed in first object
+root.PCT010_ATBA_CALIBER.brass removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.molybdenum removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.eventum_2 removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.eventum_1 removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.saltpeter removed in first object
+root.PCT110_RANK_100RANKCAMO_GOLD1500_SILVER5M_FlagJR.brass removed in first object
+root.PASC209_Seattle.permoflages[1] removed in first object
+root.PCT095_2017_NY_camo_x17.molybdenum removed in first object
+root.PCT095_2017_NY_camo_x17.eventum_2 removed in first object
+root.PCT095_2017_NY_camo_x17.eventum_1 removed in first object
+root.PCT095_2017_NY_camo_x17.saltpeter removed in first object
+root.PCT095_2017_NY_camo_x17.brass removed in first object
+root.PCQT492.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_BB_PVPCOOP, is IDS_TASKRESTRICTION_FRBB_PVPCOOP)
+root.PASC207_Helena.permoflages[1] removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.molybdenum removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.eventum_2 removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.eventum_1 removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.saltpeter removed in first object
+root.PCT060_RANK_BATTLE_PACK_2_50.brass removed in first object
+root.PCT051_WARRIOR.molybdenum removed in first object
+root.PCT051_WARRIOR.eventum_2 removed in first object
+root.PCT051_WARRIOR.eventum_1 removed in first object
+root.PCT051_WARRIOR.saltpeter removed in first object
+root.PCT051_WARRIOR.brass removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.molybdenum removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.eventum_2 removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.eventum_1 removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.saltpeter removed in first object
+root.PCT022_RANK_ECO_20_CAM1_30_CAM2_30.brass removed in first object
+root.PCT093_2017_NY_achievementPack_1.molybdenum removed in first object
+root.PCT093_2017_NY_achievementPack_1.eventum_2 removed in first object
+root.PCT093_2017_NY_achievementPack_1.eventum_1 removed in first object
+root.PCT093_2017_NY_achievementPack_1.saltpeter removed in first object
+root.PCT093_2017_NY_achievementPack_1.brass removed in first object
+root.PCT101_RANK_GOLD_250.molybdenum removed in first object
+root.PCT101_RANK_GOLD_250.eventum_2 removed in first object
+root.PCT101_RANK_GOLD_250.eventum_1 removed in first object
+root.PCT101_RANK_GOLD_250.saltpeter removed in first object
+root.PCT101_RANK_GOLD_250.brass removed in first object
+root.PCT107_SonarSearch_Mod_I.molybdenum removed in first object
+root.PCT107_SonarSearch_Mod_I.eventum_2 removed in first object
+root.PCT107_SonarSearch_Mod_I.eventum_1 removed in first object
+root.PCT107_SonarSearch_Mod_I.saltpeter removed in first object
+root.PCT107_SonarSearch_Mod_I.brass removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.molybdenum removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.eventum_2 removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.eventum_1 removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.saltpeter removed in first object
+root.PCT106_AirDefenseDisp_Mod_I.brass removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.molybdenum removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.eventum_2 removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.eventum_1 removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.saltpeter removed in first object
+root.PCT020_RANK_ECO_15_CAM1_25_CAM2_25.brass removed in first object
+root.PCT105_CrashCrew_Mod_I.molybdenum removed in first object
+root.PCT105_CrashCrew_Mod_I.eventum_2 removed in first object
+root.PCT105_CrashCrew_Mod_I.eventum_1 removed in first object
+root.PCT105_CrashCrew_Mod_I.saltpeter removed in first object
+root.PCT105_CrashCrew_Mod_I.brass removed in first object
+root.PCT029_RANK_SILVER_06M.molybdenum removed in first object
+root.PCT029_RANK_SILVER_06M.eventum_2 removed in first object
+root.PCT029_RANK_SILVER_06M.eventum_1 removed in first object
+root.PCT029_RANK_SILVER_06M.saltpeter removed in first object
+root.PCT029_RANK_SILVER_06M.brass removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.molybdenum removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.eventum_2 removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.eventum_1 removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.saltpeter removed in first object
+root.PCT121_CAMO_ST_PATRICK_15.brass removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.molybdenum removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.eventum_2 removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.eventum_1 removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.saltpeter removed in first object
+root.PCT054_RANK_ALL_SIGNAL_FLAGS_50.brass removed in first object
+root.PCT049_ARSONIST.molybdenum removed in first object
+root.PCT049_ARSONIST.eventum_2 removed in first object
+root.PCT049_ARSONIST.eventum_1 removed in first object
+root.PCT049_ARSONIST.saltpeter removed in first object
+root.PCT049_ARSONIST.brass removed in first object
+root.PCT097_2017_NY_camo_x50.molybdenum removed in first object
+root.PCT097_2017_NY_camo_x50.eventum_2 removed in first object
+root.PCT097_2017_NY_camo_x50.eventum_1 removed in first object
+root.PCT097_2017_NY_camo_x50.saltpeter removed in first object
+root.PCT097_2017_NY_camo_x50.brass removed in first object
+root.PCT027_RANK_SILVER_04M.molybdenum removed in first object
+root.PCT027_RANK_SILVER_04M.eventum_2 removed in first object
+root.PCT027_RANK_SILVER_04M.eventum_1 removed in first object
+root.PCT027_RANK_SILVER_04M.saltpeter removed in first object
+root.PCT027_RANK_SILVER_04M.brass removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_3.armor.196705 changed in second object (was 0.0, is 85.0)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_3.armor.393313 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_3.armor.327777 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_3.armor.458849 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_1.armor.196705 changed in second object (was 0.0, is 85.0)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_1.armor.393313 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_1.armor.327777 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_1.armor.458849 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_2.armor.262241 changed in second object (was 85.0, is 405.0)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_2.armor.393313 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_2.armor.327777 removed in first object
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_2.armor.458849 removed in first object
+root.PCT008_UNSINKABLE.molybdenum removed in first object
+root.PCT008_UNSINKABLE.eventum_2 removed in first object
+root.PCT008_UNSINKABLE.eventum_1 removed in first object
+root.PCT008_UNSINKABLE.saltpeter removed in first object
+root.PCT008_UNSINKABLE.brass removed in first object
+root.PCT147_06mln_credits.molybdenum removed in first object
+root.PCT147_06mln_credits.eventum_2 removed in first object
+root.PCT147_06mln_credits.eventum_1 removed in first object
+root.PCT147_06mln_credits.saltpeter removed in first object
+root.PCT147_06mln_credits.brass removed in first object
+root.PCT011_FIRST_BLOOD.molybdenum removed in first object
+root.PCT011_FIRST_BLOOD.eventum_2 removed in first object
+root.PCT011_FIRST_BLOOD.eventum_1 removed in first object
+root.PCT011_FIRST_BLOOD.saltpeter removed in first object
+root.PCT011_FIRST_BLOOD.brass removed in first object
+root.PCT014_RANK_ECO_05.molybdenum removed in first object
+root.PCT014_RANK_ECO_05.eventum_2 removed in first object
+root.PCT014_RANK_ECO_05.eventum_1 removed in first object
+root.PCT014_RANK_ECO_05.saltpeter removed in first object
+root.PCT014_RANK_ECO_05.brass removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.molybdenum removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.eventum_2 removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.eventum_1 removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.saltpeter removed in first object
+root.PCT052_RANK_ALL_SIGNAL_FLAGS_5.brass removed in first object
+root.PCT013_RANK_BATTLE1_10.molybdenum removed in first object
+root.PCT013_RANK_BATTLE1_10.eventum_2 removed in first object
+root.PCT013_RANK_BATTLE1_10.eventum_1 removed in first object
+root.PCT013_RANK_BATTLE1_10.saltpeter removed in first object
+root.PCT013_RANK_BATTLE1_10.brass removed in first object
+root.PCT037_AccountLevel5.molybdenum removed in first object
+root.PCT037_AccountLevel5.eventum_2 removed in first object
+root.PCT037_AccountLevel5.eventum_1 removed in first object
+root.PCT037_AccountLevel5.saltpeter removed in first object
+root.PCT037_AccountLevel5.brass removed in first object
+root.PCT134_BDII_6.molybdenum removed in first object
+root.PCT134_BDII_6.eventum_2 removed in first object
+root.PCT134_BDII_6.eventum_1 removed in first object
+root.PCT134_BDII_6.saltpeter removed in first object
+root.PCT134_BDII_6.brass removed in first object
+root.PCT080_PA_3.molybdenum removed in first object
+root.PCT080_PA_3.eventum_2 removed in first object
+root.PCT080_PA_3.eventum_1 removed in first object
+root.PCT080_PA_3.saltpeter removed in first object
+root.PCT080_PA_3.brass removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.molybdenum removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.eventum_2 removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.eventum_1 removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.saltpeter removed in first object
+root.PCT990_RANK_BATTLE_SEASON7_CHATHAM.brass removed in first object
+root.PCT129_BDII_1.molybdenum removed in first object
+root.PCT129_BDII_1.eventum_2 removed in first object
+root.PCT129_BDII_1.eventum_1 removed in first object
+root.PCT129_BDII_1.saltpeter removed in first object
+root.PCT129_BDII_1.brass removed in first object
+root.PCT132_BDII_4.molybdenum removed in first object
+root.PCT132_BDII_4.eventum_2 removed in first object
+root.PCT132_BDII_4.eventum_1 removed in first object
+root.PCT132_BDII_4.saltpeter removed in first object
+root.PCT132_BDII_4.brass removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.molybdenum removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.eventum_2 removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.eventum_1 removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.saltpeter removed in first object
+root.PCT079_RANK_ECO_PACK_5_5.brass removed in first object
+root.PCT108_RLSSearch_Mod_I.molybdenum removed in first object
+root.PCT108_RLSSearch_Mod_I.eventum_2 removed in first object
+root.PCT108_RLSSearch_Mod_I.eventum_1 removed in first object
+root.PCT108_RLSSearch_Mod_I.saltpeter removed in first object
+root.PCT108_RLSSearch_Mod_I.brass removed in first object
+root.PRSC520_Stalingrad.A_Hull.armor.65585 changed in second object (was 32.0, is 25.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65584 changed in second object (was 32.0, is 25.0)
+root.PRSC520_Stalingrad.A_Hull.armor.131128 removed in second object
+root.PRSC520_Stalingrad.A_Hull.armor.262201 removed in second object
+root.PRSC520_Stalingrad.A_Hull.armor.131130 changed in second object (was 140.0, is 0.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65600 changed in second object (was 15.0, is 70.0)
+root.PRSC520_Stalingrad.A_Hull.armor.131127 changed in second object (was 125.0, is 0.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65639 changed in second object (was 70.0, is 15.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65629 changed in second object (was 32.0, is 25.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65630 changed in second object (was 32.0, is 25.0)
+root.PRSC520_Stalingrad.A_Hull.armor.65597 removed in first object
+root.PRSC520_Stalingrad.A_Hull.armor.131136 removed in first object
+root.PRSC520_Stalingrad.A_Hull.Cas.maxHP changed in second object (was 8300.0, is 5300.0)
+root.PRSC520_Stalingrad.A_Hull.Cas.volume changed in second object (was 6.39, is 3.3)
+root.PRSC520_Stalingrad.A_Hull.Cit.splashBoxes[3] removed in first object
+root.PRSC520_Stalingrad.A_Hull.Cit.splashBoxes[4] removed in first object
+root.PRSC520_Stalingrad.A_Hull.Cit.splashBoxes[5] removed in first object
+root.PRSC520_Stalingrad.A_Hull.Cit.volume changed in second object (was 7.44, is 10.57)
+root.PRSC520_Stalingrad.A_Hull.St.maxHP changed in second object (was 4700.0, is 5800.0)
+root.PRSC520_Stalingrad.A_Hull.SS.maxHP changed in second object (was 4700.0, is 5800.0)
+root.PRSC520_Stalingrad.A_Hull.Bow.maxHP changed in second object (was 4000.0, is 4900.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.armor.131169 changed in second object (was 220.0, is 185.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.armor.131169 changed in second object (was 185.0, is 220.0)
+root.PRSC520_Stalingrad.A_AirDefense.Medium_1.type changed in second object (was near, is medium)
+root.PCT155_CAMO_Victory_15.molybdenum removed in first object
+root.PCT155_CAMO_Victory_15.eventum_2 removed in first object
+root.PCT155_CAMO_Victory_15.eventum_1 removed in first object
+root.PCT155_CAMO_Victory_15.saltpeter removed in first object
+root.PCT155_CAMO_Victory_15.brass removed in first object
+root.PCT035_AccountLevel3.molybdenum removed in first object
+root.PCT035_AccountLevel3.eventum_2 removed in first object
+root.PCT035_AccountLevel3.eventum_1 removed in first object
+root.PCT035_AccountLevel3.saltpeter removed in first object
+root.PCT035_AccountLevel3.brass removed in first object
+root.PCT094_2017_NY_achievementPack_2.molybdenum removed in first object
+root.PCT094_2017_NY_achievementPack_2.eventum_2 removed in first object
+root.PCT094_2017_NY_achievementPack_2.eventum_1 removed in first object
+root.PCT094_2017_NY_achievementPack_2.saltpeter removed in first object
+root.PCT094_2017_NY_achievementPack_2.brass removed in first object
+root.PASC108_Baltimore_1944.B_Hull.dockYOffset changed in second object (was 0.0, is -0.0659)
+root.PASC108_Baltimore_1944.A_Hull.dockYOffset changed in second object (was 0.0, is -0.0659)
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_17.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.AB_Directors.HP_AD_8.miscFilter[1] removed in first object
+root.PASC108_Baltimore_1944.nationFlagScale changed in second object (was 1.7, is 1.5)
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.molybdenum removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.eventum_2 removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.eventum_1 removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.saltpeter removed in first object
+root.PCT127_CAMO_GAMESCOM_15_Wyvern_10.brass removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.molybdenum removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.eventum_2 removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.eventum_1 removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.saltpeter removed in first object
+root.PCT016_RANK_ECO_10_CAM1_20.brass removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.molybdenum removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.eventum_2 removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.eventum_1 removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.saltpeter removed in first object
+root.PCT145_CAMO_Blue_Lagoon_15.brass removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.molybdenum removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.eventum_2 removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.eventum_1 removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.saltpeter removed in first object
+root.PCT044_RANK_BATTLE1_50_BATTLE2_25_CAM3_100_10M_FlagJR.brass removed in first object
+root.PCY008_SonarSearch.UKDD_7 removed in first object
+root.PCY008_SonarSearch.UKDD_6 removed in first object
+root.PCY008_SonarSearch.UKDD_9 removed in first object
+root.PCY008_SonarSearch.UKDD_10 removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.molybdenum removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.eventum_2 removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.eventum_1 removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.saltpeter removed in first object
+root.PCT083_RANK_BATTLE_PACK_2_20.brass removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.molybdenum removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.eventum_2 removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.eventum_1 removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.saltpeter removed in first object
+root.PCT994_RANK_BATTLE_SEASON3_HAWAII.brass removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.molybdenum removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.eventum_2 removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.eventum_1 removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.saltpeter removed in first object
+root.PCT062_RANK_BATTLE_PACK_1_25.brass removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.molybdenum removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.eventum_2 removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.eventum_1 removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.saltpeter removed in first object
+root.PCT996_RANK_BATTLE_FINAL_20.brass removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.molybdenum removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.eventum_2 removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.eventum_1 removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.saltpeter removed in first object
+root.PCT151_SpeedBooster_Mod_I_15_Wyv.brass removed in first object
+root.PCT088_AccountLevel13.molybdenum removed in first object
+root.PCT088_AccountLevel13.eventum_2 removed in first object
+root.PCT088_AccountLevel13.eventum_1 removed in first object
+root.PCT088_AccountLevel13.saltpeter removed in first object
+root.PCT088_AccountLevel13.brass removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.molybdenum removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.eventum_2 removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.eventum_1 removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.saltpeter removed in first object
+root.PCT128_RANK_100RANKCAMO_GOLD2500_FlagJR_Hydra_10.brass removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.molybdenum removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.eventum_2 removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.eventum_1 removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.saltpeter removed in first object
+root.PCT112_RANK_ECO_PACK_5_10.brass removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.molybdenum removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.eventum_2 removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.eventum_1 removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.saltpeter removed in first object
+root.PCT150_SonarSearch_Mod_I_15_RDragon.brass removed in first object
+root.PCQT487.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_BB_PVPCOOP, is IDS_TASKRESTRICTION_FRBB_PVPCOOP)
+root.PCQT485.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_FR_PVPCOOP)
+root.PCQT482.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_BB_PVPCOOP, is IDS_TASKRESTRICTION_FRBB_PVPCOOP)
+root.PCQT480.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVPCOOP, is IDS_TASKRESTRICTION_FR_PVPCOOP)
+root.PCT122_CAMO_GAMESCOM_15.molybdenum removed in first object
+root.PCT122_CAMO_GAMESCOM_15.eventum_2 removed in first object
+root.PCT122_CAMO_GAMESCOM_15.eventum_1 removed in first object
+root.PCT122_CAMO_GAMESCOM_15.saltpeter removed in first object
+root.PCT122_CAMO_GAMESCOM_15.brass removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.molybdenum removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.eventum_2 removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.eventum_1 removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.saltpeter removed in first object
+root.PCT086_RANK_ECO_PACK_5_30_GOLD800.brass removed in first object
+root.PRSC109_Dmitry_Donskoy.B_Hull.customMiscs.dock removed in first object
+root.PRSC109_Dmitry_Donskoy.C_Hull.customMiscs.dock removed in first object
+root.PRSC109_Dmitry_Donskoy.A_Hull.customMiscs.dock removed in first object
+root.PCT072_25_signals_JW1.molybdenum removed in first object
+root.PCT072_25_signals_JW1.eventum_2 removed in first object
+root.PCT072_25_signals_JW1.eventum_1 removed in first object
+root.PCT072_25_signals_JW1.saltpeter removed in first object
+root.PCT072_25_signals_JW1.brass removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.molybdenum removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.eventum_2 removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.eventum_1 removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.saltpeter removed in first object
+root.PCT156_CAMO_Battle_Hardened_15_5_BDrag.brass removed in first object
+root.PCT034_AccountLevel2.molybdenum removed in first object
+root.PCT034_AccountLevel2.eventum_2 removed in first object
+root.PCT034_AccountLevel2.eventum_1 removed in first object
+root.PCT034_AccountLevel2.saltpeter removed in first object
+root.PCT034_AccountLevel2.brass removed in first object
+root.PCQT527.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_BBCA_PVP, is IDS_TASKRESTRICTION_USBBCA_PVP)
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.molybdenum removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.eventum_2 removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.eventum_1 removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.saltpeter removed in first object
+root.PCT109_RANK_100RANKCAMO_GOLD2500_FlagJR.brass removed in first object
+root.PASC710_Salem.permoflages[1] removed in first object
+root.PFGM049_380mm_45_Mle_1935.armor.393313 removed in first object
+root.PFGM049_380mm_45_Mle_1935.armor.327777 removed in first object
+root.PFGM049_380mm_45_Mle_1935.armor.458849 removed in first object
+root.PBPT012_533_COSSACK.costCR changed in second object (was 250, is 275)
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.molybdenum removed in first object
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.eventum_2 removed in first object
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.eventum_1 removed in first object
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.saltpeter removed in first object
+root.PCT087_RANK_100RANKCAMO_SILVER5M_GOLD1500_ECO_PACK_5_50.brass removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.molybdenum removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.eventum_2 removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.eventum_1 removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.saltpeter removed in first object
+root.PCT113_RANK_BATTLE_PACK_3_10.brass removed in first object
+root.PCQT526.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_BBCA_PVP, is IDS_TASKRESTRICTION_USBBCA_PVP)
+root.PCT066_RANK_GOLD_1K.molybdenum removed in first object
+root.PCT066_RANK_GOLD_1K.eventum_2 removed in first object
+root.PCT066_RANK_GOLD_1K.eventum_1 removed in first object
+root.PCT066_RANK_GOLD_1K.saltpeter removed in first object
+root.PCT066_RANK_GOLD_1K.brass removed in first object
+root.PBGT076_21in_Quad_Torpedo_Tube.shotDelay changed in second object (was 106.0, is 120.0)
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.molybdenum removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.eventum_2 removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.eventum_1 removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.saltpeter removed in first object
+root.PCT992_RANK_BATTLE_SEASON5_WILHELMSHAVEN.brass removed in first object
+root.PASC020_Des_Moines_1948.permoflages[2] removed in first object
+root.PASX003_Liberty.HullDefault.tonnage changed in second object (was 15000.0, is 14450.0)
+root.PASX003_Liberty.HullDefault.mass changed in second object (was 15000000.0, is 14450000.0)
+root.PASX003_Liberty.HullDefault.customMiscs.part52 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part42 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part12 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part51 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part11 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part22 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part21 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part31 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part32 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs.part41 removed in first object
+root.PASX003_Liberty.HullDefault.customMiscs._empty_ removed in first object
+root.PASX003_Liberty.HullDefault.maxSpeed changed in second object (was 20.0, is 25.0)
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.molybdenum removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.eventum_2 removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.eventum_1 removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.saltpeter removed in first object
+root.PCT149_RLSSearch_Mod_I_15_Ouroboros.brass removed in first object
+root.PCQT508.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_AVCA_PVP, is IDS_TASKRESTRICTION_USAVCA_PVP)
+root.PCQT507.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_AVCA_PVP, is IDS_TASKRESTRICTION_USAVCA_PVP)
+root.PCM036_SpeedBooster_Mod_I.ships[11] removed in first object
+root.PCT023_RANK_SILVER_1M.molybdenum removed in first object
+root.PCT023_RANK_SILVER_1M.eventum_2 removed in first object
+root.PCT023_RANK_SILVER_1M.eventum_1 removed in first object
+root.PCT023_RANK_SILVER_1M.saltpeter removed in first object
+root.PCT023_RANK_SILVER_1M.brass removed in first object
+root.PCT136_BDII_8.molybdenum removed in first object
+root.PCT136_BDII_8.eventum_2 removed in first object
+root.PCT136_BDII_8.eventum_1 removed in first object
+root.PCT136_BDII_8.saltpeter removed in first object
+root.PCT136_BDII_8.brass removed in first object
+root.PCT111_AccountLevel15.molybdenum removed in first object
+root.PCT111_AccountLevel15.eventum_2 removed in first object
+root.PCT111_AccountLevel15.eventum_1 removed in first object
+root.PCT111_AccountLevel15.saltpeter removed in first object
+root.PCT111_AccountLevel15.brass removed in first object
+root.PCY010_RegenCrewPremium.Jean_Bart_Gold removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.molybdenum removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.eventum_2 removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.eventum_1 removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.saltpeter removed in first object
+root.PCT018_RANK_ECO_10_BATTLE2_05_CAM1_25.brass removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.molybdenum removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.eventum_2 removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.eventum_1 removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.saltpeter removed in first object
+root.PCT017_RANK_BATTLE2_05_CAM2_20.brass removed in first object
+root.PBPA036_114MM_MII_HE.costCR changed in second object (was 5, is 9)
+root.PCQT517.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_AVDD_PVP, is IDS_TASKRESTRICTION_USAVDD_PVP)
+root.PCT047_WITHERING.molybdenum removed in first object
+root.PCT047_WITHERING.eventum_2 removed in first object
+root.PCT047_WITHERING.eventum_1 removed in first object
+root.PCT047_WITHERING.saltpeter removed in first object
+root.PCT047_WITHERING.brass removed in first object
+root.PCT161_April1st2018_DailyReward.molybdenum removed in first object
+root.PCT161_April1st2018_DailyReward.eventum_2 removed in first object
+root.PCT161_April1st2018_DailyReward.eventum_1 removed in first object
+root.PCT161_April1st2018_DailyReward.saltpeter removed in first object
+root.PCT161_April1st2018_DailyReward.brass removed in first object
+root.PASC210_Worcester.permoflages[1] removed in first object
+root.PASC210_Worcester.permoflages[2] removed in first object
+root.PASC210_Worcester.permoflages[3] removed in first object
+root.PRSB505_Oktyabrskaya_Revolutsiya.A_Hull.dockYOffset changed in second object (was 0.0, is 0.078)
+root.PCT069_25_signals_ZH.molybdenum removed in first object
+root.PCT069_25_signals_ZH.eventum_2 removed in first object
+root.PCT069_25_signals_ZH.eventum_1 removed in first object
+root.PCT069_25_signals_ZH.saltpeter removed in first object
+root.PCT069_25_signals_ZH.brass removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.molybdenum removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.eventum_2 removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.eventum_1 removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.saltpeter removed in first object
+root.PCT995_RANK_BATTLE_FINAL_1.brass removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.molybdenum removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.eventum_2 removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.eventum_1 removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.saltpeter removed in first object
+root.PCT126_CAMO_ST_PATRICK_15_OuroB_10.brass removed in first object
+root.PCQT543.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCQT546.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCQT547.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_AV_PVPCOOP, is IDS_TASKRESTRICTION_USAV_PVPCOOP)
+root.PCQT545.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_PVP, is IDS_TASKRESTRICTION_US_PVP)
+root.PCQT548.uiCondition[2] changed in second object (was IDS_TASKRESTRICTION_CA_PVP, is IDS_TASKRESTRICTION_USCA_PVP)
+root.PCT061_RANK_BATTLE_PACK_1_10.molybdenum removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.eventum_2 removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.eventum_1 removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.saltpeter removed in first object
+root.PCT061_RANK_BATTLE_PACK_1_10.brass removed in first object
+root.PCY002_RegenCrew.Jean_Bart removed in first object
+root.PCH125_PVE_HERO_DAM.hint changed in second object (was Ќанести более 50% от урона своей команды., is Ќанести более 35% от урона своей команды.)
+root.PCH125_PVE_HERO_DAM.constants.damagePart changed in second object (was 0.5, is 0.35)
+root.PCH125_PVE_HERO_DAM.constants.minimalDamageValue changed in second object (was 150000, is 125000)
+root.PFSB508_Gascogne.A_Hull.St.maxHP changed in second object (was 2900.0, is 2800.0)
+root.PFSB508_Gascogne.A_Hull.SS.splashBoxes[9] removed in first object
+root.PFSB508_Gascogne.A_Hull.SS.volume changed in second object (was 2.43, is 2.49)
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.armor.262241 changed in second object (was 0.0, is 85.0)
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.armor.196705 changed in second object (was 0.0, is 85.0)
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.armor.393313 removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.armor.327777 removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_1.armor.458849 removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_2.armor.196705 changed in second object (was 0.0, is 85.0)
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_2.armor.393313 removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_2.armor.327777 removed in first object
+root.PFSB508_Gascogne.A1_Artillery.HP_FGM_2.armor.458849 removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.molybdenum removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.eventum_2 removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.eventum_1 removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.saltpeter removed in first object
+root.PCT057_RANK_ECO_PACK_5_50.brass removed in first object
+root.PCT139_BDII_11.molybdenum removed in first object
+root.PCT139_BDII_11.eventum_2 removed in first object
+root.PCT139_BDII_11.eventum_1 removed in first object
+root.PCT139_BDII_11.saltpeter removed in first object
+root.PCT139_BDII_11.brass removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.molybdenum removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.eventum_2 removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.eventum_1 removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.saltpeter removed in first object
+root.PCT019_RANK_BATTLE1_50_BATTLE2_10_CAM2_25.brass removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.molybdenum removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.eventum_2 removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.eventum_1 removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.saltpeter removed in first object
+root.PCT148_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_15.brass removed in first object
+root.PCM015_FireControl_Mod_II.excludes[19] removed in first object
+root.PCM015_FireControl_Mod_II.excludes[20] removed in first object
+root.PCT009_DETONATED.molybdenum removed in first object
+root.PCT009_DETONATED.eventum_2 removed in first object
+root.PCT009_DETONATED.eventum_1 removed in first object
+root.PCT009_DETONATED.saltpeter removed in first object
+root.PCT009_DETONATED.brass removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.molybdenum removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.eventum_2 removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.eventum_1 removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.saltpeter removed in first object
+root.PCT989_RANK_BATTLE_SEASON8_AKUREYRI.brass removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.molybdenum removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.eventum_2 removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.eventum_1 removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.saltpeter removed in first object
+root.PCT124_CAMO_HALLOWEEN_TYPE3_15_BlueD_10.brass removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.molybdenum removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.eventum_2 removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.eventum_1 removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.saltpeter removed in first object
+root.PCT053_RANK_ALL_SIGNAL_FLAGS_10.brass removed in first object
+root.PCT003_SUPPORT.molybdenum removed in first object
+root.PCT003_SUPPORT.eventum_2 removed in first object
+root.PCT003_SUPPORT.eventum_1 removed in first object
+root.PCT003_SUPPORT.saltpeter removed in first object
+root.PCT003_SUPPORT.brass removed in first object
+root.PASC208_Cleveland.permoflages[2] changed in second object (was PAES408_FREEDOM_CLEVELAND, is PAEP003_Cleveland_AmericanArc)
+root.PASC208_Cleveland.permoflages[3] removed in first object
+root.PASC208_Cleveland.A_Hull.dockYOffset changed in second object (was 0.0, is -0.0678)
+root.PASC208_Cleveland.B_Directors.HP_AD_1.gunNode changed in second object (was HP_AGM_2, is )
+root.PASC208_Cleveland.B_Hull.dockYOffset changed in second object (was 0.0, is -0.0678)
+root.PASC208_Cleveland.A_Directors.HP_AD_1.gunNode changed in second object (was HP_AGM_2, is )
+root.PASC208_Cleveland.flagsScale changed in second object (was 0.7, is 0.6)
+root.PCT043_AccountLevel11.molybdenum removed in first object
+root.PCT043_AccountLevel11.eventum_2 removed in first object
+root.PCT043_AccountLevel11.eventum_1 removed in first object
+root.PCT043_AccountLevel11.saltpeter removed in first object
+root.PCT043_AccountLevel11.brass removed in first object
+root.PCT162_April1st2018_OneTimeReward.molybdenum removed in first object
+root.PCT162_April1st2018_OneTimeReward.eventum_2 removed in first object
+root.PCT162_April1st2018_OneTimeReward.eventum_1 removed in first object
+root.PCT162_April1st2018_OneTimeReward.saltpeter removed in first object
+root.PCT162_April1st2018_OneTimeReward.brass removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.molybdenum removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.eventum_2 removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.eventum_1 removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.saltpeter removed in first object
+root.PCT084_RANK_ECO_PACK_5_25_PA_7.brass removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.molybdenum removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.eventum_2 removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.eventum_1 removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.saltpeter removed in first object
+root.PCT055_RANK_ECO_PACK_5_10.brass removed in first object
+root.PCT103_SmokeGenerator_Mod_I.molybdenum removed in first object
+root.PCT103_SmokeGenerator_Mod_I.eventum_2 removed in first object
+root.PCT103_SmokeGenerator_Mod_I.eventum_1 removed in first object
+root.PCT103_SmokeGenerator_Mod_I.saltpeter removed in first object
+root.PCT103_SmokeGenerator_Mod_I.brass removed in first object
+root.PCT141_BDII_13.molybdenum removed in first object
+root.PCT141_BDII_13.eventum_2 removed in first object
+root.PCT141_BDII_13.eventum_1 removed in first object
+root.PCT141_BDII_13.saltpeter removed in first object
+root.PCT141_BDII_13.brass removed in first object
+root.PCT133_BDII_5.molybdenum removed in first object
+root.PCT133_BDII_5.eventum_2 removed in first object
+root.PCT133_BDII_5.eventum_1 removed in first object
+root.PCT133_BDII_5.saltpeter removed in first object
+root.PCT133_BDII_5.brass removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_1.armor.262241 changed in second object (was 0.0, is 80.0)
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_1.armor.196705 changed in second object (was 0.0, is 80.0)
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_1.armor.393313 removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_1.armor.327777 removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_1.armor.458849 removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_2.armor.262241 changed in second object (was 0.0, is 405.0)
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_2.armor.393313 removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_2.armor.327777 removed in first object
+root.PFSB108_Richelieu.A1_Artillery.HP_FGM_2.armor.458849 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_1.armor.262241 changed in second object (was 0.0, is 80.0)
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_1.armor.196705 changed in second object (was 0.0, is 80.0)
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_1.armor.393313 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_1.armor.327777 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_1.armor.458849 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_2.armor.262241 changed in second object (was 0.0, is 405.0)
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_2.armor.393313 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_2.armor.327777 removed in first object
+root.PFSB108_Richelieu.B1_Artillery.HP_FGM_2.armor.458849 removed in first object
+root.PCOI015_TorpedoSpotting removed in first object
+root.PCOI014_GrindRibbonsDef removed in first object
+root.PXUH503_SEABATTLE_CAP removed in first object
+root.PBUE202_D3_ENG_STOCK removed in first object
+root.PAEP005_Worchester_AmericanArc removed in first object
+root.PGGM102_350mm_42_SK_C14 removed in first object
+root.PBUH303_D4_HULL_A removed in first object
+root.PBSD107_Jervis removed in first object
+root.PBUS503_D6_SUO_STOCK removed in first object
+root.PCEE203_Jean_Bart_flag removed in first object
+root.PBPA064_102MM_AP_QF_MKIV removed in first object
+root.PGUS507_SUO_PEFRIEDRICH removed in first object
+root.PBUE603_D7_ENG_STOCK removed in first object
+root.PFD060_OPL_8_metre_152mm removed in first object
+root.PBGM102_4_5in45_MK_5 removed in first object
+root.PGGS103_150mm_42_SK_C09 removed in first object
+root.PCY022_ArtilleryBoosterPremium removed in first object
+root.PBUA802_D9_ART_STOCK removed in first object
+root.PBUE102_D2_ENG_STOCK removed in first object
+root.PXSA807_Ranger removed in first object
+root.PBGM089_4_7in_45_BL_MKI removed in first object
+root.PGSB506_Prinz_Eithel_Friedrich removed in first object
+root.PBPA069_114MM_MII_HE_Main removed in first object
+root.PBUH803_D9_HULL_A removed in first object
+root.PCH188_AVAEagles removed in first object
+root.PBUT504_D6_TORP_STOCK removed in first object
+root.PBSD110_Daring removed in first object
+root.PFUA712_ART_JBART removed in first object
+root.PBUH605_D7_HULL_B removed in first object
+root.PCOI020_GrindRibbonsTorpedo removed in first object
+root.PBSD108_Lightning removed in first object
+root.PFF063_Rangefinder_5m removed in first object
+root.PBUH202_D3_HULL_A removed in first object
+root.PBUH703_D8_HULL_A removed in first object
+root.PBUS504_D6_SUO_TOP removed in first object
+root.PAEP003_Cleveland_AmericanArc removed in first object
+root.PCOI019_GrindRibbonsCitadel removed in first object
+root.PCOI013_GrindRibbons removed in first object
+root.PBUS203_D3_SUO_TOP removed in first object
+root.PBUH704_D8_HULL_B removed in first object
+root.PAEP001_Dallas_AmericanArc removed in first object
+root.PBUH405_D5_HULL_B removed in first object
+root.PBUH103_D2_HULL_A removed in first object
+root.PBUT902_D10_TORP_STOCK removed in first object
+root.PAES430_FREEDOM_SALEM removed in first object
+root.PFSB518_Jean_Bart removed in first object
+root.PBUA503_D6_ART_STOCK removed in first object
+root.PBGM100_4in_40_QF_MkIV removed in first object
+root.PBPA065_102MM_HE_33LBS removed in first object
+root.PCOI007_BreakEngines removed in first object
+root.PBUH604_D7_HULL_A removed in first object
+root.PBD071_HACS_MK_VI_with_Radar_type275 removed in first object
+root.PFUE713_ENG_JBART removed in first object
+root.PAES450_WORCHESTER_SHARK removed in first object
+root.PBPA066_102MM_AP_38LBS removed in first object
+root.PFF065_Rangefinder_5m removed in first object
+root.PFGM061_138_6_mm_50_Mle_1929 removed in first object
+root.PBUA102_D2_ART_STOCK removed in first object
+root.PBSD106_Icarus removed in first object
+root.PBUT404_D5_TORP_STOCK removed in first object
+root.PBUE403_D5_ENG_STOCK removed in first object
+root.PBUA403_D5_ART_STOCK removed in first object
+root.PFD062_Tele_57 removed in first object
+root.PBUA603_D7_ART_STOCK removed in first object
+root.PBUE701_D8_ENG_STOCK removed in first object
+root.PAES420_FREEDOM_DESMOINES removed in first object
+root.PBUH104_D2_HULL_B removed in first object
+root.PBGT094_21in_Torpedo_Tubes_Twin removed in first object
+root.PXSC503_SEABATTLE_CAP removed in first object
+root.PCOI006_CapturePoints removed in first object
+root.PBUS804_D9_SUO_TOP removed in first object
+root.PCNB129 removed in first object
+root.PCNB125 removed in first object
+root.PCNB124 removed in first object
+root.PCNB126 removed in first object
+root.PCNB123 removed in first object
+root.PBRS072_Type_974_Radar removed in first object
+root.PCEE201_AvaEagles removed in first object
+root.PBUS903_D10_SUO_STOCK removed in first object
+root.PBUH304_D4_HULL_B removed in first object
+root.PCY021_ArtilleryBooster removed in first object
+root.PGUH507_PEFRIEDRICH removed in first object
+root.PCOI008_DestroyGuns removed in first object
+root.PCOI011_KeepThemAlive removed in first object
+root.PBUS605_D7_SUO_TOP removed in first object
+root.PBUT505_D6_TORP_TOP removed in first object
+root.PFD059_OPL_14_metre_380mm removed in first object
+root.PCOI010_ShootDownAttackPlanes removed in first object
+root.PBUT201_D3_TORP_STOCK removed in first object
+root.PCH187_AVACommon removed in first object
+root.PBUT703_D8_TORP_STOCK removed in first object
+root.PCEE199_AvaCommon removed in first object
+root.PCOI017_GrindRibbonsATBA removed in first object
+root.PBPA068_120MM_SAP_62LBS removed in first object
+root.PGPA082_350MM_AP_PEFRIEDRICH removed in first object
+root.PCEC060_RvR_Eagle removed in first object
+root.PBUS104_D2_SUO_TOP removed in first object
+root.PBUS803_D9_SUO_STOCK removed in first object
+root.PBUA803_D9_ART_TOP removed in first object
+root.PFD061_OPL_4_metre_100mm removed in first object
+root.PBGA022_40mm_Bofors_MkV removed in first object
+root.PBGT095_21in_5tube_Torpedo_Tube removed in first object
+root.PBUS202_D3_SUO_STOCK removed in first object
+root.PCOI016_TorpedoSpottingAir removed in first object
+root.PBUT605_D7_TORP_STOCK removed in first object
+root.PCEE200_AvaSharks removed in first object
+root.PBUH404_D5_HULL_A removed in first object
+root.PGUA507_ART_PEFRIEDRICH removed in first object
+root.PBSD102_Medea removed in first object
+root.PBSD105_Acasta removed in first object
+root.PBUE302_D4_ENG_STOCK removed in first object
+root.PFPA049_380MM_AP_JBART removed in first object
+root.PBF074_Rangefinder_1_5m removed in first object
+root.PFUS714_SUO_JBART removed in first object
+root.PCNB128 removed in first object
+root.PCNB127 removed in first object
+root.PBSD103_Valkyrie removed in first object
+root.PCOI003_LetItBurn removed in first object
+root.PFUH714_JBART removed in first object
+root.PCEE202_Prinz_Eitel_Friedrich_flag removed in first object
+root.PBUH203_D3_HULL_B removed in first object
+root.PBSD104_Wakeful removed in first object
+root.PBUA302_D4_ART_STOCK removed in first object
+root.PBUT101_D2_TORP_STOCK removed in first object
+root.PCOI018_DestroyModules removed in first object
+root.PBPA062_114MM_SAP_55LB removed in first object
+root.PBUE503_D6_ENG_STOCK removed in first object
+root.PBGM086_4_7in_50QF_MKXI removed in first object
+root.PBUS404_D5_SUO_STOCK removed in first object
+root.PBUA904_D10_ART_STOCK removed in first object
+root.PBUS103_D2_SUO_STOCK removed in first object
+root.PCH182_PVE_HON_15_KOPECKS removed in first object
+root.PBUS703_D8_SUO_STOCK removed in first object
+root.PBUS704_D8_SUO_TOP removed in first object
+root.PBPA063_102MM_HE_QF_MKIV removed in first object
+root.PBUT303_D4_TORP_STOCK removed in first object
+root.PBUS304_D4_SUO_TOP removed in first object
+root.PBGM087_4_5in_45_Mk4_2barrels removed in first object
+root.PBUH503_D6_HULL_A removed in first object
+root.PBUH804_D9_HULL_B removed in first object
+root.PCOI002_NoOneIsProtected removed in first object
+root.PGUE507_ENG_PEFRIEDRICH removed in first object
+root.PFF064_Rangefinder_5m removed in first object
+root.PBUH504_D6_HULL_B removed in first object
+root.PAEP004_Seatle_AmericanArc removed in first object
+root.PXSX815_Bogue_Clone removed in first object
+root.PBUS604_D7_SUO_STOCK removed in first object
+root.PBUE903_D10_ENG_STOCK removed in first object
+root.PBUS303_D4_SUO_STOCK removed in first object
+root.PCOI005_KillCarrier removed in first object
+root.PBUH903_D10_HULL_A removed in first object
+root.PGPA081_350MM_HE_PEFRIEDRICH removed in first object
+root.PCOI009_ShootDownFighters removed in first object
+root.PCOI001_KillTheEnemy removed in first object
+root.PBPA067_120MM_HE_62LBS removed in first object
+root.PXUE503_ENG_SEABATTLE removed in first object
+root.PBUA702_D8_ART_STOCK removed in first object
+root.PCEC059_RvR_Shark removed in first object
+root.PCOI004_Intelligence removed in first object
+root.PCOI012_GrindConsumables removed in first object
+root.PBUA202_D3_ART_STOCK removed in first object
+root.PBUE803_D9_ENG_STOCK removed in first object
+root.PCH181_PVE_HON_FRAG_OBJ removed in first object
+root.PBD070_DCT_MK_IV removed in first object
+root.PBUT803_D9_TORP_STOCK removed in first object
+root.PFPA048_380MM_HE_JBART removed in first object
+root.PAES440_WORCHESTER_EAGLE removed in first object
+root.PAEP002_Helena_AmericanArc removed in first object
+root.PBSD109_Jutland removed in first object
+root.PCNB130 removed in first object
+root.PCNB131 removed in first object
+root.PCH189_AVASharks removed in first object
+root.PBGM093_4_5in_45_Mk4_1barrel removed in first object
+root.PBUS405_D5_SUO_TOP removed in first object
+>> finished comparing

@@ -168,19 +168,6 @@
         "zh_cn": "[\u5f81\u670d\u8005]", 
         "zh_tw": "[\u5f81\u670d\u8005\u7d1a]"
     }, 
-    "3344938992": {
-        "en": "Ranger", 
-        "id": 3344938992, 
-        "index": "PASA906", 
-        "ja_jp": "Ranger", 
-        "level": 7, 
-        "name": "PASA906_Ranger_1944", 
-        "nation": "USA", 
-        "ru": "Ranger", 
-        "species": "AirCarrier", 
-        "zh_cn": "\u6e38\u9a91\u5175", 
-        "zh_tw": "\u6e38\u9a0e\u5175\u865f"
-    }, 
     "3346282480": {
         "en": "Cimarron Test", 
         "id": 3346282480, 
@@ -220,18 +207,31 @@
         "zh_cn": "\u6865\u7acb", 
         "zh_tw": "\u6a4b\u7acb"
     }, 
-    "3439605744": {
-        "en": "Bogue", 
-        "id": 3439605744, 
-        "index": "PASX815", 
-        "ja_jp": "Bogue", 
+    "3439605008": {
+        "en": "IDS_PXSX815", 
+        "id": 3439605008, 
+        "index": "PXSX815", 
+        "ja_jp": "IDS_PXSX815", 
         "level": 5, 
-        "name": "PASX815_Bogue_Clone", 
-        "nation": "USA", 
-        "ru": "Bogue", 
+        "name": "PXSX815_Bogue_Clone", 
+        "nation": "Events", 
+        "ru": "IDS_PXSX815", 
         "species": "Auxiliary", 
-        "zh_cn": "\u535a\u683c", 
-        "zh_tw": "\u535a\u683c\u865f"
+        "zh_cn": "IDS_PXSX815", 
+        "zh_tw": "IDS_PXSX815"
+    }, 
+    "3448747280": {
+        "en": "IDS_PXSA807", 
+        "id": 3448747280, 
+        "index": "PXSA807", 
+        "ja_jp": "IDS_PXSA807", 
+        "level": 7, 
+        "name": "PXSA807_Ranger", 
+        "nation": "Events", 
+        "ru": "IDS_PXSA807", 
+        "species": "AirCarrier", 
+        "zh_cn": "IDS_PXSA807", 
+        "zh_tw": "IDS_PXSA807"
     }, 
     "3450779632": {
         "en": "Erie", 
@@ -702,10 +702,10 @@
         "zh_tw": "\u5b89\u6771\u5c3c\u865f"
     }, 
     "3668883440": {
-        "en": "Boise", 
+        "en": "IDS_PASC597", 
         "id": 3668883440, 
         "index": "PASC597", 
-        "ja_jp": "Boise", 
+        "ja_jp": "IDS_PASC597", 
         "level": 7, 
         "name": "PASC597_Nueve_de_Julio_1951", 
         "nation": "USA", 
@@ -728,10 +728,10 @@
         "zh_tw": "\u7d04\u514b\u516c\u7235\u865f"
     }, 
     "3749623248": {
-        "en": "Stalingrad 2", 
+        "en": "STALINGRAD #2", 
         "id": 3749623248, 
         "index": "PRSC520", 
-        "ja_jp": "Stalingrad 2", 
+        "ja_jp": "STALINGRAD #2", 
         "level": 10, 
         "name": "PRSC520_Stalingrad", 
         "nation": "Russia", 
@@ -752,6 +752,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u671d\u6f6e", 
         "zh_tw": "\u671d\u6f6e\u865f"
+    }, 
+    "3751753552": {
+        "en": "IDS_PFSB518", 
+        "id": 3751753552, 
+        "index": "PFSB518", 
+        "ja_jp": "IDS_PFSB518", 
+        "level": 8, 
+        "name": "PFSB518_Jean_Bart", 
+        "nation": "France", 
+        "ru": "IDS_PFSB518", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PFSB518", 
+        "zh_tw": "IDS_PFSB518"
     }, 
     "3751753712": {
         "en": "Massachusetts", 
@@ -1001,10 +1014,10 @@
         "zh_tw": "\u4f01\u696d\u865f"
     }, 
     "3763221872": {
-        "en": "IDS_PUSD507", 
+        "en": "Haida", 
         "id": 3763221872, 
         "index": "PUSD507", 
-        "ja_jp": "IDS_PUSD507", 
+        "ja_jp": "Haida", 
         "level": 7, 
         "name": "PUSD507_Haida", 
         "nation": "Commonwealth", 
@@ -1027,10 +1040,10 @@
         "zh_tw": "\u5217\u5be7\u683c\u52d2\u865f"
     }, 
     "3763254608": {
-        "en": "IDS_PVSC507", 
+        "en": "Nueve de\u00a0Julio", 
         "id": 3763254608, 
         "index": "PVSC507", 
-        "ja_jp": "IDS_PVSC507", 
+        "ja_jp": "Nueve de\u00a0Julio", 
         "level": 7, 
         "name": "PVSC507_Nueve_de_Julio_1951", 
         "nation": "Pan_America", 
@@ -1299,6 +1312,19 @@
         "zh_cn": "\u9646\u5965", 
         "zh_tw": "\u9678\u5967\u865f"
     }, 
+    "3764336432": {
+        "en": "IDS_PGSB506", 
+        "id": 3764336432, 
+        "index": "PGSB506", 
+        "ja_jp": "IDS_PGSB506", 
+        "level": 6, 
+        "name": "PGSB506_Prinz_Eithel_Friedrich", 
+        "nation": "Germany", 
+        "ru": "IDS_PGSB506", 
+        "species": "Battleship", 
+        "zh_cn": "IDS_PGSB506", 
+        "zh_tw": "IDS_PGSB506"
+    }, 
     "3764336464": {
         "en": "Dunkerque", 
         "id": 3764336464, 
@@ -1402,6 +1428,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u574e\u8d1d\u5c14\u6566", 
         "zh_tw": "\u574e\u8c9d\u723e\u6566\u865f"
+    }, 
+    "3767448848": {
+        "en": "IDS_PXSC503", 
+        "id": 3767448848, 
+        "index": "PXSC503", 
+        "ja_jp": "IDS_PXSC503", 
+        "level": 1, 
+        "name": "PXSC503_SEABATTLE_CAP", 
+        "nation": "Events", 
+        "ru": "IDS_PXSC503", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PXSC503", 
+        "zh_tw": "IDS_PXSC503"
     }, 
     "3767449040": {
         "en": "Oleg", 
@@ -1508,10 +1547,10 @@
         "zh_tw": "\u57fa\u8f14\u7d1a"
     }, 
     "4065212112": {
-        "en": "IDS_PJSD219", 
+        "en": "Kitakaze", 
         "id": 4065212112, 
         "index": "PJSD219", 
-        "ja_jp": "IDS_PJSD219", 
+        "ja_jp": "Kitakaze", 
         "level": 9, 
         "name": "PJSD219_Kitakaze", 
         "nation": "Japan", 
@@ -1534,10 +1573,10 @@
         "zh_tw": "\u96f7\u66b4\u7d1a"
     }, 
     "4074649296": {
-        "en": "IDS_PJSD210", 
+        "en": "Harugumo", 
         "id": 4074649296, 
         "index": "PJSD210", 
-        "ja_jp": "IDS_PJSD210", 
+        "ja_jp": "Harugumo", 
         "level": 10, 
         "name": "PJSD210_Harugumo", 
         "nation": "Japan", 
@@ -1754,6 +1793,19 @@
         "zh_cn": "Z-52", 
         "zh_tw": "Z-52"
     }, 
+    "4179507152": {
+        "en": "IDS_PBSD110", 
+        "id": 4179507152, 
+        "index": "PBSD110", 
+        "ja_jp": "IDS_PBSD110", 
+        "level": 10, 
+        "name": "PBSD110_Daring", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD110", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD110", 
+        "zh_tw": "IDS_PBSD110"
+    }, 
     "4179539408": {
         "en": "Moskva", 
         "id": 4179539408, 
@@ -1883,6 +1935,19 @@
         "species": "Destroyer", 
         "zh_cn": "Z-46", 
         "zh_tw": "Z-46"
+    }, 
+    "4180555728": {
+        "en": "IDS_PBSD109", 
+        "id": 4180555728, 
+        "index": "PBSD109", 
+        "ja_jp": "IDS_PBSD109", 
+        "level": 9, 
+        "name": "PBSD109_Jutland", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD109", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD109", 
+        "zh_tw": "IDS_PBSD109"
     }, 
     "4180587984": {
         "en": "Dm. Donskoi", 
@@ -2040,6 +2105,19 @@
         "zh_cn": "Z-23", 
         "zh_tw": "Z-23"
     }, 
+    "4181604304": {
+        "en": "IDS_PBSD108", 
+        "id": 4181604304, 
+        "index": "PBSD108", 
+        "ja_jp": "IDS_PBSD108", 
+        "level": 8, 
+        "name": "PBSD108_Lightning", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD108", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD108", 
+        "zh_tw": "IDS_PBSD108"
+    }, 
     "4181636560": {
         "en": "Chapayev", 
         "id": 4181636560, 
@@ -2195,6 +2273,19 @@
         "species": "Destroyer", 
         "zh_cn": "Z-1", 
         "zh_tw": "Z-1"
+    }, 
+    "4182652880": {
+        "en": "IDS_PBSD107", 
+        "id": 4182652880, 
+        "index": "PBSD107", 
+        "ja_jp": "IDS_PBSD107", 
+        "level": 7, 
+        "name": "PBSD107_Jervis", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD107", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD107", 
+        "zh_tw": "IDS_PBSD107"
     }, 
     "4182685136": {
         "en": "Shchors", 
@@ -2352,6 +2443,19 @@
         "zh_cn": "SK-22", 
         "zh_tw": "SK-22"
     }, 
+    "4183701456": {
+        "en": "IDS_PBSD106", 
+        "id": 4183701456, 
+        "index": "PBSD106", 
+        "ja_jp": "IDS_PBSD106", 
+        "level": 6, 
+        "name": "PBSD106_Icarus", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD106", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD106", 
+        "zh_tw": "IDS_PBSD106"
+    }, 
     "4183733712": {
         "en": "Budyonny", 
         "id": 4183733712, 
@@ -2508,6 +2612,19 @@
         "zh_cn": "T-22", 
         "zh_tw": "T-22"
     }, 
+    "4184750032": {
+        "en": "IDS_PBSD105", 
+        "id": 4184750032, 
+        "index": "PBSD105", 
+        "ja_jp": "IDS_PBSD105", 
+        "level": 5, 
+        "name": "PBSD105_Acasta", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD105", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD105", 
+        "zh_tw": "IDS_PBSD105"
+    }, 
     "4184782288": {
         "en": "Kirov", 
         "id": 4184782288, 
@@ -2637,6 +2754,19 @@
         "species": "Destroyer", 
         "zh_cn": "V-170", 
         "zh_tw": "V-170"
+    }, 
+    "4185798608": {
+        "en": "IDS_PBSD104", 
+        "id": 4185798608, 
+        "index": "PBSD104", 
+        "ja_jp": "IDS_PBSD104", 
+        "level": 4, 
+        "name": "PBSD104_Wakeful", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD104", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD104", 
+        "zh_tw": "IDS_PBSD104"
     }, 
     "4185830864": {
         "en": "Svietlana", 
@@ -2768,6 +2898,19 @@
         "zh_cn": "G-101", 
         "zh_tw": "G-101"
     }, 
+    "4186847184": {
+        "en": "IDS_PBSD103", 
+        "id": 4186847184, 
+        "index": "PBSD103", 
+        "ja_jp": "IDS_PBSD103", 
+        "level": 3, 
+        "name": "PBSD103_Valkyrie", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD103", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD103", 
+        "zh_tw": "IDS_PBSD103"
+    }, 
     "4186879440": {
         "en": "Bogatyr", 
         "id": 4186879440, 
@@ -2897,6 +3040,19 @@
         "species": "Destroyer", 
         "zh_cn": "V-25", 
         "zh_tw": "V-25"
+    }, 
+    "4187895760": {
+        "en": "IDS_PBSD102", 
+        "id": 4187895760, 
+        "index": "PBSD102", 
+        "ja_jp": "IDS_PBSD102", 
+        "level": 2, 
+        "name": "PBSD102_Medea", 
+        "nation": "United_Kingdom", 
+        "ru": "IDS_PBSD102", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PBSD102", 
+        "zh_tw": "IDS_PBSD102"
     }, 
     "4187928016": {
         "en": "Novik", 
