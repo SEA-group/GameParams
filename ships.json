@@ -1832,6 +1832,19 @@
         "zh_cn": "\u5fb7\u00b7\u683c\u62c9\u65af", 
         "zh_tw": "\u5fb7\u00b7\u683c\u62c9\u65af\u865f"
     }, 
+    "PFSC810": {
+        "en": "IDS_PFSC810", 
+        "id": 3445536592, 
+        "index": "PFSC810", 
+        "ja_jp": "IDS_PFSC810", 
+        "level": 10, 
+        "name": "PFSC810_Henri_IV", 
+        "nation": "France", 
+        "ru": "IDS_PFSC810", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PFSC810", 
+        "zh_tw": "IDS_PFSC810"
+    }, 
     "PFSD506": {
         "en": "Aigle", 
         "id": 3764270928, 

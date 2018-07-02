@@ -220,6 +220,19 @@
         "zh_cn": "IDS_PXSX815", 
         "zh_tw": "IDS_PXSX815"
     }, 
+    "3445536592": {
+        "en": "IDS_PFSC810", 
+        "id": 3445536592, 
+        "index": "PFSC810", 
+        "ja_jp": "IDS_PFSC810", 
+        "level": 10, 
+        "name": "PFSC810_Henri_IV", 
+        "nation": "France", 
+        "ru": "IDS_PFSC810", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PFSC810", 
+        "zh_tw": "IDS_PFSC810"
+    }, 
     "3448747280": {
         "en": "IDS_PXSA807", 
         "id": 3448747280, 
