@@ -1,0 +1,11 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_2.ammoList[0] changed in second object (was PBPA048_120MM_QFMIX_AP_G, is PBPA049_120MM_QFMIX_HE_G)
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_2.ammoList[1] changed in second object (was PBPA049_120MM_QFMIX_HE_G, is PBPA048_120MM_QFMIX_AP_G)
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_3.ammoList[0] changed in second object (was PBPA048_120MM_QFMIX_AP_G, is PBPA049_120MM_QFMIX_HE_G)
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_3.ammoList[1] changed in second object (was PBPA049_120MM_QFMIX_HE_G, is PBPA048_120MM_QFMIX_AP_G)
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_1.ammoList[0] changed in second object (was PBPA048_120MM_QFMIX_AP_G, is PBPA049_120MM_QFMIX_HE_G)
+root.PBSD107_Jervis.AB1_Artillery.HP_BGM_1.ammoList[1] changed in second object (was PBPA049_120MM_QFMIX_HE_G, is PBPA048_120MM_QFMIX_AP_G)
+root.PCOW012_Night_Logic.audio.effect changed in second object (was Default, is Storm)
+>> finished comparing
