@@ -1,0 +1,209 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCM038_Spotter_Mod_I.ships[23] removed in first object
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[1] changed in second object (was 0.846, is 0.828)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.138, is 2.001)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.475, is 0.419)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.inclineV changed in second object (was 5, is 9.632)
+root.PBSD107_Jervis.AB1_Torpedoes.HP_BGT_2.deadZone[0][0] changed in second object (was 115.0, is 109.0)
+root.PBSD107_Jervis.AB1_Torpedoes.HP_BGT_2.deadZone[0][1] changed in second object (was -115.0, is -109.0)
+root.PBSD107_Jervis.AB1_Torpedoes.HP_BGT_1.horizSector[0] changed in second object (was -115.0, is -110.0)
+root.PBSD107_Jervis.AB1_Torpedoes.HP_BGT_1.horizSector[1] changed in second object (was 115.0, is 110.0)
+root.PCM041_SonarSearch_Mod_I.ships[67] changed in second object (was PVSC507_Nueve_de_Julio_1951, is PASC597_Nueve_de_Julio_1951)
+root.PCM041_SonarSearch_Mod_I.ships[68] changed in second object (was PASC107_New_Orlean_1944, is PVSC507_Nueve_de_Julio_1951)
+root.PCM041_SonarSearch_Mod_I.ships[69] changed in second object (was PASC108_Baltimore_1944, is PASC107_New_Orlean_1944)
+root.PCM041_SonarSearch_Mod_I.ships[70] changed in second object (was PASC106_Pensacola_1944, is PASC108_Baltimore_1944)
+root.PCM041_SonarSearch_Mod_I.ships[71] changed in second object (was PASC109_Buffalo, is PASC106_Pensacola_1944)
+root.PCM041_SonarSearch_Mod_I.ships[72] changed in second object (was PASC208_Cleveland, is PASC109_Buffalo)
+root.PCM041_SonarSearch_Mod_I.ships[73] changed in second object (was PGSA508_Graf_Zeppelin, is PASC208_Cleveland)
+root.PCM041_SonarSearch_Mod_I.ships[74] changed in second object (was PASC210_Worcester, is PGSA508_Graf_Zeppelin)
+root.PCM041_SonarSearch_Mod_I.ships[75] changed in second object (was PASC206_Dallas, is PASC210_Worcester)
+root.PCM041_SonarSearch_Mod_I.ships[76] changed in second object (was PASC209_Seattle, is PASC206_Dallas)
+root.PCM041_SonarSearch_Mod_I.ships[77] changed in second object (was PASC207_Helena, is PASC209_Seattle)
+root.PCM041_SonarSearch_Mod_I.ships[78] changed in second object (was PBSD106_Icarus, is PASC207_Helena)
+root.PCM041_SonarSearch_Mod_I.ships[79] changed in second object (was PBSD107_Jervis, is PBSD106_Icarus)
+root.PCM041_SonarSearch_Mod_I.ships[80] changed in second object (was PBSD108_Lightning, is PBSD107_Jervis)
+root.PCM041_SonarSearch_Mod_I.ships[81] changed in second object (was PBSD109_Jutland, is PBSD108_Lightning)
+root.PCM041_SonarSearch_Mod_I.ships[82] changed in second object (was PBSD110_Daring, is PBSD109_Jutland)
+root.PCM041_SonarSearch_Mod_I.ships[83] removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Hull.turningRadius changed in second object (was 710.0, is 690.0)
+root.PASC597_Nueve_de_Julio_1951.A_Hull.model changed in second object (was content/gameplay/panamerica/ship/cruiser/VSC026_Nueve_de_Julio_1951/VSC026_Nueve_de_Julio_1951.model, is content/gameplay/usa/ship/cruiser/ASC028_Boise_1951/ASC028_Boise_1951.model)
+root.PASC597_Nueve_de_Julio_1951.A_Hull.Cit.regeneratedHPPart changed in second object (was 0.1, is 0.33)
+root.PASC597_Nueve_de_Julio_1951.Cameras.Guns2.weapons[0] changed in second object (was HP_VGM_4, is HP_AGM_4)
+root.PASC597_Nueve_de_Julio_1951.Cameras.Guns2.weapons[1] changed in second object (was HP_VGM_5, is HP_AGM_5)
+root.PASC597_Nueve_de_Julio_1951.Cameras.Guns1.weapons[0] changed in second object (was HP_VGM_1, is HP_AGM_1)
+root.PASC597_Nueve_de_Julio_1951.Cameras.Guns1.weapons[1] changed in second object (was HP_VGM_2, is HP_AGM_2)
+root.PASC597_Nueve_de_Julio_1951.Cameras.Guns1.weapons[2] changed in second object (was HP_VGM_3, is HP_AGM_3)
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_4 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_5 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_2 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_3 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_VGM_1 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_AGM_1 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_AGM_3 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_AGM_2 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_AGM_4 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A1_Artillery.HP_AGM_5 removed in first object
+root.PASC597_Nueve_de_Julio_1951.group changed in second object (was disabled, is special)
+root.PASC597_Nueve_de_Julio_1951.groupCustom.CN removed in second object
+root.PASC597_Nueve_de_Julio_1951.ShipUpgradeInfo.costGold changed in second object (was 99999, is 8500)
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_4 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_8 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_13 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_12 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_11 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_10 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_17 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_9 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_14 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_7 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_6 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_5 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_18 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_3 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_2 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_VD_1 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_14 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_15 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_16 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_10 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_11 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_12 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_13 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_2 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_3 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_1 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_6 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_7 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_4 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_5 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_8 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Directors.HP_AD_9 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_4 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_5 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_6 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_7 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_1 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_2 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_3 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_VGS_8 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[0] changed in second object (was HP_VGS_1, is HP_AGS_1)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[1] changed in second object (was HP_VGS_2, is HP_AGS_2)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[2] changed in second object (was HP_VGS_3, is HP_AGS_3)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[3] changed in second object (was HP_VGS_4, is HP_AGS_4)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[4] changed in second object (was HP_VGS_5, is HP_AGS_5)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[5] changed in second object (was HP_VGS_6, is HP_AGS_6)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[6] changed in second object (was HP_VGS_7, is HP_AGS_7)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.Far_1.guns[7] changed in second object (was HP_VGS_8, is HP_AGS_8)
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_3 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_2 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_1 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_7 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_6 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_5 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_4 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_ATBA.HP_AGS_8 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_2 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_3 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_1 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_6 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_7 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_4 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_5 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[0] changed in second object (was HP_VGA_11, is HP_AGA_11)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[1] changed in second object (was HP_VGA_12, is HP_AGA_12)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[2] changed in second object (was HP_VGA_15, is HP_AGA_15)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[3] changed in second object (was HP_VGA_16, is HP_AGA_16)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[4] changed in second object (was HP_VGA_17, is HP_AGA_17)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[5] changed in second object (was HP_VGA_18, is HP_AGA_18)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[6] changed in second object (was HP_VGA_5, is HP_AGA_5)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[7] changed in second object (was HP_VGA_6, is HP_AGA_6)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[8] changed in second object (was HP_VGA_7, is HP_AGA_7)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Medium_1.guns[9] changed in second object (was HP_VGA_8, is HP_AGA_8)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_8 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_9 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_18 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[0] changed in second object (was HP_VGA_1, is HP_AGA_1)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[1] changed in second object (was HP_VGA_10, is HP_AGA_10)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[2] changed in second object (was HP_VGA_13, is HP_AGA_13)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[3] changed in second object (was HP_VGA_14, is HP_AGA_14)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[4] changed in second object (was HP_VGA_2, is HP_AGA_2)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[5] changed in second object (was HP_VGA_3, is HP_AGA_3)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[6] changed in second object (was HP_VGA_4, is HP_AGA_4)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.Near_1.guns[7] changed in second object (was HP_VGA_9, is HP_AGA_9)
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_10 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_11 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_12 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_13 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_14 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_15 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_16 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_VGA_17 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_18 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_15 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_17 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_16 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_11 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_10 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_13 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_12 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_5 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_4 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_7 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_6 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_1 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_3 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_14 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_2 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_9 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_AirDefense.HP_AGA_8 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_VRS_3 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_VRS_2 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_VRS_1 removed in second object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_ARS_1 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_ARS_2 removed in first object
+root.PASC597_Nueve_de_Julio_1951.A_Radars.HP_ARS_3 removed in first object
+root.PASC597_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY019_RLSSearch, is PCY002_RegenCrew)
+root.PASC597_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was US_7_INDIANAPOLIS, is UK_CL)
+root.PASC597_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY020_RLSSearchPremium, is PCY010_RegenCrewPremium)
+root.PASC597_Nueve_de_Julio_1951.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was US_7_INDIANAPOLIS_PREMIUM, is UK_CL_PREM)
+root.PGSB506_Prinz_Eithel_Friedrich.ShipUpgradeInfo.costGold changed in second object (was 0, is 99999)
+root.PBSD108_Lightning.Cameras.Torp1.OuterTrajectory.posCenter[1] changed in second object (was 3, is 3.038)
+root.PBSD108_Lightning.Cameras.Torp1.OuterTrajectory.posCenter[2] changed in second object (was -0.639, is -0.605)
+root.PBSD108_Lightning.Cameras.Torp1.OuterTrajectory.semiAxisV changed in second object (was 3.973, is 3.892)
+root.PBSD108_Lightning.Cameras.Torp1.OuterTrajectory.inclineV changed in second object (was 0.0, is 6.03)
+root.PBSD108_Lightning.Cameras.Torp1.InnerTrajectory.posCenter[1] changed in second object (was 0.65, is 0.688)
+root.PBSD108_Lightning.Cameras.Torp1.InnerTrajectory.posCenter[2] changed in second object (was -0.671, is -0.637)
+root.PBSD108_Lightning.Cameras.Torp1.InnerTrajectory.semiAxisV changed in second object (was 0.323, is 0.242)
+root.PBSD108_Lightning.Cameras.Torp1.InnerTrajectory.inclineV changed in second object (was 0.0, is 6.03)
+root.PFSB518_Jean_Bart.A_ATBA.HP_FGS_13.horizSector[0] changed in second object (was -35.0, is -125.0)
+root.PVSC507_Nueve_de_Julio_1951.A_Hull.turningRadius changed in second object (was 810.0, is 690.0)
+root.PVSC507_Nueve_de_Julio_1951.group changed in second object (was demoWithoutStats, is special)
+root.PASB518_Massachusetts.group changed in second object (was demoWithoutStats, is special)
+root.PASC206_Dallas.groupCustom.PT removed in second object
+root.PASC209_Seattle.groupCustom.PT removed in second object
+root.PASC209_Seattle.B_Artillery.maxDist changed in second object (was 13370.0, is 14280.0)
+root.PASC207_Helena.groupCustom.PT removed in second object
+root.PBGA022_40mm_Bofors_MkV.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PBSD105_Acasta.AB1_Torpedoes.HP_BGT_2.deadZone[0][0] changed in second object (was -55.0, is -59.0)
+root.PBSD105_Acasta.AB1_Torpedoes.HP_BGT_2.deadZone[0][1] changed in second object (was 55.0, is 59.0)
+root.PBSD105_Acasta.AB1_Torpedoes.HP_BGT_1.deadZone[0][0] changed in second object (was -50.0, is -58.0)
+root.PBSD105_Acasta.AB1_Torpedoes.HP_BGT_1.deadZone[0][1] changed in second object (was 50.0, is 58.0)
+root.PGSD506_T_61.ShipUpgradeInfo.costGold changed in second object (was 4900, is 5400)
+root.PASC710_Salem.group changed in second object (was demoWithoutStats, is special)
+root.PASC210_Worcester.groupCustom.PT removed in second object
+root.PJSD219_Kitakaze.AB3_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 171.0, is 157.0)
+root.PJSD219_Kitakaze.AB2_Torpedoes.HP_JGT_1.shotDelay changed in second object (was 157.0, is 171.0)
+root.PBSD109_Jutland.B_AirDefense.HP_BGA_2.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PBSD109_Jutland.B_AirDefense.HP_BGA_3.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PBSD109_Jutland.B_AirDefense.HP_BGA_1.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PBSD109_Jutland.A_AirDefense.HP_BGA_2.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PBSD109_Jutland.A_AirDefense.HP_BGA_3.antiAirAuraStrength changed in second object (was 0.87, is 0.087)
+root.PAPA090_152MM_AP_BOISE removed in first object
+root.PAD111_Director_Mk34_old removed in first object
+root.PAPA091_152MM_HE_BOISE removed in first object
+root.PCEE208_Boise_flag removed in first object
+root.PAPA089_127MM_HE_BOISE removed in first object
+root.PAGS178_5in25_Mk27 removed in first object
+>> finished comparing
