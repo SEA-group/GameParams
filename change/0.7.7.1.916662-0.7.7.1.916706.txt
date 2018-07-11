@@ -1,0 +1,13 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[1] changed in second object (was 0.828, is 0.846)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.001, is 2.138)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.419, is 0.475)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.inclineV changed in second object (was 9.632, is 5)
+root.PGSB506_Prinz_Eithel_Friedrich.ShipUpgradeInfo.costGold changed in second object (was 99999, is 0)
+root.PVSC507_Nueve_de_Julio_1951.group changed in second object (was special, is demoWithoutStats)
+root.PASB518_Massachusetts.group changed in second object (was special, is demoWithoutStats)
+root.PGSD506_T_61.ShipUpgradeInfo.costGold changed in second object (was 5400, is 4900)
+root.PASC710_Salem.group changed in second object (was special, is demoWithoutStats)
+>> finished comparing
