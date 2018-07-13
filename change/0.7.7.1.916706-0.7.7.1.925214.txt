@@ -1,0 +1,500 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PBUE202_D3_ENG_STOCK.costCR changed in second object (was 0, is 21000)
+root.PAPA078_127MM_AP_KIDD.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PGSC506_Admiral_Graf_Spee.groupCustom.EU removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.NA removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.RU removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ASIA removed in second object
+root.PGSC506_Admiral_Graf_Spee.groupCustom.ST removed in second object
+root.PJGM101_410mm50.rotationSpeed[0] changed in second object (was 4.0, is 4.5)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[1] changed in second object (was 0.846, is 0.828)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.posCenter[2] changed in second object (was 2.138, is 2.001)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.semiAxisV changed in second object (was 0.475, is 0.419)
+root.PBSD107_Jervis.Cameras.Guns1.InnerTrajectory.inclineV changed in second object (was 5, is 9.632)
+root.PBSD107_Jervis.ShipUpgradeInfo.costCR changed in second object (was 0, is 5150000)
+root.PBSD107_Jervis.ShipUpgradeInfo.costXP changed in second object (was 0, is 65000)
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY008_SonarSearch)
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is UKDD_7)
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY016_SonarSearchPremium)
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is UKDD_7_Premium)
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSD107_Jervis.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBUS503_D6_SUO_STOCK.costCR changed in second object (was 0, is 180000)
+root.PJPA078_100MM_HE_HAREKAZE.alphaPiercingHE changed in second object (was 17.0, is 25.0)
+root.PBUE603_D7_ENG_STOCK.costCR changed in second object (was 0, is 405000)
+root.PCY022_ArtilleryBoosterPremium.FR_CR_9_10_Gold removed in first object
+root.PRSD103_Derzky.A_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD103_Derzky.A_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD103_Derzky.A_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD103_Derzky.B_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD103_Derzky.B_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD103_Derzky.B_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PBUA802_D9_ART_STOCK.costCR changed in second object (was 0, is 1000000)
+root.PBUE102_D2_ENG_STOCK.costCR changed in second object (was 0, is 5000)
+root.PRGM009_130mm_B_13.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSC003_Murmansk_1944.groupCustom.RU removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.NA removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.ASIA removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.ST removed in first object
+root.PRSC003_Murmansk_1944.groupCustom.EU removed in first object
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_2.shotDelay changed in second object (was 8.1, is 7.5)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_3.shotDelay changed in second object (was 8.1, is 7.5)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_1.shotDelay changed in second object (was 8.1, is 7.5)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_4.shotDelay changed in second object (was 8.1, is 7.5)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_5.shotDelay changed in second object (was 8.1, is 7.5)
+root.PRSD205_Podvoisky_pr_1929.AB1_Artillery.HP_RGM_5.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PGSB506_Prinz_Eithel_Friedrich.ShipUpgradeInfo.costGold changed in second object (was 0, is 99999)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_21.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_22.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_5.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_4.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_7.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_6.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_1.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_3.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_2.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_8.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_18.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_14.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_17.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PGSB506_Prinz_Eithel_Friedrich.A_ATBA.HP_GGS_13.shotEffect changed in second object (was sfx/guns/Gk_OwnShot_200.xml, is sfx/guns/Gk_OwnShot_100.xml)
+root.PBUH803_D9_HULL_A.costCR changed in second object (was 0, is 1400000)
+root.PBUT504_D6_TORP_STOCK.costCR changed in second object (was 0, is 250000)
+root.PBSD110_Daring.ShipUpgradeInfo.costXP changed in second object (was 0, is 240000)
+root.PBSD110_Daring.ShipUpgradeInfo.costCR changed in second object (was 0, is 19500000)
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY008_SonarSearch)
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is UKDD_10)
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY016_SonarSearchPremium)
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is UKDD_10_Premium)
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSD110_Daring.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PASD508_Kidd.groupCustom.EU removed in first object
+root.PASD508_Kidd.groupCustom.NA removed in first object
+root.PASD508_Kidd.groupCustom.RU removed in first object
+root.PASD508_Kidd.groupCustom.ASIA removed in first object
+root.PASD508_Kidd.groupCustom.ST removed in first object
+root.PASD029_Sims_1941.groupCustom.RU removed in second object
+root.PASD029_Sims_1941.groupCustom.NA removed in second object
+root.PASD029_Sims_1941.groupCustom.ASIA removed in second object
+root.PASD029_Sims_1941.groupCustom.ST removed in second object
+root.PASD029_Sims_1941.groupCustom.EU removed in second object
+root.PFSD506_Aigle.groupCustom.EU removed in first object
+root.PFSD506_Aigle.groupCustom.NA removed in first object
+root.PFSD506_Aigle.groupCustom.RU removed in first object
+root.PFSD506_Aigle.groupCustom.ASIA removed in first object
+root.PFSD506_Aigle.groupCustom.ST removed in first object
+root.PBUH605_D7_HULL_B.costXP changed in second object (was 0, is 23500)
+root.PBUH605_D7_HULL_B.costCR changed in second object (was 0, is 1500000)
+root.PAPA070_127MM_AP_BLACK.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PJSC004_Yubari_1944.groupCustom.EU removed in first object
+root.PJSC004_Yubari_1944.groupCustom.NA removed in first object
+root.PJSC004_Yubari_1944.groupCustom.RU removed in first object
+root.PJSC004_Yubari_1944.groupCustom.ASIA removed in first object
+root.PJSC004_Yubari_1944.groupCustom.ST removed in first object
+root.PBSD108_Lightning.AB1_Artillery.HP_BGM_2.shotDelay changed in second object (was 6.0, is 5.0)
+root.PBSD108_Lightning.AB1_Artillery.HP_BGM_3.shotDelay changed in second object (was 6.0, is 5.0)
+root.PBSD108_Lightning.AB1_Artillery.HP_BGM_1.shotDelay changed in second object (was 6.0, is 5.0)
+root.PBSD108_Lightning.ShipUpgradeInfo.costXP changed in second object (was 0, is 112000)
+root.PBSD108_Lightning.ShipUpgradeInfo.costCR changed in second object (was 0, is 8900000)
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY008_SonarSearch)
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is UKDD_8)
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY016_SonarSearchPremium)
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is UKDD_8_Premium)
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSD108_Lightning.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PBUH202_D3_HULL_A.costCR changed in second object (was 0, is 38000)
+root.PBUH703_D8_HULL_A.costCR changed in second object (was 0, is 850000)
+root.PBUS504_D6_SUO_TOP.costXP changed in second object (was 0, is 6500)
+root.PBUS504_D6_SUO_TOP.costCR changed in second object (was 0, is 510000)
+root.PGGM064_280mm_SK_L45_LC_1906.shotDelay changed in second object (was 22.2, is 26.0)
+root.PISC507_Duca_degli_Abruzzi.groupCustom.EU removed in first object
+root.PISC507_Duca_degli_Abruzzi.groupCustom.NA removed in first object
+root.PISC507_Duca_degli_Abruzzi.groupCustom.RU removed in first object
+root.PISC507_Duca_degli_Abruzzi.groupCustom.ASIA removed in first object
+root.PISC507_Duca_degli_Abruzzi.groupCustom.ST removed in first object
+root.PBUS203_D3_SUO_TOP.costXP changed in second object (was 0, is 500)
+root.PBUS203_D3_SUO_TOP.costCR changed in second object (was 0, is 62000)
+root.PBUH704_D8_HULL_B.costXP changed in second object (was 0, is 39000)
+root.PBUH704_D8_HULL_B.costCR changed in second object (was 0, is 2750000)
+root.PGGM053_28cm_SK_L45_LC_1906.shotDelay changed in second object (was 22.2, is 26.0)
+root.PBUH405_D5_HULL_B.costXP changed in second object (was 0, is 3100)
+root.PBUH405_D5_HULL_B.costCR changed in second object (was 0, is 370000)
+root.PBUH103_D2_HULL_A.costCR changed in second object (was 0, is 10000)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_1.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_2.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_3.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_6.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_4.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB001_Kawachi_1912.A1_305_45.HP_JGM_5.shotDelay changed in second object (was 33.0, is 30.0)
+root.PBUT902_D10_TORP_STOCK.costCR changed in second object (was 0, is 1500000)
+root.PFSB506_Dunkerque_1940.group changed in second object (was premium, is special)
+root.PFSB506_Dunkerque_1940.groupCustom.CN removed in second object
+root.PFSB506_Dunkerque_1940.groupCustom.PT removed in second object
+root.PFSB518_Jean_Bart.weight changed in second object (was 6732, is 8852)
+root.PFSB518_Jean_Bart.A_Hull.burnNodes[0][1] changed in second object (was 0.6337, is 0.5671)
+root.PFSB518_Jean_Bart.A_Hull.burnNodes[1][1] changed in second object (was 0.6337, is 0.5671)
+root.PFSB518_Jean_Bart.A_Hull.burnNodes[2][1] changed in second object (was 0.6337, is 0.5671)
+root.PFSB518_Jean_Bart.A_Hull.burnNodes[3][1] changed in second object (was 0.6337, is 0.5671)
+root.PFSB518_Jean_Bart.battleLevels.PVP[2] removed in second object
+root.PFSB518_Jean_Bart.battleLevels.COOPERATIVE[2] removed in second object
+root.PFSB518_Jean_Bart.A_Artillery.sigmaCount changed in second object (was 1.8, is 2.0)
+root.PFSB518_Jean_Bart.A_Artillery.HP_FGM_1.shotDelay changed in second object (was 30.0, is 26.0)
+root.PFSB518_Jean_Bart.A_Artillery.taperDist changed in second object (was 4000.0, is 5000.0)
+root.PFSB518_Jean_Bart.A_Artillery.HP_FGM_2.shotDelay changed in second object (was 30.0, is 26.0)
+root.PFSB518_Jean_Bart.level changed in second object (was 8, is 9)
+root.PFSB518_Jean_Bart.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was C, is Gascogne)
+root.PFSB518_Jean_Bart.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was C_Gold, is Gascogne_gold)
+root.PBUA503_D6_ART_STOCK.costCR changed in second object (was 0, is 170000)
+root.PAPA086_127MM_AP_MONAGHAN.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PISB508_Roma.groupCustom.EU removed in first object
+root.PISB508_Roma.groupCustom.NA removed in first object
+root.PISB508_Roma.groupCustom.RU removed in first object
+root.PISB508_Roma.groupCustom.ASIA removed in first object
+root.PISB508_Roma.groupCustom.ST removed in first object
+root.PBUH604_D7_HULL_A.costCR changed in second object (was 0, is 600000)
+root.PAPA068_127MM_AP_FLINT.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PJSB018_Yamato_1944.A_Artillery.HP_JGM_1.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PJSB018_Yamato_1944.A_Artillery.HP_JGM_2.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PJSB018_Yamato_1944.A_Artillery.HP_JGM_3.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PVSC507_Nueve_de_Julio_1951.group changed in second object (was demoWithoutStats, is special)
+root.PAPA004_Shell_127mm_AP_SC_Mk_38.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PASB518_Massachusetts.group changed in second object (was demoWithoutStats, is special)
+root.PBUA102_D2_ART_STOCK.costCR changed in second object (was 0, is 7500)
+root.PFSC506_De_Grasse.groupCustom.EU removed in second object
+root.PFSC506_De_Grasse.groupCustom.NA removed in second object
+root.PFSC506_De_Grasse.groupCustom.RU removed in second object
+root.PFSC506_De_Grasse.groupCustom.ASIA removed in second object
+root.PFSC506_De_Grasse.groupCustom.ST removed in second object
+root.PZPA008_127_AP_MK_38.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PBSD106_Icarus.ShipUpgradeInfo.costCR changed in second object (was 0, is 3200000)
+root.PBSD106_Icarus.ShipUpgradeInfo.costXP changed in second object (was 0, is 36000)
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY008_SonarSearch)
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is UKDD_7)
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY016_SonarSearchPremium)
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is UKDD_7_Premium)
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSD106_Icarus.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PRSC510_Stalingrad.A1_Artillery.maxDist changed in second object (was 22890.0, is 20350.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.shotDelay changed in second object (was 18.5, is 20.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.ammoList[0] changed in second object (was PRPA082_305MM_AP_STALINGRAD, is PRPA088_305MM_HE_STALINGRAD)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.ammoList[1] removed in first object
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.idealRadius changed in second object (was 8.0, is 10.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.minRadius changed in second object (was 1.1, is 1.6)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.shotDelay changed in second object (was 18.5, is 20.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.ammoList[0] changed in second object (was PRPA082_305MM_AP_STALINGRAD, is PRPA088_305MM_HE_STALINGRAD)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.ammoList[1] removed in first object
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.idealRadius changed in second object (was 8.0, is 10.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.minRadius changed in second object (was 1.1, is 1.6)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.shotDelay changed in second object (was 18.5, is 20.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.ammoList[0] changed in second object (was PRPA082_305MM_AP_STALINGRAD, is PRPA088_305MM_HE_STALINGRAD)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.ammoList[1] removed in first object
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.idealRadius changed in second object (was 8.0, is 10.0)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.minRadius changed in second object (was 1.1, is 1.6)
+root.PRSC510_Stalingrad.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC510_Stalingrad.isPaperShip changed in second object (was False, is True)
+root.PBUT404_D5_TORP_STOCK.costCR changed in second object (was 0, is 100000)
+root.PBUE403_D5_ENG_STOCK.costCR changed in second object (was 0, is 125000)
+root.PBUA403_D5_ART_STOCK.costCR changed in second object (was 0, is 100000)
+root.PBUA603_D7_ART_STOCK.costCR changed in second object (was 0, is 420000)
+root.PJGM164_460mm45_Type96.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PBUE701_D8_ENG_STOCK.costCR changed in second object (was 0, is 700000)
+root.PRSD207_Minsk.AB1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD207_Minsk.AB1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD207_Minsk.AB1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD207_Minsk.AB1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD207_Minsk.AB1_Artillery.HP_RGM_5.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PJPA040_Shell_100mm_HE_C_Type_98.alphaPiercingHE changed in second object (was 17.0, is 25.0)
+root.PGSC508_Prinz_Eugen.groupCustom.RU removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.NA removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.ASIA removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.ST removed in first object
+root.PGSC508_Prinz_Eugen.groupCustom.EU removed in first object
+root.PBUH104_D2_HULL_B.costXP changed in second object (was 0, is 300)
+root.PBUH104_D2_HULL_B.costCR changed in second object (was 0, is 28000)
+root.PISC506_DucadAosta.groupCustom.EU removed in second object
+root.PISC506_DucadAosta.groupCustom.NA removed in second object
+root.PISC506_DucadAosta.groupCustom.RU removed in second object
+root.PISC506_DucadAosta.groupCustom.ASIA removed in second object
+root.PISC506_DucadAosta.groupCustom.ST removed in second object
+root.PBSC105_Emerald.A_Hull.visibilityCoefGKInSmoke changed in second object (was 5.4, is 4.56)
+root.PBSC105_Emerald.A_Hull.visibilityFactor changed in second object (was 11.52, is 10.18)
+root.PBSC105_Emerald.B_Hull.visibilityFactor changed in second object (was 11.52, is 10.18)
+root.PBSC105_Emerald.B_Hull.visibilityCoefGKInSmoke changed in second object (was 5.4, is 4.56)
+root.PBSB002_Warspite_1941.groupCustom.RU removed in first object
+root.PBSB002_Warspite_1941.groupCustom.NA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.ASIA removed in first object
+root.PBSB002_Warspite_1941.groupCustom.ST removed in first object
+root.PBSB002_Warspite_1941.groupCustom.EU removed in first object
+root.PBUS804_D9_SUO_TOP.costXP changed in second object (was 0, is 35000)
+root.PBUS804_D9_SUO_TOP.costCR changed in second object (was 0, is 1700000)
+root.PRSD409_Pr_20i_Tashkent.ShipUpgradeInfo.PRUH808_D9_HULL_TOP_4.components.artillery[1] removed in first object
+root.PRSD409_Pr_20i_Tashkent.ShipUpgradeInfo.PRUH807_D9_HULL_STOCK_4.components.artillery[1] removed in first object
+root.PRSD409_Pr_20i_Tashkent.ShipUpgradeInfo.PRUA814_D9_ART_TOP_4 removed in first object
+root.PRSD409_Pr_20i_Tashkent.AB2_Artillery removed in first object
+root.PBUS903_D10_SUO_STOCK.costCR changed in second object (was 0, is 1700000)
+root.PBUH304_D4_HULL_B.costXP changed in second object (was 0, is 1900)
+root.PBUH304_D4_HULL_B.costCR changed in second object (was 0, is 189000)
+root.PCY021_ArtilleryBooster.FR_CR_9_10 removed in first object
+root.PBUS605_D7_SUO_TOP.costXP changed in second object (was 0, is 17000)
+root.PBUS605_D7_SUO_TOP.costCR changed in second object (was 0, is 1100000)
+root.PBUT505_D6_TORP_TOP.costXP changed in second object (was 0, is 6000)
+root.PBUT505_D6_TORP_TOP.costCR changed in second object (was 0, is 450000)
+root.PRGM035_4in60.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.A1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD105_Pr_7_Gnevny.B1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PBUT201_D3_TORP_STOCK.costCR changed in second object (was 0, is 21000)
+root.PBUT703_D8_TORP_STOCK.costCR changed in second object (was 0, is 800000)
+root.PASC209_Seattle.A_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PASC209_Seattle.B_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PRSC108_Pr_68_Chapaev.ShipUpgradeInfo.PRUH721_CHAPAEV_A.disabledAbilities[0] removed in second object
+root.PRSC108_Pr_68_Chapaev.ShipUpgradeInfo.PRUH721_CHAPAEV_A.disabledAbilities[1] removed in second object
+root.PBUS104_D2_SUO_TOP.costXP changed in second object (was 0, is 250)
+root.PBUS104_D2_SUO_TOP.costCR changed in second object (was 0, is 16000)
+root.PRPA082_305MM_AP_STALINGRAD.bulletAlwaysRicochetAt changed in second object (was 67.5, is 60.0)
+root.PRPA082_305MM_AP_STALINGRAD.bulletRicochetAt changed in second object (was 60.0, is 45.0)
+root.PASB001_Michigan_1916.A1_Artillery.sigmaCount changed in second object (was 1.8, is 1.9)
+root.PASB001_Michigan_1916.B1_Artillery.sigmaCount changed in second object (was 1.8, is 1.9)
+root.PBUS803_D9_SUO_STOCK.costCR changed in second object (was 0, is 900000)
+root.PJPA071_410MM_AP_ASHITAKA.bulletAirDrag changed in second object (was 0.41, is 0.355)
+root.PJPA071_410MM_AP_ASHITAKA.bulletSpeed changed in second object (was 790.0, is 806.0)
+root.PJPA071_410MM_AP_ASHITAKA.alphaDamage changed in second object (was 12400.0, is 12600.0)
+root.PJPA071_410MM_AP_ASHITAKA.bulletKrupp changed in second object (was 2200.0, is 2711.0)
+root.PJPA071_410MM_AP_ASHITAKA.bulletMass changed in second object (was 1000.0, is 1020.0)
+root.PBUS202_D3_SUO_STOCK.costCR changed in second object (was 0, is 20500)
+root.PBUT605_D7_TORP_STOCK.costCR changed in second object (was 0, is 430000)
+root.PRGM118_305mm_61_SM31.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRGM118_305mm_61_SM31.shotDelay changed in second object (was 18.5, is 20.0)
+root.PRGM118_305mm_61_SM31.idealRadius changed in second object (was 12.0, is 10.0)
+root.PRGM118_305mm_61_SM31.minRadius changed in second object (was 2.0, is 1.6)
+root.PRGM118_305mm_61_SM31.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PFSB109_Alsace.AB1_Artillery.sigmaCount changed in second object (was 1.7, is 1.6)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 30.0, is 32.0)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 30.0, is 32.0)
+root.PFSB109_Alsace.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 30.0, is 32.0)
+root.PBUH404_D5_HULL_A.costCR changed in second object (was 0, is 160000)
+root.PRSD104_Izyaslav.ArtilleryDefault.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD104_Izyaslav.ArtilleryDefault.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD104_Izyaslav.ArtilleryDefault.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD104_Izyaslav.ArtilleryDefault.HP_RGM_4.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD104_Izyaslav.ArtilleryDefault.HP_RGM_5.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PBSD102_Medea.ShipUpgradeInfo.costCR changed in second object (was 0, is 65000)
+root.PBSD102_Medea.ShipUpgradeInfo.costXP changed in second object (was 0, is 650)
+root.PBSD102_Medea.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSD102_Medea.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PBSD105_Acasta.ShipUpgradeInfo.costXP changed in second object (was 0, is 11500)
+root.PBSD105_Acasta.ShipUpgradeInfo.costCR changed in second object (was 0, is 1350000)
+root.PBSD105_Acasta.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSD105_Acasta.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PBUE302_D4_ENG_STOCK.costCR changed in second object (was 0, is 43000)
+root.PFSC810_Henri_IV.ShipUpgradeInfo.costXP changed in second object (was 238000, is 0)
+root.PFSC810_Henri_IV.ShipUpgradeInfo.costCR changed in second object (was 19500000, is 0)
+root.PFSC810_Henri_IV.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PFSC810_Henri_IV.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PRSC520_Stalingrad.A1_Artillery.sigmaCount changed in second object (was 2.25, is 2.05)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.idealRadius changed in second object (was 12.0, is 10.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.minRadius changed in second object (was 2.0, is 1.6)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.idealRadius changed in second object (was 12.0, is 10.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.minRadius changed in second object (was 2.0, is 1.6)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.HitLocationArtillery.maxHP changed in second object (was 15000.0, is 20000.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.idealRadius changed in second object (was 12.0, is 10.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.minRadius changed in second object (was 2.0, is 1.6)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 4.5, is 5.0)
+root.PRSC520_Stalingrad.isPaperShip changed in second object (was False, is True)
+root.PZPA004_127_AP_LO_YANG.bulletDetonator changed in second object (was 0.03, is 0.01)
+root.PJSB918_Yamato_1944.A_Artillery.HP_JGM_1.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PJSB918_Yamato_1944.A_Artillery.HP_JGM_2.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PJSB918_Yamato_1944.A_Artillery.HP_JGM_3.rotationSpeed[0] changed in second object (was 2.5, is 3.0)
+root.PBUH303_D4_HULL_A.costCR changed in second object (was 0, is 65000)
+root.PBSD103_Valkyrie.ShipUpgradeInfo.costXP changed in second object (was 0, is 2150)
+root.PBSD103_Valkyrie.ShipUpgradeInfo.costCR changed in second object (was 0, is 255000)
+root.PBSD103_Valkyrie.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSD103_Valkyrie.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PASC108_Baltimore_1944.AB1_Artillery.sigmaCount changed in second object (was 2.05, is 2.0)
+root.PBUH203_D3_HULL_B.costXP changed in second object (was 0, is 1000)
+root.PBUH203_D3_HULL_B.costCR changed in second object (was 0, is 96000)
+root.PBSD104_Wakeful.ShipUpgradeInfo.costXP changed in second object (was 0, is 6000)
+root.PBSD104_Wakeful.ShipUpgradeInfo.costCR changed in second object (was 0, is 725000)
+root.PBSD104_Wakeful.ShipAbilities.AbilitySlot2.abils[0] removed in second object
+root.PBSD104_Wakeful.ShipAbilities.AbilitySlot2.abils[1] removed in second object
+root.PJPA064_100MM_HE_C_TYPE_98_MG.alphaPiercingHE changed in second object (was 17.0, is 25.0)
+root.PBUA302_D4_ART_STOCK.costCR changed in second object (was 0, is 45000)
+root.PBUT101_D2_TORP_STOCK.costCR changed in second object (was 0, is 9500)
+root.PRSD505_Okhotnik_1917.group changed in second object (was premium, is special)
+root.PRSD505_Okhotnik_1917.groupCustom.CN removed in second object
+root.PRSD505_Okhotnik_1917.groupCustom.PT removed in second object
+root.PJSB008_Ishizuchi_1921.group changed in second object (was premium, is special)
+root.PJSB008_Ishizuchi_1921.groupCustom.PT removed in second object
+root.PJSB008_Ishizuchi_1921.groupCustom.CN removed in first object
+root.PJSB507_Ashitaka.groupCustom.EU removed in first object
+root.PJSB507_Ashitaka.groupCustom.NA removed in first object
+root.PJSB507_Ashitaka.groupCustom.RU removed in first object
+root.PJSB507_Ashitaka.groupCustom.ASIA removed in first object
+root.PJSB507_Ashitaka.groupCustom.ST removed in first object
+root.PBUE503_D6_ENG_STOCK.costCR changed in second object (was 0, is 150000)
+root.PBGM086_4_7in_50QF_MKXI.shotDelay changed in second object (was 6.0, is 5.0)
+root.PBUS404_D5_SUO_STOCK.costCR changed in second object (was 0, is 110000)
+root.PBUA904_D10_ART_STOCK.costCR changed in second object (was 0, is 2000000)
+root.PBUS103_D2_SUO_STOCK.costCR changed in second object (was 0, is 4500)
+root.PJSB003_Myogi_1912.AB1_356_45.sigmaCount changed in second object (was 1.8, is 2.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_1.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_1.rotationSpeed[0] changed in second object (was 3.0, is 4.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_2.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_2.rotationSpeed[0] changed in second object (was 3.0, is 4.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_3.shotDelay changed in second object (was 33.0, is 30.0)
+root.PJSB003_Myogi_1912.AB1_356_45.HP_JGM_3.rotationSpeed[0] changed in second object (was 3.0, is 4.0)
+root.PJSB003_Myogi_1912.C1_356_45.sigmaCount changed in second object (was 1.8, is 2.0)
+root.PBUS703_D8_SUO_STOCK.costCR changed in second object (was 0, is 400000)
+root.PBUS704_D8_SUO_TOP.costXP changed in second object (was 0, is 25000)
+root.PBUS704_D8_SUO_TOP.costCR changed in second object (was 0, is 1550000)
+root.PGSD506_T_61.ShipUpgradeInfo.costGold changed in second object (was 4900, is 5400)
+root.PASC710_Salem.group changed in second object (was demoWithoutStats, is specialUnsellable)
+root.PBUT303_D4_TORP_STOCK.costCR changed in second object (was 0, is 88000)
+root.PBUS304_D4_SUO_TOP.costXP changed in second object (was 0, is 1400)
+root.PBUS304_D4_SUO_TOP.costCR changed in second object (was 0, is 165000)
+root.PBUH503_D6_HULL_A.costCR changed in second object (was 0, is 380000)
+root.PRSD206_Pr_7.A1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.A1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.A1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.A1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.B1_Artillery.HP_RGM_2.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.B1_Artillery.HP_RGM_3.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.B1_Artillery.HP_RGM_1.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PRSD206_Pr_7.B1_Artillery.HP_RGM_4.rotationSpeed[0] changed in second object (was 6.0, is 9.7)
+root.PBUH804_D9_HULL_B.costXP changed in second object (was 0, is 55000)
+root.PBUH804_D9_HULL_B.costCR changed in second object (was 0, is 3400000)
+root.PJGM100_410mm50_RF.rotationSpeed[0] changed in second object (was 4.0, is 4.5)
+root.PBUH504_D6_HULL_B.costXP changed in second object (was 0, is 11500)
+root.PBUH504_D6_HULL_B.costCR changed in second object (was 0, is 840000)
+root.PZSD506_Anshan.groupCustom.RU removed in first object
+root.PZSD506_Anshan.groupCustom.NA removed in first object
+root.PZSD506_Anshan.groupCustom.ASIA removed in first object
+root.PZSD506_Anshan.groupCustom.ST removed in first object
+root.PZSD506_Anshan.groupCustom.EU removed in first object
+root.PCM036_SpeedBooster_Mod_I.excludes[9] removed in first object
+root.PCM036_SpeedBooster_Mod_I.excludes[10] removed in first object
+root.PCM036_SpeedBooster_Mod_I.excludes[11] removed in first object
+root.PCM036_SpeedBooster_Mod_I.excludes[12] removed in first object
+root.PCM036_SpeedBooster_Mod_I.excludes[13] removed in first object
+root.PBUS604_D7_SUO_STOCK.costCR changed in second object (was 0, is 350000)
+root.PBSD517_Cossack.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.31, is 2.48)
+root.PBSD517_Cossack.A_Hull.visibilityFactor changed in second object (was 6.49, is 6.97)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_2.horizSector[0] changed in second object (was -156.0, is 0.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_2.horizSector[1] changed in second object (was 156.0, is 0.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_2.deadZone[0] removed in first object
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_1.horizSector[0] changed in second object (was -115.0, is -144.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_1.horizSector[1] changed in second object (was 115.0, is 144.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_1.pitchDeadZones[0] removed in first object
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_4.horizSector[0] changed in second object (was -119.0, is -137.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_4.horizSector[1] changed in second object (was 119.0, is 137.0)
+root.PBSD517_Cossack.A1_Artillery.HP_BGM_4.pitchDeadZones[0] removed in first object
+root.PRSD102_SM_Storojevoy.ArtilleryDefault.HP_RGM_2.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD102_SM_Storojevoy.ArtilleryDefault.HP_RGM_3.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PRSD102_SM_Storojevoy.ArtilleryDefault.HP_RGM_1.rotationSpeed[0] changed in second object (was 8.0, is 9.7)
+root.PBUE903_D10_ENG_STOCK.costCR changed in second object (was 0, is 1800000)
+root.PBUS303_D4_SUO_STOCK.costCR changed in second object (was 0, is 38000)
+root.PGGM063_280mm_SK_L45_LC_1906.shotDelay changed in second object (was 22.2, is 26.0)
+root.PRSC001_Avrora_1917.groupCustom.RU removed in first object
+root.PRSC001_Avrora_1917.groupCustom.NA removed in first object
+root.PRSC001_Avrora_1917.groupCustom.ASIA removed in first object
+root.PRSC001_Avrora_1917.groupCustom.ST removed in first object
+root.PRSC001_Avrora_1917.groupCustom.EU removed in first object
+root.PBUH903_D10_HULL_A.costCR changed in second object (was 0, is 2350000)
+root.PASC109_Buffalo.AB1_Artillery.sigmaCount changed in second object (was 2.0, is 2.05)
+root.PBUA702_D8_ART_STOCK.costCR changed in second object (was 0, is 650000)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_3.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_6.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_5.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_4.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_2.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.AB1_Artillery.HP_GGM_1.shotDelay changed in second object (was 22.2, is 26.0)
+root.PGSB103_Nassau.ShipAbilities.AbilitySlot1.abils[0][1] changed in second object (was B_Deutsche, is C)
+root.PGSB103_Nassau.ShipAbilities.AbilitySlot1.abils[1][1] changed in second object (was B_Deutsche_gold, is C_Gold)
+root.PBUA202_D3_ART_STOCK.costCR changed in second object (was 0, is 25000)
+root.PFSB508_Gascogne.groupCustom.EU removed in first object
+root.PFSB508_Gascogne.groupCustom.NA removed in first object
+root.PFSB508_Gascogne.groupCustom.RU removed in first object
+root.PFSB508_Gascogne.groupCustom.ASIA removed in first object
+root.PFSB508_Gascogne.groupCustom.ST removed in first object
+root.PBUE803_D9_ENG_STOCK.costCR changed in second object (was 0, is 1100000)
+root.PGSB507_Scharnhorst.group changed in second object (was premium, is special)
+root.PGSB507_Scharnhorst.groupCustom.PT removed in second object
+root.PGSB507_Scharnhorst.groupCustom.RU removed in first object
+root.PGSB507_Scharnhorst.groupCustom.CN removed in first object
+root.PGSB507_Scharnhorst.groupCustom.NA removed in first object
+root.PGSB507_Scharnhorst.groupCustom.ASIA removed in first object
+root.PGSB507_Scharnhorst.groupCustom.ST removed in first object
+root.PGSB507_Scharnhorst.groupCustom.EU removed in first object
+root.PJSD219_Kitakaze.B_Hull.maxSpeed changed in second object (was 33.0, is 36.0)
+root.PJSD219_Kitakaze.A_Hull.maxSpeed changed in second object (was 33.0, is 36.0)
+root.PBUT803_D9_TORP_STOCK.costCR changed in second object (was 0, is 1300000)
+root.PJSD108_Akizuki.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.39, is 2.48)
+root.PJSD108_Akizuki.B_Hull.rudderTime changed in second object (was 6.06, is 7.27)
+root.PJSD108_Akizuki.B_Hull.visibilityFactor changed in second object (was 7.56, is 7.76)
+root.PJSD108_Akizuki.A_Hull.visibilityCoefGKInSmoke changed in second object (was 2.39, is 2.48)
+root.PJSD108_Akizuki.A_Hull.visibilityFactor changed in second object (was 7.56, is 7.76)
+root.PJSD108_Akizuki.A_Hull.rudderTime changed in second object (was 8.48, is 10.18)
+root.PBSD109_Jutland.ShipUpgradeInfo.costCR changed in second object (was 0, is 13250000)
+root.PBSD109_Jutland.ShipUpgradeInfo.costXP changed in second object (was 0, is 165000)
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[0][0] changed in second object (was PCY007_SpeedBooster, is PCY008_SonarSearch)
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[0][1] changed in second object (was Default, is UKDD_9)
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[1][0] changed in second object (was PCY015_SpeedBoosterPremium, is PCY016_SonarSearchPremium)
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[1][1] changed in second object (was Default, is UKDD_9_Premium)
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[2] removed in second object
+root.PBSD109_Jutland.ShipAbilities.AbilitySlot2.abils[3] removed in second object
+root.PJSB506_Mutsu.group changed in second object (was premium, is special)
+root.PJSB506_Mutsu.groupCustom.CN removed in second object
+root.PJSB506_Mutsu.groupCustom.PT removed in second object
+root.PJSB021_Izumo_1938.B_Hull_1942.armor.65623 changed in second object (was 32.0, is 57.0)
+root.PJSB021_Izumo_1938.B_Hull_1942.visibilityCoefGKInSmoke changed in second object (was 19.21, is 16.8)
+root.PJSB021_Izumo_1938.B_Hull_1942.visibilityFactor changed in second object (was 19.26, is 17.19)
+root.PJSB021_Izumo_1938.C_Hull_1945.armor.65623 changed in second object (was 32.0, is 57.0)
+root.PJSB021_Izumo_1938.C_Hull_1945.visibilityCoefGKInSmoke changed in second object (was 19.21, is 16.8)
+root.PJSB021_Izumo_1938.C_Hull_1945.visibilityFactor changed in second object (was 19.26, is 17.19)
+root.PJSB021_Izumo_1938.A_Hull_1938.armor.65623 changed in second object (was 32.0, is 57.0)
+root.PJSB021_Izumo_1938.A_Hull_1938.visibilityCoefGKInSmoke changed in second object (was 19.21, is 16.8)
+root.PJSB021_Izumo_1938.A_Hull_1938.visibilityFactor changed in second object (was 19.26, is 17.19)
+root.PBPT006_533_MKVII.maxDist changed in second object (was 200.0, is 234.0)
+root.PASC006_Atlanta_1942.group changed in second object (was premium, is special)
+root.PASC006_Atlanta_1942.groupCustom.PT removed in second object
+root.PASC006_Atlanta_1942.groupCustom.RU removed in first object
+root.PASC006_Atlanta_1942.groupCustom.CN removed in first object
+root.PASC006_Atlanta_1942.groupCustom.NA removed in first object
+root.PASC006_Atlanta_1942.groupCustom.ASIA removed in first object
+root.PASC006_Atlanta_1942.groupCustom.ST removed in first object
+root.PASC006_Atlanta_1942.groupCustom.EU removed in first object
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_3.shotDelay changed in second object (was 12.0, is 13.0)
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_1.shotDelay changed in second object (was 12.0, is 13.0)
+root.PFSC105_Emile_Bertin.A1_Artillery.HP_FGM_2.shotDelay changed in second object (was 12.0, is 13.0)
+root.PFSC105_Emile_Bertin.AB1_Torpedoes.HP_FGT_2.shotDelay changed in second object (was 90.0, is 84.0)
+root.PFSC105_Emile_Bertin.AB1_Torpedoes.HP_FGT_2.ammoList[0] changed in second object (was PFPT003_550_23DT, is PFPT002_550_19D)
+root.PFSC105_Emile_Bertin.AB1_Torpedoes.HP_FGT_1.shotDelay changed in second object (was 90.0, is 84.0)
+root.PFSC105_Emile_Bertin.AB1_Torpedoes.HP_FGT_1.ammoList[0] changed in second object (was PFPT003_550_23DT, is PFPT002_550_19D)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_3.shotDelay changed in second object (was 12.0, is 13.0)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_1.shotDelay changed in second object (was 12.0, is 13.0)
+root.PFSC105_Emile_Bertin.B1_Artillery.HP_FGM_2.shotDelay changed in second object (was 12.0, is 13.0)
+root.PBUS405_D5_SUO_TOP.costXP changed in second object (was 0, is 2300)
+root.PBUS405_D5_SUO_TOP.costCR changed in second object (was 0, is 210000)
+root.PRUA814_D9_ART_TOP_4 removed in first object
+root.PCEC061_Camo_Gamescom_2018 removed in first object
+>> finished comparing
