@@ -1,0 +1,18 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCOI014_GrindRibbonsDef.successEvents[0].count changed in second object (was 6, is 3)
+root.PCOI013_GrindRibbons.successEvents[0].count changed in second object (was 60, is 50)
+root.PRSD910_Grozovoy_pr_40N.group changed in second object (was preserved, is clan)
+root.PCOI010_ShootDownAttackPlanes.successEvents[0].count changed in second object (was 12, is 8)
+root.PCOI017_GrindRibbonsATBA.successEvents[0].count changed in second object (was 25, is 15)
+root.PASB917_Montana_1945.group changed in second object (was preserved, is clan)
+root.PGSC910_Hindenburg.group changed in second object (was preserved, is clan)
+root.PJSB918_Yamato_1944.group changed in second object (was preserved, is clan)
+root.PJSC934_Zao_1944.group changed in second object (was preserved, is clan)
+root.PJSD912_Shimakaze_1943.B_Hull.visibilityCoefGKInSmoke changed in second object (was 2.83, is 2.65)
+root.PJSD912_Shimakaze_1943.B_Hull.visibilityFactor changed in second object (was 7.56, is 7.11)
+root.PJSD912_Shimakaze_1943.group changed in second object (was preserved, is clan)
+root.PCOI009_ShootDownFighters.successEvents[0].count changed in second object (was 12, is 8)
+root.PCOI012_GrindConsumables.successEvents[0].count changed in second object (was 6, is 5)
+>> finished comparing
