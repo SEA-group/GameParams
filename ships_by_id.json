@@ -844,6 +844,19 @@
         "zh_cn": "\u65af\u5927\u6797\u683c\u52d2", 
         "zh_tw": "\u65af\u5927\u6797\u683c\u52d2\u865f"
     }, 
+    "3760109552": {
+        "en": "IDS_PASC510", 
+        "id": 3760109552, 
+        "index": "PASC510", 
+        "ja_jp": "IDS_PASC510", 
+        "level": 9, 
+        "name": "PASC510_Alaska", 
+        "nation": "USA", 
+        "ru": "IDS_PASC510", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC510", 
+        "zh_tw": "IDS_PASC510"
+    }, 
     "3761157584": {
         "en": "Kronshtadt", 
         "id": 3761157584, 
@@ -908,6 +921,19 @@
         "species": "Destroyer", 
         "zh_cn": "Z-39", 
         "zh_tw": "Z-39"
+    }, 
+    "3762173776": {
+        "en": "IDS_PFSD508", 
+        "id": 3762173776, 
+        "index": "PFSD508", 
+        "ja_jp": "IDS_PFSD508", 
+        "level": 8, 
+        "name": "PFSD508_Le_Terrible", 
+        "nation": "France", 
+        "ru": "IDS_PFSD508", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PFSD508", 
+        "zh_tw": "IDS_PFSD508"
     }, 
     "3762173936": {
         "en": "Kidd", 

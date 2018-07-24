@@ -1,0 +1,657 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PJW006_Kirishima.CrewPersonality.costXP removed in first object
+root.PJW006_Kirishima.CrewPersonality.costCR removed in first object
+root.PJW006_Kirishima.CrewPersonality.costGold removed in first object
+root.PJW006_Kirishima.CrewPersonality.costELXP removed in first object
+root.PXW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PXW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PXW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PXW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PXW110_Spaceman3.CrewPersonality.costXP removed in first object
+root.PXW110_Spaceman3.CrewPersonality.costCR removed in first object
+root.PXW110_Spaceman3.CrewPersonality.costGold removed in first object
+root.PXW110_Spaceman3.CrewPersonality.costELXP removed in first object
+root.PCM038_Spotter_Mod_I.ships[24] removed in first object
+root.PAW111_Kappa.CrewPersonality.costXP removed in first object
+root.PAW111_Kappa.CrewPersonality.costCR removed in first object
+root.PAW111_Kappa.CrewPersonality.costGold removed in first object
+root.PAW111_Kappa.CrewPersonality.costELXP removed in first object
+root.PJW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PJW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PJW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PJW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PRPA188_305MM_AP_STALINGRAD_2.bulletAlwaysRicochetAt changed in second object (was 60.0, is 67.5)
+root.PRPA188_305MM_AP_STALINGRAD_2.bulletDetonator changed in second object (was 0.033, is 0.022)
+root.PRPA188_305MM_AP_STALINGRAD_2.bulletRicochetAt changed in second object (was 45.0, is 60.0)
+root.PRPA188_305MM_AP_STALINGRAD_2.bulletDetonatorThreshold changed in second object (was 51.0, is 34.0)
+root.PBW301_Azur_Belfast.CrewPersonality.costXP removed in first object
+root.PBW301_Azur_Belfast.CrewPersonality.costCR removed in first object
+root.PBW301_Azur_Belfast.CrewPersonality.costGold removed in first object
+root.PBW301_Azur_Belfast.CrewPersonality.costELXP removed in first object
+root.PCEC017_Camo_wows_birthday_tile.costGold changed in second object (was 50, is 55)
+root.PCEC017_Camo_wows_birthday_tile.freeExpFactor changed in second object (was 1.0, is 2.0)
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_3.armor.131169 changed in second object (was 100.0, is 25.0)
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_3.armor.327777 removed in first object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_3.armor.262241 removed in first object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_4.armor.196705 changed in second object (was 100.0, is 25.0)
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_4.armor.327777 removed in first object
+root.PJSC012_Ibuki_1944.ArtilleryDefault.HP_JGM_4.armor.262241 removed in first object
+root.PCM041_SonarSearch_Mod_I.ships[84] removed in first object
+root.PXW108_Spaceman1.CrewPersonality.costXP removed in first object
+root.PXW108_Spaceman1.CrewPersonality.costCR removed in first object
+root.PXW108_Spaceman1.CrewPersonality.costGold removed in first object
+root.PXW108_Spaceman1.CrewPersonality.costELXP removed in first object
+root.PJW013_Kirishima_Bear.CrewPersonality.costXP removed in first object
+root.PJW013_Kirishima_Bear.CrewPersonality.costCR removed in first object
+root.PJW013_Kirishima_Bear.CrewPersonality.costGold removed in first object
+root.PJW013_Kirishima_Bear.CrewPersonality.costELXP removed in first object
+root.PBES317_Hood_Clean.canBuy changed in second object (was False, is True)
+root.PBES317_Hood_Clean.costGold changed in second object (was 4000, is 750)
+root.PBES317_Hood_Clean.hidden changed in second object (was True, is False)
+root.PJW204_Kouko_Nosa.CrewPersonality.costXP removed in first object
+root.PJW204_Kouko_Nosa.CrewPersonality.costCR removed in first object
+root.PJW204_Kouko_Nosa.CrewPersonality.costGold removed in first object
+root.PJW204_Kouko_Nosa.CrewPersonality.costELXP removed in first object
+root.PCW001_CrewCommon.CrewPersonality.costXP removed in first object
+root.PCW001_CrewCommon.CrewPersonality.costCR removed in first object
+root.PCW001_CrewCommon.CrewPersonality.costGold removed in first object
+root.PCW001_CrewCommon.CrewPersonality.costELXP removed in first object
+root.PUW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PUW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PUW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PUW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PBSD108_Lightning.B_Torpedoes.HP_BGT_2.miscFilter[0] changed in second object (was MP_BM358_Cabin_for_BGT076, is MP_BM509_Liferaft_type_20_10ft)
+root.PBSD108_Lightning.B_Torpedoes.HP_BGT_2.miscFilter[1] removed in second object
+root.PBSD108_Lightning.B_Torpedoes.HP_BGT_1.miscFilter[0] changed in second object (was MP_BM358_Cabin_for_BGT076, is MP_BM509_Liferaft_type_20_10ft)
+root.PBSD108_Lightning.B_Torpedoes.HP_BGT_1.miscFilter[1] removed in second object
+root.PBSD108_Lightning.B_Hull.customMiscs.battle removed in first object
+root.PBSD108_Lightning.B_Hull.customMiscs.dock removed in first object
+root.PRW301_Azur_Aurora.CrewPersonality.costXP removed in first object
+root.PRW301_Azur_Aurora.CrewPersonality.costCR removed in first object
+root.PRW301_Azur_Aurora.CrewPersonality.costGold removed in first object
+root.PRW301_Azur_Aurora.CrewPersonality.costELXP removed in first object
+root.PJW102_Southern_dragon_king.CrewPersonality.costXP removed in first object
+root.PJW102_Southern_dragon_king.CrewPersonality.costCR removed in first object
+root.PJW102_Southern_dragon_king.CrewPersonality.costGold removed in first object
+root.PJW102_Southern_dragon_king.CrewPersonality.costELXP removed in first object
+root.PRW002_MayCap.CrewPersonality.costXP removed in first object
+root.PRW002_MayCap.CrewPersonality.costCR removed in first object
+root.PRW002_MayCap.CrewPersonality.costGold removed in first object
+root.PRW002_MayCap.CrewPersonality.costELXP removed in first object
+root.PXW114_Spaceman7.CrewPersonality.costXP removed in first object
+root.PXW114_Spaceman7.CrewPersonality.costCR removed in first object
+root.PXW114_Spaceman7.CrewPersonality.costGold removed in first object
+root.PXW114_Spaceman7.CrewPersonality.costELXP removed in first object
+root.PZW104_Narong_Duanta.CrewPersonality.costXP removed in first object
+root.PZW104_Narong_Duanta.CrewPersonality.costCR removed in first object
+root.PZW104_Narong_Duanta.CrewPersonality.costGold removed in first object
+root.PZW104_Narong_Duanta.CrewPersonality.costELXP removed in first object
+root.PXW107_Lazar_Kent.CrewPersonality.costXP removed in first object
+root.PXW107_Lazar_Kent.CrewPersonality.costCR removed in first object
+root.PXW107_Lazar_Kent.CrewPersonality.costGold removed in first object
+root.PXW107_Lazar_Kent.CrewPersonality.costELXP removed in first object
+root.PXW113_Spaceman6.CrewPersonality.costXP removed in first object
+root.PXW113_Spaceman6.CrewPersonality.costCR removed in first object
+root.PXW113_Spaceman6.CrewPersonality.costGold removed in first object
+root.PXW113_Spaceman6.CrewPersonality.costELXP removed in first object
+root.PCM042_RLSSearch_Mod_I.ships[20] removed in first object
+root.PGSB002_Tirpiz_1942.permoflages[5] removed in first object
+root.PGSB002_Tirpiz_1942.permoflages[6] removed in first object
+root.PBES327_Duke_of_York_Ice.canBuy changed in second object (was False, is True)
+root.PBES327_Duke_of_York_Ice.costGold changed in second object (was 4000, is 1500)
+root.PBES327_Duke_of_York_Ice.hidden changed in second object (was True, is False)
+root.PRW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PRW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PRW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PRW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PXW103_Mr_Hide.CrewPersonality.costXP removed in first object
+root.PXW103_Mr_Hide.CrewPersonality.costCR removed in first object
+root.PXW103_Mr_Hide.CrewPersonality.costGold removed in first object
+root.PXW103_Mr_Hide.CrewPersonality.costELXP removed in first object
+root.PJSC038_Atago_1944.permoflages[2] removed in first object
+root.PJSC038_Atago_1944.permoflages[3] removed in first object
+root.PJSC038_Atago_1944.permoflages[4] removed in first object
+root.PJW101_Eastern_dragon_king.CrewPersonality.costXP removed in first object
+root.PJW101_Eastern_dragon_king.CrewPersonality.costCR removed in first object
+root.PJW101_Eastern_dragon_king.CrewPersonality.costGold removed in first object
+root.PJW101_Eastern_dragon_king.CrewPersonality.costELXP removed in first object
+root.PBW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PBW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PBW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PBW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PJW008_Myoko.CrewPersonality.costXP removed in first object
+root.PJW008_Myoko.CrewPersonality.costCR removed in first object
+root.PJW008_Myoko.CrewPersonality.costGold removed in first object
+root.PJW008_Myoko.CrewPersonality.costELXP removed in first object
+root.PFGM061_138_6_mm_50_Mle_1929 removed in second object
+root.PXW105_Sairus_Gerrero.CrewPersonality.costXP removed in first object
+root.PXW105_Sairus_Gerrero.CrewPersonality.costCR removed in first object
+root.PXW105_Sairus_Gerrero.CrewPersonality.costGold removed in first object
+root.PXW105_Sairus_Gerrero.CrewPersonality.costELXP removed in first object
+root.PRW003_RusCap.CrewPersonality.costXP removed in first object
+root.PRW003_RusCap.CrewPersonality.costCR removed in first object
+root.PRW003_RusCap.CrewPersonality.costGold removed in first object
+root.PRW003_RusCap.CrewPersonality.costELXP removed in first object
+root.PBEP307_Hood_Permo_2.canBuy changed in second object (was False, is True)
+root.PBEP307_Hood_Permo_2.canBuyCustom.ASIA removed in second object
+root.PBEP307_Hood_Permo_2.costGold changed in second object (was 2000, is 750)
+root.PBEP307_Hood_Permo_2.hidden changed in second object (was True, is False)
+root.PBEP307_Hood_Permo_2.hiddenCustom.ASIA removed in second object
+root.PBEP307_Hood_Permo_2.canCharge changed in second object (was True, is False)
+root.PGES338_Tirpiz_1942_H2017.canBuy changed in second object (was False, is True)
+root.PGES338_Tirpiz_1942_H2017.costGold changed in second object (was 5000, is 1500)
+root.PGES338_Tirpiz_1942_H2017.hidden changed in second object (was True, is False)
+root.PJW005_Kongou.CrewPersonality.costXP removed in first object
+root.PJW005_Kongou.CrewPersonality.costCR removed in first object
+root.PJW005_Kongou.CrewPersonality.costGold removed in first object
+root.PJW005_Kongou.CrewPersonality.costELXP removed in first object
+root.PRSC510_Stalingrad.A_Hull.Cit.regeneratedHPPart changed in second object (was 0.1, is 0.33)
+root.PJW203_Moeka_China.CrewPersonality.costXP removed in first object
+root.PJW203_Moeka_China.CrewPersonality.costCR removed in first object
+root.PJW203_Moeka_China.CrewPersonality.costGold removed in first object
+root.PJW203_Moeka_China.CrewPersonality.costELXP removed in first object
+root.PJW205_Mei_Irizaki.CrewPersonality.costXP removed in first object
+root.PJW205_Mei_Irizaki.CrewPersonality.costCR removed in first object
+root.PJW205_Mei_Irizaki.CrewPersonality.costGold removed in first object
+root.PJW205_Mei_Irizaki.CrewPersonality.costELXP removed in first object
+root.PCOW012_Night_Logic.audio.effect changed in second object (was Storm, is Default)
+root.PAW103_UsaCap.CrewPersonality.costXP removed in first object
+root.PAW103_UsaCap.CrewPersonality.costCR removed in first object
+root.PAW103_UsaCap.CrewPersonality.costGold removed in first object
+root.PAW103_UsaCap.CrewPersonality.costELXP removed in first object
+root.PZW102_Tao_Ji.CrewPersonality.costXP removed in first object
+root.PZW102_Tao_Ji.CrewPersonality.costCR removed in first object
+root.PZW102_Tao_Ji.CrewPersonality.costGold removed in first object
+root.PZW102_Tao_Ji.CrewPersonality.costELXP removed in first object
+root.PGW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PGW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PGW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PGW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PBSC108_Edinburgh.permoflages[1] removed in first object
+root.PJW014_Ashigara.CrewPersonality.costXP removed in first object
+root.PJW014_Ashigara.CrewPersonality.costCR removed in first object
+root.PJW014_Ashigara.CrewPersonality.costGold removed in first object
+root.PJW014_Ashigara.CrewPersonality.costELXP removed in first object
+root.PJW015_Takao.CrewPersonality.costXP removed in first object
+root.PJW015_Takao.CrewPersonality.costCR removed in first object
+root.PJW015_Takao.CrewPersonality.costGold removed in first object
+root.PJW015_Takao.CrewPersonality.costELXP removed in first object
+root.PFW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PFW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PFW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PFW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PJW009_Unknown.CrewPersonality.costXP removed in first object
+root.PJW009_Unknown.CrewPersonality.costCR removed in first object
+root.PJW009_Unknown.CrewPersonality.costGold removed in first object
+root.PJW009_Unknown.CrewPersonality.costELXP removed in first object
+root.PAW302_Azur_Enterprise.CrewPersonality.costXP removed in first object
+root.PAW302_Azur_Enterprise.CrewPersonality.costCR removed in first object
+root.PAW302_Azur_Enterprise.CrewPersonality.costGold removed in first object
+root.PAW302_Azur_Enterprise.CrewPersonality.costELXP removed in first object
+root.PAW301_Azur_Cleveland.CrewPersonality.costXP removed in first object
+root.PAW301_Azur_Cleveland.CrewPersonality.costCR removed in first object
+root.PAW301_Azur_Cleveland.CrewPersonality.costGold removed in first object
+root.PAW301_Azur_Cleveland.CrewPersonality.costELXP removed in first object
+root.PCEC011_Camo_Basketball_Tile_3.costCR changed in second object (was 22500, is -1)
+root.PCEC011_Camo_Basketball_Tile_3.costGold changed in second object (was -1, is 85)
+root.PCEC011_Camo_Basketball_Tile_3.creditsFactor changed in second object (was 1.0, is 1.25)
+root.PCEC011_Camo_Basketball_Tile_3.expFactor changed in second object (was 1.0, is 2.25)
+root.PCEC010_Camo_Basketball_Tile_2.costCR changed in second object (was 22500, is -1)
+root.PCEC010_Camo_Basketball_Tile_2.crewExpFactor changed in second object (was 1.0, is 2.0)
+root.PCEC010_Camo_Basketball_Tile_2.costGold changed in second object (was -1, is 85)
+root.PCEC010_Camo_Basketball_Tile_2.freeExpFactor changed in second object (was 1.0, is 2.0)
+root.PCEC010_Camo_Basketball_Tile_2.expFactor changed in second object (was 1.0, is 2.25)
+root.PXW109_Spaceman2.CrewPersonality.costXP removed in first object
+root.PXW109_Spaceman2.CrewPersonality.costCR removed in first object
+root.PXW109_Spaceman2.CrewPersonality.costGold removed in first object
+root.PXW109_Spaceman2.CrewPersonality.costELXP removed in first object
+root.PJW017_ARP_Nachi.CrewPersonality.costXP removed in first object
+root.PJW017_ARP_Nachi.CrewPersonality.costCR removed in first object
+root.PJW017_ARP_Nachi.CrewPersonality.costGold removed in first object
+root.PJW017_ARP_Nachi.CrewPersonality.costELXP removed in first object
+root.PCM040_AirDefenseDisp_Mod_I.ships[53] removed in first object
+root.PIW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PIW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PIW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PIW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PGW102_GerCapPrem.CrewPersonality.costXP removed in first object
+root.PGW102_GerCapPrem.CrewPersonality.costCR removed in first object
+root.PGW102_GerCapPrem.CrewPersonality.costGold removed in first object
+root.PGW102_GerCapPrem.CrewPersonality.costELXP removed in first object
+root.PZW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PZW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PZW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PZW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PXW101_Dr_Van_Helsind.CrewPersonality.costXP removed in first object
+root.PXW101_Dr_Van_Helsind.CrewPersonality.costCR removed in first object
+root.PXW101_Dr_Van_Helsind.CrewPersonality.costGold removed in first object
+root.PXW101_Dr_Van_Helsind.CrewPersonality.costELXP removed in first object
+root.PBSB517_Nelson.permoflages[1] removed in first object
+root.PASC207_Helena.permoflages[2] removed in first object
+root.PXW116_Spaceman9.CrewPersonality.costXP removed in first object
+root.PXW116_Spaceman9.CrewPersonality.costCR removed in first object
+root.PXW116_Spaceman9.CrewPersonality.costGold removed in first object
+root.PXW116_Spaceman9.CrewPersonality.costELXP removed in first object
+root.PFES328_Gascogne_Repub.canBuy changed in second object (was False, is True)
+root.PFES328_Gascogne_Repub.costGold changed in second object (was 5000, is 1500)
+root.PFES328_Gascogne_Repub.hidden changed in second object (was True, is False)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_1.armor.196705 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_1.armor.262241 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_1.armor.131169 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_2.armor.327777 removed in first object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_2.armor.262241 removed in first object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_3.armor.196705 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_3.armor.327777 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_3.armor.262241 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_3.armor.131169 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_4.armor.131169 changed in second object (was 0.0, is 25.0)
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_4.armor.327777 removed in first object
+root.PJSC018_Tone.ArtilleryDefault.HP_JGM_4.armor.262241 removed in first object
+root.PZW101_Wonyong_Ryu.CrewPersonality.costXP removed in first object
+root.PZW101_Wonyong_Ryu.CrewPersonality.costCR removed in first object
+root.PZW101_Wonyong_Ryu.CrewPersonality.costGold removed in first object
+root.PZW101_Wonyong_Ryu.CrewPersonality.costELXP removed in first object
+root.PJW201_Isoroku_cat.CrewPersonality.costXP removed in first object
+root.PJW201_Isoroku_cat.CrewPersonality.costCR removed in first object
+root.PJW201_Isoroku_cat.CrewPersonality.costGold removed in first object
+root.PJW201_Isoroku_cat.CrewPersonality.costELXP removed in first object
+root.PCM014_Torpedo_Mod_III.excludes[21] removed in first object
+root.PXW112_Spaceman5.CrewPersonality.costXP removed in first object
+root.PXW112_Spaceman5.CrewPersonality.costCR removed in first object
+root.PXW112_Spaceman5.CrewPersonality.costGold removed in first object
+root.PXW112_Spaceman5.CrewPersonality.costELXP removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E_dead.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3_dead.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.id changed in second object (was 4268353232, is 4144621264)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.index changed in second object (was PJGM025, is PJGM143)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.armor.196705 changed in second object (was 100.0, is 0.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.armor.327777 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.armor.262241 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.armor.131169 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.armor.196707 removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.name changed in second object (was PJGM025_203mm50_Type_E, is PJGM143_203_50_Type_E3)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_1.model changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E_dead.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3_dead.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.id changed in second object (was 4268353232, is 4144621264)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.index changed in second object (was PJGM025, is PJGM143)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.armor.196705 changed in second object (was 100.0, is 0.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.armor.327777 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.armor.262241 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.armor.131169 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.armor.196707 removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.name changed in second object (was PJGM025_203mm50_Type_E, is PJGM143_203_50_Type_E3)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_2.model changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.HitLocationArtillery.armorCoeff changed in second object (was 0.5, is 0.6)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM024_203mm50_Type_E_RF/JGM024_203mm50_Type_E_RF_dead.model, is content/gameplay/japan/gun/main/JGM062_203mm50_Type_E_RF8/JGM062_203mm50_Type_E_RF8_dead.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.id changed in second object (was 4269401808, is 4229555920)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.index changed in second object (was PJGM024, is PJGM062)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.armor.131169 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.armor.327777 removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.miscFilter[0] changed in second object (was MP_JM118_Coaming_Stay_2, is MP_JM118_Coaming_Stay_2_INDEX_1)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.miscFilter[1] changed in second object (was MP_JM292_Coaming_Stay_2, is MP_JM292_Coaming_Stay_2_INDEX_1)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.name changed in second object (was PJGM024_203mm50_Type_E_RF, is PJGM062_203mm50_Type_E_RF8)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_3.model changed in second object (was content/gameplay/japan/gun/main/JGM024_203mm50_Type_E_RF/JGM024_203mm50_Type_E_RF.model, is content/gameplay/japan/gun/main/JGM062_203mm50_Type_E_RF8/JGM062_203mm50_Type_E_RF8.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.HitLocationArtillery.armorCoeff changed in second object (was 0.5, is 0.6)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM024_203mm50_Type_E_RF/JGM024_203mm50_Type_E_RF_dead.model, is content/gameplay/japan/gun/main/JGM062_203mm50_Type_E_RF8/JGM062_203mm50_Type_E_RF8_dead.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.id changed in second object (was 4269401808, is 4229555920)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.index changed in second object (was PJGM024, is PJGM062)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.armor.196705 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.armor.327777 removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.miscFilter[0] changed in second object (was MP_JM118_Coaming_Stay_2_INDEX_1, is MP_JM118_Coaming_Stay_2)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.miscFilter[1] changed in second object (was MP_JM292_Coaming_Stay_2_INDEX_1, is MP_JM292_Coaming_Stay_2)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.name changed in second object (was PJGM024_203mm50_Type_E_RF, is PJGM062_203mm50_Type_E_RF8)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_4.model changed in second object (was content/gameplay/japan/gun/main/JGM024_203mm50_Type_E_RF/JGM024_203mm50_Type_E_RF.model, is content/gameplay/japan/gun/main/JGM062_203mm50_Type_E_RF8/JGM062_203mm50_Type_E_RF8.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.deadMesh changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E_dead.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3_dead.model)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.id changed in second object (was 4268353232, is 4144621264)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.index changed in second object (was PJGM025, is PJGM143)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.armor.196705 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.armor.327777 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.armor.262241 removed in second object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.armor.131169 changed in second object (was 25.0, is 100.0)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.armor.196707 removed in first object
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.name changed in second object (was PJGM025_203mm50_Type_E, is PJGM143_203_50_Type_E3)
+root.PJSC009_Mogami_1935.BC2_Artillery.HP_JGM_5.model changed in second object (was content/gameplay/japan/gun/main/JGM025_203mm50_Type_E/JGM025_203mm50_Type_E.model, is content/gameplay/japan/gun/main/JGM143_203_50_Type_E3/JGM143_203_50_Type_E3.model)
+root.PAW102_Halsey.CrewPersonality.costXP removed in first object
+root.PAW102_Halsey.CrewPersonality.costCR removed in first object
+root.PAW102_Halsey.CrewPersonality.costGold removed in first object
+root.PAW102_Halsey.CrewPersonality.costELXP removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_3.miscFilter[3] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_3.miscFilter[4] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_3.miscFilter[5] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_2.miscFilter[3] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_2.miscFilter[4] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_2.miscFilter[5] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_1.miscFilter[3] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_1.miscFilter[4] removed in first object
+root.PGSD110_Z_52.A1_Artillery.HP_GGM_1.miscFilter[5] removed in first object
+root.PGSC108_Hipper.permoflages[1] removed in first object
+root.PCEC009_Camo_Basketball_Tile_1.costCR changed in second object (was 22500, is -1)
+root.PCEC009_Camo_Basketball_Tile_1.costGold changed in second object (was -1, is 85)
+root.PCEC009_Camo_Basketball_Tile_1.expFactor changed in second object (was 1.0, is 2.5)
+root.PJW012_Haguro.CrewPersonality.costXP removed in first object
+root.PJW012_Haguro.CrewPersonality.costCR removed in first object
+root.PJW012_Haguro.CrewPersonality.costGold removed in first object
+root.PJW012_Haguro.CrewPersonality.costELXP removed in first object
+root.PFW102_France_Cap_Prem.CrewPersonality.costXP removed in first object
+root.PFW102_France_Cap_Prem.CrewPersonality.costCR removed in first object
+root.PFW102_France_Cap_Prem.CrewPersonality.costGold removed in first object
+root.PFW102_France_Cap_Prem.CrewPersonality.costELXP removed in first object
+root.PBW303_Azur_Nelson.CrewPersonality.costXP removed in first object
+root.PBW303_Azur_Nelson.CrewPersonality.costCR removed in first object
+root.PBW303_Azur_Nelson.CrewPersonality.costGold removed in first object
+root.PBW303_Azur_Nelson.CrewPersonality.costELXP removed in first object
+root.PJW016_Gunzou.CrewPersonality.costXP removed in first object
+root.PJW016_Gunzou.CrewPersonality.costCR removed in first object
+root.PJW016_Gunzou.CrewPersonality.costGold removed in first object
+root.PJW016_Gunzou.CrewPersonality.costELXP removed in first object
+root.PXW106_Klaus_Teslau.CrewPersonality.costXP removed in first object
+root.PXW106_Klaus_Teslau.CrewPersonality.costCR removed in first object
+root.PXW106_Klaus_Teslau.CrewPersonality.costGold removed in first object
+root.PXW106_Klaus_Teslau.CrewPersonality.costELXP removed in first object
+root.PJW206_Maron_Yanagiwara.CrewPersonality.costXP removed in first object
+root.PJW206_Maron_Yanagiwara.CrewPersonality.costCR removed in first object
+root.PJW206_Maron_Yanagiwara.CrewPersonality.costGold removed in first object
+root.PJW206_Maron_Yanagiwara.CrewPersonality.costELXP removed in first object
+root.PJW010_Hiei.CrewPersonality.costXP removed in first object
+root.PJW010_Hiei.CrewPersonality.costCR removed in first object
+root.PJW010_Hiei.CrewPersonality.costGold removed in first object
+root.PJW010_Hiei.CrewPersonality.costELXP removed in first object
+root.PXW115_Spaceman8.CrewPersonality.costXP removed in first object
+root.PXW115_Spaceman8.CrewPersonality.costCR removed in first object
+root.PXW115_Spaceman8.CrewPersonality.costGold removed in first object
+root.PXW115_Spaceman8.CrewPersonality.costELXP removed in first object
+root.PVW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PVW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PVW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PVW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PBW701_PVE.CrewPersonality.costXP removed in first object
+root.PBW701_PVE.CrewPersonality.costCR removed in first object
+root.PBW701_PVE.CrewPersonality.costGold removed in first object
+root.PBW701_PVE.CrewPersonality.costELXP removed in first object
+root.PRSC520_Stalingrad.A_Hull.rudderTime changed in second object (was 19.6, is 16.3)
+root.PRSC520_Stalingrad.A_Hull.Cit.regeneratedHPPart changed in second object (was 0.1, is 0.33)
+root.PRSC520_Stalingrad.A1_Artillery.sigmaCount changed in second object (was 2.05, is 2.25)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.ammoList[0] changed in second object (was PRPA088_305MM_HE_STALINGRAD, is PRPA188_305MM_AP_STALINGRAD_2)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.ammoList[1] removed in second object
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.idealRadius changed in second object (was 10.0, is 12.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_2.minRadius changed in second object (was 1.6, is 2.2)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.ammoList[0] changed in second object (was PRPA088_305MM_HE_STALINGRAD, is PRPA188_305MM_AP_STALINGRAD_2)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.ammoList[1] removed in second object
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.idealRadius changed in second object (was 10.0, is 12.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_3.minRadius changed in second object (was 1.6, is 2.2)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.ammoList[0] changed in second object (was PRPA088_305MM_HE_STALINGRAD, is PRPA188_305MM_AP_STALINGRAD_2)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.ammoList[1] removed in second object
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.idealRadius changed in second object (was 10.0, is 12.0)
+root.PRSC520_Stalingrad.A1_Artillery.HP_RGM_1.minRadius changed in second object (was 1.6, is 2.2)
+root.PWW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PWW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PWW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PWW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PGW201_Thea.CrewPersonality.costXP removed in first object
+root.PGW201_Thea.CrewPersonality.costCR removed in first object
+root.PGW201_Thea.CrewPersonality.costGold removed in first object
+root.PGW201_Thea.CrewPersonality.costELXP removed in first object
+root.PAW101_Seagal.CrewPersonality.costXP removed in first object
+root.PAW101_Seagal.CrewPersonality.costCR removed in first object
+root.PAW101_Seagal.CrewPersonality.costGold removed in first object
+root.PAW101_Seagal.CrewPersonality.costELXP removed in first object
+root.PXW102_Dr_Frankenship.CrewPersonality.costXP removed in first object
+root.PXW102_Dr_Frankenship.CrewPersonality.costCR removed in first object
+root.PXW102_Dr_Frankenship.CrewPersonality.costGold removed in first object
+root.PXW102_Dr_Frankenship.CrewPersonality.costELXP removed in first object
+root.PXW111_Spaceman4.CrewPersonality.costXP removed in first object
+root.PXW111_Spaceman4.CrewPersonality.costCR removed in first object
+root.PXW111_Spaceman4.CrewPersonality.costGold removed in first object
+root.PXW111_Spaceman4.CrewPersonality.costELXP removed in first object
+root.PGES307_Scharnhorst_Ice.canBuy changed in second object (was False, is True)
+root.PGES307_Scharnhorst_Ice.costGold changed in second object (was 4000, is 1500)
+root.PGES307_Scharnhorst_Ice.hidden changed in second object (was True, is False)
+root.PGW101_GerCap.CrewPersonality.costXP removed in first object
+root.PGW101_GerCap.CrewPersonality.costCR removed in first object
+root.PGW101_GerCap.CrewPersonality.costGold removed in first object
+root.PGW101_GerCap.CrewPersonality.costELXP removed in first object
+root.PZW103_Adi_Guntur.CrewPersonality.costXP removed in first object
+root.PZW103_Adi_Guntur.CrewPersonality.costCR removed in first object
+root.PZW103_Adi_Guntur.CrewPersonality.costGold removed in first object
+root.PZW103_Adi_Guntur.CrewPersonality.costELXP removed in first object
+root.PGSD108_Z_23.permoflages[2] removed in first object
+root.PGSD108_Z_23.A_Hull.model changed in second object (was content/gameplay/germany/ship/destroyer/GSD007_Z23_1940/GSD007_Z23_1940.model, is content/gameplay/germany/ship/destroyer/GSD011_Z23_1945/GSD011_Z23_1945.model)
+root.PGSD108_Z_23.A_Hull.customMiscs.battle removed in first object
+root.PGSD108_Z_23.A_Hull.customMiscs.dock removed in first object
+root.PGSD108_Z_23.A_Hull.HP_GGA_9 removed in first object
+root.PGSD108_Z_23.A_Hull.HP_GRS_1 removed in first object
+root.PGSD108_Z_23.A_Hull.HP_GGA_10 removed in first object
+root.PGSD108_Z_23.B_Hull.customMiscs.battle removed in first object
+root.PGSD108_Z_23.B_Hull.customMiscs.dock removed in first object
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.index changed in second object (was PGGA050, is PGGA043)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.name changed in second object (was PGGA050_20mm_Flak_38, is PGGA043_37mm_Flak_M42_Zwilling)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.antiAirAuraDistance changed in second object (was 67.0, is 117.0)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.antiAirAuraStrength changed in second object (was 0.042, is 0.103)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.barrelDiameter changed in second object (was 0.02, is 0.037)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38_dead.model, is content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38.model, is content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_3.id changed in second object (was 4242532144, is 4249872176)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.index changed in second object (was PGGA050, is PGGA043)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.name changed in second object (was PGGA050_20mm_Flak_38, is PGGA043_37mm_Flak_M42_Zwilling)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.antiAirAuraDistance changed in second object (was 67.0, is 117.0)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.antiAirAuraStrength changed in second object (was 0.042, is 0.103)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.barrelDiameter changed in second object (was 0.02, is 0.037)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38_dead.model, is content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38.model, is content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_2.id changed in second object (was 4242532144, is 4249872176)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.index changed in second object (was PGGA043, is PGGA008)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.name changed in second object (was PGGA043_37mm_Flak_M42_Zwilling, is PGGA008_20mm_Flack_38_quad)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.antiAirAuraDistance changed in second object (was 117.0, is 67.0)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.antiAirAuraStrength changed in second object (was 0.103, is 0.06)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.numBarrels changed in second object (was 2, is 4)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.barrelDiameter changed in second object (was 0.037, is 0.02)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model, is content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model, is content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_7.id changed in second object (was 4249872176, is 4286572336)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.index changed in second object (was PGGA043, is PGGA008)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.name changed in second object (was PGGA043_37mm_Flak_M42_Zwilling, is PGGA008_20mm_Flack_38_quad)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.antiAirAuraDistance changed in second object (was 117.0, is 67.0)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.antiAirAuraStrength changed in second object (was 0.103, is 0.06)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.numBarrels changed in second object (was 2, is 4)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.barrelDiameter changed in second object (was 0.037, is 0.02)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling_dead.model, is content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA043_37mm_Flak_M42_Zwilling/GGA043_37mm_Flak_M42_Zwilling.model, is content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_6.id changed in second object (was 4249872176, is 4286572336)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.index changed in second object (was PGGA008, is PGGA050)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.name changed in second object (was PGGA008_20mm_Flack_38_quad, is PGGA050_20mm_Flak_38)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.antiAirAuraStrength changed in second object (was 0.06, is 0.042)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.numBarrels changed in second object (was 4, is 2)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad_dead.model, is content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad.model, is content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_10.id changed in second object (was 4286572336, is 4242532144)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.index changed in second object (was PGGA008, is PGGA050)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.name changed in second object (was PGGA008_20mm_Flack_38_quad, is PGGA050_20mm_Flak_38)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.antiAirAuraStrength changed in second object (was 0.06, is 0.042)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.numBarrels changed in second object (was 4, is 2)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.deadMesh changed in second object (was content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad_dead.model, is content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38_dead.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.model changed in second object (was content/gameplay/germany/gun/aaircraft/GGA008_20mm_Flack_38_quad/GGA008_20mm_Flack_38_quad.model, is content/gameplay/germany/gun/aaircraft/GGA050_20mm_Flak_38/GGA050_20mm_Flak_38.model)
+root.PGSD108_Z_23.B_AirDefense.HP_GGA_9.id changed in second object (was 4286572336, is 4242532144)
+root.PGSD108_Z_23.B_AirDefense.AuraMedium.guns[0] changed in second object (was HP_GGA_4, is HP_GGA_2)
+root.PGSD108_Z_23.B_AirDefense.AuraMedium.guns[1] changed in second object (was HP_GGA_5, is HP_GGA_3)
+root.PGSD108_Z_23.B_AirDefense.AuraMedium.guns[2] changed in second object (was HP_GGA_6, is HP_GGA_4)
+root.PGSD108_Z_23.B_AirDefense.AuraMedium.guns[3] changed in second object (was HP_GGA_7, is HP_GGA_5)
+root.PGSD108_Z_23.B_AirDefense.AuraNear.guns[1] changed in second object (was HP_GGA_2, is HP_GGA_6)
+root.PGSD108_Z_23.B_AirDefense.AuraNear.guns[2] changed in second object (was HP_GGA_3, is HP_GGA_7)
+root.PJW011_Iona.CrewPersonality.costXP removed in first object
+root.PJW011_Iona.CrewPersonality.costCR removed in first object
+root.PJW011_Iona.CrewPersonality.costGold removed in first object
+root.PJW011_Iona.CrewPersonality.costELXP removed in first object
+root.PXW104_Mina_Ura.CrewPersonality.costXP removed in first object
+root.PXW104_Mina_Ura.CrewPersonality.costCR removed in first object
+root.PXW104_Mina_Ura.CrewPersonality.costGold removed in first object
+root.PXW104_Mina_Ura.CrewPersonality.costELXP removed in first object
+root.PFW701_PVE.CrewPersonality.costXP removed in first object
+root.PFW701_PVE.CrewPersonality.costCR removed in first object
+root.PFW701_PVE.CrewPersonality.costGold removed in first object
+root.PFW701_PVE.CrewPersonality.costELXP removed in first object
+root.PBW302_Azur_Hood.CrewPersonality.costXP removed in first object
+root.PBW302_Azur_Hood.CrewPersonality.costCR removed in first object
+root.PBW302_Azur_Hood.CrewPersonality.costGold removed in first object
+root.PBW302_Azur_Hood.CrewPersonality.costELXP removed in first object
+root.PAW001_DefaultCrew.CrewPersonality.costXP removed in first object
+root.PAW001_DefaultCrew.CrewPersonality.costCR removed in first object
+root.PAW001_DefaultCrew.CrewPersonality.costGold removed in first object
+root.PAW001_DefaultCrew.CrewPersonality.costELXP removed in first object
+root.PBSB527_Duke_of_York.permoflages[2] removed in first object
+root.PBSB527_Duke_of_York.permoflages[3] removed in first object
+root.PASA508_Enterprise.permoflages[1] removed in first object
+root.PBW101_Dunk_Capn.CrewPersonality.costXP removed in first object
+root.PBW101_Dunk_Capn.CrewPersonality.costCR removed in first object
+root.PBW101_Dunk_Capn.CrewPersonality.costGold removed in first object
+root.PBW101_Dunk_Capn.CrewPersonality.costELXP removed in first object
+root.PJW007_Haruna.CrewPersonality.costXP removed in first object
+root.PJW007_Haruna.CrewPersonality.costCR removed in first object
+root.PJW007_Haruna.CrewPersonality.costGold removed in first object
+root.PJW007_Haruna.CrewPersonality.costELXP removed in first object
+root.PBES307_Hood_Veteran.canBuy changed in second object (was False, is True)
+root.PBES307_Hood_Veteran.costGold changed in second object (was 4000, is 1500)
+root.PBES307_Hood_Veteran.hidden changed in second object (was True, is False)
+root.PFW101_France_Cap.CrewPersonality.costXP removed in first object
+root.PFW101_France_Cap.CrewPersonality.costCR removed in first object
+root.PFW101_France_Cap.CrewPersonality.costGold removed in first object
+root.PFW101_France_Cap.CrewPersonality.costELXP removed in first object
+root.PJW202_Akeno.CrewPersonality.costXP removed in first object
+root.PJW202_Akeno.CrewPersonality.costCR removed in first object
+root.PJW202_Akeno.CrewPersonality.costGold removed in first object
+root.PJW202_Akeno.CrewPersonality.costELXP removed in first object
+root.PBSB507_Hood.permoflages[4] removed in first object
+root.PFSB508_Gascogne.permoflages[3] removed in first object
+root.PFES338_Gascogne_Royal.canBuy changed in second object (was False, is True)
+root.PFES338_Gascogne_Royal.costGold changed in second object (was 5000, is 1500)
+root.PFES338_Gascogne_Royal.hidden changed in second object (was True, is False)
+root.PJW018_Yamamoto.CrewPersonality.costXP removed in first object
+root.PJW018_Yamamoto.CrewPersonality.costCR removed in first object
+root.PJW018_Yamamoto.CrewPersonality.costGold removed in first object
+root.PJW018_Yamamoto.CrewPersonality.costELXP removed in first object
+root.PGSB507_Scharnhorst.permoflages[3] removed in first object
+root.PGSB507_Scharnhorst.permoflages[4] removed in first object
+root.PBW102_UKCap.CrewPersonality.costXP removed in first object
+root.PBW102_UKCap.CrewPersonality.costCR removed in first object
+root.PBW102_UKCap.CrewPersonality.costGold removed in first object
+root.PBW102_UKCap.CrewPersonality.costELXP removed in first object
+root.PASC208_Cleveland.permoflages[4] removed in first object
+root.PASC208_Cleveland.B_Directors.HP_AD_1.miscFilterMode changed in second object (was True, is False)
+root.PASC208_Cleveland.B_Directors.HP_AD_1.miscFilter[0] removed in first object
+root.PASC208_Cleveland.B_Directors.HP_AD_1.miscFilter[1] removed in first object
+root.PGW301_Azur_Hipper.CrewPersonality.costXP removed in first object
+root.PGW301_Azur_Hipper.CrewPersonality.costCR removed in first object
+root.PGW301_Azur_Hipper.CrewPersonality.costGold removed in first object
+root.PGW301_Azur_Hipper.CrewPersonality.costELXP removed in first object
+root.PCEF026_Scylla_Flag removed in first object
+root.PFUH715_TERRIBLE removed in first object
+root.PCZC226_HB18_Clan_battles_season_3 removed in first object
+root.PCEE206_Alaska_flag removed in first object
+root.PBEP348_Duke_of_York_Tropics removed in first object
+root.PCZC234_HB18_Alyona_Ermolaeva removed in first object
+root.PGES408_AZUR_HIPPER removed in first object
+root.PAUE971_ENG_ALASKA removed in first object
+root.PFUA713_ART_TERRIBLE removed in first object
+root.PFGM064_139MM_50_MLE1929 removed in first object
+root.PZW403_ZDasha removed in first object
+root.PCT188_RANK_Wyvern_5_STEEL_500 removed in first object
+root.PAES428_AZUR_CLEVELAND removed in first object
+root.PCZC236_HB18_Rank_Season removed in first object
+root.PRW403_RDasha removed in first object
+root.PCZC227_HB18_PA_destroyers removed in first object
+root.PGEP510_Scharnhorst_CN_forAll removed in first object
+root.PFUE714_ENG_TERRIBLE removed in first object
+root.PCT187_RANK_Ouroboros_5_STEEL_500 removed in first object
+root.PGW402_LilFish_OG removed in first object
+root.PCT174_RANK_ECO_PACK_10_STEEL_100 removed in first object
+root.PFSD508_Le_Terrible removed in first object
+root.PFW403_FDasha removed in first object
+root.PASC510_Alaska removed in first object
+root.PCT176_RANK_CAMO_15_STEEL_100 removed in first object
+root.PGES508_Z_23_BIRTHDAY removed in first object
+root.PJEP441_Atago_Tropics removed in first object
+root.PCZC230_HB18_Insignia removed in first object
+root.PAUH972_ALASKA removed in first object
+root.PBES337_AZUR_NELSON removed in first object
+root.PFPA051_139MM_AP_TERRIBLE_1924 removed in first object
+root.PCT189_RANK_50RANKCAMO_GOLD2500_FlagJR_Hydra_5_STEEL_1000_BRASS_1 removed in first object
+root.PAW402_Cybermedes removed in first object
+root.PCNB143 removed in first object
+root.PCNB141 removed in first object
+root.PCNB140 removed in first object
+root.PGW401_Pete_Earthling removed in first object
+root.PCT179_RANK_BATTLE_PACK_2_15_STEEL_200 removed in first object
+root.PCZC237_HB18_American_Arch removed in first object
+root.PAPA087_305MM_HE_ALASKA_MK17M1 removed in first object
+root.PCT175_RANK_BATTLE_PACK_3_10_STEEL_100 removed in first object
+root.PFUT710_TORP_TERRIBLE removed in first object
+root.PAGM177_12in50_Mk8_Triple removed in first object
+root.PCZC239_HB18_Happy_bday removed in first object
+root.PJEP442_Atago_CN_forAll removed in first object
+root.PCZC224_HB18_Clan_base removed in first object
+root.PGW403_GDasha removed in first object
+root.PFUS715_SUO_TERRIBLE removed in first object
+root.PCT180_RANK_ECO_PACK_15_STEEL_200 removed in first object
+root.PJEP440_Atago_Battle removed in first object
+root.PCT183_RANK_Hunt_10_STEEL_300 removed in first object
+root.PGEP307_Tirpiz_1942_CN_forAll removed in first object
+root.PFW401_Golden_Konung removed in first object
+root.PCT173_RANK_BATTLE_PACK_2_10_STEEL_100 removed in first object
+root.PFEP401_Gascogne_Battle removed in first object
+root.PAES118_AZUR_ENTERPRISE removed in first object
+root.PRW401_Red_Freedom removed in first object
+root.PCEE210_SeasonFlag10 removed in first object
+root.PCT172_RANK_BATTLE_PACK_1_10_STEEL_100 removed in first object
+root.PAES407_HELENA removed in first object
+root.PAPA088_305MM_AP_ALASKA_MK18M1 removed in first object
+root.PCT987_RANK_BATTLE_SEASON10_CommemorativeFlag removed in first object
+root.PAW403_ADasha removed in first object
+root.PGEP509_Scharnhorst_Z_23 removed in first object
+root.PCEF025_Basilisk_Flag removed in first object
+root.PCH191_FillAlbum_Birthday2018 removed in first object
+root.PCEE211_BD_2018 removed in first object
+root.PCT182_RANK_Commander_Day_10_STEEL_300 removed in first object
+root.PJW403_JDasha removed in first object
+root.PCT184_RANK_Victory_10_STEEL_300 removed in first object
+root.PGEP306_Tirpiz_Norway removed in first object
+root.PCT177_RANK_PA_1_STEEL_150 removed in first object
+root.PCZC233_HB18_Space_battle removed in first object
+root.PCT185_RANK_BDragon_5_STEEL_500 removed in first object
+root.PCNB132 removed in first object
+root.PCZA010_HappyBirthday2018 removed in first object
+root.PCT181_RANK_GOLD_250_STEEL_350 removed in first object
+root.PCEE209_Jolly_Roger_6 removed in first object
+root.PJW401_Queen_Bee removed in first object
+root.PBES408_EDINBURGH_FROST removed in first object
+root.PFD066_Torpedo_Director removed in first object
+root.PCT178_RANK_BATTLE_PACK_1_15_STEEL_200 removed in first object
+root.PCZC235_HB18_Warning_System removed in first object
+root.PCEE207_Le_Terrible_flag removed in first object
+root.PAUS972_SUO_ALASKA removed in first object
+root.PCZC229_HB18_Kitty_Purrfurst removed in first object
+root.PBW403_BDasha removed in first object
+root.PCZC228_HB18_Duke_of_York removed in first object
+root.PCEF027_Leviathan_Flag removed in first object
+root.PCZC231_HB18_Training_room removed in first object
+root.PJGM143_203_50_Type_E3 removed in first object
+root.PBES347_AZUR_HOOD removed in first object
+root.PCZC225_HB18_Halloween removed in first object
+root.PCT186_RANK_RDragon_5_STEEL_500 removed in first object
+root.PFPT008_550_TERRIBLE removed in first object
+root.PFGM061_138_6mm_50_Mle_1929 removed in first object
+root.PBW401_Dart_Norman removed in first object
+root.PBEP347_Duke_of_York_Mediterra removed in first object
+root.PAW401_Hzrzngh removed in first object
+root.PAUA976_ART_ALASKA removed in first object
+root.PFPA050_139MM_HE_TERRIBLE_1928 removed in first object
+root.PCZC238_HB18_Arsenal removed in first object
+root.PJW402_11010111101001 removed in first object
+root.PCZC232_HB18_French_arch removed in first object
+root.PCNB138 removed in first object
+root.PCNB139 removed in first object
+root.PCNB133 removed in first object
+root.PCNB136 removed in first object
+root.PCNB137 removed in first object
+root.PCNB134 removed in first object
+root.PCNB135 removed in first object
+>> finished comparing

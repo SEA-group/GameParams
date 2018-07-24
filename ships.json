@@ -701,6 +701,19 @@
         "zh_cn": "\u5370\u7b2c\u5b89\u7eb3\u6ce2\u8482\u65af", 
         "zh_tw": "\u5370\u7b2c\u5b89\u7d0d\u6ce2\u8482\u65af\u865f"
     }, 
+    "PASC510": {
+        "en": "IDS_PASC510", 
+        "id": 3760109552, 
+        "index": "PASC510", 
+        "ja_jp": "IDS_PASC510", 
+        "level": 9, 
+        "name": "PASC510_Alaska", 
+        "nation": "USA", 
+        "ru": "IDS_PASC510", 
+        "species": "Cruiser", 
+        "zh_cn": "IDS_PASC510", 
+        "zh_tw": "IDS_PASC510"
+    }, 
     "PASC597": {
         "en": "IDS_PASC597", 
         "id": 3668883440, 
@@ -1857,6 +1870,19 @@
         "species": "Destroyer", 
         "zh_cn": "\u9e70", 
         "zh_tw": "\u9df9\u865f"
+    }, 
+    "PFSD508": {
+        "en": "IDS_PFSD508", 
+        "id": 3762173776, 
+        "index": "PFSD508", 
+        "ja_jp": "IDS_PFSD508", 
+        "level": 8, 
+        "name": "PFSD508_Le_Terrible", 
+        "nation": "France", 
+        "ru": "IDS_PFSD508", 
+        "species": "Destroyer", 
+        "zh_cn": "IDS_PFSD508", 
+        "zh_tw": "IDS_PFSD508"
     }, 
     "PFSD605": {
         "en": "Cyclone", 
