@@ -1,0 +1,28 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PCY022_ArtilleryBoosterPremium.FR_CR_6_7_8_Gold removed in first object
+root.PFSC107_Algerie.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PFSC107_Algerie.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PFSD508_Le_Terrible.A1_Artillery.HP_FGM_4.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PFSD508_Le_Terrible.A1_Artillery.HP_FGM_5.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PFSD508_Le_Terrible.A1_Artillery.HP_FGM_3.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PFSD508_Le_Terrible.A1_Artillery.HP_FGM_1.vertSector[0] changed in second object (was -2.0, is 1.0)
+root.PFSD508_Le_Terrible.A1_Artillery.HP_FGM_2.vertSector[0] changed in second object (was -2.0, is 0.0)
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC108_Charles_Martel.B2_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC108_Charles_Martel.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PFSC108_Charles_Martel.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PFGM040_203_55mm_Mle_1931_Triple.shotDelay changed in second object (was 10.0, is 12.0)
+root.PCY021_ArtilleryBooster.FR_CR_6_7_8 removed in first object
+root.PFSC106_La_Galissonniere.ShipAbilities.AbilitySlot3.abils[0] removed in first object
+root.PFSC106_La_Galissonniere.ShipAbilities.AbilitySlot3.abils[1] removed in first object
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_3.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_1.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC109_Saint_Louis.AB1_Artillery.HP_FGM_2.shotDelay changed in second object (was 10.0, is 12.0)
+root.PFSC109_Saint_Louis.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PFSC109_Saint_Louis.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot4.abils[0] removed in first object
+root.PFSC110_Henri_IV.ShipAbilities.AbilitySlot4.abils[1] removed in first object
+>> finished comparing
