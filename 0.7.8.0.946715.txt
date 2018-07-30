@@ -1,0 +1,7 @@
+>> loading GameParams.old.txt (first object)
+>> loading GameParams.txt (second object)
+>> comparing pickles
+root.PASC510_Alaska.A_Hull.dockYOffset changed in second object (was 0.0, is -0.0762)
+root.PCH192_TopLeagueClanSeason_3 removed in first object
+root.PCH193_WinnerClanSeason_3 removed in first object
+>> finished comparing
